@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.email "github-actions@github.com"
           git config user.name "GitHub Actions"
-          git add output.json
+          git add inkunzi.json
           git commit -m "Auto-convert CSV to JSON"
           git push
