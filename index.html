@@ -59,14 +59,15 @@
 
     // Function to display nation details
     function displayNationDetails() {
-      const selectedNation = document.getElementById('nationDropdown').value;
-      const nationDetails = document.getElementById('nationDetails');
+	const selectedNation = document.getElementById('nationDropdown').value;
+	console.log(selectedNation);
+
 
       // Find the selected nation in the JSON data
       const selectedNationData = data.find(entry => entry.Nations === selectedNation);
 
       // Display the details in the HTML
-      nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
+      nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + Test + '</pre>';
     }
   </script>
 
