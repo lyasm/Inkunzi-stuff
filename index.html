@@ -14,12 +14,13 @@
 
 <body>
 
-	<label for="nationDropdown">Select a Nation:</label>
-	<input type="text" id="nationDropdown" oninput="filterNations()">
+  <label for="nationDropdown">Select a Nation:</label>
+    <input type="text" id="nationDropdown" oninput="filterNations()" list="nationList">
 
+  <datalist id="nationList"></datalist>
 
-	<label for="deepnessDropdown">How deep do you want to go:</label>
-	<select id="deepnessDropdown"></select>
+	<!-- <label for="deepnessDropdown">How deep do you want to go:</label> -->
+	<!-- <select id="deepnessDropdown"></select> -->
 
 	<div id="NationDetails"></div>
 
@@ -27,10 +28,18 @@
 	  let data;
 	  // Fetch the JSON data
 	  fetch('processed_sheets.json')
-    .then(response => response.json())
-    .then(jsonData => {
+	  .then(response => response.json())
+      .then(jsonData => {
         data = jsonData;
-     })
+
+        // Get the datalist and populate it with nation names
+        const nationList = document.getElementById('nationList');
+        data.forEach(entry => {
+          const option = document.createElement('option');
+          option.value = entry.Nations;
+          nationList.appendChild(option);
+        });
+      })
       .catch(error => console.error('Error loading JSON:', error));
 
     // Function to filter nations based on user input
@@ -38,30 +47,27 @@
       const input = document.getElementById('nationDropdown').value.toLowerCase();
       const filteredNations = data.filter(entry => entry.Nations.toLowerCase().includes(input));
 
-      // Display the details of the first matched nation
-      if (filteredNations.length > 0) {
-        const selectedNationData = filteredNations[0];
-        displayNationDetails(selectedNationData);
-      } else {
-        // Clear details if no matches found
-        displayNationDetails(null);
-      }
+      // Update the datalist with filtered nations
+      const nationList = document.getElementById('nationList');
+      nationList.innerHTML = '';
+      filteredNations.forEach(entry => {
+        const option = document.createElement('option');
+        option.value = entry.Nations;
+        nationList.appendChild(option);
+      });
     }
 
     // Function to display nation details
-    function displayNationDetails(selectedNationData) {
+    function displayNationDetails() {
+      const selectedNation = document.getElementById('nationDropdown').value;
       const nationDetails = document.getElementById('nationDetails');
 
-      // Clear previous details
-      nationDetails.innerHTML = '';
+      // Find the selected nation in the JSON data
+      const selectedNationData = data.find(entry => entry.Nations === selectedNation);
 
-      if (selectedNationData) {
-        // Display the details in the HTML
-        const detailsText = JSON.stringify(selectedNationData, null, 2);
-        nationDetails.innerHTML = '<pre>' + detailsText + '</pre>';
-      }
+      // Display the details in the HTML
+      nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
     }
-
   </script>
 
 
