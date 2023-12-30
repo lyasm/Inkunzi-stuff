@@ -5,47 +5,71 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Diplomacy Web</title>
+		<style>
+			#nationDropdown {
+				width: 300px;
+			}
+		</style>
 </head>
 
 <body>
 
 	<label for="nationDropdown">Select a Nation:</label>
-	<select id="nationDropdown"></select>
+	<input type="text" id="nationDropdown" oninput="filterNations()" list="nationList">
+
+	<datalist id="nationList"></datalist>
+
+
+	<label for="deepnessDropdown">How deep do you want to go:</label>
+	<select id="deepnessDropdown"></select>
 
 	<div id="selectedNationData"></div>
 
 	<script>
-		// Fetch the JSON data
-		fetch('processed_sheets.json')
-			.then(response => response.json())
-			.then(data => {
-				// Get the dropdown element
-				const dropdown = document.getElementById('nationDropdown');
+	  // Fetch the JSON data
+	  fetch('processed_sheets.json')
+    .then(response => response.json())
+    .then(jsonData => {
+        data = jsonData;
 
-				// Populate the dropdown with nation names
-				data.forEach(entry => {
-					const nationName = entry.Nations;
-					const option = document.createElement('option');
-					option.value = nationName;
-					option.textContent = nationName;
-					dropdown.appendChild(option);
-				});
-				// Add event listener to the dropdown
-				dropdown.addEventListener('change', function () {
-					// Get the selected nation
-					const selectedNation = this.value;
+        // Get the datalist and populate it with nation names
+        const nationList = document.getElementById('nationList');
+        data.forEach(entry => {
+          const option = document.createElement('option');
+          option.value = entry.Nations;
+          nationList.appendChild(option);
+        });
+      })
+      .catch(error => console.error('Error loading JSON:', error));
 
-					// Find the selected nation in the data array
-					const selectedNationData = data.find(entry => entry.Nations === selectedNation);
+    // Function to filter nations based on user input
+    function filterNations() {
+      const input = document.getElementById('nationDropdown').value.toLowerCase();
+      const filteredNations = data.filter(entry => entry.Nations.toLowerCase().includes(input));
 
-					// Display the data for the selected nation
-					const selectedNationDataDiv = document.getElementById('selectedNationData');
-					selectedNationDataDiv.innerHTML = JSON.stringify(selectedNationData, null, 2);
-				});
-			})
-						.catch(error => console.error('Error loading JSON:', error));
+      // Update the datalist with filtered nations
+      const nationList = document.getElementById('nationList');
+      nationList.innerHTML = '';
+      filteredNations.forEach(entry => {
+        const option = document.createElement('option');
+        option.value = entry.Nations;
+        nationList.appendChild(option);
+      });
+    }
 
-				</script>
+    // Function to display nation details
+    function displayNationDetails() {
+      const selectedNation = document.getElementById('nationDropdown').value;
+      const nationDetails = document.getElementById('nationDetails');
+
+      // Find the selected nation in the JSON data
+      const selectedNationData = data.find(entry => entry.Nations === selectedNation);
+
+      // Display the details in the HTML
+      nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
+    }
+  </script>
+
 
 </body>
 </html>
