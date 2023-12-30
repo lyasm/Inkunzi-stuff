@@ -26,6 +26,7 @@
 	<div id="NationDetails"></div>
 
 	<script>
+	  let data;
 	  // Fetch the JSON data
 	  fetch('processed_sheets.json')
     .then(response => response.json())
@@ -56,6 +57,11 @@
         nationList.appendChild(option);
       });
     }
+
+      if (filteredNations.length > 0) {
+        displayNationDetails(filteredNations[0]);
+      }
+	  }
 
     // Function to display nation details
     function displayNationDetails() {
