@@ -14340,12 +14340,12 @@
       "Trade 2 Value": "3,062.50"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Second State of Los",
+      "Trade 3 Value": "4,300.00"
     },
     "Trade 4": {
-      "Value": "The Second Temple",
-      "Trade 4 Value": "4,821.88"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "Tsûa Lâng",
@@ -14391,9 +14391,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "35,243.75",
+    "Raw Trade Income": "34,721.88",
     "Tariffs": "0.95",
-    "Trade Income": "33,481.56",
+    "Trade Income": "32,985.78",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -22804,11 +22804,11 @@
     "Nation Check": "The Second Temple",
     "Overlord": "",
     "Eco Vassals": "58,812.72",
-    "Eco Over.": "297,281.76",
+    "Eco Over.": "287,411.41",
     "Compare": "31.28%",
     "MP Vassals": "40,755.00",
     "MP Over.": "130,308.75",
-    "20% Total": "10.21%",
+    "20% Total": "10.35%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22832,8 +22832,8 @@
     "Military Alliances": "",
     "Limit": "6",
     "Trade 1": {
-      "Value": "Pólitonskóron",
-      "Trade 1 Value": "7,896.28"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
       "Value": "Nāšā Qaḏmāyā",
@@ -22891,13 +22891,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "23,076.91",
+    "Raw Trade Income": "15,180.63",
     "Tariffs": "1.25",
-    "Trade Income": "28,846.13",
+    "Trade Income": "18,975.78",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
-    "Trades": "5"
+    "Trades": "4"
   },
   {
     "Nations": "Dinasygan",
@@ -25240,8 +25240,8 @@
       "Trade 2 Value": "6,545.00"
     },
     "Trade 3": {
-      "Value": "Stryaxina",
-      "Trade 3 Value": "4,006.25"
+      "Value": "Pólitonskóron",
+      "Trade 3 Value": "7,896.28"
     },
     "Trade 4": {
       "Value": "Shiny Taking",
@@ -25291,9 +25291,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "25,067.50",
+    "Raw Trade Income": "28,957.53",
     "Tariffs": "0.95",
-    "Trade Income": "23,814.13",
+    "Trade Income": "27,509.65",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -25940,20 +25940,20 @@
       "Trade 2 Value": "5,950.00"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Stryaxina",
+      "Trade 3 Value": "4,006.25"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Second State of Los",
+      "Trade 4 Value": "4,300.00"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "The Aislings",
+      "Trade 5 Value": "6,998.75"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Shiny Taking",
+      "Trade 6 Value": "3,475.00"
     },
     "Trade 7": {
       "Value": "",
@@ -25991,13 +25991,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "13,846.28",
+    "Raw Trade Income": "32,626.28",
     "Tariffs": "0.95",
-    "Trade Income": "13,153.97",
+    "Trade Income": "30,994.97",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "2"
+    "Trades": "6"
   },
   {
     "Nations": "Kingdom of Kahtet",
@@ -33211,10 +33211,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "42.09%",
-    "Base": "42.09%",
-    "Comparison": "10.21%",
-    "Individual": "10.21%",
+    "L. Desire": "42.36%",
+    "Base": "42.36%",
+    "Comparison": "10.35%",
+    "Individual": "10.35%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
