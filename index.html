@@ -32,15 +32,7 @@
     .then(response => response.json())
     .then(jsonData => {
         data = jsonData;
-
-        // Get the datalist and populate it with nation names
-        const nationList = document.getElementById('nationList');
-        data.forEach(entry => {
-          const option = document.createElement('option');
-          option.value = entry.Nations;
-          nationList.appendChild(option);
-        });
-      })
+     })
       .catch(error => console.error('Error loading JSON:', error));
 
     // Function to filter nations based on user input
@@ -48,32 +40,30 @@
       const input = document.getElementById('nationDropdown').value.toLowerCase();
       const filteredNations = data.filter(entry => entry.Nations.toLowerCase().includes(input));
 
-      // Update the datalist with filtered nations
-      const nationList = document.getElementById('nationList');
-      nationList.innerHTML = '';
-      filteredNations.forEach(entry => {
-        const option = document.createElement('option');
-        option.value = entry.Nations;
-        nationList.appendChild(option);
-      });
-    }
-
+      // Display the details of the first matched nation
       if (filteredNations.length > 0) {
-        displayNationDetails(filteredNations[0]);
+        const selectedNationData = filteredNations[0];
+        displayNationDetails(selectedNationData);
+      } else {
+        // Clear details if no matches found
+        displayNationDetails(null);
       }
-	  }
+    }
 
     // Function to display nation details
-    function displayNationDetails() {
-      const selectedNation = document.getElementById('nationDropdown').value;
+    function displayNationDetails(selectedNationData) {
       const nationDetails = document.getElementById('nationDetails');
 
-      // Find the selected nation in the JSON data
-      const selectedNationData = data.find(entry => entry.Nations === selectedNation);
+      // Clear previous details
+      nationDetails.innerHTML = '';
 
-      // Display the details in the HTML
-      nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
+      if (selectedNationData) {
+        // Display the details in the HTML
+        const detailsText = JSON.stringify(selectedNationData, null, 2);
+        nationDetails.innerHTML = '<pre>' + detailsText + '</pre>';
+      }
     }
+
   </script>
 
 
