@@ -1,34 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nations Dropdown</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Diplomacy Web</title>
 </head>
+
 <body>
 
-  <label for="nationDropdown">Select a Nation:</label>
-  <select id="nationDropdown"></select>
+	<label for="nationDropdown">Select a Nation:</label>
+	<select id="nationDropdown"></select>
 
-  <script>
-    // Fetch the JSON data
-    fetch('processed_sheets.json')
-      .then(response => response.json())
-      .then(data => {
-        // Get the dropdown element
-        const dropdown = document.getElementById('nationDropdown');
+	<div id="nationDetails"></div>
 
-        // Populate the dropdown with nation names
-        data.forEach(entry => {
-          const nationName = entry.Nations;
-          const option = document.createElement('option');
-          option.value = nationName;
-          option.textContent = nationName;
-          dropdown.appendChild(option);
-        });
-      })
-      .catch(error => console.error('Error loading JSON:', error));
-  </script>
+	<script>
+		// Fetch the JSON data
+		fetch('processed_sheets.json')
+			.then(response => response.json())
+			.then(data => {
+				// Get the dropdown element
+				const dropdown = document.getElementById('nationDropdown');
+
+				// Populate the dropdown with nation names
+				data.forEach(entry => {
+					const nationName = entry.Nations;
+					const option = document.createElement('option');
+					option.value = nationName;
+					option.textContent = nationName;
+					dropdown.appendChild(option);
+				});
+			})
+			.catch(error => console.error('Error loading JSON:', error));
+
+		function displayNationDetails() {
+			const selectedNation = document.getElementById('nationDropdown').value;
+			const nationDetails = document.getElementById('nationDetails');
+			// Find the selected nation in the JSON data
+			const selectedNationData = data.find(entry => entry.Nations === selectedNation);
+
+			// Display the details in the HTML
+			nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
+		}
+	</script>
 
 </body>
 </html>
