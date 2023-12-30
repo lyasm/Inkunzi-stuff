@@ -12,7 +12,7 @@
 	<label for="nationDropdown">Select a Nation:</label>
 	<select id="nationDropdown"></select>
 
-	<div id="nationDetails"></div>
+	<div id="selectedNationData"></div>
 
 	<script>
 		// Fetch the JSON data
@@ -30,19 +30,22 @@
 					option.textContent = nationName;
 					dropdown.appendChild(option);
 				});
+				// Add event listener to the dropdown
+				dropdown.addEventListener('change', function () {
+					// Get the selected nation
+					const selectedNation = this.value;
+
+					// Find the selected nation in the data array
+					const selectedNationData = data.find(entry => entry.Nations === selectedNation);
+
+					// Display the data for the selected nation
+					const selectedNationDataDiv = document.getElementById('selectedNationData');
+					selectedNationDataDiv.innerHTML = JSON.stringify(selectedNationData, null, 2);
+				});
 			})
-			.catch(error => console.error('Error loading JSON:', error));
+						.catch(error => console.error('Error loading JSON:', error));
 
-		function displayNationDetails() {
-			const selectedNation = document.getElementById('nationDropdown').value;
-			const nationDetails = document.getElementById('nationDetails');
-			// Find the selected nation in the JSON data
-			const selectedNationData = data.find(entry => entry.Nations === selectedNation);
-
-			// Display the details in the HTML
-			nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
-		}
-	</script>
+				</script>
 
 </body>
 </html>
