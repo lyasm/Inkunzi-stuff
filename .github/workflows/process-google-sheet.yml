@@ -25,7 +25,7 @@ jobs:
 
     - name: cleanup files
       run: |
-        rm sheets_data.json processed_sheets.json
+        rm -f sheets_data.json processed_sheets.json
 
     - name: Fetch Google Sheets data
       run: |
