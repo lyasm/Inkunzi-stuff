@@ -5,72 +5,80 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Diplomacy Web</title>
-		<style>
-			#nationDropdown {
-				width: 300px;
-			}
-		</style>
+	<style>
+		#nationDropdown {
+			width: 300px;
+		}
+	</style>
 </head>
 
 <body>
 
-  <label for="nationDropdown">Select a Nation:</label>
-    <input type="text" id="nationDropdown" oninput="filterNations()" list="nationList">
+	<svg width="960" height="600"></svg>
+	<label for="nationDropdown">Select a Nation:</label>
+	<input type="text" id="nationDropdown" oninput="filterNations()" list="nationList">
 
-  <datalist id="nationList"></datalist>
+	<datalist id="nationList"></datalist>
 
 	<!-- <label for="deepnessDropdown">How deep do you want to go:</label> -->
 	<!-- <select id="deepnessDropdown"></select> -->
+	<!-- Load d3.js -->
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+
+	<!-- Create a div where the graph will take place -->
+	<div id="my_dataviz"></div>
 
 	<div id="NationDetails"></div>
 
 	<script>
-	  let data;
-	  // Fetch the JSON data
-	  fetch('processed_sheets.json')
-	  .then(response => response.json())
-      .then(jsonData => {
-        data = jsonData;
+		let data;
+		// Fetch the JSON data
+		fetch('processed_sheets.json')
+			.then(response => response.json())
+			.then(jsonData => {
+				data = jsonData;
 
-        // Get the datalist and populate it with nation names
-        const nationList = document.getElementById('nationList');
-        data.forEach(entry => {
-          const option = document.createElement('option');
-          option.value = entry.Nations;
-          nationList.appendChild(option);
-        });
-      })
-      .catch(error => console.error('Error loading JSON:', error));
+				// Get the datalist and populate it with nation names
+				const nationList = document.getElementById('nationList');
+				data.forEach(entry => {
+					const option = document.createElement('option');
+					option.value = entry.Nations;
+					nationList.appendChild(option);
+				});
+			})
+			.catch(error => console.error('Error loading JSON:', error));
 
-    // Function to filter nations based on user input
-    function filterNations() {
-      const input = document.getElementById('nationDropdown').value.toLowerCase();
-      const filteredNations = data.filter(entry => entry.Nations.toLowerCase().includes(input));
+		// Function to filter nations based on user input
+		function filterNations() {
+			const input = document.getElementById('nationDropdown').value.toLowerCase();
+			const filteredNations = data.filter(entry => entry.Nations.toLowerCase().includes(input));
 
-      // Update the datalist with filtered nations
-      const nationList = document.getElementById('nationList');
-      nationList.innerHTML = '';
-      filteredNations.forEach(entry => {
-        const option = document.createElement('option');
-        option.value = entry.Nations;
-        nationList.appendChild(option);
-      });
-    }
+			// Update the datalist with filtered nations
+			const nationList = document.getElementById('nationList');
+			nationList.innerHTML = '';
+			filteredNations.forEach(entry => {
+				const option = document.createElement('option');
+				option.value = entry.Nations;
+				nationList.appendChild(option);
+			});
+		}
 
-    // Function to display nation details
-    function displayNationDetails() {
-	const selectedNation = document.getElementById('nationDropdown').value;
-	console.log(selectedNation);
-      const nationDetails = document.getElementById('NationDetails');
+		// Function to display nation details
+		function displayNationDetails() {
+			const selectedNation = document.getElementById('nationDropdown').value;
+			console.log(selectedNation);
+			const nationDetails = document.getElementById('NationDetails');
 
-      // Find the selected nation in the JSON data
-      const selectedNationData = data.find(entry => entry.Nations === selectedNation);
-	console.log(selectedNationData);
-      // Display the details in the HTML
-      nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
-    }
-  </script>
+			// Find the selected nation in the JSON data
+			const selectedNationData = data.find(entry => entry.Nations === selectedNation);
+			console.log(selectedNationData);
+			// Display the details in the HTML
+			nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
+		}
+	
+	</script>
 
 
 </body>
+
 </html>
