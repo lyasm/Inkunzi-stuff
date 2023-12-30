@@ -1,1 +1,34 @@
-<h1>Hello World<h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nations Dropdown</title>
+</head>
+<body>
+
+  <label for="nationDropdown">Select a Nation:</label>
+  <select id="nationDropdown"></select>
+
+  <script>
+    // Fetch the JSON data
+    fetch('processed_sheets.json')
+      .then(response => response.json())
+      .then(data => {
+        // Get the dropdown element
+        const dropdown = document.getElementById('nationDropdown');
+
+        // Populate the dropdown with nation names
+        data.forEach(entry => {
+          const nationName = entry.Nations;
+          const option = document.createElement('option');
+          option.value = nationName;
+          option.textContent = nationName;
+          dropdown.appendChild(option);
+        });
+      })
+      .catch(error => console.error('Error loading JSON:', error));
+  </script>
+
+</body>
+</html>
