@@ -23,6 +23,10 @@ jobs:
     - name: Install dependencies
       run: pip install jq
 
+    - name: cleanup files
+      run: |
+	rm sheets_data.json processed_sheets.json
+
     - name: Fetch Google Sheets data
       run: |
         curl 'https://sheets.googleapis.com/v4/spreadsheets/1odptlMt5nRGqyfviszx2zGXZHBm2I1WoXtks0e51ESU/values/Diplomacy!A1%3ABT?key=${{ secrets.GOOGLE_SHEETS_API_KEY }}' \
