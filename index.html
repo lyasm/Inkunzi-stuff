@@ -65,7 +65,7 @@
 
       // Find the selected nation in the JSON data
       const selectedNationData = data.find(entry => entry.Nations === selectedNation);
-
+	console.log(selectedNationData);
       // Display the details in the HTML
       nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + Test + '</pre>';
     }
