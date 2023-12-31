@@ -88,8 +88,9 @@
 		    const selectedArmyData = armyData[selectedNationName];
 		    console.log(selectedArmyData);
 		    const powArmy = parseInt(selectedArmyData.Pow_Army.replace(/[^0-9]/g, ''), 10);
-			// Display the details in the HTML
-		    nationDetails.innerHTML = '<code>' + JSON.stringify(selectedNationData,  null, 2) + num.toString(powArmy) + '</code>';
+		    console.log(powArmy);
+		    // Display the details in the HTML
+		    nationDetails.innerHTML = '<code>' + JSON.stringify(selectedNationData,  null, 2) + powArmy + '</code>';
 		}
 
 	</script>
