@@ -1,5 +1,5 @@
-[
-  {
+{
+  "ADMIN NATION": {
     "Nations": "ADMIN NATION",
     "Nation Check": "ADMIN NATION",
     "Overlord": "",
@@ -100,7 +100,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Aethyllion Pradesh": {
     "Nations": "Aethyllion Pradesh",
     "Nation Check": "Aethyllion Pradesh",
     "Overlord": "Aethyrrajyam",
@@ -201,7 +201,7 @@
     "Mil. Pacts": "0",
     "Trades": "7"
   },
-  {
+  "Aethyrrajyam": {
     "Nations": "Aethyrrajyam",
     "Nation Check": "Aethyrrajyam",
     "Overlord": "",
@@ -302,7 +302,7 @@
     "Mil. Pacts": "2",
     "Trades": "8"
   },
-  {
+  "Agair": {
     "Nations": "Agair",
     "Nation Check": "Agair",
     "Overlord": "Gno’hdail Impireachd",
@@ -403,7 +403,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Alramia": {
     "Nations": "Alramia",
     "Nation Check": "Alramia",
     "Overlord": "Aethyrrajyam",
@@ -504,7 +504,7 @@
     "Mil. Pacts": "0",
     "Trades": "6"
   },
-  {
+  "Amaldim": {
     "Nations": "Amaldim",
     "Nation Check": "Amaldim",
     "Overlord": "Kycerian Dominion",
@@ -605,7 +605,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Annakpolis": {
     "Nations": "Annakpolis",
     "Nation Check": "Annakpolis",
     "Overlord": "",
@@ -706,7 +706,7 @@
     "Mil. Pacts": "1",
     "Trades": "2"
   },
-  {
+  "ARG o Jillu Uylor": {
     "Nations": "ARG o Jillu Uylor",
     "Nation Check": "ARG o Jillu Uylor",
     "Overlord": "Fellowship of the Crown",
@@ -807,7 +807,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Atlas'ii": {
     "Nations": "Atlas'ii",
     "Nation Check": "Atlas'ii",
     "Overlord": "",
@@ -908,7 +908,7 @@
     "Mil. Pacts": "1",
     "Trades": "3"
   },
-  {
+  "Azharid Caliphate": {
     "Nations": "Azharid Caliphate",
     "Nation Check": "Azharid Caliphate",
     "Overlord": "",
@@ -1009,7 +1009,7 @@
     "Mil. Pacts": "2",
     "Trades": "2"
   },
-  {
+  "Baitveal": {
     "Nations": "Baitveal",
     "Nation Check": "Baitveal",
     "Overlord": "",
@@ -1110,7 +1110,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Brotherhood of Pikpik": {
     "Nations": "Brotherhood of Pikpik",
     "Nation Check": "Brotherhood of Pikpik",
     "Overlord": "Atlas'ii",
@@ -1211,7 +1211,7 @@
     "Mil. Pacts": "0",
     "Trades": "6"
   },
-  {
+  "Cabyarszag": {
     "Nations": "Cabyarszag",
     "Nation Check": "Cabyarszag",
     "Overlord": "Fellowship of the Crown",
@@ -1312,7 +1312,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Candentis Jalin": {
     "Nations": "Candentis Jalin",
     "Nation Check": "Candentis Jalin",
     "Overlord": "",
@@ -1413,7 +1413,7 @@
     "Mil. Pacts": "1",
     "Trades": "7"
   },
-  {
+  "Caravan Republic of the Wonder-Oasis": {
     "Nations": "Caravan Republic of the Wonder-Oasis",
     "Nation Check": "Caravan Republic of the Wonder-Oasis",
     "Overlord": "Fellowship of the Crown",
@@ -1514,7 +1514,7 @@
     "Mil. Pacts": "0",
     "Trades": "9"
   },
-  {
+  "Carya": {
     "Nations": "Carya",
     "Nation Check": "Carya",
     "Overlord": "Onaokoku",
@@ -1615,7 +1615,7 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  {
+  "Clan Karatillion": {
     "Nations": "Clan Karatillion",
     "Nation Check": "Clan Karatillion",
     "Overlord": "Fellowship of the Crown",
@@ -1716,7 +1716,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "Clan Làidirsgith": {
     "Nations": "Clan Làidirsgith",
     "Nation Check": "Clan Làidirsgith",
     "Overlord": "",
@@ -1817,7 +1817,7 @@
     "Mil. Pacts": "2",
     "Trades": "11"
   },
-  {
+  "Clan Lepus": {
     "Nations": "Clan Lepus",
     "Nation Check": "Clan Lepus",
     "Overlord": "Fellowship of the Crown",
@@ -1918,7 +1918,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Council of Otvori": {
     "Nations": "Council of Otvori",
     "Nation Check": "Council of Otvori",
     "Overlord": "Atlas'ii",
@@ -2019,7 +2019,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Council of the Alonissos Isles": {
     "Nations": "Council of the Alonissos Isles",
     "Nation Check": "Council of the Alonissos Isles",
     "Overlord": "",
@@ -2120,7 +2120,7 @@
     "Mil. Pacts": "1",
     "Trades": "12"
   },
-  {
+  "Daemonic Inquisition": {
     "Nations": "Daemonic Inquisition",
     "Nation Check": "Daemonic Inquisition",
     "Overlord": "Fellowship of the Crown",
@@ -2221,7 +2221,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Daoquia": {
     "Nations": "Daoquia",
     "Nation Check": "Daoquia",
     "Overlord": "",
@@ -2322,7 +2322,7 @@
     "Mil. Pacts": "1",
     "Trades": "4"
   },
-  {
+  "Darzi Loyalists": {
     "Nations": "Darzi Loyalists",
     "Nation Check": "Darzi Loyalists",
     "Overlord": "Fellowship of the Crown",
@@ -2423,7 +2423,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Denirar": {
     "Nations": "Denirar",
     "Nation Check": "Denirar",
     "Overlord": "Fellowship of the Crown",
@@ -2524,7 +2524,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Emirate of Zira": {
     "Nations": "Emirate of Zira",
     "Nation Check": "Emirate of Zira",
     "Overlord": "",
@@ -2625,7 +2625,7 @@
     "Mil. Pacts": "1",
     "Trades": "0"
   },
-  {
+  "Extremely Radical Corta": {
     "Nations": "Extremely Radical Corta",
     "Nation Check": "Extremely Radical Corta",
     "Overlord": "",
@@ -2726,7 +2726,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "Federation of the Winds": {
     "Nations": "Federation of the Winds",
     "Nation Check": "Federation of the Winds",
     "Overlord": "",
@@ -2827,7 +2827,7 @@
     "Mil. Pacts": "2",
     "Trades": "11"
   },
-  {
+  "Followers of the Chosen": {
     "Nations": "Followers of the Chosen",
     "Nation Check": "Followers of the Chosen",
     "Overlord": "",
@@ -2928,7 +2928,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Four Leagues of Trinity": {
     "Nations": "Four Leagues of Trinity",
     "Nation Check": "Four Leagues of Trinity",
     "Overlord": "Restored Arisii Confederation",
@@ -3029,7 +3029,7 @@
     "Mil. Pacts": "0",
     "Trades": "2"
   },
-  {
+  "Free City of Fray Ventos": {
     "Nations": "Free City of Fray Ventos",
     "Nation Check": "Free City of Fray Ventos",
     "Overlord": "",
@@ -3130,7 +3130,7 @@
     "Mil. Pacts": "1",
     "Trades": "8"
   },
-  {
+  "Free City of Hered": {
     "Nations": "Free City of Hered",
     "Nation Check": "Free City of Hered",
     "Overlord": "",
@@ -3231,7 +3231,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Gerak": {
     "Nations": "Gerak",
     "Nation Check": "Gerak",
     "Overlord": "Here Be Dragons",
@@ -3332,7 +3332,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Gno’hdail Impireachd": {
     "Nations": "Gno’hdail Impireachd",
     "Nation Check": "Gno’hdail Impireachd",
     "Overlord": "",
@@ -3433,7 +3433,7 @@
     "Mil. Pacts": "2",
     "Trades": "5"
   },
-  {
+  "Gol": {
     "Nations": "Gol",
     "Nation Check": "Gol",
     "Overlord": "Extremely Radical Corta",
@@ -3534,7 +3534,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Gramantinia": {
     "Nations": "Gramantinia",
     "Nation Check": "Gramantinia",
     "Overlord": "",
@@ -3635,7 +3635,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Gran Prismatia": {
     "Nations": "Gran Prismatia",
     "Nation Check": "Gran Prismatia",
     "Overlord": "Kingdom of Geloía",
@@ -3736,7 +3736,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "Grand Tetalay": {
     "Nations": "Grand Tetalay",
     "Nation Check": "Grand Tetalay",
     "Overlord": "Netsanet Republic",
@@ -3837,7 +3837,7 @@
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  {
+  "Greater Stahlland": {
     "Nations": "Greater Stahlland",
     "Nation Check": "Greater Stahlland",
     "Overlord": "",
@@ -3938,7 +3938,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Here Be Dragons": {
     "Nations": "Here Be Dragons",
     "Nation Check": "Here Be Dragons",
     "Overlord": "",
@@ -4039,7 +4039,7 @@
     "Mil. Pacts": "2",
     "Trades": "12"
   },
-  {
+  "Iarthar Grove": {
     "Nations": "Iarthar Grove",
     "Nation Check": "Iarthar Grove",
     "Overlord": "",
@@ -4140,7 +4140,7 @@
     "Mil. Pacts": "2",
     "Trades": "0"
   },
-  {
+  "Ilikiu'Foriris": {
     "Nations": "Ilikiu'Foriris",
     "Nation Check": "Ilikiu'Foriris",
     "Overlord": "",
@@ -4241,7 +4241,7 @@
     "Mil. Pacts": "2",
     "Trades": "0"
   },
-  {
+  "Ilioratica": {
     "Nations": "Ilioratica",
     "Nation Check": "Ilioratica",
     "Overlord": "",
@@ -4342,7 +4342,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Ironskin Kingdom": {
     "Nations": "Ironskin Kingdom",
     "Nation Check": "Ironskin Kingdom",
     "Overlord": "",
@@ -4443,7 +4443,7 @@
     "Mil. Pacts": "1",
     "Trades": "0"
   },
-  {
+  "Ishmalkan Confederated Cities": {
     "Nations": "Ishmalkan Confederated Cities",
     "Nation Check": "Ishmalkan Confederated Cities",
     "Overlord": "Netsanet Republic",
@@ -4544,7 +4544,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "Jörðnar": {
     "Nations": "Jörðnar",
     "Nation Check": "Jörðnar",
     "Overlord": "",
@@ -4645,7 +4645,7 @@
     "Mil. Pacts": "2",
     "Trades": "0"
   },
-  {
+  "Karak Drung": {
     "Nations": "Karak Drung",
     "Nation Check": "Karak Drung",
     "Overlord": "Fellowship of the Crown",
@@ -4746,7 +4746,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Karak Gazan": {
     "Nations": "Karak Gazan",
     "Nation Check": "Karak Gazan",
     "Overlord": "Fellowship of the Crown",
@@ -4847,7 +4847,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Kashin Aquanorix": {
     "Nations": "Kashin Aquanorix",
     "Nation Check": "Kashin Aquanorix",
     "Overlord": "Shakisu",
@@ -4948,7 +4948,7 @@
     "Mil. Pacts": "0",
     "Trades": "6"
   },
-  {
+  "Kashin Corba": {
     "Nations": "Kashin Corba",
     "Nation Check": "Kashin Corba",
     "Overlord": "Shakisu",
@@ -5049,7 +5049,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "Kashin Olderia": {
     "Nations": "Kashin Olderia",
     "Nation Check": "Kashin Olderia",
     "Overlord": "Shakisu",
@@ -5150,7 +5150,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Katu-Lachei Aztarnak": {
     "Nations": "Katu-Lachei Aztarnak",
     "Nation Check": "Katu-Lachei Aztarnak",
     "Overlord": "Terra Magicae",
@@ -5251,7 +5251,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Kawranti": {
     "Nations": "Kawranti",
     "Nation Check": "Kawranti",
     "Overlord": "Uqhuma Killa",
@@ -5352,7 +5352,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Kiith Gaalsien": {
     "Nations": "Kiith Gaalsien",
     "Nation Check": "Kiith Gaalsien",
     "Overlord": "Council of the Alonissos Isles",
@@ -5453,7 +5453,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Kingdom of Geloía": {
     "Nations": "Kingdom of Geloía",
     "Nation Check": "Kingdom of Geloía",
     "Overlord": "",
@@ -5554,7 +5554,7 @@
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  {
+  "Kingdom of Nexus": {
     "Nations": "Kingdom of Nexus",
     "Nation Check": "Kingdom of Nexus",
     "Overlord": "Lowy Combine",
@@ -5655,7 +5655,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Ko'ch Q'ash": {
     "Nations": "Ko'ch Q'ash",
     "Nation Check": "Ko'ch Q'ash",
     "Overlord": "",
@@ -5756,7 +5756,7 @@
     "Mil. Pacts": "1",
     "Trades": "0"
   },
-  {
+  "Korograt State": {
     "Nations": "Korograt State",
     "Nation Check": "Korograt State",
     "Overlord": "",
@@ -5857,7 +5857,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Krigarstam": {
     "Nations": "Krigarstam",
     "Nation Check": "Krigarstam",
     "Overlord": "Fellowship of the Crown",
@@ -5958,7 +5958,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Kycerian Dominion": {
     "Nations": "Kycerian Dominion",
     "Nation Check": "Kycerian Dominion",
     "Overlord": "",
@@ -6059,7 +6059,7 @@
     "Mil. Pacts": "1",
     "Trades": "6"
   },
-  {
+  "Lialikidus": {
     "Nations": "Lialikidus",
     "Nation Check": "Lialikidus",
     "Overlord": "Fellowship of the Crown",
@@ -6160,7 +6160,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Los": {
     "Nations": "Los",
     "Nation Check": "Los",
     "Overlord": "Terra Magicae",
@@ -6261,7 +6261,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Lowy Combine": {
     "Nations": "Lowy Combine",
     "Nation Check": "Lowy Combine",
     "Overlord": "",
@@ -6362,7 +6362,7 @@
     "Mil. Pacts": "2",
     "Trades": "10"
   },
-  {
+  "Lundrium": {
     "Nations": "Lundrium",
     "Nation Check": "Lundrium",
     "Overlord": "Fellowship of the Crown",
@@ -6463,7 +6463,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Mās'": {
     "Nations": "Mās'",
     "Nation Check": "Mās'",
     "Overlord": "Atlas'ii",
@@ -6564,7 +6564,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Mātrentwo": {
     "Nations": "Mātrentwo",
     "Nation Check": "Mātrentwo",
     "Overlord": "",
@@ -6665,7 +6665,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "Mazazuma": {
     "Nations": "Mazazuma",
     "Nation Check": "Mazazuma",
     "Overlord": "Kingdom of Geloía",
@@ -6766,7 +6766,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Nanakueyaltepetl": {
     "Nations": "Nanakueyaltepetl",
     "Nation Check": "Nanakueyaltepetl",
     "Overlord": "Terra Magicae",
@@ -6867,7 +6867,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Netsanet Republic": {
     "Nations": "Netsanet Republic",
     "Nation Check": "Netsanet Republic",
     "Overlord": "",
@@ -6968,7 +6968,7 @@
     "Mil. Pacts": "2",
     "Trades": "8"
   },
-  {
+  "Nixond": {
     "Nations": "Nixond",
     "Nation Check": "Nixond",
     "Overlord": "",
@@ -7069,7 +7069,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "Onaokoku": {
     "Nations": "Onaokoku",
     "Nation Check": "Onaokoku",
     "Overlord": "",
@@ -7170,7 +7170,7 @@
     "Mil. Pacts": "0",
     "Trades": "10"
   },
-  {
+  "Order of Rock and Stone": {
     "Nations": "Order of Rock and Stone",
     "Nation Check": "Order of Rock and Stone",
     "Overlord": "Fellowship of the Crown",
@@ -7271,7 +7271,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Principality of Kol'zaskopjeia": {
     "Nations": "Principality of Kol'zaskopjeia",
     "Nation Check": "Principality of Kol'zaskopjeia",
     "Overlord": "",
@@ -7372,7 +7372,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Psarades": {
     "Nations": "Psarades",
     "Nation Check": "Psarades",
     "Overlord": "",
@@ -7473,7 +7473,7 @@
     "Mil. Pacts": "1",
     "Trades": "8"
   },
-  {
+  "Q'awachu": {
     "Nations": "Q'awachu",
     "Nation Check": "Q'awachu",
     "Overlord": "Uqhuma Killa",
@@ -7574,7 +7574,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Rampart Republic": {
     "Nations": "Rampart Republic",
     "Nation Check": "Rampart Republic",
     "Overlord": "",
@@ -7675,7 +7675,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Republyk Balresk": {
     "Nations": "Republyk Balresk",
     "Nation Check": "Republyk Balresk",
     "Overlord": "",
@@ -7776,7 +7776,7 @@
     "Mil. Pacts": "2",
     "Trades": "0"
   },
-  {
+  "Restored Arisii Confederation": {
     "Nations": "Restored Arisii Confederation",
     "Nation Check": "Restored Arisii Confederation",
     "Overlord": "",
@@ -7877,7 +7877,7 @@
     "Mil. Pacts": "2",
     "Trades": "4"
   },
-  {
+  "Shakisu": {
     "Nations": "Shakisu",
     "Nation Check": "Shakisu",
     "Overlord": "",
@@ -7978,7 +7978,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "Skullantium": {
     "Nations": "Skullantium",
     "Nation Check": "Skullantium",
     "Overlord": "",
@@ -8079,7 +8079,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "Spinelle": {
     "Nations": "Spinelle",
     "Nation Check": "Spinelle",
     "Overlord": "",
@@ -8180,7 +8180,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Talanrío": {
     "Nations": "Talanrío",
     "Nation Check": "Talanrío",
     "Overlord": "",
@@ -8281,7 +8281,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Terra Magicae": {
     "Nations": "Terra Magicae",
     "Nation Check": "Terra Magicae",
     "Overlord": "",
@@ -8382,7 +8382,7 @@
     "Mil. Pacts": "2",
     "Trades": "3"
   },
-  {
+  "The Charter Territory of Riveria": {
     "Nations": "The Charter Territory of Riveria",
     "Nation Check": "The Charter Territory of Riveria",
     "Overlord": "Free City of Fray Ventos",
@@ -8483,7 +8483,7 @@
     "Mil. Pacts": "0",
     "Trades": "2"
   },
-  {
+  "The High Dukedom of Duloque": {
     "Nations": "The High Dukedom of Duloque",
     "Nation Check": "The High Dukedom of Duloque",
     "Overlord": "",
@@ -8584,7 +8584,7 @@
     "Mil. Pacts": "1",
     "Trades": "0"
   },
-  {
+  "The Wild Fields": {
     "Nations": "The Wild Fields",
     "Nation Check": "The Wild Fields",
     "Overlord": "Followers of the Chosen",
@@ -8685,7 +8685,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Theocratic Republic of Rekkatsija": {
     "Nations": "Theocratic Republic of Rekkatsija",
     "Nation Check": "Theocratic Republic of Rekkatsija",
     "Overlord": "",
@@ -8786,7 +8786,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Trinitas": {
     "Nations": "Trinitas",
     "Nation Check": "Trinitas",
     "Overlord": "Atlas'ii",
@@ -8887,7 +8887,7 @@
     "Mil. Pacts": "0",
     "Trades": "9"
   },
-  {
+  "Uisceam Grove": {
     "Nations": "Uisceam Grove",
     "Nation Check": "Uisceam Grove",
     "Overlord": "",
@@ -8988,7 +8988,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Ulanasa Republic": {
     "Nations": "Ulanasa Republic",
     "Nation Check": "Ulanasa Republic",
     "Overlord": "Netsanet Republic",
@@ -9089,7 +9089,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "Uqhuma Killa": {
     "Nations": "Uqhuma Killa",
     "Nation Check": "Uqhuma Killa",
     "Overlord": "",
@@ -9190,7 +9190,7 @@
     "Mil. Pacts": "1",
     "Trades": "13"
   },
-  {
+  "Vyraisos": {
     "Nations": "Vyraisos",
     "Nation Check": "Vyraisos",
     "Overlord": "Kingdom of Geloía",
@@ -9291,7 +9291,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Fellowship of the Crown": {
     "Nations": "Fellowship of the Crown",
     "Nation Check": "Fellowship of the Crown",
     "Overlord": "",
@@ -9392,7 +9392,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Wandon Council": {
     "Nations": "Wandon Council",
     "Nation Check": "Wandon Council",
     "Overlord": "Uqhuma Killa",
@@ -9493,7 +9493,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "WrestleMania": {
     "Nations": "WrestleMania",
     "Nation Check": "WrestleMania",
     "Overlord": "",
@@ -9594,7 +9594,7 @@
     "Mil. Pacts": "2",
     "Trades": "0"
   },
-  {
+  "Yuranisuk": {
     "Nations": "Yuranisuk",
     "Nation Check": "Yuranisuk",
     "Overlord": "Onaokoku",
@@ -9695,7 +9695,7 @@
     "Mil. Pacts": "0",
     "Trades": "2"
   },
-  {
+  "City State of Kido": {
     "Nations": "City State of Kido",
     "Nation Check": "City State of Kido",
     "Overlord": "",
@@ -9796,7 +9796,7 @@
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  {
+  "Maatada Istara": {
     "Nations": "Maatada Istara",
     "Nation Check": "Maatada Istara",
     "Overlord": "",
@@ -9897,7 +9897,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "Velken Bulwark": {
     "Nations": "Velken Bulwark",
     "Nation Check": "Velken Bulwark",
     "Overlord": "",
@@ -9998,7 +9998,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "Thaandom of Fangkar": {
     "Nations": "Thaandom of Fangkar",
     "Nation Check": "Thaandom of Fangkar",
     "Overlord": "",
@@ -10099,7 +10099,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "Sarmatai Confederation": {
     "Nations": "Sarmatai Confederation",
     "Nation Check": "Sarmatai Confederation",
     "Overlord": "",
@@ -10200,7 +10200,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Alderdorf": {
     "Nations": "Alderdorf",
     "Nation Check": "Alderdorf",
     "Overlord": "",
@@ -10301,7 +10301,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Hanza Trade Republic": {
     "Nations": "Hanza Trade Republic",
     "Nation Check": "Hanza Trade Republic",
     "Overlord": "",
@@ -10402,7 +10402,7 @@
     "Mil. Pacts": "0",
     "Trades": "7"
   },
-  {
+  "Kingdom of Jasper": {
     "Nations": "Kingdom of Jasper",
     "Nation Check": "Kingdom of Jasper",
     "Overlord": "",
@@ -10503,7 +10503,7 @@
     "Mil. Pacts": "0",
     "Trades": "9"
   },
-  {
+  "Tort Uli Xaliq": {
     "Nations": "Tort Uli Xaliq",
     "Nation Check": "Tort Uli Xaliq",
     "Overlord": "",
@@ -10604,7 +10604,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Saulka": {
     "Nations": "Saulka",
     "Nation Check": "Saulka",
     "Overlord": "",
@@ -10705,7 +10705,7 @@
     "Mil. Pacts": "2",
     "Trades": "0"
   },
-  {
+  "Imperial Theocracy of Borbenska": {
     "Nations": "Imperial Theocracy of Borbenska",
     "Nation Check": "Imperial Theocracy of Borbenska",
     "Overlord": "",
@@ -10806,7 +10806,7 @@
     "Mil. Pacts": "1",
     "Trades": "7"
   },
-  {
+  "Meridomus Kalleprii": {
     "Nations": "Meridomus Kalleprii",
     "Nation Check": "Meridomus Kalleprii",
     "Overlord": "",
@@ -10907,7 +10907,7 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  {
+  "Lauzydos": {
     "Nations": "Lauzydos",
     "Nation Check": "Lauzydos",
     "Overlord": "",
@@ -11008,7 +11008,7 @@
     "Mil. Pacts": "0",
     "Trades": "9"
   },
-  {
+  "Free City of Erub-Kai": {
     "Nations": "Free City of Erub-Kai",
     "Nation Check": "Free City of Erub-Kai",
     "Overlord": "",
@@ -11109,7 +11109,7 @@
     "Mil. Pacts": "1",
     "Trades": "8"
   },
-  {
+  "Free City of Zephon": {
     "Nations": "Free City of Zephon",
     "Nation Check": "Free City of Zephon",
     "Overlord": "",
@@ -11210,7 +11210,7 @@
     "Mil. Pacts": "2",
     "Trades": "10"
   },
-  {
+  "Queendom of Edithia": {
     "Nations": "Queendom of Edithia",
     "Nation Check": "Queendom of Edithia",
     "Overlord": "",
@@ -11311,7 +11311,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Kingdom of Aeornia": {
     "Nations": "Kingdom of Aeornia",
     "Nation Check": "Kingdom of Aeornia",
     "Overlord": "",
@@ -11412,7 +11412,7 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  {
+  "Tetóth Kegeth": {
     "Nations": "Tetóth Kegeth",
     "Nation Check": "Tetóth Kegeth",
     "Overlord": "",
@@ -11513,7 +11513,7 @@
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  {
+  "Hadastan Commenwealth": {
     "Nations": "Hadastan Commenwealth",
     "Nation Check": "Hadastan Commenwealth",
     "Overlord": "",
@@ -11614,7 +11614,7 @@
     "Mil. Pacts": "0",
     "Trades": "9"
   },
-  {
+  "Royal City of Gevero": {
     "Nations": "Royal City of Gevero",
     "Nation Check": "Royal City of Gevero",
     "Overlord": "",
@@ -11715,7 +11715,7 @@
     "Mil. Pacts": "1",
     "Trades": "7"
   },
-  {
+  "Snow Dominion": {
     "Nations": "Snow Dominion",
     "Nation Check": "Snow Dominion",
     "Overlord": "",
@@ -11816,7 +11816,7 @@
     "Mil. Pacts": "1",
     "Trades": "9"
   },
-  {
+  "The Kingdom of Hemia": {
     "Nations": "The Kingdom of Hemia",
     "Nation Check": "The Kingdom of Hemia",
     "Overlord": "Kingdom of Mimgrond",
@@ -11917,7 +11917,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Federation of Tlo'tsaa": {
     "Nations": "Federation of Tlo'tsaa",
     "Nation Check": "Federation of Tlo'tsaa",
     "Overlord": "",
@@ -12018,7 +12018,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Ceavia": {
     "Nations": "Ceavia",
     "Nation Check": "Ceavia",
     "Overlord": "",
@@ -12119,7 +12119,7 @@
     "Mil. Pacts": "0",
     "Trades": "6"
   },
-  {
+  "Carcukhanate": {
     "Nations": "Carcukhanate",
     "Nation Check": "Carcukhanate",
     "Overlord": "",
@@ -12220,7 +12220,7 @@
     "Mil. Pacts": "0",
     "Trades": "7"
   },
-  {
+  "Stryaxina": {
     "Nations": "Stryaxina",
     "Nation Check": "Stryaxina",
     "Overlord": "",
@@ -12321,7 +12321,7 @@
     "Mil. Pacts": "1",
     "Trades": "9"
   },
-  {
+  "Imperial City of Soria": {
     "Nations": "Imperial City of Soria",
     "Nation Check": "Imperial City of Soria",
     "Overlord": "",
@@ -12422,7 +12422,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "Great Host of the Unconquered Sun": {
     "Nations": "Great Host of the Unconquered Sun",
     "Nation Check": "Great Host of the Unconquered Sun",
     "Overlord": "",
@@ -12523,7 +12523,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Zalmoxia": {
     "Nations": "Zalmoxia",
     "Nation Check": "Zalmoxia",
     "Overlord": "",
@@ -12624,7 +12624,7 @@
     "Mil. Pacts": "1",
     "Trades": "6"
   },
-  {
+  "Mercati Emporium": {
     "Nations": "Mercati Emporium",
     "Nation Check": "Mercati Emporium",
     "Overlord": "",
@@ -12725,7 +12725,7 @@
     "Mil. Pacts": "2",
     "Trades": "11"
   },
-  {
+  "Jalpol": {
     "Nations": "Jalpol",
     "Nation Check": "Jalpol",
     "Overlord": "",
@@ -12826,7 +12826,7 @@
     "Mil. Pacts": "1",
     "Trades": "3"
   },
-  {
+  "Terrum Aetheri": {
     "Nations": "Terrum Aetheri",
     "Nation Check": "Terrum Aetheri",
     "Overlord": "",
@@ -12927,7 +12927,7 @@
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  {
+  "Holy Kingdom of Scripts": {
     "Nations": "Holy Kingdom of Scripts",
     "Nation Check": "Holy Kingdom of Scripts",
     "Overlord": "",
@@ -13028,7 +13028,7 @@
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  {
+  "Kingdom of Járnfjall": {
     "Nations": "Kingdom of Járnfjall",
     "Nation Check": "Kingdom of Járnfjall",
     "Overlord": "",
@@ -13129,7 +13129,7 @@
     "Mil. Pacts": "2",
     "Trades": "10"
   },
-  {
+  "Mébian Confederation": {
     "Nations": "Mébian Confederation",
     "Nation Check": "Mébian Confederation",
     "Overlord": "",
@@ -13230,7 +13230,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Jään Herruus": {
     "Nations": "Jään Herruus",
     "Nation Check": "Jään Herruus",
     "Overlord": "",
@@ -13331,7 +13331,7 @@
     "Mil. Pacts": "2",
     "Trades": "3"
   },
-  {
+  "Drahacira": {
     "Nations": "Drahacira",
     "Nation Check": "Drahacira",
     "Overlord": "",
@@ -13432,7 +13432,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Forge of Aarde": {
     "Nations": "Forge of Aarde",
     "Nation Check": "Forge of Aarde",
     "Overlord": "",
@@ -13533,7 +13533,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "The Teutā Erwā": {
     "Nations": "The Teutā Erwā",
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
@@ -13634,7 +13634,7 @@
     "Mil. Pacts": "2",
     "Trades": "4"
   },
-  {
+  "Arcadia": {
     "Nations": "Arcadia",
     "Nation Check": "Arcadia",
     "Overlord": "",
@@ -13735,7 +13735,7 @@
     "Mil. Pacts": "0",
     "Trades": "6"
   },
-  {
+  "Arethousa": {
     "Nations": "Arethousa",
     "Nation Check": "Arethousa",
     "Overlord": "",
@@ -13836,7 +13836,7 @@
     "Mil. Pacts": "1",
     "Trades": "9"
   },
-  {
+  "Ashdayn": {
     "Nations": "Ashdayn",
     "Nation Check": "Ashdayn",
     "Overlord": "",
@@ -13937,7 +13937,7 @@
     "Mil. Pacts": "1",
     "Trades": "4"
   },
-  {
+  "Rastoria": {
     "Nations": "Rastoria",
     "Nation Check": "Rastoria",
     "Overlord": "",
@@ -14038,7 +14038,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Saholnahes Ceuluanas": {
     "Nations": "Saholnahes Ceuluanas",
     "Nation Check": "Saholnahes Ceuluanas",
     "Overlord": "",
@@ -14139,7 +14139,7 @@
     "Mil. Pacts": "1",
     "Trades": "6"
   },
-  {
+  "The Amerian Republic": {
     "Nations": "The Amerian Republic",
     "Nation Check": "The Amerian Republic",
     "Overlord": "",
@@ -14240,7 +14240,7 @@
     "Mil. Pacts": "0",
     "Trades": "6"
   },
-  {
+  "Kingdom of Gallacia": {
     "Nations": "Kingdom of Gallacia",
     "Nation Check": "Kingdom of Gallacia",
     "Overlord": "",
@@ -14341,7 +14341,7 @@
     "Mil. Pacts": "2",
     "Trades": "10"
   },
-  {
+  "The Statute of Order": {
     "Nations": "The Statute of Order",
     "Nation Check": "The Statute of Order",
     "Overlord": "",
@@ -14442,7 +14442,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "Pólitonskóron": {
     "Nations": "Pólitonskóron",
     "Nation Check": "Pólitonskóron",
     "Overlord": "",
@@ -14543,7 +14543,7 @@
     "Mil. Pacts": "1",
     "Trades": "7"
   },
-  {
+  "Thys Alari": {
     "Nations": "Thys Alari",
     "Nation Check": "Thys Alari",
     "Overlord": "",
@@ -14644,7 +14644,7 @@
     "Mil. Pacts": "1",
     "Trades": "6"
   },
-  {
+  "Kingdom of Mimgrond": {
     "Nations": "Kingdom of Mimgrond",
     "Nation Check": "Kingdom of Mimgrond",
     "Overlord": "",
@@ -14745,7 +14745,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "Exodists of Amunkedat": {
     "Nations": "Exodists of Amunkedat",
     "Nation Check": "Exodists of Amunkedat",
     "Overlord": "",
@@ -14846,7 +14846,7 @@
     "Mil. Pacts": "2",
     "Trades": "5"
   },
-  {
+  "Yeotang": {
     "Nations": "Yeotang",
     "Nation Check": "Yeotang",
     "Overlord": "",
@@ -14947,7 +14947,7 @@
     "Mil. Pacts": "2",
     "Trades": "5"
   },
-  {
+  "Colmea": {
     "Nations": "Colmea",
     "Nation Check": "Colmea",
     "Overlord": "",
@@ -15048,7 +15048,7 @@
     "Mil. Pacts": "1",
     "Trades": "3"
   },
-  {
+  "Soroner": {
     "Nations": "Soroner",
     "Nation Check": "Soroner",
     "Overlord": "",
@@ -15149,7 +15149,7 @@
     "Mil. Pacts": "0",
     "Trades": "2"
   },
-  {
+  "Kh'nûll Diocese": {
     "Nations": "Kh'nûll Diocese",
     "Nation Check": "Kh'nûll Diocese",
     "Overlord": "",
@@ -15250,7 +15250,7 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  {
+  "Scientarium": {
     "Nations": "Scientarium",
     "Nation Check": "Scientarium",
     "Overlord": "",
@@ -15351,7 +15351,7 @@
     "Mil. Pacts": "1",
     "Trades": "9"
   },
-  {
+  "Diogen": {
     "Nations": "Diogen",
     "Nation Check": "Diogen",
     "Overlord": "",
@@ -15452,7 +15452,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "Republic o. Zuntirar": {
     "Nations": "Republic o. Zuntirar",
     "Nation Check": "Republic o. Zuntirar",
     "Overlord": "",
@@ -15553,7 +15553,7 @@
     "Mil. Pacts": "2",
     "Trades": "10"
   },
-  {
+  "Free City of Zephyrabad": {
     "Nations": "Free City of Zephyrabad",
     "Nation Check": "Free City of Zephyrabad",
     "Overlord": "",
@@ -15654,7 +15654,7 @@
     "Mil. Pacts": "0",
     "Trades": "7"
   },
-  {
+  "The Wendel Witaner": {
     "Nations": "The Wendel Witaner",
     "Nation Check": "The Wendel Witaner",
     "Overlord": "",
@@ -15755,7 +15755,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Brotherhood of Dwarves": {
     "Nations": "Brotherhood of Dwarves",
     "Nation Check": "Brotherhood of Dwarves",
     "Overlord": "",
@@ -15856,7 +15856,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Chitinara": {
     "Nations": "Chitinara",
     "Nation Check": "Chitinara",
     "Overlord": "",
@@ -15957,7 +15957,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "High City of Tirsil": {
     "Nations": "High City of Tirsil",
     "Nation Check": "High City of Tirsil",
     "Overlord": "",
@@ -16058,7 +16058,7 @@
     "Mil. Pacts": "1",
     "Trades": "11"
   },
-  {
+  "Elphonsa": {
     "Nations": "Elphonsa",
     "Nation Check": "Elphonsa",
     "Overlord": "",
@@ -16159,7 +16159,7 @@
     "Mil. Pacts": "2",
     "Trades": "5"
   },
-  {
+  "Kilshandia": {
     "Nations": "Kilshandia",
     "Nation Check": "Kilshandia",
     "Overlord": "",
@@ -16260,7 +16260,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Maa": {
     "Nations": "Maa",
     "Nation Check": "Maa",
     "Overlord": "",
@@ -16361,7 +16361,7 @@
     "Mil. Pacts": "0",
     "Trades": "9"
   },
-  {
+  "Lisanos": {
     "Nations": "Lisanos",
     "Nation Check": "Lisanos",
     "Overlord": "",
@@ -16462,7 +16462,7 @@
     "Mil. Pacts": "2",
     "Trades": "8"
   },
-  {
+  "HlérHeim": {
     "Nations": "HlérHeim",
     "Nation Check": "HlérHeim",
     "Overlord": "",
@@ -16563,7 +16563,7 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  {
+  "Grand Principality of Onica": {
     "Nations": "Grand Principality of Onica",
     "Nation Check": "Grand Principality of Onica",
     "Overlord": "",
@@ -16664,7 +16664,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "Republic of Nymaró": {
     "Nations": "Republic of Nymaró",
     "Nation Check": "Republic of Nymaró",
     "Overlord": "Audgunn",
@@ -16765,7 +16765,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Meadoia Dynasty": {
     "Nations": "Meadoia Dynasty",
     "Nation Check": "Meadoia Dynasty",
     "Overlord": "",
@@ -16866,7 +16866,7 @@
     "Mil. Pacts": "2",
     "Trades": "10"
   },
-  {
+  "Ewig Republic": {
     "Nations": "Ewig Republic",
     "Nation Check": "Ewig Republic",
     "Overlord": "",
@@ -16967,7 +16967,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "The Holy Realm of Herkunft": {
     "Nations": "The Holy Realm of Herkunft",
     "Nation Check": "The Holy Realm of Herkunft",
     "Overlord": "",
@@ -17068,7 +17068,7 @@
     "Mil. Pacts": "2",
     "Trades": "5"
   },
-  {
+  "Fu Tiangun Realm": {
     "Nations": "Fu Tiangun Realm",
     "Nation Check": "Fu Tiangun Realm",
     "Overlord": "",
@@ -17169,7 +17169,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Glorbentura": {
     "Nations": "Glorbentura",
     "Nation Check": "Glorbentura",
     "Overlord": "",
@@ -17270,7 +17270,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "The Despotate of Kaartiyek": {
     "Nations": "The Despotate of Kaartiyek",
     "Nation Check": "The Despotate of Kaartiyek",
     "Overlord": "",
@@ -17371,7 +17371,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Hui Kai": {
     "Nations": "Hui Kai",
     "Nation Check": "Hui Kai",
     "Overlord": "",
@@ -17472,7 +17472,7 @@
     "Mil. Pacts": "2",
     "Trades": "10"
   },
-  {
+  "Vorokov": {
     "Nations": "Vorokov",
     "Nation Check": "Vorokov",
     "Overlord": "",
@@ -17573,7 +17573,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Treakwielg": {
     "Nations": "Treakwielg",
     "Nation Check": "Treakwielg",
     "Overlord": "",
@@ -17674,7 +17674,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "The Aislings": {
     "Nations": "The Aislings",
     "Nation Check": "The Aislings",
     "Overlord": "",
@@ -17775,7 +17775,7 @@
     "Mil. Pacts": "0",
     "Trades": "9"
   },
-  {
+  "Principality of Skanderborg": {
     "Nations": "Principality of Skanderborg",
     "Nation Check": "Principality of Skanderborg",
     "Overlord": "",
@@ -17876,7 +17876,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Akalikania": {
     "Nations": "Akalikania",
     "Nation Check": "Akalikania",
     "Overlord": "",
@@ -17977,7 +17977,7 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  {
+  "Stepovytskyi Cossack Host": {
     "Nations": "Stepovytskyi Cossack Host",
     "Nation Check": "Stepovytskyi Cossack Host",
     "Overlord": "",
@@ -18078,7 +18078,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "The Dukedom of Sylicia": {
     "Nations": "The Dukedom of Sylicia",
     "Nation Check": "The Dukedom of Sylicia",
     "Overlord": "",
@@ -18179,7 +18179,7 @@
     "Mil. Pacts": "0",
     "Trades": "7"
   },
-  {
+  "Tautaspils": {
     "Nations": "Tautaspils",
     "Nation Check": "Tautaspils",
     "Overlord": "",
@@ -18280,7 +18280,7 @@
     "Mil. Pacts": "2",
     "Trades": "8"
   },
-  {
+  "Kaug-Põhja": {
     "Nations": "Kaug-Põhja",
     "Nation Check": "Kaug-Põhja",
     "Overlord": "",
@@ -18381,7 +18381,7 @@
     "Mil. Pacts": "2",
     "Trades": "8"
   },
-  {
+  "Pyhätmetsät": {
     "Nations": "Pyhätmetsät",
     "Nation Check": "Pyhätmetsät",
     "Overlord": "",
@@ -18482,7 +18482,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Kingdom of the Aurore": {
     "Nations": "Kingdom of the Aurore",
     "Nation Check": "Kingdom of the Aurore",
     "Overlord": "",
@@ -18583,7 +18583,7 @@
     "Mil. Pacts": "2",
     "Trades": "8"
   },
-  {
+  "Araybattahya ": {
     "Nations": "Araybattahya ",
     "Nation Check": "Araybattahya ",
     "Overlord": "",
@@ -18684,7 +18684,7 @@
     "Mil. Pacts": "1",
     "Trades": "7"
   },
-  {
+  "Morchandor": {
     "Nations": "Morchandor",
     "Nation Check": "Morchandor",
     "Overlord": "",
@@ -18785,7 +18785,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Ascendant Regency of Newstar": {
     "Nations": "Ascendant Regency of Newstar",
     "Nation Check": "Ascendant Regency of Newstar",
     "Overlord": "",
@@ -18886,7 +18886,7 @@
     "Mil. Pacts": "2",
     "Trades": "4"
   },
-  {
+  "Magoen Lurraldea": {
     "Nations": "Magoen Lurraldea",
     "Nation Check": "Magoen Lurraldea",
     "Overlord": "",
@@ -18987,7 +18987,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Lohiida Dathinaal": {
     "Nations": "Lohiida Dathinaal",
     "Nation Check": "Lohiida Dathinaal",
     "Overlord": "",
@@ -19088,7 +19088,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "Vantira": {
     "Nations": "Vantira",
     "Nation Check": "Vantira",
     "Overlord": "",
@@ -19189,7 +19189,7 @@
     "Mil. Pacts": "1",
     "Trades": "1"
   },
-  {
+  "Republic of Rostora": {
     "Nations": "Republic of Rostora",
     "Nation Check": "Republic of Rostora",
     "Overlord": "",
@@ -19290,7 +19290,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Cassion": {
     "Nations": "Cassion",
     "Nation Check": "Cassion",
     "Overlord": "",
@@ -19391,7 +19391,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Clan of Skye ": {
     "Nations": "Clan of Skye ",
     "Nation Check": "Clan of Skye ",
     "Overlord": "",
@@ -19492,7 +19492,7 @@
     "Mil. Pacts": "1",
     "Trades": "9"
   },
-  {
+  "Shiny Taking": {
     "Nations": "Shiny Taking",
     "Nation Check": "Shiny Taking",
     "Overlord": "",
@@ -19593,7 +19593,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "Xriotir": {
     "Nations": "Xriotir",
     "Nation Check": "Xriotir",
     "Overlord": "",
@@ -19694,7 +19694,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Malo'Sami": {
     "Nations": "Malo'Sami",
     "Nation Check": "Malo'Sami",
     "Overlord": "",
@@ -19795,7 +19795,7 @@
     "Mil. Pacts": "1",
     "Trades": "4"
   },
-  {
+  "The Trade Families of Kemakmura": {
     "Nations": "The Trade Families of Kemakmura",
     "Nation Check": "The Trade Families of Kemakmura",
     "Overlord": "",
@@ -19896,7 +19896,7 @@
     "Mil. Pacts": "0",
     "Trades": "12"
   },
-  {
+  "Caesnauka Empire": {
     "Nations": "Caesnauka Empire",
     "Nation Check": "Caesnauka Empire",
     "Overlord": "",
@@ -19997,7 +19997,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Iidunn": {
     "Nations": "Iidunn",
     "Nation Check": "Iidunn",
     "Overlord": "",
@@ -20098,7 +20098,7 @@
     "Mil. Pacts": "2",
     "Trades": "5"
   },
-  {
+  "Remid Republic": {
     "Nations": "Remid Republic",
     "Nation Check": "Remid Republic",
     "Overlord": "",
@@ -20199,7 +20199,7 @@
     "Mil. Pacts": "2",
     "Trades": "10"
   },
-  {
+  "Amethyst Clan": {
     "Nations": "Amethyst Clan",
     "Nation Check": "Amethyst Clan",
     "Overlord": "",
@@ -20300,7 +20300,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "The Lakarish Kingdom of Olkmania": {
     "Nations": "The Lakarish Kingdom of Olkmania",
     "Nation Check": "The Lakarish Kingdom of Olkmania",
     "Overlord": "",
@@ -20401,7 +20401,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Serenissima Res Publica Di Ghalivi": {
     "Nations": "Serenissima Res Publica Di Ghalivi",
     "Nation Check": "Serenissima Res Publica Di Ghalivi",
     "Overlord": "City State of Kido",
@@ -20502,7 +20502,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Raaspazzlivatl": {
     "Nations": "Raaspazzlivatl",
     "Nation Check": "Raaspazzlivatl",
     "Overlord": "",
@@ -20603,7 +20603,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Tavir": {
     "Nations": "Tavir",
     "Nation Check": "Tavir",
     "Overlord": "",
@@ -20704,7 +20704,7 @@
     "Mil. Pacts": "1",
     "Trades": "5"
   },
-  {
+  "United Federation of Malam States": {
     "Nations": "United Federation of Malam States",
     "Nation Check": "United Federation of Malam States",
     "Overlord": "",
@@ -20805,7 +20805,7 @@
     "Mil. Pacts": "0",
     "Trades": "6"
   },
-  {
+  "Natałor": {
     "Nations": "Natałor",
     "Nation Check": "Natałor",
     "Overlord": "",
@@ -20906,7 +20906,7 @@
     "Mil. Pacts": "2",
     "Trades": "4"
   },
-  {
+  "The Gavi’ Kingdom": {
     "Nations": "The Gavi’ Kingdom",
     "Nation Check": "The Gavi’ Kingdom",
     "Overlord": "",
@@ -21007,7 +21007,7 @@
     "Mil. Pacts": "1",
     "Trades": "7"
   },
-  {
+  "Kinh Nam City-State": {
     "Nations": "Kinh Nam City-State",
     "Nation Check": "Kinh Nam City-State",
     "Overlord": "",
@@ -21108,7 +21108,7 @@
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  {
+  "Mhawm Meung Ssok Nyieat Qux Si": {
     "Nations": "Mhawm Meung Ssok Nyieat Qux Si",
     "Nation Check": "Mhawm Meung Ssok Nyieat Qux Si",
     "Overlord": "",
@@ -21209,7 +21209,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Lună sângeroasă": {
     "Nations": "Lună sângeroasă",
     "Nation Check": "Lună sângeroasă",
     "Overlord": "",
@@ -21310,7 +21310,7 @@
     "Mil. Pacts": "1",
     "Trades": "8"
   },
-  {
+  "Akaḣpetoƞ": {
     "Nations": "Akaḣpetoƞ",
     "Nation Check": "Akaḣpetoƞ",
     "Overlord": "",
@@ -21411,7 +21411,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "The Awakened": {
     "Nations": "The Awakened",
     "Nation Check": "The Awakened",
     "Overlord": "",
@@ -21512,7 +21512,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "Lepnia": {
     "Nations": "Lepnia",
     "Nation Check": "Lepnia",
     "Overlord": "",
@@ -21613,7 +21613,7 @@
     "Mil. Pacts": "1",
     "Trades": "0"
   },
-  {
+  "Thaurinna": {
     "Nations": "Thaurinna",
     "Nation Check": "Thaurinna",
     "Overlord": "",
@@ -21714,7 +21714,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Il-Esak'Chukhpelekh": {
     "Nations": "Il-Esak'Chukhpelekh",
     "Nation Check": "Il-Esak'Chukhpelekh",
     "Overlord": "",
@@ -21815,7 +21815,7 @@
     "Mil. Pacts": "1",
     "Trades": "0"
   },
-  {
+  "Goldmongers": {
     "Nations": "Goldmongers",
     "Nation Check": "Goldmongers",
     "Overlord": "",
@@ -21916,7 +21916,7 @@
     "Mil. Pacts": "0",
     "Trades": "9"
   },
-  {
+  "M'Qili Confederacy": {
     "Nations": "M'Qili Confederacy",
     "Nation Check": "M'Qili Confederacy",
     "Overlord": "",
@@ -22017,7 +22017,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Nournourlant": {
     "Nations": "Nournourlant",
     "Nation Check": "Nournourlant",
     "Overlord": "",
@@ -22118,108 +22118,7 @@
     "Mil. Pacts": "1",
     "Trades": "9"
   },
-  {
-    "Nations": null,
-    "Nation Check": null,
-    "Overlord": null,
-    "Eco Vassals": null,
-    "Eco Over.": null,
-    "Compare": null,
-    "MP Vassals": null,
-    "MP Over.": null,
-    "20% Total": null,
-    "Vassal Type": null,
-    "": null,
-    "L. Desire": null,
-    "Base": null,
-    "Comparison": null,
-    "Individual": null,
-    "Friend/Rival": null,
-    "Taxes": null,
-    "Indep War?": null,
-    "Autonomy": null,
-    "Threshold": null,
-    "Chaotic?": null,
-    "Deceptive?": null,
-    "Honor?": null,
-    "Indep.?": null,
-    "Unity?": null,
-    "Ov. Culture": null,
-    "Ov. Religion": null,
-    "Non-aggression Pacts": null,
-    "Defensive Pacts": null,
-    "Military Alliances": null,
-    "Militray Alliances": null,
-    "Limit": null,
-    "Trade 1": {
-      "Value": null,
-      "Trade 1 Value": null
-    },
-    "Trade 2": {
-      "Value": null,
-      "Trade 2 Value": null
-    },
-    "Trade 3": {
-      "Value": null,
-      "Trade 3 Value": null
-    },
-    "Trade 4": {
-      "Value": null,
-      "Trade 4 Value": null
-    },
-    "Trade 5": {
-      "Value": null,
-      "Trade 5 Value": null
-    },
-    "Trade 6": {
-      "Value": null,
-      "Trade 6 Value": null
-    },
-    "Trade 7": {
-      "Value": null,
-      "Trade 7 Value": null
-    },
-    "Trade 8": {
-      "Value": null,
-      "Trade 8 Value": null
-    },
-    "Trade 9": {
-      "Value": null,
-      "Trade 9 Value": null
-    },
-    "Trade 10": {
-      "Value": null,
-      "Trade 10 Value": null
-    },
-    "Trade 11": {
-      "Value": null,
-      "Trade 11 Value": null
-    },
-    "Trade 12": {
-      "Value": null,
-      "Trade 12 Value": null
-    },
-    "Trade 13": {
-      "Value": null,
-      "Trade 13 Value": null
-    },
-    "Trade 14": {
-      "Value": null,
-      "Trade 14 Value": null
-    },
-    "Trade 15": {
-      "Value": null,
-      "Trade 15 Value": null
-    },
-    "Raw Trade Income": null,
-    "Tariffs": null,
-    "Trade Income": null,
-    "NAPs": null,
-    "Def. Pacts": null,
-    "Mil. Pacts": null,
-    "Trades": null
-  },
-  {
+  "The Tarmarches": {
     "Nations": "The Tarmarches",
     "Nation Check": "The Tarmarches",
     "Overlord": "",
@@ -22320,7 +22219,7 @@
     "Mil. Pacts": "1",
     "Trades": "7"
   },
-  {
+  "Akali": {
     "Nations": "Akali",
     "Nation Check": "Akali",
     "Overlord": "",
@@ -22421,7 +22320,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Commonwealth of Gonaria": {
     "Nations": "Commonwealth of Gonaria",
     "Nation Check": "Commonwealth of Gonaria",
     "Overlord": "",
@@ -22522,7 +22421,7 @@
     "Mil. Pacts": "0",
     "Trades": "7"
   },
-  {
+  "The Nema Pact": {
     "Nations": "The Nema Pact",
     "Nation Check": "The Nema Pact",
     "Overlord": "",
@@ -22623,7 +22522,7 @@
     "Mil. Pacts": "1",
     "Trades": "3"
   },
-  {
+  "Order of The Radiance": {
     "Nations": "Order of The Radiance",
     "Nation Check": "Order of The Radiance",
     "Overlord": "Holy Kingdom of Scripts",
@@ -22724,7 +22623,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Clankar Cog": {
     "Nations": "Clankar Cog",
     "Nation Check": "Clankar Cog",
     "Overlord": "",
@@ -22825,7 +22724,7 @@
     "Mil. Pacts": "1",
     "Trades": "2"
   },
-  {
+  "Naga Wangjo": {
     "Nations": "Naga Wangjo",
     "Nation Check": "Naga Wangjo",
     "Overlord": "",
@@ -22926,7 +22825,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Council of Dehurkjols": {
     "Nations": "Council of Dehurkjols",
     "Nation Check": "Council of Dehurkjols",
     "Overlord": "",
@@ -23027,7 +22926,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "The Second Temple": {
     "Nations": "The Second Temple",
     "Nation Check": "The Second Temple",
     "Overlord": "",
@@ -23128,7 +23027,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Dinasygan": {
     "Nations": "Dinasygan",
     "Nation Check": "Dinasygan",
     "Overlord": "",
@@ -23229,7 +23128,7 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  {
+  "Môr Oer": {
     "Nations": "Môr Oer",
     "Nation Check": "Môr Oer",
     "Overlord": "",
@@ -23330,7 +23229,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Neonian Kuningate": {
     "Nations": "Neonian Kuningate",
     "Nation Check": "Neonian Kuningate",
     "Overlord": "",
@@ -23431,7 +23330,7 @@
     "Mil. Pacts": "1",
     "Trades": "1"
   },
-  {
+  "Luminus": {
     "Nations": "Luminus",
     "Nation Check": "Luminus",
     "Overlord": "",
@@ -23532,7 +23431,7 @@
     "Mil. Pacts": "2",
     "Trades": "8"
   },
-  {
+  "The Free Cities of Cupiditas": {
     "Nations": "The Free Cities of Cupiditas",
     "Nation Check": "The Free Cities of Cupiditas",
     "Overlord": "",
@@ -23633,7 +23532,7 @@
     "Mil. Pacts": "2",
     "Trades": "11"
   },
-  {
+  "Elyen-Mev": {
     "Nations": "Elyen-Mev",
     "Nation Check": "Elyen-Mev",
     "Overlord": "",
@@ -23734,7 +23633,7 @@
     "Mil. Pacts": "0",
     "Trades": "7"
   },
-  {
+  "Murenman": {
     "Nations": "Murenman",
     "Nation Check": "Murenman",
     "Overlord": "",
@@ -23835,7 +23734,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Confederate of Caoilinn": {
     "Nations": "Confederate of Caoilinn",
     "Nation Check": "Confederate of Caoilinn",
     "Overlord": "",
@@ -23936,7 +23835,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "The House": {
     "Nations": "The House",
     "Nation Check": "The House",
     "Overlord": "",
@@ -24037,7 +23936,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "Holy Council of Axhaea": {
     "Nations": "Holy Council of Axhaea",
     "Nation Check": "Holy Council of Axhaea",
     "Overlord": "",
@@ -24138,7 +24037,7 @@
     "Mil. Pacts": "2",
     "Trades": "5"
   },
-  {
+  "Xiboda": {
     "Nations": "Xiboda",
     "Nation Check": "Xiboda",
     "Overlord": "",
@@ -24239,7 +24138,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "The Sinere Theocracy": {
     "Nations": "The Sinere Theocracy",
     "Nation Check": "The Sinere Theocracy",
     "Overlord": "",
@@ -24340,7 +24239,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "Rosefire Dynasty": {
     "Nations": "Rosefire Dynasty",
     "Nation Check": "Rosefire Dynasty",
     "Overlord": "",
@@ -24441,7 +24340,7 @@
     "Mil. Pacts": "0",
     "Trades": "2"
   },
-  {
+  "The Gilded City": {
     "Nations": "The Gilded City",
     "Nation Check": "The Gilded City",
     "Overlord": "",
@@ -24542,7 +24441,7 @@
     "Mil. Pacts": "1",
     "Trades": "8"
   },
-  {
+  "Lysian Republic": {
     "Nations": "Lysian Republic",
     "Nation Check": "Lysian Republic",
     "Overlord": "",
@@ -24643,7 +24542,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Jubal'on": {
     "Nations": "Jubal'on",
     "Nation Check": "Jubal'on",
     "Overlord": "",
@@ -24744,7 +24643,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Karak Helhein": {
     "Nations": "Karak Helhein",
     "Nation Check": "Karak Helhein",
     "Overlord": "Lună sângeroasă",
@@ -24845,7 +24744,7 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  {
+  "Tribes of Lunaria": {
     "Nations": "Tribes of Lunaria",
     "Nation Check": "Tribes of Lunaria",
     "Overlord": "",
@@ -24946,7 +24845,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Kingdom of Gloria": {
     "Nations": "Kingdom of Gloria",
     "Nation Check": "Kingdom of Gloria",
     "Overlord": "Scientarium",
@@ -25047,7 +24946,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "Khyxwuz": {
     "Nations": "Khyxwuz",
     "Nation Check": "Khyxwuz",
     "Overlord": "",
@@ -25148,7 +25047,7 @@
     "Mil. Pacts": "0",
     "Trades": "6"
   },
-  {
+  "Pavellion": {
     "Nations": "Pavellion",
     "Nation Check": "Pavellion",
     "Overlord": "Audgunn",
@@ -25249,7 +25148,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Vitten": {
     "Nations": "Vitten",
     "Nation Check": "Vitten",
     "Overlord": "",
@@ -25350,7 +25249,7 @@
     "Mil. Pacts": "1",
     "Trades": "5"
   },
-  {
+  "Grand Nimbusia": {
     "Nations": "Grand Nimbusia",
     "Nation Check": "Grand Nimbusia",
     "Overlord": "",
@@ -25451,7 +25350,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "Second State of Los": {
     "Nations": "Second State of Los",
     "Nation Check": "Second State of Los",
     "Overlord": "",
@@ -25552,7 +25451,7 @@
     "Mil. Pacts": "1",
     "Trades": "5"
   },
-  {
+  "Unigol": {
     "Nations": "Unigol",
     "Nation Check": "Unigol",
     "Overlord": "",
@@ -25653,7 +25552,7 @@
     "Mil. Pacts": "0",
     "Trades": "2"
   },
-  {
+  "The Kingdom of Lunar": {
     "Nations": "The Kingdom of Lunar",
     "Nation Check": "The Kingdom of Lunar",
     "Overlord": "",
@@ -25754,7 +25653,7 @@
     "Mil. Pacts": "1",
     "Trades": "5"
   },
-  {
+  "The Republic of Alyvosk": {
     "Nations": "The Republic of Alyvosk",
     "Nation Check": "The Republic of Alyvosk",
     "Overlord": "",
@@ -25855,7 +25754,7 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  {
+  "Drionn Galith": {
     "Nations": "Drionn Galith",
     "Nation Check": "Drionn Galith",
     "Overlord": "",
@@ -25956,7 +25855,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "Mach Republic": {
     "Nations": "Mach Republic",
     "Nation Check": "Mach Republic",
     "Overlord": "",
@@ -26057,7 +25956,7 @@
     "Mil. Pacts": "0",
     "Trades": "7"
   },
-  {
+  "The Ruzgaristan Enclave": {
     "Nations": "The Ruzgaristan Enclave",
     "Nation Check": "The Ruzgaristan Enclave",
     "Overlord": "Meadoia Dynasty",
@@ -26158,7 +26057,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Kingdom of Ardungual": {
     "Nations": "Kingdom of Ardungual",
     "Nation Check": "Kingdom of Ardungual",
     "Overlord": "",
@@ -26259,7 +26158,7 @@
     "Mil. Pacts": "0",
     "Trades": "6"
   },
-  {
+  "Kingdom of Kahtet": {
     "Nations": "Kingdom of Kahtet",
     "Nation Check": "Kingdom of Kahtet",
     "Overlord": "",
@@ -26360,7 +26259,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Svetograd": {
     "Nations": "Svetograd",
     "Nation Check": "Svetograd",
     "Overlord": "",
@@ -26461,7 +26360,7 @@
     "Mil. Pacts": "1",
     "Trades": "11"
   },
-  {
+  "The Ignate of Manineira": {
     "Nations": "The Ignate of Manineira",
     "Nation Check": "The Ignate of Manineira",
     "Overlord": "",
@@ -26562,7 +26461,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "The Kingdom of Zahar": {
     "Nations": "The Kingdom of Zahar",
     "Nation Check": "The Kingdom of Zahar",
     "Overlord": "",
@@ -26663,7 +26562,7 @@
     "Mil. Pacts": "1",
     "Trades": "6"
   },
-  {
+  "Unified Republic of Kaiarau": {
     "Nations": "Unified Republic of Kaiarau",
     "Nation Check": "Unified Republic of Kaiarau",
     "Overlord": "",
@@ -26764,7 +26663,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "The Animal Kingdom": {
     "Nations": "The Animal Kingdom",
     "Nation Check": "The Animal Kingdom",
     "Overlord": "",
@@ -26865,7 +26764,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "The Kingdom of Zakheira": {
     "Nations": "The Kingdom of Zakheira",
     "Nation Check": "The Kingdom of Zakheira",
     "Overlord": "",
@@ -26966,7 +26865,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Kingdom of the Kettlelands": {
     "Nations": "Kingdom of the Kettlelands",
     "Nation Check": "Kingdom of the Kettlelands",
     "Overlord": "",
@@ -27067,7 +26966,7 @@
     "Mil. Pacts": "2",
     "Trades": "8"
   },
-  {
+  "Nuanta": {
     "Nations": "Nuanta",
     "Nation Check": "Nuanta",
     "Overlord": "",
@@ -27168,7 +27067,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "Tsûa Lâng": {
     "Nations": "Tsûa Lâng",
     "Nation Check": "Tsûa Lâng",
     "Overlord": "",
@@ -27269,7 +27168,7 @@
     "Mil. Pacts": "0",
     "Trades": "7"
   },
-  {
+  "Kingdom of Nymeria ": {
     "Nations": "Kingdom of Nymeria ",
     "Nation Check": "Kingdom of Nymeria ",
     "Overlord": "",
@@ -27370,7 +27269,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "The Al-Deni Dominion": {
     "Nations": "The Al-Deni Dominion",
     "Nation Check": "The Al-Deni Dominion",
     "Overlord": "",
@@ -27471,7 +27370,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Kingdom of Lyroa": {
     "Nations": "Kingdom of Lyroa",
     "Nation Check": "Kingdom of Lyroa",
     "Overlord": "",
@@ -27572,7 +27471,7 @@
     "Mil. Pacts": "0",
     "Trades": "7"
   },
-  {
+  "The Free City of the Getsa": {
     "Nations": "The Free City of the Getsa",
     "Nation Check": "The Free City of the Getsa",
     "Overlord": "",
@@ -27673,7 +27572,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Hrvolan Qaris": {
     "Nations": "Hrvolan Qaris",
     "Nation Check": "Hrvolan Qaris",
     "Overlord": "",
@@ -27774,7 +27673,7 @@
     "Mil. Pacts": "1",
     "Trades": "4"
   },
-  {
+  "Glasrhaidd": {
     "Nations": "Glasrhaidd",
     "Nation Check": "Glasrhaidd",
     "Overlord": "",
@@ -27875,7 +27774,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "Teōcolhua": {
     "Nations": "Teōcolhua",
     "Nation Check": "Teōcolhua",
     "Overlord": "",
@@ -27976,7 +27875,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "The Great City of Kula": {
     "Nations": "The Great City of Kula",
     "Nation Check": "The Great City of Kula",
     "Overlord": "",
@@ -28077,7 +27976,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Sancta Discordia": {
     "Nations": "Sancta Discordia",
     "Nation Check": "Sancta Discordia",
     "Overlord": "",
@@ -28178,7 +28077,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "Mulosk": {
     "Nations": "Mulosk",
     "Nation Check": "Mulosk",
     "Overlord": "",
@@ -28279,7 +28178,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Nummum": {
     "Nations": "Nummum",
     "Nation Check": "Nummum",
     "Overlord": "",
@@ -28380,7 +28279,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "The Kingdom of Sk'o'chapr": {
     "Nations": "The Kingdom of Sk'o'chapr",
     "Nation Check": "The Kingdom of Sk'o'chapr",
     "Overlord": "",
@@ -28481,7 +28380,7 @@
     "Mil. Pacts": "1",
     "Trades": "5"
   },
-  {
+  "Sajuanelhi": {
     "Nations": "Sajuanelhi",
     "Nation Check": "Sajuanelhi",
     "Overlord": "",
@@ -28582,7 +28481,7 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  {
+  "Autoriteit Hollezel": {
     "Nations": "Autoriteit Hollezel",
     "Nation Check": "Autoriteit Hollezel",
     "Overlord": "",
@@ -28683,7 +28582,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Novae Aeseriae": {
     "Nations": "Novae Aeseriae",
     "Nation Check": "Novae Aeseriae",
     "Overlord": "",
@@ -28784,7 +28683,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "Cheiraa Ousenika": {
     "Nations": "Cheiraa Ousenika",
     "Nation Check": "Cheiraa Ousenika",
     "Overlord": "",
@@ -28885,7 +28784,7 @@
     "Mil. Pacts": "2",
     "Trades": "4"
   },
-  {
+  "The State of Iskura": {
     "Nations": "The State of Iskura",
     "Nation Check": "The State of Iskura",
     "Overlord": "",
@@ -28986,7 +28885,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Mizarina": {
     "Nations": "Mizarina",
     "Nation Check": "Mizarina",
     "Overlord": "",
@@ -29087,7 +28986,7 @@
     "Mil. Pacts": "0",
     "Trades": "9"
   },
-  {
+  "Zarkone": {
     "Nations": "Zarkone",
     "Nation Check": "Zarkone",
     "Overlord": "",
@@ -29188,7 +29087,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "State of Aburrido": {
     "Nations": "State of Aburrido",
     "Nation Check": "State of Aburrido",
     "Overlord": "",
@@ -29289,7 +29188,7 @@
     "Mil. Pacts": "1",
     "Trades": "1"
   },
-  {
+  "Cóchua Kingdom": {
     "Nations": "Cóchua Kingdom",
     "Nation Check": "Cóchua Kingdom",
     "Overlord": "",
@@ -29390,7 +29289,7 @@
     "Mil. Pacts": "0",
     "Trades": "2"
   },
-  {
+  "Herzogtum Enzla": {
     "Nations": "Herzogtum Enzla",
     "Nation Check": "Herzogtum Enzla",
     "Overlord": "",
@@ -29491,7 +29390,7 @@
     "Mil. Pacts": "2",
     "Trades": "8"
   },
-  {
+  "Zudrye Sisterhood": {
     "Nations": "Zudrye Sisterhood",
     "Nation Check": "Zudrye Sisterhood",
     "Overlord": "",
@@ -29592,7 +29491,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Nuvoria": {
     "Nations": "Nuvoria",
     "Nation Check": "Nuvoria",
     "Overlord": "",
@@ -29693,7 +29592,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Steppeheart Herd": {
     "Nations": "Steppeheart Herd",
     "Nation Check": "Steppeheart Herd",
     "Overlord": "",
@@ -29794,7 +29693,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Stortingr Republik af Frystdömet": {
     "Nations": "Stortingr Republik af Frystdömet",
     "Nation Check": "Stortingr Republik af Frystdömet",
     "Overlord": "",
@@ -29895,7 +29794,7 @@
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  {
+  "Nāšā Qaḏmāyā": {
     "Nations": "Nāšā Qaḏmāyā",
     "Nation Check": "Nāšā Qaḏmāyā",
     "Overlord": "",
@@ -29996,7 +29895,7 @@
     "Mil. Pacts": "2",
     "Trades": "9"
   },
-  {
+  "The Seelern State": {
     "Nations": "The Seelern State",
     "Nation Check": "The Seelern State",
     "Overlord": "",
@@ -30097,7 +29996,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Audgunn": {
     "Nations": "Audgunn",
     "Nation Check": "Audgunn",
     "Overlord": "",
@@ -30198,7 +30097,7 @@
     "Mil. Pacts": "0",
     "Trades": "6"
   },
-  {
+  "The Tribes of C’tis": {
     "Nations": "The Tribes of C’tis",
     "Nation Check": "The Tribes of C’tis",
     "Overlord": "",
@@ -30299,7 +30198,7 @@
     "Mil. Pacts": "1",
     "Trades": "4"
   },
-  {
+  "The Sacred Band of Sargon": {
     "Nations": "The Sacred Band of Sargon",
     "Nation Check": "The Sacred Band of Sargon",
     "Overlord": "",
@@ -30400,7 +30299,7 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  {
+  "The Safeguard": {
     "Nations": "The Safeguard",
     "Nation Check": "The Safeguard",
     "Overlord": "Audgunn",
@@ -30501,7 +30400,7 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  {
+  "Ophenadon": {
     "Nations": "Ophenadon",
     "Nation Check": "Ophenadon",
     "Overlord": "The Free Cities of Cupiditas",
@@ -30602,7 +30501,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Ceridwyn Teulu": {
     "Nations": "Ceridwyn Teulu",
     "Nation Check": "Ceridwyn Teulu",
     "Overlord": "",
@@ -30703,7 +30602,7 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  {
+  "The Grand City of Smmeíaia": {
     "Nations": "The Grand City of Smmeíaia",
     "Nation Check": "The Grand City of Smmeíaia",
     "Overlord": "",
@@ -30804,7 +30703,7 @@
     "Mil. Pacts": "1",
     "Trades": "1"
   },
-  {
+  "Visjido": {
     "Nations": "Visjido",
     "Nation Check": "Visjido",
     "Overlord": "",
@@ -30905,7 +30804,7 @@
     "Mil. Pacts": "1",
     "Trades": "4"
   },
-  {
+  "Etolian Πολιτεία": {
     "Nations": "Etolian Πολιτεία",
     "Nation Check": "Etolian Πολιτεία",
     "Overlord": "",
@@ -31006,7 +30905,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Enushkan Ur Kaash'shum": {
     "Nations": "Enushkan Ur Kaash'shum",
     "Nation Check": "Enushkan Ur Kaash'shum",
     "Overlord": "",
@@ -31107,7 +31006,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Bork": {
     "Nations": "Bork",
     "Nation Check": "Bork",
     "Overlord": "Here Be Dragons",
@@ -31208,7 +31107,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Yayallpa": {
     "Nations": "Yayallpa",
     "Nation Check": "Yayallpa",
     "Overlord": "",
@@ -31309,7 +31208,7 @@
     "Mil. Pacts": "2",
     "Trades": "4"
   },
-  {
+  "Eskannwa": {
     "Nations": "Eskannwa",
     "Nation Check": "Eskannwa",
     "Overlord": "",
@@ -31410,7 +31309,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Gul-Kesh": {
     "Nations": "Gul-Kesh",
     "Nation Check": "Gul-Kesh",
     "Overlord": "",
@@ -31511,7 +31410,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Alapadana": {
     "Nations": "Alapadana",
     "Nation Check": "Alapadana",
     "Overlord": "",
@@ -31612,7 +31511,7 @@
     "Mil. Pacts": "2",
     "Trades": "8"
   },
-  {
+  "Kup": {
     "Nations": "Kup",
     "Nation Check": "Kup",
     "Overlord": "",
@@ -31713,7 +31612,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Malekate of Opolexion": {
     "Nations": "Malekate of Opolexion",
     "Nation Check": "Malekate of Opolexion",
     "Overlord": "",
@@ -31814,7 +31713,7 @@
     "Mil. Pacts": "1",
     "Trades": "6"
   },
-  {
+  "Poloma": {
     "Nations": "Poloma",
     "Nation Check": "Poloma",
     "Overlord": "",
@@ -31915,7 +31814,7 @@
     "Mil. Pacts": "2",
     "Trades": "1"
   },
-  {
+  "Adelaar Legioen": {
     "Nations": "Adelaar Legioen",
     "Nation Check": "Adelaar Legioen",
     "Overlord": "",
@@ -32016,7 +31915,7 @@
     "Mil. Pacts": "0",
     "Trades": "11"
   },
-  {
+  "Pucanje": {
     "Nations": "Pucanje",
     "Nation Check": "Pucanje",
     "Overlord": "",
@@ -32117,7 +32016,7 @@
     "Mil. Pacts": "1",
     "Trades": "5"
   },
-  {
+  "The Galdu Ipar Republic": {
     "Nations": "The Galdu Ipar Republic",
     "Nation Check": "The Galdu Ipar Republic",
     "Overlord": "",
@@ -32218,7 +32117,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "The Tsyurin State": {
     "Nations": "The Tsyurin State",
     "Nation Check": "The Tsyurin State",
     "Overlord": "",
@@ -32319,7 +32218,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Scarcojiu": {
     "Nations": "Scarcojiu",
     "Nation Check": "Scarcojiu",
     "Overlord": "",
@@ -32420,7 +32319,7 @@
     "Mil. Pacts": "1",
     "Trades": "5"
   },
-  {
+  "Zastita": {
     "Nations": "Zastita",
     "Nation Check": "Zastita",
     "Overlord": "",
@@ -32521,7 +32420,7 @@
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  {
+  "Mardune": {
     "Nations": "Mardune",
     "Nation Check": "Mardune",
     "Overlord": "",
@@ -32622,7 +32521,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Jahanje": {
     "Nations": "Jahanje",
     "Nation Check": "Jahanje",
     "Overlord": "",
@@ -32723,7 +32622,7 @@
     "Mil. Pacts": "0",
     "Trades": "2"
   },
-  {
+  "I’Hamon": {
     "Nations": "I’Hamon",
     "Nation Check": "I’Hamon",
     "Overlord": "",
@@ -32824,7 +32723,7 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  {
+  "Kiciakinikan": {
     "Nations": "Kiciakinikan",
     "Nation Check": "Kiciakinikan",
     "Overlord": "",
@@ -32925,7 +32824,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Galdu Hegal": {
     "Nations": "Galdu Hegal",
     "Nation Check": "Galdu Hegal",
     "Overlord": "",
@@ -33026,7 +32925,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "Krosen Dynasty": {
     "Nations": "Krosen Dynasty",
     "Nation Check": "Krosen Dynasty",
     "Overlord": "",
@@ -33127,7 +33026,7 @@
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  {
+  "Tuk Dynasty": {
     "Nations": "Tuk Dynasty",
     "Nation Check": "Tuk Dynasty",
     "Overlord": "",
@@ -33228,7 +33127,7 @@
     "Mil. Pacts": "2",
     "Trades": "10"
   },
-  {
+  "Chernkov": {
     "Nations": "Chernkov",
     "Nation Check": "Chernkov",
     "Overlord": "The Teutā Erwā",
@@ -33329,7 +33228,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "Sange Teren": {
     "Nations": "Sange Teren",
     "Nation Check": "Sange Teren",
     "Overlord": "Extremely Radical Corta",
@@ -33430,7 +33329,7 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  {
+  "The Jokers": {
     "Nations": "The Jokers",
     "Nation Check": "The Jokers",
     "Overlord": "",
@@ -33531,7 +33430,7 @@
     "Mil. Pacts": "2",
     "Trades": "6"
   },
-  {
+  "Rokmar Camp": {
     "Nations": "Rokmar Camp",
     "Nation Check": "Rokmar Camp",
     "Overlord": "The Second Temple",
@@ -33632,7 +33531,7 @@
     "Mil. Pacts": "0",
     "Trades": "3"
   },
-  {
+  "Sadis Ultimuspes": {
     "Nations": "Sadis Ultimuspes",
     "Nation Check": "Sadis Ultimuspes",
     "Overlord": "Nixond",
@@ -33733,4 +33632,4 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   }
-]
+}
