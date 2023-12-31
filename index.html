@@ -20,14 +20,12 @@
 
 
 	<datalist id="nationList"></datalist>
-	<label for="depthInput">Enter Depth:</label>
-	<input type="number" id="depthInput" min="1" value="1" oninput="displayNationDetails()">
+	<label for="depthInput">Depth:</label>
+	<input type="number" id="depthInput" value="1" min="1" onchange="updateGraph()">
 
-	<div id="nationDetails"></div>
-	<div id="alliancesPactsDetails"></div>
 
-	<!-- <label for="deepnessDropdown">How deep do you want to go:</label> -->
-	<!-- <select id="deepnessDropdown"></select> -->
+	<!-- <div id="nationDetails"></div> -->
+	<div id="graph"></div>
 
 	<svg width="1960" height="1960"></svg>
 	<!-- Load d3.js -->
@@ -77,119 +75,113 @@
 				option.value = nationName;
 				nationList.appendChild(option);
 			});
+			updateGraph();
 		}
 
-		// Function to display nation details
-		// function displayNationDetails() {
-		// 	const selectedNationName = document.getElementById('nationDropdown').value;
-		// 	console.log(selectedNationName);
-		// 	const nationDetails = document.getElementById('NationDetails');
+		// 	// Function to display nation details
+		// 	function displayNationDetails() {
+		// 		const selectedNationName = document.getElementById('nationDropdown').value;
+		// 		console.log(selectedNationName);
+		// 		const nationDetails = document.getElementById('NationDetails');
 
-		// 	// Find the selected nation in the JSON data
-		// 	const selectedNationData = data[selectedNationName];
-		//     console.log(selectedNationData);
-		//     const selectedArmyData = armyData[selectedNationName];
-		//     console.log(selectedArmyData);
-		//     const powArmy = parseInt(selectedArmyData.Pow_Army.replace(/[^0-9]/g, ''), 10);
-		//     console.log(powArmy);
-		//     // Display the details in the HTML
-		//     nationDetails.innerHTML = '<code>' + JSON.stringify(selectedNationData,  null, 2) + powArmy + '</code>';
+		// 		// Find the selected nation in the JSON data
+		// 		const selectedNationData = data[selectedNationName];
+		// 		console.log(selectedNationData);
+		// 		const selectedArmyData = armyData[selectedNationName];
+		// 		console.log(selectedArmyData);
+		// 		const powArmy = parseInt(selectedArmyData.Pow_Army.replace(/[^0-9]/g, ''), 10);
+		// 		console.log(powArmy);
+		// 		// Display the details in the HTML
+		// 		nationDetails.innerHTML = '<code>' + JSON.stringify(selectedNationData, null, 2) + powArmy + '</code>';
 		// }
-		function displayNationDetails() {
-			const selectedNationName = document.getElementById('nationDropdown').value;
-			const depth = document.getElementById('depthInput').value;
+		function displayNationDetails(selectedNationName) {
 			const nationDetails = document.getElementById('nationDetails');
-			const alliancesPactsDetails = document.getElementById('alliancesPactsDetails');
+			const armyDetails = document.getElementById('armyDetails');
 
 			// Find the selected nation in the JSON data
 			const selectedNationData = data[selectedNationName];
 
 			// Display the details in the HTML
 			nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
-
-			// Generate the alliances/pacts structure
-			const alliancesPacts = generateAlliancesPacts(selectedNationName, depth);
-
-			// Display the alliances/pacts details in the HTML
-			alliancesPactsDetails.innerHTML = '<pre>' + JSON.stringify(alliancesPacts, null, 2) + '</pre>';
 		}
 
-		// Function to generate alliances/pacts structure up to the specified depth
-		function generateAlliancesPacts(nationName, depth) {
-			if (depth <= 0) {
-				return { nodes: [], links: [] };
+		// Function to update the graph
+		function updateGraph() {
+			const selectedNationName = document.getElementById('nationDropdown').value;
+			const depth = parseInt(document.getElementById('depthInput').value, 10);
+
+			// Get the military alliances and defensive pacts up to the specified depth
+			const graphData = getGraphData(selectedNationName, depth);
+
+			// Display the graph data in the HTML
+			displayGraph(graphData);
+		}
+
+		// Recursive function to get graph data
+		function getGraphData(nationName, depth, visited = new Set()) {
+			if (depth <= 0 || visited.has(nationName)) {
+				return null;
 			}
 
-			const alliancesPacts = { nodes: [], links: [] };
+			visited.add(nationName);
 
-			function addNode(nodeName) {
-				const existingNode = alliancesPacts.nodes.find(node => node.name === nodeName);
-				if (!existingNode) {
-					const newNode = { id: alliancesPacts.nodes.length + 1, name: nodeName };
-					alliancesPacts.nodes.push(newNode);
-				}
+			const alliances = data[nationName]["Military Alliances"];
+			const defensivePacts = data[nationName]["Defensive Pacts"];
+
+			const node = { id: nationName, name: nationName };
+			const links = [];
+
+			// Process alliances
+			if (alliances) {
+				alliances.split(', ').forEach(ally => {
+					const allyData = getGraphData(ally, depth - 1, visited);
+					if (allyData) {
+						links.push({ source: node.id, target: allyData.id });
+						links.push(...allyData.links);
+					}
+				});
 			}
 
-			function addLink(sourceName, targetName) {
-				const sourceNode = alliancesPacts.nodes.find(node => node.name === sourceName);
-				const targetNode = alliancesPacts.nodes.find(node => node.name === targetName);
-
-				if (sourceNode && targetNode) {
-					alliancesPacts.links.push({ source: sourceNode.id, target: targetNode.id });
-				}
+			// Process defensive pacts
+			if (defensivePacts) {
+				defensivePacts.split(', ').forEach(pact => {
+					const pactData = getGraphData(pact, depth - 1, visited);
+					if (pactData) {
+						links.push({ source: node.id, target: pactData.id });
+						links.push(...pactData.links);
+					}
+				});
 			}
 
-			function exploreAllies(currentNationName, currentDepth) {
-				if (currentDepth <= 0) {
-					return;
-				}
+			return { nodes: [node], links };
+		}
 
-				const currentNationData = data[currentNationName];
+		// Function to display the graph data
+		function displayGraph(graphData) {
+			const graphContainer = document.getElementById('graph');
+			graphContainer.innerHTML = '';
 
-				// Check if 'Military Alliances' is an array
-				if (Array.isArray(currentNationData['Military Alliances'])) {
-					currentNationData['Military Alliances'].forEach(alliedNationName => {
-						addNode(alliedNationName);
-						addLink(currentNationName, alliedNationName);
-
-						// Recursive exploration
-						exploreAllies(alliedNationName, currentDepth - 1);
-					});
-				} else if (currentNationData['Military Alliances']) {
-					// If it's not an array but a single value
-					const alliedNationName = currentNationData['Military Alliances'];
-					addNode(alliedNationName);
-					addLink(currentNationName, alliedNationName);
-
-					// Recursive exploration
-					exploreAllies(alliedNationName, currentDepth - 1);
-				}
-
-				// Explore pacts (similar logic as above)
-				if (Array.isArray(currentNationData['Def. Pacts'])) {
-					currentNationData['Def. Pacts'].forEach(pactNationName => {
-						addNode(pactNationName);
-						addLink(currentNationName, pactNationName);
-
-						// Recursive exploration
-						exploreAllies(pactNationName, currentDepth - 1);
-					});
-				} else if (currentNationData['Def. Pacts']) {
-					// If it's not an array but a single value
-					const pactNationName = currentNationData['Def. Pacts'];
-					addNode(pactNationName);
-					addLink(currentNationName, pactNationName);
-
-					// Recursive exploration
-					exploreAllies(pactNationName, currentDepth - 1);
-				}
+			if (!graphData) {
+				return;
 			}
 
-			// Start exploration from the selected nation
-			addNode(nationName);
-			exploreAllies(nationName, depth);
+			const nodes = graphData.nodes;
+			const links = graphData.links;
 
-			return alliancesPacts;
+			// Display the graph using your preferred graph visualization library (e.g., D3.js, vis.js, etc.)
+			// Here, we'll use a simple textual representation
+			const graphText = `
+        <p>Nodes:</p>
+        <ul>
+          ${nodes.map(node => `<li>${node.name}</li>`).join('')}
+        </ul>
+        <p>Links:</p>
+        <ul>
+          ${links.map(link => `<li>${link.source} -> ${link.target}</li>`).join('')}
+        </ul>
+      `;
+
+			graphContainer.innerHTML = graphText;
 		}
 	</script>
 
