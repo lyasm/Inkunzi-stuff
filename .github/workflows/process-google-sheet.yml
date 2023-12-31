@@ -54,4 +54,3 @@ jobs:
         git add army.json
           git commit -m "Update processed Sheets data [skip ci]"
           git push
-        fi
