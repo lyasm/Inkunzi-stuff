@@ -61,6 +61,14 @@
       })
 			.catch(error => console.error('Error loading JSON:', error));
 
+	  // Fetch the army JSON data
+    fetch('army.json')
+      .then(response => response.json())
+      .then(armyJsonData => {
+        armyData = armyJsonData;
+      })
+      .catch(error => console.error('Error loading army JSON:', error));
+
 		// Function to filter nations based on user input
 		function filterNations() {
 			const input = document.getElementById('nationDropdown').value.toLowerCase();
@@ -94,9 +102,11 @@
 
 			// Find the selected nation in the JSON data
 			const selectedNationData = data[selectedNationName];
-			console.log(selectedNationData);
+		    console.log(selectedNationData);
+			const selectedArmyData = armyData[selectedNationName];
+		    console.log(selectedArmyData);
 			// Display the details in the HTML
-		    nationDetails.innerHTML = '<code>' + JSON.stringify(selectedNationData, null, 2) + '</code>';
+		    nationDetails.innerHTML = '<code>' + JSON.stringify(selectedArmyData, null, 2) + JSON.stringify(selectedNationData, null, 2) + '</code>';
 		}
 
 	</script>
