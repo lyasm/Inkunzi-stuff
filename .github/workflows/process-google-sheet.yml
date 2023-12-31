@@ -52,9 +52,9 @@ jobs:
         git config --global user.name "GitHub Actions"
         git add diplo.json
         git add army.json
-        if git diff --quiet; then
-          echo "No changes to commit."
-        else
           git commit -m "Update processed Sheets data [skip ci]"
+        if git diff --quiet; then
+          echo "No changes to commit"
+        else
           git push
         fi
