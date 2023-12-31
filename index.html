@@ -48,12 +48,6 @@
 
 				// Get the datalist and populate it with nation names
 				const nationList = document.getElementById('nationList');
-			// 	data.forEach(entry => {
-			// 		const option = document.createElement('option');
-			// 		option.value = entry.Nations;
-			// 		nationList.appendChild(option);
-			// 	});
-			    // })
 			Object.keys(data).forEach(nationName => {
           const option = document.createElement('option');
           option.value = nationName;
@@ -73,16 +67,6 @@
 		// Function to filter nations based on user input
 		function filterNations() {
 			const input = document.getElementById('nationDropdown').value.toLowerCase();
-			// const filteredNations = data.filter(entry => entry.Nations.toLowerCase().includes(input));
-
-			// // Update the datalist with filtered nations
-			// const nationList = document.getElementById('nationList');
-			// nationList.innerHTML = '';
-			// filteredNations.forEach(entry => {
-			// 	const option = document.createElement('option');
-			// 	option.value = entry.Nations;
-			// 	nationList.appendChild(option);
-		    // });
 		const filteredNations = Object.keys(data).filter(nationName => nationName.toLowerCase().includes(input));
 
       // Update the datalist with filtered nations
@@ -104,7 +88,7 @@
 			// Find the selected nation in the JSON data
 			const selectedNationData = data[selectedNationName];
 		    console.log(selectedNationData);
-			const selectedArmyData = armyData[selectedNationName];
+		    const selectedArmyData = armyData[selectedNationName];
 		    console.log(selectedArmyData);
 			// Display the details in the HTML
 		    nationDetails.innerHTML = '<code>' + JSON.stringify(selectedArmyData, null, 2) + JSON.stringify(selectedNationData, null, 2) + '</code>';
