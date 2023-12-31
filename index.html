@@ -88,10 +88,10 @@
 			// Find the selected nation in the JSON data
 			const selectedNationData = data[selectedNationName];
 		    console.log(selectedNationData);
-		    const selectedArmyData = armyData[selectedNationName];
-		    console.log(selectedArmyData);
+		    // const selectedArmyData = armyData[selectedNationName];
+		    // console.log(selectedArmyData);
 			// Display the details in the HTML
-		    nationDetails.innerHTML = '<code>' + JSON.stringify(selectedArmyData, null, 2) + JSON.stringify(selectedNationData, null, 2) + '</code>';
+		    nationDetails.innerHTML = '<code>' + JSON.stringify(selectedArmyData, null, 2) '</code>';
 		}
 
 	</script>
