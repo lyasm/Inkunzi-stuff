@@ -14,21 +14,24 @@
 
 <body>
 
-	<svg width="960" height="600"></svg>
+
 	<label for="nationDropdown">Select a Nation:</label>
 	<input type="text" id="nationDropdown" oninput="filterNations()" list="nationList">
 
 	<datalist id="nationList"></datalist>
 
+	<div id="NationDetails"></div>
+
 	<!-- <label for="deepnessDropdown">How deep do you want to go:</label> -->
 	<!-- <select id="deepnessDropdown"></select> -->
+
+	<svg width="1960" height="1960"></svg>
 	<!-- Load d3.js -->
 	<script src="https://d3js.org/d3.v4.min.js"></script>
 
 	<!-- Create a div where the graph will take place -->
 	<div id="my_dataviz"></div>
 
-	<div id="NationDetails"></div>
 
 	<script>
 		let data;
