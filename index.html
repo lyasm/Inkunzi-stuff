@@ -44,42 +44,58 @@
 
 				// Get the datalist and populate it with nation names
 				const nationList = document.getElementById('nationList');
-				data.forEach(entry => {
-					const option = document.createElement('option');
-					option.value = entry.Nations;
-					nationList.appendChild(option);
-				});
-			})
+			// 	data.forEach(entry => {
+			// 		const option = document.createElement('option');
+			// 		option.value = entry.Nations;
+			// 		nationList.appendChild(option);
+			// 	});
+			    // })
+			Object.keys(data).forEach(nationName => {
+          const option = document.createElement('option');
+          option.value = nationName;
+          nationList.appendChild(option);
+        });
+      })
 			.catch(error => console.error('Error loading JSON:', error));
 
 		// Function to filter nations based on user input
 		function filterNations() {
 			const input = document.getElementById('nationDropdown').value.toLowerCase();
-			const filteredNations = data.filter(entry => entry.Nations.toLowerCase().includes(input));
+			// const filteredNations = data.filter(entry => entry.Nations.toLowerCase().includes(input));
 
-			// Update the datalist with filtered nations
-			const nationList = document.getElementById('nationList');
-			nationList.innerHTML = '';
-			filteredNations.forEach(entry => {
-				const option = document.createElement('option');
-				option.value = entry.Nations;
-				nationList.appendChild(option);
-			});
+			// // Update the datalist with filtered nations
+			// const nationList = document.getElementById('nationList');
+			// nationList.innerHTML = '';
+			// filteredNations.forEach(entry => {
+			// 	const option = document.createElement('option');
+			// 	option.value = entry.Nations;
+			// 	nationList.appendChild(option);
+		    // });
+		const filteredNations = Object.keys(data).filter(nationName => nationName.toLowerCase().includes(input));
+
+      // Update the datalist with filtered nations
+      const nationList = document.getElementById('nationList');
+      nationList.innerHTML = '';
+      filteredNations.forEach(nationName => {
+        const option = document.createElement('option');
+        option.value = nationName;
+        nationList.appendChild(option);
+      });
 		}
 
 		// Function to display nation details
 		function displayNationDetails() {
-			const selectedNation = document.getElementById('nationDropdown').value;
+			const selectedNationName = document.getElementById('nationDropdown').value;
 			console.log(selectedNation);
 			const nationDetails = document.getElementById('NationDetails');
 
 			// Find the selected nation in the JSON data
-			const selectedNationData = data.find(entry => entry.Nations === selectedNation);
+			const selectedNationData = data[selectedNationName];
 			console.log(selectedNationData);
 			// Display the details in the HTML
 			nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
 		}
-	
+
 	</script>
 
 
