@@ -53,8 +53,5 @@ jobs:
         git add diplo.json
         git add army.json
           git commit -m "Update processed Sheets data [skip ci]"
-        if git diff --quiet; then
-          echo "No changes to commit"
-        else
           git push
         fi
