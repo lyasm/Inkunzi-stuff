@@ -9,6 +9,9 @@
 		#nationDropdown {
 			width: 300px;
 		}
+		.code {
+		    font-size: 10;
+		}
 	</style>
 </head>
 
@@ -93,7 +96,7 @@
 			const selectedNationData = data[selectedNationName];
 			console.log(selectedNationData);
 			// Display the details in the HTML
-			nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
+		    nationDetails.innerHTML = '<code>' + JSON.stringify(selectedNationData, null, 2) + '</code>';
 		}
 
 	</script>
