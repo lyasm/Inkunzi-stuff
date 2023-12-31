@@ -20,8 +20,11 @@
 
 
 	<datalist id="nationList"></datalist>
+  <label for="depthInput">Enter Depth:</label>
+  <input type="number" id="depthInput" min="1" value="1" oninput="displayNationDetails()">
 
-	<div id="NationDetails"></div>
+  <div id="nationDetails"></div>
+  <div id="alliancesPactsDetails"></div>
 
 	<!-- <label for="deepnessDropdown">How deep do you want to go:</label> -->
 	<!-- <select id="deepnessDropdown"></select> -->
@@ -77,21 +80,97 @@
 		}
 
 		// Function to display nation details
-		function displayNationDetails() {
-			const selectedNationName = document.getElementById('nationDropdown').value;
-			console.log(selectedNationName);
-			const nationDetails = document.getElementById('NationDetails');
+		// function displayNationDetails() {
+		// 	const selectedNationName = document.getElementById('nationDropdown').value;
+		// 	console.log(selectedNationName);
+		// 	const nationDetails = document.getElementById('NationDetails');
 
-			// Find the selected nation in the JSON data
-			const selectedNationData = data[selectedNationName];
-		    console.log(selectedNationData);
-		    const selectedArmyData = armyData[selectedNationName];
-		    console.log(selectedArmyData);
-		    const powArmy = parseInt(selectedArmyData.Pow_Army.replace(/[^0-9]/g, ''), 10);
-		    console.log(powArmy);
-		    // Display the details in the HTML
-		    nationDetails.innerHTML = '<code>' + JSON.stringify(selectedNationData,  null, 2) + powArmy + '</code>';
-		}
+		// 	// Find the selected nation in the JSON data
+		// 	const selectedNationData = data[selectedNationName];
+		//     console.log(selectedNationData);
+		//     const selectedArmyData = armyData[selectedNationName];
+		//     console.log(selectedArmyData);
+		//     const powArmy = parseInt(selectedArmyData.Pow_Army.replace(/[^0-9]/g, ''), 10);
+		//     console.log(powArmy);
+		//     // Display the details in the HTML
+		//     nationDetails.innerHTML = '<code>' + JSON.stringify(selectedNationData,  null, 2) + powArmy + '</code>';
+	  // }
+	      function displayNationDetails() {
+      const selectedNationName = document.getElementById('nationDropdown').value;
+      const depth = document.getElementById('depthInput').value;
+      const nationDetails = document.getElementById('nationDetails');
+      const alliancesPactsDetails = document.getElementById('alliancesPactsDetails');
+
+      // Find the selected nation in the JSON data
+      const selectedNationData = data[selectedNationName];
+
+      // Display the details in the HTML
+      nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
+
+      // Generate the alliances/pacts structure
+      const alliancesPacts = generateAlliancesPacts(selectedNationName, depth);
+
+      // Display the alliances/pacts details in the HTML
+      alliancesPactsDetails.innerHTML = '<pre>' + JSON.stringify(alliancesPacts, null, 2) + '</pre>';
+    }
+
+    // Function to generate alliances/pacts structure up to the specified depth
+    function generateAlliancesPacts(nationName, depth) {
+      if (depth <= 0) {
+        return { nodes: [], links: [] };
+      }
+
+      const alliancesPacts = { nodes: [], links: [] };
+
+      function addNode(nodeName) {
+        const existingNode = alliancesPacts.nodes.find(node => node.name === nodeName);
+        if (!existingNode) {
+          const newNode = { id: alliancesPacts.nodes.length + 1, name: nodeName };
+          alliancesPacts.nodes.push(newNode);
+        }
+      }
+
+      function addLink(sourceName, targetName) {
+        const sourceNode = alliancesPacts.nodes.find(node => node.name === sourceName);
+        const targetNode = alliancesPacts.nodes.find(node => node.name === targetName);
+
+        if (sourceNode && targetNode) {
+          alliancesPacts.links.push({ source: sourceNode.id, target: targetNode.id });
+        }
+      }
+
+      function exploreAllies(currentNationName, currentDepth) {
+        if (currentDepth <= 0) {
+          return;
+        }
+
+        const currentNationData = data[currentNationName];
+
+        // Explore allies
+        currentNationData["Military Alliances"].forEach(alliedNationName => {
+          addNode(alliedNationName);
+          addLink(currentNationName, alliedNationName);
+
+          // Recursive exploration
+          exploreAllies(alliedNationName, currentDepth - 1);
+        });
+
+        // Explore pacts
+        currentNationData["Def. Pacts"].forEach(pactNationName => {
+          addNode(pactNationName);
+          addLink(currentNationName, pactNationName);
+
+          // Recursive exploration
+          exploreAllies(pactNationName, currentDepth - 1);
+        });
+      }
+
+      // Start exploration from the selected nation
+      addNode(nationName);
+      exploreAllies(nationName, depth);
+
+      return alliancesPacts;
+    }
 	</script>
 
 
