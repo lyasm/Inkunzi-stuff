@@ -95,6 +95,7 @@
 		// 		nationDetails.innerHTML = '<code>' + JSON.stringify(selectedNationData, null, 2) + powArmy + '</code>';
 		// }
 		function displayNationDetails(selectedNationName) {
+	 		const selectedNationName = document.getElementById('nationDropdown').value;
 			const nationDetails = document.getElementById('nationDetails');
 			const armyDetails = document.getElementById('armyDetails');
 
@@ -106,7 +107,7 @@
 		}
 
 		// Function to update the graph
-		function updateGraph() {
+	  function updateGraph() {
 			const selectedNationName = document.getElementById('nationDropdown').value;
 			const depth = parseInt(document.getElementById('depthInput').value, 10);
 
@@ -122,6 +123,7 @@
 			if (depth <= 0 || visited.has(nationName)) {
 				return null;
 			}
+		    nationName = document.getElementById('nationDropdown').value;
 
 			visited.add(nationName);
 
