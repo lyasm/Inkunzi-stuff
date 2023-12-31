@@ -1,2666 +1,2000 @@
-[
-  {
-    "ADMIN NATION": {
-      "Nations": "ADMIN NATION",
-      "Nation Check": "ADMIN NATION",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Aethyllion Pradesh": {
-      "Nations": "Aethyllion Pradesh",
-      "Nation Check": "Aethyllion Pradesh",
-      "Pow_Army": "5.07%",
-      "Pow_Navy": "18.20%"
-    }
-  },
-  {
-    "Aethyrrajyam": {
-      "Nations": "Aethyrrajyam",
-      "Nation Check": "Aethyrrajyam",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Agair": {
-      "Nations": "Agair",
-      "Nation Check": "Agair",
-      "Pow_Army": "14.93%",
-      "Pow_Navy": "2.47%"
-    }
-  },
-  {
-    "Alramia": {
-      "Nations": "Alramia",
-      "Nation Check": "Alramia",
-      "Pow_Army": "-0.48%",
-      "Pow_Navy": "18.20%"
-    }
-  },
-  {
-    "Amaldim": {
-      "Nations": "Amaldim",
-      "Nation Check": "Amaldim",
-      "Pow_Army": "-3.56%",
-      "Pow_Navy": "5.72%"
-    }
-  },
-  {
-    "Annakpolis": {
-      "Nations": "Annakpolis",
-      "Nation Check": "Annakpolis",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "ARG o Jillu Uylor": {
-      "Nations": "ARG o Jillu Uylor",
-      "Nation Check": "ARG o Jillu Uylor",
-      "Pow_Army": "41.25%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Atlas'ii": {
-      "Nations": "Atlas'ii",
-      "Nation Check": "Atlas'ii",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Azharid Caliphate": {
-      "Nations": "Azharid Caliphate",
-      "Nation Check": "Azharid Caliphate",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Baitveal": {
-      "Nations": "Baitveal",
-      "Nation Check": "Baitveal",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Brotherhood of Pikpik": {
-      "Nations": "Brotherhood of Pikpik",
-      "Nation Check": "Brotherhood of Pikpik",
-      "Pow_Army": "167.61%",
-      "Pow_Navy": "106.45%"
-    }
-  },
-  {
-    "Cabyarszag": {
-      "Nations": "Cabyarszag",
-      "Nation Check": "Cabyarszag",
-      "Pow_Army": "56.56%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Candentis Jalin": {
-      "Nations": "Candentis Jalin",
-      "Nation Check": "Candentis Jalin",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Caravan Republic of the Wonder-Oasis": {
-      "Nations": "Caravan Republic of the Wonder-Oasis",
-      "Nation Check": "Caravan Republic of the Wonder-Oasis",
-      "Pow_Army": "37.93%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Carya": {
-      "Nations": "Carya",
-      "Nation Check": "Carya",
-      "Pow_Army": "-1.79%",
-      "Pow_Navy": "16.17%"
-    }
-  },
-  {
-    "Clan Karatillion": {
-      "Nations": "Clan Karatillion",
-      "Nation Check": "Clan Karatillion",
-      "Pow_Army": "51.77%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Clan Làidirsgith": {
-      "Nations": "Clan Làidirsgith",
-      "Nation Check": "Clan Làidirsgith",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Clan Lepus": {
-      "Nations": "Clan Lepus",
-      "Nation Check": "Clan Lepus",
-      "Pow_Army": "56.02%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Council of Otvori": {
-      "Nations": "Council of Otvori",
-      "Nation Check": "Council of Otvori",
-      "Pow_Army": "122.83%",
-      "Pow_Navy": "106.45%"
-    }
-  },
-  {
-    "Council of the Alonissos Isles": {
-      "Nations": "Council of the Alonissos Isles",
-      "Nation Check": "Council of the Alonissos Isles",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Daemonic Inquisition": {
-      "Nations": "Daemonic Inquisition",
-      "Nation Check": "Daemonic Inquisition",
-      "Pow_Army": "39.32%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Daoquia": {
-      "Nations": "Daoquia",
-      "Nation Check": "Daoquia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Darzi Loyalists": {
-      "Nations": "Darzi Loyalists",
-      "Nation Check": "Darzi Loyalists",
-      "Pow_Army": "63.40%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Denirar": {
-      "Nations": "Denirar",
-      "Nation Check": "Denirar",
-      "Pow_Army": "73.42%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Emirate of Zira": {
-      "Nations": "Emirate of Zira",
-      "Nation Check": "Emirate of Zira",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Extremely Radical Corta": {
-      "Nations": "Extremely Radical Corta",
-      "Nation Check": "Extremely Radical Corta",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Federation of the Winds": {
-      "Nations": "Federation of the Winds",
-      "Nation Check": "Federation of the Winds",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Followers of the Chosen": {
-      "Nations": "Followers of the Chosen",
-      "Nation Check": "Followers of the Chosen",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Four Leagues of Trinity": {
-      "Nations": "Four Leagues of Trinity",
-      "Nation Check": "Four Leagues of Trinity",
-      "Pow_Army": "26.95%",
-      "Pow_Navy": "39.73%"
-    }
-  },
-  {
-    "Free City of Fray Ventos": {
-      "Nations": "Free City of Fray Ventos",
-      "Nation Check": "Free City of Fray Ventos",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Free City of Hered": {
-      "Nations": "Free City of Hered",
-      "Nation Check": "Free City of Hered",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Gerak": {
-      "Nations": "Gerak",
-      "Nation Check": "Gerak",
-      "Pow_Army": "-17.33%",
-      "Pow_Navy": "5.49%"
-    }
-  },
-  {
-    "Gno’hdail Impireachd": {
-      "Nations": "Gno’hdail Impireachd",
-      "Nation Check": "Gno’hdail Impireachd",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Gol": {
-      "Nations": "Gol",
-      "Nation Check": "Gol",
-      "Pow_Army": "13.19%",
-      "Pow_Navy": "7.06%"
-    }
-  },
-  {
-    "Gramantinia": {
-      "Nations": "Gramantinia",
-      "Nation Check": "Gramantinia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Gran Prismatia": {
-      "Nations": "Gran Prismatia",
-      "Nation Check": "Gran Prismatia",
-      "Pow_Army": "75.90%",
-      "Pow_Navy": "77.57%"
-    }
-  },
-  {
-    "Grand Tetalay": {
-      "Nations": "Grand Tetalay",
-      "Nation Check": "Grand Tetalay",
-      "Pow_Army": "41.56%",
-      "Pow_Navy": "20.93%"
-    }
-  },
-  {
-    "Greater Stahlland": {
-      "Nations": "Greater Stahlland",
-      "Nation Check": "Greater Stahlland",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Here Be Dragons": {
-      "Nations": "Here Be Dragons",
-      "Nation Check": "Here Be Dragons",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Iarthar Grove": {
-      "Nations": "Iarthar Grove",
-      "Nation Check": "Iarthar Grove",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Ilikiu'Foriris": {
-      "Nations": "Ilikiu'Foriris",
-      "Nation Check": "Ilikiu'Foriris",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Ilioratica": {
-      "Nations": "Ilioratica",
-      "Nation Check": "Ilioratica",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Ironskin Kingdom": {
-      "Nations": "Ironskin Kingdom",
-      "Nation Check": "Ironskin Kingdom",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Ishmalkan Confederated Cities": {
-      "Nations": "Ishmalkan Confederated Cities",
-      "Nation Check": "Ishmalkan Confederated Cities",
-      "Pow_Army": "24.39%",
-      "Pow_Navy": "20.93%"
-    }
-  },
-  {
-    "Jörðnar": {
-      "Nations": "Jörðnar",
-      "Nation Check": "Jörðnar",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Karak Drung": {
-      "Nations": "Karak Drung",
-      "Nation Check": "Karak Drung",
-      "Pow_Army": "18.73%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Karak Gazan": {
-      "Nations": "Karak Gazan",
-      "Nation Check": "Karak Gazan",
-      "Pow_Army": "58.77%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Kashin Aquanorix": {
-      "Nations": "Kashin Aquanorix",
-      "Nation Check": "Kashin Aquanorix",
-      "Pow_Army": "36.45%",
-      "Pow_Navy": "33.98%"
-    }
-  },
-  {
-    "Kashin Corba": {
-      "Nations": "Kashin Corba",
-      "Nation Check": "Kashin Corba",
-      "Pow_Army": "37.63%",
-      "Pow_Navy": "33.98%"
-    }
-  },
-  {
-    "Kashin Olderia": {
-      "Nations": "Kashin Olderia",
-      "Nation Check": "Kashin Olderia",
-      "Pow_Army": "31.83%",
-      "Pow_Navy": "33.98%"
-    }
-  },
-  {
-    "Katu-Lachei Aztarnak": {
-      "Nations": "Katu-Lachei Aztarnak",
-      "Nation Check": "Katu-Lachei Aztarnak",
-      "Pow_Army": "86.92%",
-      "Pow_Navy": "65.99%"
-    }
-  },
-  {
-    "Kawranti": {
-      "Nations": "Kawranti",
-      "Nation Check": "Kawranti",
-      "Pow_Army": "39.48%",
-      "Pow_Navy": "29.10%"
-    }
-  },
-  {
-    "Kiith Gaalsien": {
-      "Nations": "Kiith Gaalsien",
-      "Nation Check": "Kiith Gaalsien",
-      "Pow_Army": "1.89%",
-      "Pow_Navy": "20.95%"
-    }
-  },
-  {
-    "Kingdom of Geloía": {
-      "Nations": "Kingdom of Geloía",
-      "Nation Check": "Kingdom of Geloía",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of Nexus": {
-      "Nations": "Kingdom of Nexus",
-      "Nation Check": "Kingdom of Nexus",
-      "Pow_Army": "17.46%",
-      "Pow_Navy": "13.31%"
-    }
-  },
-  {
-    "Ko'ch Q'ash": {
-      "Nations": "Ko'ch Q'ash",
-      "Nation Check": "Ko'ch Q'ash",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Korograt State": {
-      "Nations": "Korograt State",
-      "Nation Check": "Korograt State",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Krigarstam": {
-      "Nations": "Krigarstam",
-      "Nation Check": "Krigarstam",
-      "Pow_Army": "19.70%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Kycerian Dominion": {
-      "Nations": "Kycerian Dominion",
-      "Nation Check": "Kycerian Dominion",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Lialikidus": {
-      "Nations": "Lialikidus",
-      "Nation Check": "Lialikidus",
-      "Pow_Army": "38.71%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Los": {
-      "Nations": "Los",
-      "Nation Check": "Los",
-      "Pow_Army": "71.50%",
-      "Pow_Navy": "65.99%"
-    }
-  },
-  {
-    "Lowy Combine": {
-      "Nations": "Lowy Combine",
-      "Nation Check": "Lowy Combine",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Lundrium": {
-      "Nations": "Lundrium",
-      "Nation Check": "Lundrium",
-      "Pow_Army": "68.93%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Mās'": {
-      "Nations": "Mās'",
-      "Nation Check": "Mās'",
-      "Pow_Army": "116.76%",
-      "Pow_Navy": "106.45%"
-    }
-  },
-  {
-    "Mātrentwo": {
-      "Nations": "Mātrentwo",
-      "Nation Check": "Mātrentwo",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Mazazuma": {
-      "Nations": "Mazazuma",
-      "Nation Check": "Mazazuma",
-      "Pow_Army": "98.16%",
-      "Pow_Navy": "77.57%"
-    }
-  },
-  {
-    "Nanakueyaltepetl": {
-      "Nations": "Nanakueyaltepetl",
-      "Nation Check": "Nanakueyaltepetl",
-      "Pow_Army": "115.53%",
-      "Pow_Navy": "65.99%"
-    }
-  },
-  {
-    "Netsanet Republic": {
-      "Nations": "Netsanet Republic",
-      "Nation Check": "Netsanet Republic",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Nixond": {
-      "Nations": "Nixond",
-      "Nation Check": "Nixond",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Onaokoku": {
-      "Nations": "Onaokoku",
-      "Nation Check": "Onaokoku",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Order of Rock and Stone": {
-      "Nations": "Order of Rock and Stone",
-      "Nation Check": "Order of Rock and Stone",
-      "Pow_Army": "58.33%",
-      "Pow_Navy": "42.60%"
-    }
-  },
-  {
-    "Principality of Kol'zaskopjeia": {
-      "Nations": "Principality of Kol'zaskopjeia",
-      "Nation Check": "Principality of Kol'zaskopjeia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Psarades": {
-      "Nations": "Psarades",
-      "Nation Check": "Psarades",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Q'awachu": {
-      "Nations": "Q'awachu",
-      "Nation Check": "Q'awachu",
-      "Pow_Army": "48.13%",
-      "Pow_Navy": "29.10%"
-    }
-  },
-  {
-    "Rampart Republic": {
-      "Nations": "Rampart Republic",
-      "Nation Check": "Rampart Republic",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Republyk Balresk": {
-      "Nations": "Republyk Balresk",
-      "Nation Check": "Republyk Balresk",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Restored Arisii Confederation": {
-      "Nations": "Restored Arisii Confederation",
-      "Nation Check": "Restored Arisii Confederation",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Shakisu": {
-      "Nations": "Shakisu",
-      "Nation Check": "Shakisu",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Skullantium": {
-      "Nations": "Skullantium",
-      "Nation Check": "Skullantium",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Spinelle": {
-      "Nations": "Spinelle",
-      "Nation Check": "Spinelle",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Talanrío": {
-      "Nations": "Talanrío",
-      "Nation Check": "Talanrío",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Terra Magicae": {
-      "Nations": "Terra Magicae",
-      "Nation Check": "Terra Magicae",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Charter Territory of Riveria": {
-      "Nations": "The Charter Territory of Riveria",
-      "Nation Check": "The Charter Territory of Riveria",
-      "Pow_Army": "2.03%",
-      "Pow_Navy": "3.52%"
-    }
-  },
-  {
-    "The High Dukedom of Duloque": {
-      "Nations": "The High Dukedom of Duloque",
-      "Nation Check": "The High Dukedom of Duloque",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Wild Fields": {
-      "Nations": "The Wild Fields",
-      "Nation Check": "The Wild Fields",
-      "Pow_Army": "23.54%",
-      "Pow_Navy": "11.52%"
-    }
-  },
-  {
-    "Theocratic Republic of Rekkatsija": {
-      "Nations": "Theocratic Republic of Rekkatsija",
-      "Nation Check": "Theocratic Republic of Rekkatsija",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Trinitas": {
-      "Nations": "Trinitas",
-      "Nation Check": "Trinitas",
-      "Pow_Army": "135.89%",
-      "Pow_Navy": "106.45%"
-    }
-  },
-  {
-    "Uisceam Grove": {
-      "Nations": "Uisceam Grove",
-      "Nation Check": "Uisceam Grove",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Ulanasa Republic": {
-      "Nations": "Ulanasa Republic",
-      "Nation Check": "Ulanasa Republic",
-      "Pow_Army": "32.75%",
-      "Pow_Navy": "20.93%"
-    }
-  },
-  {
-    "Uqhuma Killa": {
-      "Nations": "Uqhuma Killa",
-      "Nation Check": "Uqhuma Killa",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Vyraisos": {
-      "Nations": "Vyraisos",
-      "Nation Check": "Vyraisos",
-      "Pow_Army": "77.23%",
-      "Pow_Navy": "77.57%"
-    }
-  },
-  {
-    "Fellowship of the Crown": {
-      "Nations": "Fellowship of the Crown",
-      "Nation Check": "Fellowship of the Crown",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Wandon Council": {
-      "Nations": "Wandon Council",
-      "Nation Check": "Wandon Council",
-      "Pow_Army": "29.28%",
-      "Pow_Navy": "29.10%"
-    }
-  },
-  {
-    "WrestleMania": {
-      "Nations": "WrestleMania",
-      "Nation Check": "WrestleMania",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Yuranisuk": {
-      "Nations": "Yuranisuk",
-      "Nation Check": "Yuranisuk",
-      "Pow_Army": "31.12%",
-      "Pow_Navy": "16.17%"
-    }
-  },
-  {
-    "City State of Kido": {
-      "Nations": "City State of Kido",
-      "Nation Check": "City State of Kido",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Maatada Istara": {
-      "Nations": "Maatada Istara",
-      "Nation Check": "Maatada Istara",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Velken Bulwark": {
-      "Nations": "Velken Bulwark",
-      "Nation Check": "Velken Bulwark",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Thaandom of Fangkar": {
-      "Nations": "Thaandom of Fangkar",
-      "Nation Check": "Thaandom of Fangkar",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Sarmatai Confederation": {
-      "Nations": "Sarmatai Confederation",
-      "Nation Check": "Sarmatai Confederation",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Alderdorf": {
-      "Nations": "Alderdorf",
-      "Nation Check": "Alderdorf",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Hanza Trade Republic": {
-      "Nations": "Hanza Trade Republic",
-      "Nation Check": "Hanza Trade Republic",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of Jasper": {
-      "Nations": "Kingdom of Jasper",
-      "Nation Check": "Kingdom of Jasper",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Tort Uli Xaliq": {
-      "Nations": "Tort Uli Xaliq",
-      "Nation Check": "Tort Uli Xaliq",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Saulka": {
-      "Nations": "Saulka",
-      "Nation Check": "Saulka",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Imperial Theocracy of Borbenska": {
-      "Nations": "Imperial Theocracy of Borbenska",
-      "Nation Check": "Imperial Theocracy of Borbenska",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Meridomus Kalleprii": {
-      "Nations": "Meridomus Kalleprii",
-      "Nation Check": "Meridomus Kalleprii",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Lauzydos": {
-      "Nations": "Lauzydos",
-      "Nation Check": "Lauzydos",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Free City of Erub-Kai": {
-      "Nations": "Free City of Erub-Kai",
-      "Nation Check": "Free City of Erub-Kai",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Free City of Zephon": {
-      "Nations": "Free City of Zephon",
-      "Nation Check": "Free City of Zephon",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Queendom of Edithia": {
-      "Nations": "Queendom of Edithia",
-      "Nation Check": "Queendom of Edithia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of Aeornia": {
-      "Nations": "Kingdom of Aeornia",
-      "Nation Check": "Kingdom of Aeornia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Tetóth Kegeth": {
-      "Nations": "Tetóth Kegeth",
-      "Nation Check": "Tetóth Kegeth",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Hadastan Commenwealth": {
-      "Nations": "Hadastan Commenwealth",
-      "Nation Check": "Hadastan Commenwealth",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Royal City of Gevero": {
-      "Nations": "Royal City of Gevero",
-      "Nation Check": "Royal City of Gevero",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Snow Dominion": {
-      "Nations": "Snow Dominion",
-      "Nation Check": "Snow Dominion",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Kingdom of Hemia": {
-      "Nations": "The Kingdom of Hemia",
-      "Nation Check": "The Kingdom of Hemia",
-      "Pow_Army": "19.72%",
-      "Pow_Navy": "9.86%"
-    }
-  },
-  {
-    "Federation of Tlo'tsaa": {
-      "Nations": "Federation of Tlo'tsaa",
-      "Nation Check": "Federation of Tlo'tsaa",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Ceavia": {
-      "Nations": "Ceavia",
-      "Nation Check": "Ceavia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Carcukhanate": {
-      "Nations": "Carcukhanate",
-      "Nation Check": "Carcukhanate",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Stryaxina": {
-      "Nations": "Stryaxina",
-      "Nation Check": "Stryaxina",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Imperial City of Soria": {
-      "Nations": "Imperial City of Soria",
-      "Nation Check": "Imperial City of Soria",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Great Host of the Unconquered Sun": {
-      "Nations": "Great Host of the Unconquered Sun",
-      "Nation Check": "Great Host of the Unconquered Sun",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Zalmoxia": {
-      "Nations": "Zalmoxia",
-      "Nation Check": "Zalmoxia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Mercati Emporium": {
-      "Nations": "Mercati Emporium",
-      "Nation Check": "Mercati Emporium",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Jalpol": {
-      "Nations": "Jalpol",
-      "Nation Check": "Jalpol",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Terrum Aetheri": {
-      "Nations": "Terrum Aetheri",
-      "Nation Check": "Terrum Aetheri",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Holy Kingdom of Scripts": {
-      "Nations": "Holy Kingdom of Scripts",
-      "Nation Check": "Holy Kingdom of Scripts",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of Járnfjall": {
-      "Nations": "Kingdom of Járnfjall",
-      "Nation Check": "Kingdom of Járnfjall",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Mébian Confederation": {
-      "Nations": "Mébian Confederation",
-      "Nation Check": "Mébian Confederation",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Jään Herruus": {
-      "Nations": "Jään Herruus",
-      "Nation Check": "Jään Herruus",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Drahacira": {
-      "Nations": "Drahacira",
-      "Nation Check": "Drahacira",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Forge of Aarde": {
-      "Nations": "Forge of Aarde",
-      "Nation Check": "Forge of Aarde",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Teutā Erwā": {
-      "Nations": "The Teutā Erwā",
-      "Nation Check": "The Teutā Erwā",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Arcadia": {
-      "Nations": "Arcadia",
-      "Nation Check": "Arcadia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Arethousa": {
-      "Nations": "Arethousa",
-      "Nation Check": "Arethousa",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Ashdayn": {
-      "Nations": "Ashdayn",
-      "Nation Check": "Ashdayn",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Rastoria": {
-      "Nations": "Rastoria",
-      "Nation Check": "Rastoria",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Saholnahes Ceuluanas": {
-      "Nations": "Saholnahes Ceuluanas",
-      "Nation Check": "Saholnahes Ceuluanas",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Amerian Republic": {
-      "Nations": "The Amerian Republic",
-      "Nation Check": "The Amerian Republic",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of Gallacia": {
-      "Nations": "Kingdom of Gallacia",
-      "Nation Check": "Kingdom of Gallacia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Statute of Order": {
-      "Nations": "The Statute of Order",
-      "Nation Check": "The Statute of Order",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Pólitonskóron": {
-      "Nations": "Pólitonskóron",
-      "Nation Check": "Pólitonskóron",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Thys Alari": {
-      "Nations": "Thys Alari",
-      "Nation Check": "Thys Alari",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of Mimgrond": {
-      "Nations": "Kingdom of Mimgrond",
-      "Nation Check": "Kingdom of Mimgrond",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Exodists of Amunkedat": {
-      "Nations": "Exodists of Amunkedat",
-      "Nation Check": "Exodists of Amunkedat",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Yeotang": {
-      "Nations": "Yeotang",
-      "Nation Check": "Yeotang",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Colmea": {
-      "Nations": "Colmea",
-      "Nation Check": "Colmea",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Soroner": {
-      "Nations": "Soroner",
-      "Nation Check": "Soroner",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kh'nûll Diocese": {
-      "Nations": "Kh'nûll Diocese",
-      "Nation Check": "Kh'nûll Diocese",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Scientarium": {
-      "Nations": "Scientarium",
-      "Nation Check": "Scientarium",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Diogen": {
-      "Nations": "Diogen",
-      "Nation Check": "Diogen",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Republic o. Zuntirar": {
-      "Nations": "Republic o. Zuntirar",
-      "Nation Check": "Republic o. Zuntirar",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Free City of Zephyrabad": {
-      "Nations": "Free City of Zephyrabad",
-      "Nation Check": "Free City of Zephyrabad",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Wendel Witaner": {
-      "Nations": "The Wendel Witaner",
-      "Nation Check": "The Wendel Witaner",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Brotherhood of Dwarves": {
-      "Nations": "Brotherhood of Dwarves",
-      "Nation Check": "Brotherhood of Dwarves",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Chitinara": {
-      "Nations": "Chitinara",
-      "Nation Check": "Chitinara",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "High City of Tirsil": {
-      "Nations": "High City of Tirsil",
-      "Nation Check": "High City of Tirsil",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Elphonsa": {
-      "Nations": "Elphonsa",
-      "Nation Check": "Elphonsa",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kilshandia": {
-      "Nations": "Kilshandia",
-      "Nation Check": "Kilshandia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Maa": {
-      "Nations": "Maa",
-      "Nation Check": "Maa",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Lisanos": {
-      "Nations": "Lisanos",
-      "Nation Check": "Lisanos",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "HlérHeim": {
-      "Nations": "HlérHeim",
-      "Nation Check": "HlérHeim",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Grand Principality of Onica": {
-      "Nations": "Grand Principality of Onica",
-      "Nation Check": "Grand Principality of Onica",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Republic of Nymaró": {
-      "Nations": "Republic of Nymaró",
-      "Nation Check": "Republic of Nymaró",
-      "Pow_Army": "83.12%",
-      "Pow_Navy": "56.93%"
-    }
-  },
-  {
-    "Meadoia Dynasty": {
-      "Nations": "Meadoia Dynasty",
-      "Nation Check": "Meadoia Dynasty",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Ewig Republic": {
-      "Nations": "Ewig Republic",
-      "Nation Check": "Ewig Republic",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Holy Realm of Herkunft": {
-      "Nations": "The Holy Realm of Herkunft",
-      "Nation Check": "The Holy Realm of Herkunft",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Fu Tiangun Realm": {
-      "Nations": "Fu Tiangun Realm",
-      "Nation Check": "Fu Tiangun Realm",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Glorbentura": {
-      "Nations": "Glorbentura",
-      "Nation Check": "Glorbentura",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Despotate of Kaartiyek": {
-      "Nations": "The Despotate of Kaartiyek",
-      "Nation Check": "The Despotate of Kaartiyek",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Hui Kai": {
-      "Nations": "Hui Kai",
-      "Nation Check": "Hui Kai",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Vorokov": {
-      "Nations": "Vorokov",
-      "Nation Check": "Vorokov",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Treakwielg": {
-      "Nations": "Treakwielg",
-      "Nation Check": "Treakwielg",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Aislings": {
-      "Nations": "The Aislings",
-      "Nation Check": "The Aislings",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Principality of Skanderborg": {
-      "Nations": "Principality of Skanderborg",
-      "Nation Check": "Principality of Skanderborg",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Akalikania": {
-      "Nations": "Akalikania",
-      "Nation Check": "Akalikania",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Stepovytskyi Cossack Host": {
-      "Nations": "Stepovytskyi Cossack Host",
-      "Nation Check": "Stepovytskyi Cossack Host",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Dukedom of Sylicia": {
-      "Nations": "The Dukedom of Sylicia",
-      "Nation Check": "The Dukedom of Sylicia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Tautaspils": {
-      "Nations": "Tautaspils",
-      "Nation Check": "Tautaspils",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kaug-Põhja": {
-      "Nations": "Kaug-Põhja",
-      "Nation Check": "Kaug-Põhja",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Pyhätmetsät": {
-      "Nations": "Pyhätmetsät",
-      "Nation Check": "Pyhätmetsät",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of the Aurore": {
-      "Nations": "Kingdom of the Aurore",
-      "Nation Check": "Kingdom of the Aurore",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Araybattahya ": {
-      "Nations": "Araybattahya ",
-      "Nation Check": "Araybattahya ",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Morchandor": {
-      "Nations": "Morchandor",
-      "Nation Check": "Morchandor",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Ascendant Regency of Newstar": {
-      "Nations": "Ascendant Regency of Newstar",
-      "Nation Check": "Ascendant Regency of Newstar",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Magoen Lurraldea": {
-      "Nations": "Magoen Lurraldea",
-      "Nation Check": "Magoen Lurraldea",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Lohiida Dathinaal": {
-      "Nations": "Lohiida Dathinaal",
-      "Nation Check": "Lohiida Dathinaal",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Vantira": {
-      "Nations": "Vantira",
-      "Nation Check": "Vantira",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Republic of Rostora": {
-      "Nations": "Republic of Rostora",
-      "Nation Check": "Republic of Rostora",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Cassion": {
-      "Nations": "Cassion",
-      "Nation Check": "Cassion",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Clan of Skye ": {
-      "Nations": "Clan of Skye ",
-      "Nation Check": "Clan of Skye ",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Shiny Taking": {
-      "Nations": "Shiny Taking",
-      "Nation Check": "Shiny Taking",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Xriotir": {
-      "Nations": "Xriotir",
-      "Nation Check": "Xriotir",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Malo'Sami": {
-      "Nations": "Malo'Sami",
-      "Nation Check": "Malo'Sami",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Trade Families of Kemakmura": {
-      "Nations": "The Trade Families of Kemakmura",
-      "Nation Check": "The Trade Families of Kemakmura",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Caesnauka Empire": {
-      "Nations": "Caesnauka Empire",
-      "Nation Check": "Caesnauka Empire",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Iidunn": {
-      "Nations": "Iidunn",
-      "Nation Check": "Iidunn",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Remid Republic": {
-      "Nations": "Remid Republic",
-      "Nation Check": "Remid Republic",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Amethyst Clan": {
-      "Nations": "Amethyst Clan",
-      "Nation Check": "Amethyst Clan",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Lakarish Kingdom of Olkmania": {
-      "Nations": "The Lakarish Kingdom of Olkmania",
-      "Nation Check": "The Lakarish Kingdom of Olkmania",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Serenissima Res Publica Di Ghalivi": {
-      "Nations": "Serenissima Res Publica Di Ghalivi",
-      "Nation Check": "Serenissima Res Publica Di Ghalivi",
-      "Pow_Army": "47.56%",
-      "Pow_Navy": "32.53%"
-    }
-  },
-  {
-    "Raaspazzlivatl": {
-      "Nations": "Raaspazzlivatl",
-      "Nation Check": "Raaspazzlivatl",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Tavir": {
-      "Nations": "Tavir",
-      "Nation Check": "Tavir",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "United Federation of Malam States": {
-      "Nations": "United Federation of Malam States",
-      "Nation Check": "United Federation of Malam States",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Natałor": {
-      "Nations": "Natałor",
-      "Nation Check": "Natałor",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Gavi’ Kingdom": {
-      "Nations": "The Gavi’ Kingdom",
-      "Nation Check": "The Gavi’ Kingdom",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kinh Nam City-State": {
-      "Nations": "Kinh Nam City-State",
-      "Nation Check": "Kinh Nam City-State",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Mhawm Meung Ssok Nyieat Qux Si": {
-      "Nations": "Mhawm Meung Ssok Nyieat Qux Si",
-      "Nation Check": "Mhawm Meung Ssok Nyieat Qux Si",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Lună sângeroasă": {
-      "Nations": "Lună sângeroasă",
-      "Nation Check": "Lună sângeroasă",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Akaḣpetoƞ": {
-      "Nations": "Akaḣpetoƞ",
-      "Nation Check": "Akaḣpetoƞ",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Awakened": {
-      "Nations": "The Awakened",
-      "Nation Check": "The Awakened",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Lepnia": {
-      "Nations": "Lepnia",
-      "Nation Check": "Lepnia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Thaurinna": {
-      "Nations": "Thaurinna",
-      "Nation Check": "Thaurinna",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Il-Esak'Chukhpelekh": {
-      "Nations": "Il-Esak'Chukhpelekh",
-      "Nation Check": "Il-Esak'Chukhpelekh",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Goldmongers": {
-      "Nations": "Goldmongers",
-      "Nation Check": "Goldmongers",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "M'Qili Confederacy": {
-      "Nations": "M'Qili Confederacy",
-      "Nation Check": "M'Qili Confederacy",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Nournourlant": {
-      "Nations": "Nournourlant",
-      "Nation Check": "Nournourlant",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Tarmarches": {
-      "Nations": "The Tarmarches",
-      "Nation Check": "The Tarmarches",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Akali": {
-      "Nations": "Akali",
-      "Nation Check": "Akali",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Commonwealth of Gonaria": {
-      "Nations": "Commonwealth of Gonaria",
-      "Nation Check": "Commonwealth of Gonaria",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Nema Pact": {
-      "Nations": "The Nema Pact",
-      "Nation Check": "The Nema Pact",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Order of The Radiance": {
-      "Nations": "Order of The Radiance",
-      "Nation Check": "Order of The Radiance",
-      "Pow_Army": "54.16%",
-      "Pow_Navy": "17.91%"
-    }
-  },
-  {
-    "Clankar Cog": {
-      "Nations": "Clankar Cog",
-      "Nation Check": "Clankar Cog",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Naga Wangjo": {
-      "Nations": "Naga Wangjo",
-      "Nation Check": "Naga Wangjo",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Council of Dehurkjols": {
-      "Nations": "Council of Dehurkjols",
-      "Nation Check": "Council of Dehurkjols",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Second Temple": {
-      "Nations": "The Second Temple",
-      "Nation Check": "The Second Temple",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Dinasygan": {
-      "Nations": "Dinasygan",
-      "Nation Check": "Dinasygan",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Môr Oer": {
-      "Nations": "Môr Oer",
-      "Nation Check": "Môr Oer",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Neonian Kuningate": {
-      "Nations": "Neonian Kuningate",
-      "Nation Check": "Neonian Kuningate",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Luminus": {
-      "Nations": "Luminus",
-      "Nation Check": "Luminus",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Free Cities of Cupiditas": {
-      "Nations": "The Free Cities of Cupiditas",
-      "Nation Check": "The Free Cities of Cupiditas",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Elyen-Mev": {
-      "Nations": "Elyen-Mev",
-      "Nation Check": "Elyen-Mev",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Murenman": {
-      "Nations": "Murenman",
-      "Nation Check": "Murenman",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Confederate of Caoilinn": {
-      "Nations": "Confederate of Caoilinn",
-      "Nation Check": "Confederate of Caoilinn",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The House": {
-      "Nations": "The House",
-      "Nation Check": "The House",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Holy Council of Axhaea": {
-      "Nations": "Holy Council of Axhaea",
-      "Nation Check": "Holy Council of Axhaea",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Xiboda": {
-      "Nations": "Xiboda",
-      "Nation Check": "Xiboda",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Sinere Theocracy": {
-      "Nations": "The Sinere Theocracy",
-      "Nation Check": "The Sinere Theocracy",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Rosefire Dynasty": {
-      "Nations": "Rosefire Dynasty",
-      "Nation Check": "Rosefire Dynasty",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Gilded City": {
-      "Nations": "The Gilded City",
-      "Nation Check": "The Gilded City",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Lysian Republic": {
-      "Nations": "Lysian Republic",
-      "Nation Check": "Lysian Republic",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Jubal'on": {
-      "Nations": "Jubal'on",
-      "Nation Check": "Jubal'on",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Karak Helhein": {
-      "Nations": "Karak Helhein",
-      "Nation Check": "Karak Helhein",
-      "Pow_Army": "26.13%",
-      "Pow_Navy": "21.56%"
-    }
-  },
-  {
-    "Tribes of Lunaria": {
-      "Nations": "Tribes of Lunaria",
-      "Nation Check": "Tribes of Lunaria",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of Gloria": {
-      "Nations": "Kingdom of Gloria",
-      "Nation Check": "Kingdom of Gloria",
-      "Pow_Army": "50.59%",
-      "Pow_Navy": "32.79%"
-    }
-  },
-  {
-    "Khyxwuz": {
-      "Nations": "Khyxwuz",
-      "Nation Check": "Khyxwuz",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Pavellion": {
-      "Nations": "Pavellion",
-      "Nation Check": "Pavellion",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Vitten": {
-      "Nations": "Vitten",
-      "Nation Check": "Vitten",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Grand Nimbusia": {
-      "Nations": "Grand Nimbusia",
-      "Nation Check": "Grand Nimbusia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Second State of Los": {
-      "Nations": "Second State of Los",
-      "Nation Check": "Second State of Los",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Unigol": {
-      "Nations": "Unigol",
-      "Nation Check": "Unigol",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Kingdom of Lunar": {
-      "Nations": "The Kingdom of Lunar",
-      "Nation Check": "The Kingdom of Lunar",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Republic of Alyvosk": {
-      "Nations": "The Republic of Alyvosk",
-      "Nation Check": "The Republic of Alyvosk",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Drionn Galith": {
-      "Nations": "Drionn Galith",
-      "Nation Check": "Drionn Galith",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Mach Republic": {
-      "Nations": "Mach Republic",
-      "Nation Check": "Mach Republic",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Ruzgaristan Enclave": {
-      "Nations": "The Ruzgaristan Enclave",
-      "Nation Check": "The Ruzgaristan Enclave",
-      "Pow_Army": "79.64%",
-      "Pow_Navy": "49.82%"
-    }
-  },
-  {
-    "Kingdom of Ardungual": {
-      "Nations": "Kingdom of Ardungual",
-      "Nation Check": "Kingdom of Ardungual",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of Kahtet": {
-      "Nations": "Kingdom of Kahtet",
-      "Nation Check": "Kingdom of Kahtet",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Svetograd": {
-      "Nations": "Svetograd",
-      "Nation Check": "Svetograd",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Ignate of Manineira": {
-      "Nations": "The Ignate of Manineira",
-      "Nation Check": "The Ignate of Manineira",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Kingdom of Zahar": {
-      "Nations": "The Kingdom of Zahar",
-      "Nation Check": "The Kingdom of Zahar",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Unified Republic of Kaiarau": {
-      "Nations": "Unified Republic of Kaiarau",
-      "Nation Check": "Unified Republic of Kaiarau",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Animal Kingdom": {
-      "Nations": "The Animal Kingdom",
-      "Nation Check": "The Animal Kingdom",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Kingdom of Zakheira": {
-      "Nations": "The Kingdom of Zakheira",
-      "Nation Check": "The Kingdom of Zakheira",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of the Kettlelands": {
-      "Nations": "Kingdom of the Kettlelands",
-      "Nation Check": "Kingdom of the Kettlelands",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Nuanta": {
-      "Nations": "Nuanta",
-      "Nation Check": "Nuanta",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Tsûa Lâng": {
-      "Nations": "Tsûa Lâng",
-      "Nation Check": "Tsûa Lâng",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of Nymeria ": {
-      "Nations": "Kingdom of Nymeria ",
-      "Nation Check": "Kingdom of Nymeria ",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Al-Deni Dominion": {
-      "Nations": "The Al-Deni Dominion",
-      "Nation Check": "The Al-Deni Dominion",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kingdom of Lyroa": {
-      "Nations": "Kingdom of Lyroa",
-      "Nation Check": "Kingdom of Lyroa",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Free City of the Getsa": {
-      "Nations": "The Free City of the Getsa",
-      "Nation Check": "The Free City of the Getsa",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Hrvolan Qaris": {
-      "Nations": "Hrvolan Qaris",
-      "Nation Check": "Hrvolan Qaris",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Glasrhaidd": {
-      "Nations": "Glasrhaidd",
-      "Nation Check": "Glasrhaidd",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Teōcolhua": {
-      "Nations": "Teōcolhua",
-      "Nation Check": "Teōcolhua",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Great City of Kula": {
-      "Nations": "The Great City of Kula",
-      "Nation Check": "The Great City of Kula",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Sancta Discordia": {
-      "Nations": "Sancta Discordia",
-      "Nation Check": "Sancta Discordia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Mulosk": {
-      "Nations": "Mulosk",
-      "Nation Check": "Mulosk",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Nummum": {
-      "Nations": "Nummum",
-      "Nation Check": "Nummum",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Kingdom of Sk'o'chapr": {
-      "Nations": "The Kingdom of Sk'o'chapr",
-      "Nation Check": "The Kingdom of Sk'o'chapr",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Sajuanelhi": {
-      "Nations": "Sajuanelhi",
-      "Nation Check": "Sajuanelhi",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Autoriteit Hollezel": {
-      "Nations": "Autoriteit Hollezel",
-      "Nation Check": "Autoriteit Hollezel",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Novae Aeseriae": {
-      "Nations": "Novae Aeseriae",
-      "Nation Check": "Novae Aeseriae",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Cheiraa Ousenika": {
-      "Nations": "Cheiraa Ousenika",
-      "Nation Check": "Cheiraa Ousenika",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The State of Iskura": {
-      "Nations": "The State of Iskura",
-      "Nation Check": "The State of Iskura",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Mizarina": {
-      "Nations": "Mizarina",
-      "Nation Check": "Mizarina",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Zarkone": {
-      "Nations": "Zarkone",
-      "Nation Check": "Zarkone",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "State of Aburrido": {
-      "Nations": "State of Aburrido",
-      "Nation Check": "State of Aburrido",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Cóchua Kingdom": {
-      "Nations": "Cóchua Kingdom",
-      "Nation Check": "Cóchua Kingdom",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Herzogtum Enzla": {
-      "Nations": "Herzogtum Enzla",
-      "Nation Check": "Herzogtum Enzla",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Zudrye Sisterhood": {
-      "Nations": "Zudrye Sisterhood",
-      "Nation Check": "Zudrye Sisterhood",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Nuvoria": {
-      "Nations": "Nuvoria",
-      "Nation Check": "Nuvoria",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Steppeheart Herd": {
-      "Nations": "Steppeheart Herd",
-      "Nation Check": "Steppeheart Herd",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Stortingr Republik af Frystdömet": {
-      "Nations": "Stortingr Republik af Frystdömet",
-      "Nation Check": "Stortingr Republik af Frystdömet",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Nāšā Qaḏmāyā": {
-      "Nations": "Nāšā Qaḏmāyā",
-      "Nation Check": "Nāšā Qaḏmāyā",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Seelern State": {
-      "Nations": "The Seelern State",
-      "Nation Check": "The Seelern State",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Audgunn": {
-      "Nations": "Audgunn",
-      "Nation Check": "Audgunn",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Tribes of C’tis": {
-      "Nations": "The Tribes of C’tis",
-      "Nation Check": "The Tribes of C’tis",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Sacred Band of Sargon": {
-      "Nations": "The Sacred Band of Sargon",
-      "Nation Check": "The Sacred Band of Sargon",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Safeguard": {
-      "Nations": "The Safeguard",
-      "Nation Check": "The Safeguard",
-      "Pow_Army": "60.18%",
-      "Pow_Navy": "56.93%"
-    }
-  },
-  {
-    "Ophenadon": {
-      "Nations": "Ophenadon",
-      "Nation Check": "Ophenadon",
-      "Pow_Army": "-30.07%",
-      "Pow_Navy": "5.96%"
-    }
-  },
-  {
-    "Ceridwyn Teulu": {
-      "Nations": "Ceridwyn Teulu",
-      "Nation Check": "Ceridwyn Teulu",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Grand City of Smmeíaia": {
-      "Nations": "The Grand City of Smmeíaia",
-      "Nation Check": "The Grand City of Smmeíaia",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Visjido": {
-      "Nations": "Visjido",
-      "Nation Check": "Visjido",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Etolian Πολιτεία": {
-      "Nations": "Etolian Πολιτεία",
-      "Nation Check": "Etolian Πολιτεία",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Enushkan Ur Kaash'shum": {
-      "Nations": "Enushkan Ur Kaash'shum",
-      "Nation Check": "Enushkan Ur Kaash'shum",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Bork": {
-      "Nations": "Bork",
-      "Nation Check": "Bork",
-      "Pow_Army": "-18.70%",
-      "Pow_Navy": "5.49%"
-    }
-  },
-  {
-    "Yayallpa": {
-      "Nations": "Yayallpa",
-      "Nation Check": "Yayallpa",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Eskannwa": {
-      "Nations": "Eskannwa",
-      "Nation Check": "Eskannwa",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Gul-Kesh": {
-      "Nations": "Gul-Kesh",
-      "Nation Check": "Gul-Kesh",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Alapadana": {
-      "Nations": "Alapadana",
-      "Nation Check": "Alapadana",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kup": {
-      "Nations": "Kup",
-      "Nation Check": "Kup",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Malekate of Opolexion": {
-      "Nations": "Malekate of Opolexion",
-      "Nation Check": "Malekate of Opolexion",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Poloma": {
-      "Nations": "Poloma",
-      "Nation Check": "Poloma",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Adelaar Legioen": {
-      "Nations": "Adelaar Legioen",
-      "Nation Check": "Adelaar Legioen",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Pucanje": {
-      "Nations": "Pucanje",
-      "Nation Check": "Pucanje",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Galdu Ipar Republic": {
-      "Nations": "The Galdu Ipar Republic",
-      "Nation Check": "The Galdu Ipar Republic",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "The Tsyurin State": {
-      "Nations": "The Tsyurin State",
-      "Nation Check": "The Tsyurin State",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Scarcojiu": {
-      "Nations": "Scarcojiu",
-      "Nation Check": "Scarcojiu",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Zastita": {
-      "Nations": "Zastita",
-      "Nation Check": "Zastita",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Mardune": {
-      "Nations": "Mardune",
-      "Nation Check": "Mardune",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Jahanje": {
-      "Nations": "Jahanje",
-      "Nation Check": "Jahanje",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "I’Hamon": {
-      "Nations": "I’Hamon",
-      "Nation Check": "I’Hamon",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Kiciakinikan": {
-      "Nations": "Kiciakinikan",
-      "Nation Check": "Kiciakinikan",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Galdu Hegal": {
-      "Nations": "Galdu Hegal",
-      "Nation Check": "Galdu Hegal",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Krosen Dynasty": {
-      "Nations": "Krosen Dynasty",
-      "Nation Check": "Krosen Dynasty",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Tuk Dynasty": {
-      "Nations": "Tuk Dynasty",
-      "Nation Check": "Tuk Dynasty",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Chernkov": {
-      "Nations": "Chernkov",
-      "Nation Check": "Chernkov",
-      "Pow_Army": "72.39%",
-      "Pow_Navy": "33.70%"
-    }
-  },
-  {
-    "Sange Teren": {
-      "Nations": "Sange Teren",
-      "Nation Check": "Sange Teren",
-      "Pow_Army": "9.66%",
-      "Pow_Navy": "7.06%"
-    }
-  },
-  {
-    "The Jokers": {
-      "Nations": "The Jokers",
-      "Nation Check": "The Jokers",
-      "Pow_Army": "",
-      "Pow_Navy": "0.00%"
-    }
-  },
-  {
-    "Rokmar Camp": {
-      "Nations": "Rokmar Camp",
-      "Nation Check": "Rokmar Camp",
-      "Pow_Army": "42.36%",
-      "Pow_Navy": "10.35%"
-    }
-  },
-  {
-    "Sadis Ultimuspes": {
-      "Nations": "Sadis Ultimuspes",
-      "Nation Check": "Sadis Ultimuspes",
-      "Pow_Army": "7.40%",
-      "Pow_Navy": "1.20%"
-    }
+{
+  "ADMIN NATION": {
+    "Nations": "ADMIN NATION",
+    "Nation Check": "ADMIN NATION",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Aethyllion Pradesh": {
+    "Nations": "Aethyllion Pradesh",
+    "Nation Check": "Aethyllion Pradesh",
+    "Pow_Army": "5.07%",
+    "Pow_Navy": "18.20%"
+  },
+  "Aethyrrajyam": {
+    "Nations": "Aethyrrajyam",
+    "Nation Check": "Aethyrrajyam",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Agair": {
+    "Nations": "Agair",
+    "Nation Check": "Agair",
+    "Pow_Army": "14.93%",
+    "Pow_Navy": "2.47%"
+  },
+  "Alramia": {
+    "Nations": "Alramia",
+    "Nation Check": "Alramia",
+    "Pow_Army": "-0.48%",
+    "Pow_Navy": "18.20%"
+  },
+  "Amaldim": {
+    "Nations": "Amaldim",
+    "Nation Check": "Amaldim",
+    "Pow_Army": "-3.56%",
+    "Pow_Navy": "5.72%"
+  },
+  "Annakpolis": {
+    "Nations": "Annakpolis",
+    "Nation Check": "Annakpolis",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "ARG o Jillu Uylor": {
+    "Nations": "ARG o Jillu Uylor",
+    "Nation Check": "ARG o Jillu Uylor",
+    "Pow_Army": "41.25%",
+    "Pow_Navy": "42.60%"
+  },
+  "Atlas'ii": {
+    "Nations": "Atlas'ii",
+    "Nation Check": "Atlas'ii",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Azharid Caliphate": {
+    "Nations": "Azharid Caliphate",
+    "Nation Check": "Azharid Caliphate",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Baitveal": {
+    "Nations": "Baitveal",
+    "Nation Check": "Baitveal",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Brotherhood of Pikpik": {
+    "Nations": "Brotherhood of Pikpik",
+    "Nation Check": "Brotherhood of Pikpik",
+    "Pow_Army": "167.61%",
+    "Pow_Navy": "106.45%"
+  },
+  "Cabyarszag": {
+    "Nations": "Cabyarszag",
+    "Nation Check": "Cabyarszag",
+    "Pow_Army": "56.56%",
+    "Pow_Navy": "42.60%"
+  },
+  "Candentis Jalin": {
+    "Nations": "Candentis Jalin",
+    "Nation Check": "Candentis Jalin",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Caravan Republic of the Wonder-Oasis": {
+    "Nations": "Caravan Republic of the Wonder-Oasis",
+    "Nation Check": "Caravan Republic of the Wonder-Oasis",
+    "Pow_Army": "37.93%",
+    "Pow_Navy": "42.60%"
+  },
+  "Carya": {
+    "Nations": "Carya",
+    "Nation Check": "Carya",
+    "Pow_Army": "-1.79%",
+    "Pow_Navy": "16.17%"
+  },
+  "Clan Karatillion": {
+    "Nations": "Clan Karatillion",
+    "Nation Check": "Clan Karatillion",
+    "Pow_Army": "51.77%",
+    "Pow_Navy": "42.60%"
+  },
+  "Clan Làidirsgith": {
+    "Nations": "Clan Làidirsgith",
+    "Nation Check": "Clan Làidirsgith",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Clan Lepus": {
+    "Nations": "Clan Lepus",
+    "Nation Check": "Clan Lepus",
+    "Pow_Army": "56.02%",
+    "Pow_Navy": "42.60%"
+  },
+  "Council of Otvori": {
+    "Nations": "Council of Otvori",
+    "Nation Check": "Council of Otvori",
+    "Pow_Army": "122.83%",
+    "Pow_Navy": "106.45%"
+  },
+  "Council of the Alonissos Isles": {
+    "Nations": "Council of the Alonissos Isles",
+    "Nation Check": "Council of the Alonissos Isles",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Daemonic Inquisition": {
+    "Nations": "Daemonic Inquisition",
+    "Nation Check": "Daemonic Inquisition",
+    "Pow_Army": "39.32%",
+    "Pow_Navy": "42.60%"
+  },
+  "Daoquia": {
+    "Nations": "Daoquia",
+    "Nation Check": "Daoquia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Darzi Loyalists": {
+    "Nations": "Darzi Loyalists",
+    "Nation Check": "Darzi Loyalists",
+    "Pow_Army": "63.40%",
+    "Pow_Navy": "42.60%"
+  },
+  "Denirar": {
+    "Nations": "Denirar",
+    "Nation Check": "Denirar",
+    "Pow_Army": "73.42%",
+    "Pow_Navy": "42.60%"
+  },
+  "Emirate of Zira": {
+    "Nations": "Emirate of Zira",
+    "Nation Check": "Emirate of Zira",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Extremely Radical Corta": {
+    "Nations": "Extremely Radical Corta",
+    "Nation Check": "Extremely Radical Corta",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Federation of the Winds": {
+    "Nations": "Federation of the Winds",
+    "Nation Check": "Federation of the Winds",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Followers of the Chosen": {
+    "Nations": "Followers of the Chosen",
+    "Nation Check": "Followers of the Chosen",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Four Leagues of Trinity": {
+    "Nations": "Four Leagues of Trinity",
+    "Nation Check": "Four Leagues of Trinity",
+    "Pow_Army": "26.95%",
+    "Pow_Navy": "39.73%"
+  },
+  "Free City of Fray Ventos": {
+    "Nations": "Free City of Fray Ventos",
+    "Nation Check": "Free City of Fray Ventos",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Free City of Hered": {
+    "Nations": "Free City of Hered",
+    "Nation Check": "Free City of Hered",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Gerak": {
+    "Nations": "Gerak",
+    "Nation Check": "Gerak",
+    "Pow_Army": "-17.33%",
+    "Pow_Navy": "5.49%"
+  },
+  "Gno’hdail Impireachd": {
+    "Nations": "Gno’hdail Impireachd",
+    "Nation Check": "Gno’hdail Impireachd",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Gol": {
+    "Nations": "Gol",
+    "Nation Check": "Gol",
+    "Pow_Army": "13.19%",
+    "Pow_Navy": "7.06%"
+  },
+  "Gramantinia": {
+    "Nations": "Gramantinia",
+    "Nation Check": "Gramantinia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Gran Prismatia": {
+    "Nations": "Gran Prismatia",
+    "Nation Check": "Gran Prismatia",
+    "Pow_Army": "75.90%",
+    "Pow_Navy": "77.57%"
+  },
+  "Grand Tetalay": {
+    "Nations": "Grand Tetalay",
+    "Nation Check": "Grand Tetalay",
+    "Pow_Army": "41.56%",
+    "Pow_Navy": "20.93%"
+  },
+  "Greater Stahlland": {
+    "Nations": "Greater Stahlland",
+    "Nation Check": "Greater Stahlland",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Here Be Dragons": {
+    "Nations": "Here Be Dragons",
+    "Nation Check": "Here Be Dragons",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Iarthar Grove": {
+    "Nations": "Iarthar Grove",
+    "Nation Check": "Iarthar Grove",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Ilikiu'Foriris": {
+    "Nations": "Ilikiu'Foriris",
+    "Nation Check": "Ilikiu'Foriris",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Ilioratica": {
+    "Nations": "Ilioratica",
+    "Nation Check": "Ilioratica",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Ironskin Kingdom": {
+    "Nations": "Ironskin Kingdom",
+    "Nation Check": "Ironskin Kingdom",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Ishmalkan Confederated Cities": {
+    "Nations": "Ishmalkan Confederated Cities",
+    "Nation Check": "Ishmalkan Confederated Cities",
+    "Pow_Army": "24.39%",
+    "Pow_Navy": "20.93%"
+  },
+  "Jörðnar": {
+    "Nations": "Jörðnar",
+    "Nation Check": "Jörðnar",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Karak Drung": {
+    "Nations": "Karak Drung",
+    "Nation Check": "Karak Drung",
+    "Pow_Army": "18.73%",
+    "Pow_Navy": "42.60%"
+  },
+  "Karak Gazan": {
+    "Nations": "Karak Gazan",
+    "Nation Check": "Karak Gazan",
+    "Pow_Army": "58.77%",
+    "Pow_Navy": "42.60%"
+  },
+  "Kashin Aquanorix": {
+    "Nations": "Kashin Aquanorix",
+    "Nation Check": "Kashin Aquanorix",
+    "Pow_Army": "36.45%",
+    "Pow_Navy": "33.98%"
+  },
+  "Kashin Corba": {
+    "Nations": "Kashin Corba",
+    "Nation Check": "Kashin Corba",
+    "Pow_Army": "37.63%",
+    "Pow_Navy": "33.98%"
+  },
+  "Kashin Olderia": {
+    "Nations": "Kashin Olderia",
+    "Nation Check": "Kashin Olderia",
+    "Pow_Army": "31.83%",
+    "Pow_Navy": "33.98%"
+  },
+  "Katu-Lachei Aztarnak": {
+    "Nations": "Katu-Lachei Aztarnak",
+    "Nation Check": "Katu-Lachei Aztarnak",
+    "Pow_Army": "86.92%",
+    "Pow_Navy": "65.99%"
+  },
+  "Kawranti": {
+    "Nations": "Kawranti",
+    "Nation Check": "Kawranti",
+    "Pow_Army": "39.48%",
+    "Pow_Navy": "29.10%"
+  },
+  "Kiith Gaalsien": {
+    "Nations": "Kiith Gaalsien",
+    "Nation Check": "Kiith Gaalsien",
+    "Pow_Army": "1.89%",
+    "Pow_Navy": "20.95%"
+  },
+  "Kingdom of Geloía": {
+    "Nations": "Kingdom of Geloía",
+    "Nation Check": "Kingdom of Geloía",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of Nexus": {
+    "Nations": "Kingdom of Nexus",
+    "Nation Check": "Kingdom of Nexus",
+    "Pow_Army": "17.46%",
+    "Pow_Navy": "13.31%"
+  },
+  "Ko'ch Q'ash": {
+    "Nations": "Ko'ch Q'ash",
+    "Nation Check": "Ko'ch Q'ash",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Korograt State": {
+    "Nations": "Korograt State",
+    "Nation Check": "Korograt State",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Krigarstam": {
+    "Nations": "Krigarstam",
+    "Nation Check": "Krigarstam",
+    "Pow_Army": "19.70%",
+    "Pow_Navy": "42.60%"
+  },
+  "Kycerian Dominion": {
+    "Nations": "Kycerian Dominion",
+    "Nation Check": "Kycerian Dominion",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Lialikidus": {
+    "Nations": "Lialikidus",
+    "Nation Check": "Lialikidus",
+    "Pow_Army": "38.71%",
+    "Pow_Navy": "42.60%"
+  },
+  "Los": {
+    "Nations": "Los",
+    "Nation Check": "Los",
+    "Pow_Army": "71.50%",
+    "Pow_Navy": "65.99%"
+  },
+  "Lowy Combine": {
+    "Nations": "Lowy Combine",
+    "Nation Check": "Lowy Combine",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Lundrium": {
+    "Nations": "Lundrium",
+    "Nation Check": "Lundrium",
+    "Pow_Army": "68.93%",
+    "Pow_Navy": "42.60%"
+  },
+  "Mās'": {
+    "Nations": "Mās'",
+    "Nation Check": "Mās'",
+    "Pow_Army": "116.76%",
+    "Pow_Navy": "106.45%"
+  },
+  "Mātrentwo": {
+    "Nations": "Mātrentwo",
+    "Nation Check": "Mātrentwo",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Mazazuma": {
+    "Nations": "Mazazuma",
+    "Nation Check": "Mazazuma",
+    "Pow_Army": "98.16%",
+    "Pow_Navy": "77.57%"
+  },
+  "Nanakueyaltepetl": {
+    "Nations": "Nanakueyaltepetl",
+    "Nation Check": "Nanakueyaltepetl",
+    "Pow_Army": "115.53%",
+    "Pow_Navy": "65.99%"
+  },
+  "Netsanet Republic": {
+    "Nations": "Netsanet Republic",
+    "Nation Check": "Netsanet Republic",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Nixond": {
+    "Nations": "Nixond",
+    "Nation Check": "Nixond",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Onaokoku": {
+    "Nations": "Onaokoku",
+    "Nation Check": "Onaokoku",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Order of Rock and Stone": {
+    "Nations": "Order of Rock and Stone",
+    "Nation Check": "Order of Rock and Stone",
+    "Pow_Army": "58.33%",
+    "Pow_Navy": "42.60%"
+  },
+  "Principality of Kol'zaskopjeia": {
+    "Nations": "Principality of Kol'zaskopjeia",
+    "Nation Check": "Principality of Kol'zaskopjeia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Psarades": {
+    "Nations": "Psarades",
+    "Nation Check": "Psarades",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Q'awachu": {
+    "Nations": "Q'awachu",
+    "Nation Check": "Q'awachu",
+    "Pow_Army": "48.13%",
+    "Pow_Navy": "29.10%"
+  },
+  "Rampart Republic": {
+    "Nations": "Rampart Republic",
+    "Nation Check": "Rampart Republic",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Republyk Balresk": {
+    "Nations": "Republyk Balresk",
+    "Nation Check": "Republyk Balresk",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Restored Arisii Confederation": {
+    "Nations": "Restored Arisii Confederation",
+    "Nation Check": "Restored Arisii Confederation",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Shakisu": {
+    "Nations": "Shakisu",
+    "Nation Check": "Shakisu",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Skullantium": {
+    "Nations": "Skullantium",
+    "Nation Check": "Skullantium",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Spinelle": {
+    "Nations": "Spinelle",
+    "Nation Check": "Spinelle",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Talanrío": {
+    "Nations": "Talanrío",
+    "Nation Check": "Talanrío",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Terra Magicae": {
+    "Nations": "Terra Magicae",
+    "Nation Check": "Terra Magicae",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Charter Territory of Riveria": {
+    "Nations": "The Charter Territory of Riveria",
+    "Nation Check": "The Charter Territory of Riveria",
+    "Pow_Army": "2.03%",
+    "Pow_Navy": "3.52%"
+  },
+  "The High Dukedom of Duloque": {
+    "Nations": "The High Dukedom of Duloque",
+    "Nation Check": "The High Dukedom of Duloque",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Wild Fields": {
+    "Nations": "The Wild Fields",
+    "Nation Check": "The Wild Fields",
+    "Pow_Army": "23.54%",
+    "Pow_Navy": "11.52%"
+  },
+  "Theocratic Republic of Rekkatsija": {
+    "Nations": "Theocratic Republic of Rekkatsija",
+    "Nation Check": "Theocratic Republic of Rekkatsija",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Trinitas": {
+    "Nations": "Trinitas",
+    "Nation Check": "Trinitas",
+    "Pow_Army": "135.89%",
+    "Pow_Navy": "106.45%"
+  },
+  "Uisceam Grove": {
+    "Nations": "Uisceam Grove",
+    "Nation Check": "Uisceam Grove",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Ulanasa Republic": {
+    "Nations": "Ulanasa Republic",
+    "Nation Check": "Ulanasa Republic",
+    "Pow_Army": "32.75%",
+    "Pow_Navy": "20.93%"
+  },
+  "Uqhuma Killa": {
+    "Nations": "Uqhuma Killa",
+    "Nation Check": "Uqhuma Killa",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Vyraisos": {
+    "Nations": "Vyraisos",
+    "Nation Check": "Vyraisos",
+    "Pow_Army": "77.23%",
+    "Pow_Navy": "77.57%"
+  },
+  "Fellowship of the Crown": {
+    "Nations": "Fellowship of the Crown",
+    "Nation Check": "Fellowship of the Crown",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Wandon Council": {
+    "Nations": "Wandon Council",
+    "Nation Check": "Wandon Council",
+    "Pow_Army": "29.28%",
+    "Pow_Navy": "29.10%"
+  },
+  "WrestleMania": {
+    "Nations": "WrestleMania",
+    "Nation Check": "WrestleMania",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Yuranisuk": {
+    "Nations": "Yuranisuk",
+    "Nation Check": "Yuranisuk",
+    "Pow_Army": "31.12%",
+    "Pow_Navy": "16.17%"
+  },
+  "City State of Kido": {
+    "Nations": "City State of Kido",
+    "Nation Check": "City State of Kido",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Maatada Istara": {
+    "Nations": "Maatada Istara",
+    "Nation Check": "Maatada Istara",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Velken Bulwark": {
+    "Nations": "Velken Bulwark",
+    "Nation Check": "Velken Bulwark",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Thaandom of Fangkar": {
+    "Nations": "Thaandom of Fangkar",
+    "Nation Check": "Thaandom of Fangkar",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Sarmatai Confederation": {
+    "Nations": "Sarmatai Confederation",
+    "Nation Check": "Sarmatai Confederation",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Alderdorf": {
+    "Nations": "Alderdorf",
+    "Nation Check": "Alderdorf",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Hanza Trade Republic": {
+    "Nations": "Hanza Trade Republic",
+    "Nation Check": "Hanza Trade Republic",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of Jasper": {
+    "Nations": "Kingdom of Jasper",
+    "Nation Check": "Kingdom of Jasper",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Tort Uli Xaliq": {
+    "Nations": "Tort Uli Xaliq",
+    "Nation Check": "Tort Uli Xaliq",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Saulka": {
+    "Nations": "Saulka",
+    "Nation Check": "Saulka",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Imperial Theocracy of Borbenska": {
+    "Nations": "Imperial Theocracy of Borbenska",
+    "Nation Check": "Imperial Theocracy of Borbenska",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Meridomus Kalleprii": {
+    "Nations": "Meridomus Kalleprii",
+    "Nation Check": "Meridomus Kalleprii",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Lauzydos": {
+    "Nations": "Lauzydos",
+    "Nation Check": "Lauzydos",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Free City of Erub-Kai": {
+    "Nations": "Free City of Erub-Kai",
+    "Nation Check": "Free City of Erub-Kai",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Free City of Zephon": {
+    "Nations": "Free City of Zephon",
+    "Nation Check": "Free City of Zephon",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Queendom of Edithia": {
+    "Nations": "Queendom of Edithia",
+    "Nation Check": "Queendom of Edithia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of Aeornia": {
+    "Nations": "Kingdom of Aeornia",
+    "Nation Check": "Kingdom of Aeornia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Tetóth Kegeth": {
+    "Nations": "Tetóth Kegeth",
+    "Nation Check": "Tetóth Kegeth",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Hadastan Commenwealth": {
+    "Nations": "Hadastan Commenwealth",
+    "Nation Check": "Hadastan Commenwealth",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Royal City of Gevero": {
+    "Nations": "Royal City of Gevero",
+    "Nation Check": "Royal City of Gevero",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Snow Dominion": {
+    "Nations": "Snow Dominion",
+    "Nation Check": "Snow Dominion",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Kingdom of Hemia": {
+    "Nations": "The Kingdom of Hemia",
+    "Nation Check": "The Kingdom of Hemia",
+    "Pow_Army": "19.72%",
+    "Pow_Navy": "9.86%"
+  },
+  "Federation of Tlo'tsaa": {
+    "Nations": "Federation of Tlo'tsaa",
+    "Nation Check": "Federation of Tlo'tsaa",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Ceavia": {
+    "Nations": "Ceavia",
+    "Nation Check": "Ceavia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Carcukhanate": {
+    "Nations": "Carcukhanate",
+    "Nation Check": "Carcukhanate",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Stryaxina": {
+    "Nations": "Stryaxina",
+    "Nation Check": "Stryaxina",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Imperial City of Soria": {
+    "Nations": "Imperial City of Soria",
+    "Nation Check": "Imperial City of Soria",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Great Host of the Unconquered Sun": {
+    "Nations": "Great Host of the Unconquered Sun",
+    "Nation Check": "Great Host of the Unconquered Sun",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Zalmoxia": {
+    "Nations": "Zalmoxia",
+    "Nation Check": "Zalmoxia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Mercati Emporium": {
+    "Nations": "Mercati Emporium",
+    "Nation Check": "Mercati Emporium",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Jalpol": {
+    "Nations": "Jalpol",
+    "Nation Check": "Jalpol",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Terrum Aetheri": {
+    "Nations": "Terrum Aetheri",
+    "Nation Check": "Terrum Aetheri",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Holy Kingdom of Scripts": {
+    "Nations": "Holy Kingdom of Scripts",
+    "Nation Check": "Holy Kingdom of Scripts",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of Járnfjall": {
+    "Nations": "Kingdom of Járnfjall",
+    "Nation Check": "Kingdom of Járnfjall",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Mébian Confederation": {
+    "Nations": "Mébian Confederation",
+    "Nation Check": "Mébian Confederation",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Jään Herruus": {
+    "Nations": "Jään Herruus",
+    "Nation Check": "Jään Herruus",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Drahacira": {
+    "Nations": "Drahacira",
+    "Nation Check": "Drahacira",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Forge of Aarde": {
+    "Nations": "Forge of Aarde",
+    "Nation Check": "Forge of Aarde",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Teutā Erwā": {
+    "Nations": "The Teutā Erwā",
+    "Nation Check": "The Teutā Erwā",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Arcadia": {
+    "Nations": "Arcadia",
+    "Nation Check": "Arcadia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Arethousa": {
+    "Nations": "Arethousa",
+    "Nation Check": "Arethousa",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Ashdayn": {
+    "Nations": "Ashdayn",
+    "Nation Check": "Ashdayn",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Rastoria": {
+    "Nations": "Rastoria",
+    "Nation Check": "Rastoria",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Saholnahes Ceuluanas": {
+    "Nations": "Saholnahes Ceuluanas",
+    "Nation Check": "Saholnahes Ceuluanas",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Amerian Republic": {
+    "Nations": "The Amerian Republic",
+    "Nation Check": "The Amerian Republic",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of Gallacia": {
+    "Nations": "Kingdom of Gallacia",
+    "Nation Check": "Kingdom of Gallacia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Statute of Order": {
+    "Nations": "The Statute of Order",
+    "Nation Check": "The Statute of Order",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Pólitonskóron": {
+    "Nations": "Pólitonskóron",
+    "Nation Check": "Pólitonskóron",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Thys Alari": {
+    "Nations": "Thys Alari",
+    "Nation Check": "Thys Alari",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of Mimgrond": {
+    "Nations": "Kingdom of Mimgrond",
+    "Nation Check": "Kingdom of Mimgrond",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Exodists of Amunkedat": {
+    "Nations": "Exodists of Amunkedat",
+    "Nation Check": "Exodists of Amunkedat",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Yeotang": {
+    "Nations": "Yeotang",
+    "Nation Check": "Yeotang",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Colmea": {
+    "Nations": "Colmea",
+    "Nation Check": "Colmea",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Soroner": {
+    "Nations": "Soroner",
+    "Nation Check": "Soroner",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kh'nûll Diocese": {
+    "Nations": "Kh'nûll Diocese",
+    "Nation Check": "Kh'nûll Diocese",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Scientarium": {
+    "Nations": "Scientarium",
+    "Nation Check": "Scientarium",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Diogen": {
+    "Nations": "Diogen",
+    "Nation Check": "Diogen",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Republic o. Zuntirar": {
+    "Nations": "Republic o. Zuntirar",
+    "Nation Check": "Republic o. Zuntirar",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Free City of Zephyrabad": {
+    "Nations": "Free City of Zephyrabad",
+    "Nation Check": "Free City of Zephyrabad",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Wendel Witaner": {
+    "Nations": "The Wendel Witaner",
+    "Nation Check": "The Wendel Witaner",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Brotherhood of Dwarves": {
+    "Nations": "Brotherhood of Dwarves",
+    "Nation Check": "Brotherhood of Dwarves",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Chitinara": {
+    "Nations": "Chitinara",
+    "Nation Check": "Chitinara",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "High City of Tirsil": {
+    "Nations": "High City of Tirsil",
+    "Nation Check": "High City of Tirsil",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Elphonsa": {
+    "Nations": "Elphonsa",
+    "Nation Check": "Elphonsa",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kilshandia": {
+    "Nations": "Kilshandia",
+    "Nation Check": "Kilshandia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Maa": {
+    "Nations": "Maa",
+    "Nation Check": "Maa",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Lisanos": {
+    "Nations": "Lisanos",
+    "Nation Check": "Lisanos",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "HlérHeim": {
+    "Nations": "HlérHeim",
+    "Nation Check": "HlérHeim",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Grand Principality of Onica": {
+    "Nations": "Grand Principality of Onica",
+    "Nation Check": "Grand Principality of Onica",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Republic of Nymaró": {
+    "Nations": "Republic of Nymaró",
+    "Nation Check": "Republic of Nymaró",
+    "Pow_Army": "83.12%",
+    "Pow_Navy": "56.93%"
+  },
+  "Meadoia Dynasty": {
+    "Nations": "Meadoia Dynasty",
+    "Nation Check": "Meadoia Dynasty",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Ewig Republic": {
+    "Nations": "Ewig Republic",
+    "Nation Check": "Ewig Republic",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Holy Realm of Herkunft": {
+    "Nations": "The Holy Realm of Herkunft",
+    "Nation Check": "The Holy Realm of Herkunft",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Fu Tiangun Realm": {
+    "Nations": "Fu Tiangun Realm",
+    "Nation Check": "Fu Tiangun Realm",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Glorbentura": {
+    "Nations": "Glorbentura",
+    "Nation Check": "Glorbentura",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Despotate of Kaartiyek": {
+    "Nations": "The Despotate of Kaartiyek",
+    "Nation Check": "The Despotate of Kaartiyek",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Hui Kai": {
+    "Nations": "Hui Kai",
+    "Nation Check": "Hui Kai",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Vorokov": {
+    "Nations": "Vorokov",
+    "Nation Check": "Vorokov",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Treakwielg": {
+    "Nations": "Treakwielg",
+    "Nation Check": "Treakwielg",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Aislings": {
+    "Nations": "The Aislings",
+    "Nation Check": "The Aislings",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Principality of Skanderborg": {
+    "Nations": "Principality of Skanderborg",
+    "Nation Check": "Principality of Skanderborg",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Akalikania": {
+    "Nations": "Akalikania",
+    "Nation Check": "Akalikania",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Stepovytskyi Cossack Host": {
+    "Nations": "Stepovytskyi Cossack Host",
+    "Nation Check": "Stepovytskyi Cossack Host",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Dukedom of Sylicia": {
+    "Nations": "The Dukedom of Sylicia",
+    "Nation Check": "The Dukedom of Sylicia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Tautaspils": {
+    "Nations": "Tautaspils",
+    "Nation Check": "Tautaspils",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kaug-Põhja": {
+    "Nations": "Kaug-Põhja",
+    "Nation Check": "Kaug-Põhja",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Pyhätmetsät": {
+    "Nations": "Pyhätmetsät",
+    "Nation Check": "Pyhätmetsät",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of the Aurore": {
+    "Nations": "Kingdom of the Aurore",
+    "Nation Check": "Kingdom of the Aurore",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Araybattahya ": {
+    "Nations": "Araybattahya ",
+    "Nation Check": "Araybattahya ",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Morchandor": {
+    "Nations": "Morchandor",
+    "Nation Check": "Morchandor",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Ascendant Regency of Newstar": {
+    "Nations": "Ascendant Regency of Newstar",
+    "Nation Check": "Ascendant Regency of Newstar",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Magoen Lurraldea": {
+    "Nations": "Magoen Lurraldea",
+    "Nation Check": "Magoen Lurraldea",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Lohiida Dathinaal": {
+    "Nations": "Lohiida Dathinaal",
+    "Nation Check": "Lohiida Dathinaal",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Vantira": {
+    "Nations": "Vantira",
+    "Nation Check": "Vantira",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Republic of Rostora": {
+    "Nations": "Republic of Rostora",
+    "Nation Check": "Republic of Rostora",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Cassion": {
+    "Nations": "Cassion",
+    "Nation Check": "Cassion",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Clan of Skye ": {
+    "Nations": "Clan of Skye ",
+    "Nation Check": "Clan of Skye ",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Shiny Taking": {
+    "Nations": "Shiny Taking",
+    "Nation Check": "Shiny Taking",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Xriotir": {
+    "Nations": "Xriotir",
+    "Nation Check": "Xriotir",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Malo'Sami": {
+    "Nations": "Malo'Sami",
+    "Nation Check": "Malo'Sami",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Trade Families of Kemakmura": {
+    "Nations": "The Trade Families of Kemakmura",
+    "Nation Check": "The Trade Families of Kemakmura",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Caesnauka Empire": {
+    "Nations": "Caesnauka Empire",
+    "Nation Check": "Caesnauka Empire",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Iidunn": {
+    "Nations": "Iidunn",
+    "Nation Check": "Iidunn",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Remid Republic": {
+    "Nations": "Remid Republic",
+    "Nation Check": "Remid Republic",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Amethyst Clan": {
+    "Nations": "Amethyst Clan",
+    "Nation Check": "Amethyst Clan",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Lakarish Kingdom of Olkmania": {
+    "Nations": "The Lakarish Kingdom of Olkmania",
+    "Nation Check": "The Lakarish Kingdom of Olkmania",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Serenissima Res Publica Di Ghalivi": {
+    "Nations": "Serenissima Res Publica Di Ghalivi",
+    "Nation Check": "Serenissima Res Publica Di Ghalivi",
+    "Pow_Army": "47.56%",
+    "Pow_Navy": "32.53%"
+  },
+  "Raaspazzlivatl": {
+    "Nations": "Raaspazzlivatl",
+    "Nation Check": "Raaspazzlivatl",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Tavir": {
+    "Nations": "Tavir",
+    "Nation Check": "Tavir",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "United Federation of Malam States": {
+    "Nations": "United Federation of Malam States",
+    "Nation Check": "United Federation of Malam States",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Natałor": {
+    "Nations": "Natałor",
+    "Nation Check": "Natałor",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Gavi’ Kingdom": {
+    "Nations": "The Gavi’ Kingdom",
+    "Nation Check": "The Gavi’ Kingdom",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kinh Nam City-State": {
+    "Nations": "Kinh Nam City-State",
+    "Nation Check": "Kinh Nam City-State",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Mhawm Meung Ssok Nyieat Qux Si": {
+    "Nations": "Mhawm Meung Ssok Nyieat Qux Si",
+    "Nation Check": "Mhawm Meung Ssok Nyieat Qux Si",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Lună sângeroasă": {
+    "Nations": "Lună sângeroasă",
+    "Nation Check": "Lună sângeroasă",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Akaḣpetoƞ": {
+    "Nations": "Akaḣpetoƞ",
+    "Nation Check": "Akaḣpetoƞ",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Awakened": {
+    "Nations": "The Awakened",
+    "Nation Check": "The Awakened",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Lepnia": {
+    "Nations": "Lepnia",
+    "Nation Check": "Lepnia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Thaurinna": {
+    "Nations": "Thaurinna",
+    "Nation Check": "Thaurinna",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Il-Esak'Chukhpelekh": {
+    "Nations": "Il-Esak'Chukhpelekh",
+    "Nation Check": "Il-Esak'Chukhpelekh",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Goldmongers": {
+    "Nations": "Goldmongers",
+    "Nation Check": "Goldmongers",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "M'Qili Confederacy": {
+    "Nations": "M'Qili Confederacy",
+    "Nation Check": "M'Qili Confederacy",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Nournourlant": {
+    "Nations": "Nournourlant",
+    "Nation Check": "Nournourlant",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Tarmarches": {
+    "Nations": "The Tarmarches",
+    "Nation Check": "The Tarmarches",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Akali": {
+    "Nations": "Akali",
+    "Nation Check": "Akali",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Commonwealth of Gonaria": {
+    "Nations": "Commonwealth of Gonaria",
+    "Nation Check": "Commonwealth of Gonaria",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Nema Pact": {
+    "Nations": "The Nema Pact",
+    "Nation Check": "The Nema Pact",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Order of The Radiance": {
+    "Nations": "Order of The Radiance",
+    "Nation Check": "Order of The Radiance",
+    "Pow_Army": "54.16%",
+    "Pow_Navy": "17.91%"
+  },
+  "Clankar Cog": {
+    "Nations": "Clankar Cog",
+    "Nation Check": "Clankar Cog",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Naga Wangjo": {
+    "Nations": "Naga Wangjo",
+    "Nation Check": "Naga Wangjo",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Council of Dehurkjols": {
+    "Nations": "Council of Dehurkjols",
+    "Nation Check": "Council of Dehurkjols",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Second Temple": {
+    "Nations": "The Second Temple",
+    "Nation Check": "The Second Temple",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Dinasygan": {
+    "Nations": "Dinasygan",
+    "Nation Check": "Dinasygan",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Môr Oer": {
+    "Nations": "Môr Oer",
+    "Nation Check": "Môr Oer",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Neonian Kuningate": {
+    "Nations": "Neonian Kuningate",
+    "Nation Check": "Neonian Kuningate",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Luminus": {
+    "Nations": "Luminus",
+    "Nation Check": "Luminus",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Free Cities of Cupiditas": {
+    "Nations": "The Free Cities of Cupiditas",
+    "Nation Check": "The Free Cities of Cupiditas",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Elyen-Mev": {
+    "Nations": "Elyen-Mev",
+    "Nation Check": "Elyen-Mev",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Murenman": {
+    "Nations": "Murenman",
+    "Nation Check": "Murenman",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Confederate of Caoilinn": {
+    "Nations": "Confederate of Caoilinn",
+    "Nation Check": "Confederate of Caoilinn",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The House": {
+    "Nations": "The House",
+    "Nation Check": "The House",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Holy Council of Axhaea": {
+    "Nations": "Holy Council of Axhaea",
+    "Nation Check": "Holy Council of Axhaea",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Xiboda": {
+    "Nations": "Xiboda",
+    "Nation Check": "Xiboda",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Sinere Theocracy": {
+    "Nations": "The Sinere Theocracy",
+    "Nation Check": "The Sinere Theocracy",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Rosefire Dynasty": {
+    "Nations": "Rosefire Dynasty",
+    "Nation Check": "Rosefire Dynasty",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Gilded City": {
+    "Nations": "The Gilded City",
+    "Nation Check": "The Gilded City",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Lysian Republic": {
+    "Nations": "Lysian Republic",
+    "Nation Check": "Lysian Republic",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Jubal'on": {
+    "Nations": "Jubal'on",
+    "Nation Check": "Jubal'on",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Karak Helhein": {
+    "Nations": "Karak Helhein",
+    "Nation Check": "Karak Helhein",
+    "Pow_Army": "26.13%",
+    "Pow_Navy": "21.56%"
+  },
+  "Tribes of Lunaria": {
+    "Nations": "Tribes of Lunaria",
+    "Nation Check": "Tribes of Lunaria",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of Gloria": {
+    "Nations": "Kingdom of Gloria",
+    "Nation Check": "Kingdom of Gloria",
+    "Pow_Army": "50.59%",
+    "Pow_Navy": "32.79%"
+  },
+  "Khyxwuz": {
+    "Nations": "Khyxwuz",
+    "Nation Check": "Khyxwuz",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Pavellion": {
+    "Nations": "Pavellion",
+    "Nation Check": "Pavellion",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Vitten": {
+    "Nations": "Vitten",
+    "Nation Check": "Vitten",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Grand Nimbusia": {
+    "Nations": "Grand Nimbusia",
+    "Nation Check": "Grand Nimbusia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Second State of Los": {
+    "Nations": "Second State of Los",
+    "Nation Check": "Second State of Los",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Unigol": {
+    "Nations": "Unigol",
+    "Nation Check": "Unigol",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Kingdom of Lunar": {
+    "Nations": "The Kingdom of Lunar",
+    "Nation Check": "The Kingdom of Lunar",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Republic of Alyvosk": {
+    "Nations": "The Republic of Alyvosk",
+    "Nation Check": "The Republic of Alyvosk",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Drionn Galith": {
+    "Nations": "Drionn Galith",
+    "Nation Check": "Drionn Galith",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Mach Republic": {
+    "Nations": "Mach Republic",
+    "Nation Check": "Mach Republic",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Ruzgaristan Enclave": {
+    "Nations": "The Ruzgaristan Enclave",
+    "Nation Check": "The Ruzgaristan Enclave",
+    "Pow_Army": "79.64%",
+    "Pow_Navy": "49.82%"
+  },
+  "Kingdom of Ardungual": {
+    "Nations": "Kingdom of Ardungual",
+    "Nation Check": "Kingdom of Ardungual",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of Kahtet": {
+    "Nations": "Kingdom of Kahtet",
+    "Nation Check": "Kingdom of Kahtet",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Svetograd": {
+    "Nations": "Svetograd",
+    "Nation Check": "Svetograd",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Ignate of Manineira": {
+    "Nations": "The Ignate of Manineira",
+    "Nation Check": "The Ignate of Manineira",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Kingdom of Zahar": {
+    "Nations": "The Kingdom of Zahar",
+    "Nation Check": "The Kingdom of Zahar",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Unified Republic of Kaiarau": {
+    "Nations": "Unified Republic of Kaiarau",
+    "Nation Check": "Unified Republic of Kaiarau",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Animal Kingdom": {
+    "Nations": "The Animal Kingdom",
+    "Nation Check": "The Animal Kingdom",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Kingdom of Zakheira": {
+    "Nations": "The Kingdom of Zakheira",
+    "Nation Check": "The Kingdom of Zakheira",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of the Kettlelands": {
+    "Nations": "Kingdom of the Kettlelands",
+    "Nation Check": "Kingdom of the Kettlelands",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Nuanta": {
+    "Nations": "Nuanta",
+    "Nation Check": "Nuanta",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Tsûa Lâng": {
+    "Nations": "Tsûa Lâng",
+    "Nation Check": "Tsûa Lâng",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of Nymeria ": {
+    "Nations": "Kingdom of Nymeria ",
+    "Nation Check": "Kingdom of Nymeria ",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Al-Deni Dominion": {
+    "Nations": "The Al-Deni Dominion",
+    "Nation Check": "The Al-Deni Dominion",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kingdom of Lyroa": {
+    "Nations": "Kingdom of Lyroa",
+    "Nation Check": "Kingdom of Lyroa",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Free City of the Getsa": {
+    "Nations": "The Free City of the Getsa",
+    "Nation Check": "The Free City of the Getsa",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Hrvolan Qaris": {
+    "Nations": "Hrvolan Qaris",
+    "Nation Check": "Hrvolan Qaris",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Glasrhaidd": {
+    "Nations": "Glasrhaidd",
+    "Nation Check": "Glasrhaidd",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Teōcolhua": {
+    "Nations": "Teōcolhua",
+    "Nation Check": "Teōcolhua",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Great City of Kula": {
+    "Nations": "The Great City of Kula",
+    "Nation Check": "The Great City of Kula",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Sancta Discordia": {
+    "Nations": "Sancta Discordia",
+    "Nation Check": "Sancta Discordia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Mulosk": {
+    "Nations": "Mulosk",
+    "Nation Check": "Mulosk",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Nummum": {
+    "Nations": "Nummum",
+    "Nation Check": "Nummum",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Kingdom of Sk'o'chapr": {
+    "Nations": "The Kingdom of Sk'o'chapr",
+    "Nation Check": "The Kingdom of Sk'o'chapr",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Sajuanelhi": {
+    "Nations": "Sajuanelhi",
+    "Nation Check": "Sajuanelhi",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Autoriteit Hollezel": {
+    "Nations": "Autoriteit Hollezel",
+    "Nation Check": "Autoriteit Hollezel",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Novae Aeseriae": {
+    "Nations": "Novae Aeseriae",
+    "Nation Check": "Novae Aeseriae",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Cheiraa Ousenika": {
+    "Nations": "Cheiraa Ousenika",
+    "Nation Check": "Cheiraa Ousenika",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The State of Iskura": {
+    "Nations": "The State of Iskura",
+    "Nation Check": "The State of Iskura",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Mizarina": {
+    "Nations": "Mizarina",
+    "Nation Check": "Mizarina",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Zarkone": {
+    "Nations": "Zarkone",
+    "Nation Check": "Zarkone",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "State of Aburrido": {
+    "Nations": "State of Aburrido",
+    "Nation Check": "State of Aburrido",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Cóchua Kingdom": {
+    "Nations": "Cóchua Kingdom",
+    "Nation Check": "Cóchua Kingdom",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Herzogtum Enzla": {
+    "Nations": "Herzogtum Enzla",
+    "Nation Check": "Herzogtum Enzla",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Zudrye Sisterhood": {
+    "Nations": "Zudrye Sisterhood",
+    "Nation Check": "Zudrye Sisterhood",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Nuvoria": {
+    "Nations": "Nuvoria",
+    "Nation Check": "Nuvoria",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Steppeheart Herd": {
+    "Nations": "Steppeheart Herd",
+    "Nation Check": "Steppeheart Herd",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Stortingr Republik af Frystdömet": {
+    "Nations": "Stortingr Republik af Frystdömet",
+    "Nation Check": "Stortingr Republik af Frystdömet",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Nāšā Qaḏmāyā": {
+    "Nations": "Nāšā Qaḏmāyā",
+    "Nation Check": "Nāšā Qaḏmāyā",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Seelern State": {
+    "Nations": "The Seelern State",
+    "Nation Check": "The Seelern State",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Audgunn": {
+    "Nations": "Audgunn",
+    "Nation Check": "Audgunn",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Tribes of C’tis": {
+    "Nations": "The Tribes of C’tis",
+    "Nation Check": "The Tribes of C’tis",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Sacred Band of Sargon": {
+    "Nations": "The Sacred Band of Sargon",
+    "Nation Check": "The Sacred Band of Sargon",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Safeguard": {
+    "Nations": "The Safeguard",
+    "Nation Check": "The Safeguard",
+    "Pow_Army": "60.18%",
+    "Pow_Navy": "56.93%"
+  },
+  "Ophenadon": {
+    "Nations": "Ophenadon",
+    "Nation Check": "Ophenadon",
+    "Pow_Army": "-30.07%",
+    "Pow_Navy": "5.96%"
+  },
+  "Ceridwyn Teulu": {
+    "Nations": "Ceridwyn Teulu",
+    "Nation Check": "Ceridwyn Teulu",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Grand City of Smmeíaia": {
+    "Nations": "The Grand City of Smmeíaia",
+    "Nation Check": "The Grand City of Smmeíaia",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Visjido": {
+    "Nations": "Visjido",
+    "Nation Check": "Visjido",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Etolian Πολιτεία": {
+    "Nations": "Etolian Πολιτεία",
+    "Nation Check": "Etolian Πολιτεία",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Enushkan Ur Kaash'shum": {
+    "Nations": "Enushkan Ur Kaash'shum",
+    "Nation Check": "Enushkan Ur Kaash'shum",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Bork": {
+    "Nations": "Bork",
+    "Nation Check": "Bork",
+    "Pow_Army": "-18.70%",
+    "Pow_Navy": "5.49%"
+  },
+  "Yayallpa": {
+    "Nations": "Yayallpa",
+    "Nation Check": "Yayallpa",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Eskannwa": {
+    "Nations": "Eskannwa",
+    "Nation Check": "Eskannwa",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Gul-Kesh": {
+    "Nations": "Gul-Kesh",
+    "Nation Check": "Gul-Kesh",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Alapadana": {
+    "Nations": "Alapadana",
+    "Nation Check": "Alapadana",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kup": {
+    "Nations": "Kup",
+    "Nation Check": "Kup",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Malekate of Opolexion": {
+    "Nations": "Malekate of Opolexion",
+    "Nation Check": "Malekate of Opolexion",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Poloma": {
+    "Nations": "Poloma",
+    "Nation Check": "Poloma",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Adelaar Legioen": {
+    "Nations": "Adelaar Legioen",
+    "Nation Check": "Adelaar Legioen",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Pucanje": {
+    "Nations": "Pucanje",
+    "Nation Check": "Pucanje",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Galdu Ipar Republic": {
+    "Nations": "The Galdu Ipar Republic",
+    "Nation Check": "The Galdu Ipar Republic",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "The Tsyurin State": {
+    "Nations": "The Tsyurin State",
+    "Nation Check": "The Tsyurin State",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Scarcojiu": {
+    "Nations": "Scarcojiu",
+    "Nation Check": "Scarcojiu",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Zastita": {
+    "Nations": "Zastita",
+    "Nation Check": "Zastita",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Mardune": {
+    "Nations": "Mardune",
+    "Nation Check": "Mardune",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Jahanje": {
+    "Nations": "Jahanje",
+    "Nation Check": "Jahanje",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "I’Hamon": {
+    "Nations": "I’Hamon",
+    "Nation Check": "I’Hamon",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Kiciakinikan": {
+    "Nations": "Kiciakinikan",
+    "Nation Check": "Kiciakinikan",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Galdu Hegal": {
+    "Nations": "Galdu Hegal",
+    "Nation Check": "Galdu Hegal",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Krosen Dynasty": {
+    "Nations": "Krosen Dynasty",
+    "Nation Check": "Krosen Dynasty",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Tuk Dynasty": {
+    "Nations": "Tuk Dynasty",
+    "Nation Check": "Tuk Dynasty",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Chernkov": {
+    "Nations": "Chernkov",
+    "Nation Check": "Chernkov",
+    "Pow_Army": "72.39%",
+    "Pow_Navy": "33.70%"
+  },
+  "Sange Teren": {
+    "Nations": "Sange Teren",
+    "Nation Check": "Sange Teren",
+    "Pow_Army": "9.66%",
+    "Pow_Navy": "7.06%"
+  },
+  "The Jokers": {
+    "Nations": "The Jokers",
+    "Nation Check": "The Jokers",
+    "Pow_Army": "",
+    "Pow_Navy": "0.00%"
+  },
+  "Rokmar Camp": {
+    "Nations": "Rokmar Camp",
+    "Nation Check": "Rokmar Camp",
+    "Pow_Army": "42.36%",
+    "Pow_Navy": "10.35%"
+  },
+  "Sadis Ultimuspes": {
+    "Nations": "Sadis Ultimuspes",
+    "Nation Check": "Sadis Ultimuspes",
+    "Pow_Army": "7.40%",
+    "Pow_Navy": "1.20%"
   }
-]
+}
