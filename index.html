@@ -20,11 +20,11 @@
 
 
 	<datalist id="nationList"></datalist>
-  <label for="depthInput">Enter Depth:</label>
-  <input type="number" id="depthInput" min="1" value="1" oninput="displayNationDetails()">
+	<label for="depthInput">Enter Depth:</label>
+	<input type="number" id="depthInput" min="1" value="1" oninput="displayNationDetails()">
 
-  <div id="nationDetails"></div>
-  <div id="alliancesPactsDetails"></div>
+	<div id="nationDetails"></div>
+	<div id="alliancesPactsDetails"></div>
 
 	<!-- <label for="deepnessDropdown">How deep do you want to go:</label> -->
 	<!-- <select id="deepnessDropdown"></select> -->
@@ -38,8 +38,8 @@
 
 
 	<script>
-	  let data;
-	  let armyData;
+		let data;
+		let armyData;
 		// Fetch The JSON data
 		fetch('diplo.json')
 			.then(response => response.json())
@@ -48,35 +48,35 @@
 
 				// Get the datalist and populate it with nation names
 				const nationList = document.getElementById('nationList');
-			Object.keys(data).forEach(nationName => {
-          const option = document.createElement('option');
-          option.value = nationName;
-          nationList.appendChild(option);
-        });
-      })
+				Object.keys(data).forEach(nationName => {
+					const option = document.createElement('option');
+					option.value = nationName;
+					nationList.appendChild(option);
+				});
+			})
 			.catch(error => console.error('Error loading JSON:', error));
 
-	  // Fetch the army JSON data
-    fetch('army.json')
-      .then(response => response.json())
-      .then(armyJsonData => {
-        armyData = armyJsonData;
-      })
-      .catch(error => console.error('Error loading army JSON:', error));
+		// Fetch the army JSON data
+		fetch('army.json')
+			.then(response => response.json())
+			.then(armyJsonData => {
+				armyData = armyJsonData;
+			})
+			.catch(error => console.error('Error loading army JSON:', error));
 
 		// Function to filter nations based on user input
 		function filterNations() {
 			const input = document.getElementById('nationDropdown').value.toLowerCase();
-		const filteredNations = Object.keys(data).filter(nationName => nationName.toLowerCase().includes(input));
+			const filteredNations = Object.keys(data).filter(nationName => nationName.toLowerCase().includes(input));
 
-      // Update the datalist with filtered nations
-      const nationList = document.getElementById('nationList');
-      nationList.innerHTML = '';
-      filteredNations.forEach(nationName => {
-        const option = document.createElement('option');
-        option.value = nationName;
-        nationList.appendChild(option);
-      });
+			// Update the datalist with filtered nations
+			const nationList = document.getElementById('nationList');
+			nationList.innerHTML = '';
+			filteredNations.forEach(nationName => {
+				const option = document.createElement('option');
+				option.value = nationName;
+				nationList.appendChild(option);
+			});
 		}
 
 		// Function to display nation details
@@ -94,83 +94,103 @@
 		//     console.log(powArmy);
 		//     // Display the details in the HTML
 		//     nationDetails.innerHTML = '<code>' + JSON.stringify(selectedNationData,  null, 2) + powArmy + '</code>';
-	  // }
-	      function displayNationDetails() {
-      const selectedNationName = document.getElementById('nationDropdown').value;
-      const depth = document.getElementById('depthInput').value;
-      const nationDetails = document.getElementById('nationDetails');
-      const alliancesPactsDetails = document.getElementById('alliancesPactsDetails');
+		// }
+		function displayNationDetails() {
+			const selectedNationName = document.getElementById('nationDropdown').value;
+			const depth = document.getElementById('depthInput').value;
+			const nationDetails = document.getElementById('nationDetails');
+			const alliancesPactsDetails = document.getElementById('alliancesPactsDetails');
 
-      // Find the selected nation in the JSON data
-      const selectedNationData = data[selectedNationName];
+			// Find the selected nation in the JSON data
+			const selectedNationData = data[selectedNationName];
 
-      // Display the details in the HTML
-      nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
+			// Display the details in the HTML
+			nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
 
-      // Generate the alliances/pacts structure
-      const alliancesPacts = generateAlliancesPacts(selectedNationName, depth);
+			// Generate the alliances/pacts structure
+			const alliancesPacts = generateAlliancesPacts(selectedNationName, depth);
 
-      // Display the alliances/pacts details in the HTML
-      alliancesPactsDetails.innerHTML = '<pre>' + JSON.stringify(alliancesPacts, null, 2) + '</pre>';
-    }
+			// Display the alliances/pacts details in the HTML
+			alliancesPactsDetails.innerHTML = '<pre>' + JSON.stringify(alliancesPacts, null, 2) + '</pre>';
+		}
 
-    // Function to generate alliances/pacts structure up to the specified depth
-    function generateAlliancesPacts(nationName, depth) {
-      if (depth <= 0) {
-        return { nodes: [], links: [] };
-      }
+		// Function to generate alliances/pacts structure up to the specified depth
+		function generateAlliancesPacts(nationName, depth) {
+			if (depth <= 0) {
+				return { nodes: [], links: [] };
+			}
 
-      const alliancesPacts = { nodes: [], links: [] };
+			const alliancesPacts = { nodes: [], links: [] };
 
-      function addNode(nodeName) {
-        const existingNode = alliancesPacts.nodes.find(node => node.name === nodeName);
-        if (!existingNode) {
-          const newNode = { id: alliancesPacts.nodes.length + 1, name: nodeName };
-          alliancesPacts.nodes.push(newNode);
-        }
-      }
+			function addNode(nodeName) {
+				const existingNode = alliancesPacts.nodes.find(node => node.name === nodeName);
+				if (!existingNode) {
+					const newNode = { id: alliancesPacts.nodes.length + 1, name: nodeName };
+					alliancesPacts.nodes.push(newNode);
+				}
+			}
 
-      function addLink(sourceName, targetName) {
-        const sourceNode = alliancesPacts.nodes.find(node => node.name === sourceName);
-        const targetNode = alliancesPacts.nodes.find(node => node.name === targetName);
+			function addLink(sourceName, targetName) {
+				const sourceNode = alliancesPacts.nodes.find(node => node.name === sourceName);
+				const targetNode = alliancesPacts.nodes.find(node => node.name === targetName);
 
-        if (sourceNode && targetNode) {
-          alliancesPacts.links.push({ source: sourceNode.id, target: targetNode.id });
-        }
-      }
+				if (sourceNode && targetNode) {
+					alliancesPacts.links.push({ source: sourceNode.id, target: targetNode.id });
+				}
+			}
 
-      function exploreAllies(currentNationName, currentDepth) {
-        if (currentDepth <= 0) {
-          return;
-        }
+			function exploreAllies(currentNationName, currentDepth) {
+				if (currentDepth <= 0) {
+					return;
+				}
 
-        const currentNationData = data[currentNationName];
+				const currentNationData = data[currentNationName];
 
-        // Explore allies
-        currentNationData["Military Alliances"].forEach(alliedNationName => {
-          addNode(alliedNationName);
-          addLink(currentNationName, alliedNationName);
+				// Check if 'Military Alliances' is an array
+				if (Array.isArray(currentNationData['Military Alliances'])) {
+					currentNationData['Military Alliances'].forEach(alliedNationName => {
+						addNode(alliedNationName);
+						addLink(currentNationName, alliedNationName);
 
-          // Recursive exploration
-          exploreAllies(alliedNationName, currentDepth - 1);
-        });
+						// Recursive exploration
+						exploreAllies(alliedNationName, currentDepth - 1);
+					});
+				} else if (currentNationData['Military Alliances']) {
+					// If it's not an array but a single value
+					const alliedNationName = currentNationData['Military Alliances'];
+					addNode(alliedNationName);
+					addLink(currentNationName, alliedNationName);
 
-        // Explore pacts
-        currentNationData["Def. Pacts"].forEach(pactNationName => {
-          addNode(pactNationName);
-          addLink(currentNationName, pactNationName);
+					// Recursive exploration
+					exploreAllies(alliedNationName, currentDepth - 1);
+				}
 
-          // Recursive exploration
-          exploreAllies(pactNationName, currentDepth - 1);
-        });
-      }
+				// Explore pacts (similar logic as above)
+				if (Array.isArray(currentNationData['Def. Pacts'])) {
+					currentNationData['Def. Pacts'].forEach(pactNationName => {
+						addNode(pactNationName);
+						addLink(currentNationName, pactNationName);
 
-      // Start exploration from the selected nation
-      addNode(nationName);
-      exploreAllies(nationName, depth);
+						// Recursive exploration
+						exploreAllies(pactNationName, currentDepth - 1);
+					});
+				} else if (currentNationData['Def. Pacts']) {
+					// If it's not an array but a single value
+					const pactNationName = currentNationData['Def. Pacts'];
+					addNode(pactNationName);
+					addLink(currentNationName, pactNationName);
 
-      return alliancesPacts;
-    }
+					// Recursive exploration
+					exploreAllies(pactNationName, currentDepth - 1);
+				}
+			}
+
+			// Start exploration from the selected nation
+			addNode(nationName);
+			exploreAllies(nationName, depth);
+
+			return alliancesPacts;
+		}
 	</script>
 
 
