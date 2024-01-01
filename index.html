@@ -6,33 +6,69 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Diplomacy Web</title>
 	<style>
+		body {
+			background-color: #202124;
+			/* Dark background color */
+			color: #ffffff;
+			/* Light text color */
+			font-family: Arial, sans-serif;
+		}
+
 		#nationDropdown {
 			width: 300px;
+			background-color: #424242;
+			/* Darker background color for input */
+			color: #ffffff;
+			/* Light text color for input */
+		}
+
+		button {
+			background-color: #4CAF50;
+			/* Green button color */
+			color: #ffffff;
+			/* Light text color for button */
+			padding: 10px 15px;
+			cursor: pointer;
+			border: none;
+		}
+
+		button:hover {
+			background-color: #45a049;
+			/* Darker green color on hover */
+		}
+
+		/* Add more styling as needed for your specific elements */
+
+		/* Dark mode specific styles */
+		@media (prefers-color-scheme: dark) {
+			body {
+				background-color: #121212;
+				/* Dark background color for dark mode */
+				color: #ffffff;
+				/* Light text color for dark mode */
+			}
+
+			/* Add more dark mode specific styles as needed */
 		}
 	</style>
+
+	<script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 
 <body onload="displayNationDetails()">
 
 	<label for="nationDropdown">Select a Nation:</label>
 	<input type="text" id="nationDropdown" oninput="filterNations()" list="nationList" onchange="displayNationDetails()">
-	<button onclick="displayNationDetails">Update</button>
 
 
 	<datalist id="nationList"></datalist>
 	<label for="depthInput">Depth:</label>
 	<input type="number" id="depthInput" value="1" min="1" onchange="updateGraph()">
+	<div id="tooltip"
+		style="position: absolute; opacity: 0; pointer-events: none; background-color: #fff; padding: 8px; border: 1px solid #ddd; border-radius: 2px;">
+		Hello World</div>
 
-
-	<!-- <div id="nationDetails"></div> -->
-	<div id="graph"></div>
-
-	<svg width="1960" height="1960"></svg>
-	<!-- Load d3.js -->
-	<script src="https://d3js.org/d3.v4.min.js"></script>
-
-	<!-- Create a div where the graph will take place -->
-	<div id="my_dataviz"></div>
+	<svg width="960" height="960"></svg>
 
 
 	<script>
@@ -116,77 +152,223 @@
 			// Display the graph data in the HTML
 			displayGraph(graphData);
 		}
-
-	  // Recursive function to get graph data
-	  function getGraphData(nationName, depth, visited = new Set(), nodesMap = new Map()) {
-	      if (depth <= 0 || visited.has(nationName)) {
-    return null;
-  }
-
-	      visited.add(nationName);
-
-  if (!nodesMap.has(nationName)) {
-    const node = { id: nationName, name: nationName };
-    nodesMap.set(nationName, node);
-  }
-
-  const alliances = data[nationName]["Military Alliances"];
-  const defensivePacts = data[nationName]["Defensive Pacts"];
-
-  const currentNode = nodesMap.get(nationName);
-  const links = [];
-
-  // Process alliances
-  if (alliances) {
-    alliances.split(', ').forEach(ally => {
-      const allyData = getGraphData(ally, depth - 1, visited, nodesMap);
-      if (allyData) {
-          links.push(...allyData.links, { source: currentNode.id, target: allyData.nodes[0].id });
-	  console.log(allyData);
-      }
-    });
-  }
-
-  // Process defensive pacts
-  if (defensivePacts) {
-    defensivePacts.split(', ').forEach(pact => {
-      const pactData = getGraphData(pact, depth - 1, visited, nodesMap);
-      if (pactData) {
-        links.push(...pactData.links, { source: currentNode.id, target: pactData.nodes[0].id });
-      }
-    });
-  }
-
-  return { nodes: Array.from(nodesMap.values()), links };
-    }
-
-
-		// Function to display the graph data
-		function displayGraph(graphData) {
-			const graphContainer = document.getElementById('graph');
-			graphContainer.innerHTML = '';
-
-			if (!graphData) {
-				return;
+		// Recursive function to get graph data
+		function getGraphData(nationName, depth, visited = new Set(), nodesMap = new Map()) {
+			if (depth <= 0 || visited.has(nationName)) {
+				return null;
 			}
+		    visited.add(nationName);
+		    let pact;
+		    let pact2;
+		    if(data[nationName]){
+			pact2 = data[nationName]["Defensive Pacts 2"]; //? data[nationName]["Defensive Pacts 2"] : "";
+			pact = data[nationName]["Defensive Pacts"]; //? data[nationName]["Defensive Pacts"] : "";
+		    } else {
+			pact2 = "";
+			pact = "";
+		    }
+//		    console.log(nationName);
+		    const alliancesdata =  Object.values(data)
+			  .filter(entry =>
+			      (entry["Military Alliances"] &&  entry["Military Alliances"].includes(nationName)) ||
+			      (entry["Military Alliances 2"] &&  entry["Military Alliances 2"].includes(nationName))
+			  )
+			  .map(entry => entry.Nations);
+		    // console.log(alliancesdata);
+		    const defensivePactsdata = Object.values(data)
+			  .filter(entry =>
+			      (entry["Defensive Pacts"] && entry["Defensive Pacts"].includes(nationName)) ||
+			      (entry["Defensive Pacts 2"] && entry["Defensive Pacts 2"].includes(nationName))
+			  )
+			  .map(entry => [entry.Nations  ,pact, pact2])
+  .flat()
+  .filter(Boolean);
+		    console.log(data[nationName]);
+		    const vassalsData = Object.values(data)
+			  .filter(entry => entry.Overlord && entry.Overlord.includes(nationName))
+			  .map(entry => entry.Nations);
+
+		    if (!nodesMap.has(nationName)) {
+//			console.log(!armyData[nationName]);
+			let pow = undefined;
+			if(armyData[nationName]) {
+//			    console.log(nationName);
+			const selectedArmy = armyData[nationName]
+			    pow = parseInt(selectedArmy.Pow_Army.replace(/[^0-9]/g, ''), 10);
+			    } else {
+				 pow = 0;
+			    }
+				const node = { id: nationName, name: nationName, powArmy: pow };
+				nodesMap.set(nationName, node);
+			}
+
+			// const alliances = data[nationName]["Military Alliances"];
+		    // 	const defensivePacts = data[nationName]["Defensive Pacts"];
+		    // 	const alliances2 = data[nationName]["Military Alliances 2"];
+		    // const defensivePacts2 = data[nationName]["Defensive Pacts 2"];
+		    // const vassalsData = Object.values(data)
+		    // 	  .filter(entry => entry.Overlord && entry.Overlord.includes(nationName))
+		    // 	  .map(entry => entry.Nations);
+		    const vassals = vassalsData.join(', ');
+		    const alliances = alliancesdata.join(', ');
+		    const defensivePacts = defensivePactsdata.join(', ');
+		    const allies = [alliances, defensivePacts, vassals].filter(Boolean).join(', ');
+		    //console.log(allies);
+			const currentNode = nodesMap.get(nationName);
+			const links = [];
+
+
+			if (allies) {
+				allies.split(', ').forEach(ally => {
+				let linkType = undefined;
+				if (alliances.includes(ally)) {
+						linkType = "Military Alliance";
+					} else if (vassals.includes(ally)) {
+					    linkType = "Vassal";
+					} else{
+						linkType = "Defensive Pact";
+					}
+					links.push({ source: currentNode.id, target: ally, type: linkType });
+					if (depth > 1) {
+						const allyData = getGraphData(ally, depth - 1, visited, nodesMap);
+//						console.log(ally);
+						if (allyData) {
+							links.push(...allyData.links);
+						}
+					} else if (!nodesMap.has(ally)) {
+					    let allypow;
+					    if(armyData[ally]) {
+						const allyArmy = armyData[ally];
+						allypow = parseInt(allyArmy.Pow_Army.replace(/[^0-9]/g, ''), 10);
+					    } else {
+						allypow = 1;
+					    }
+						const allynode = { id: ally, name: ally, powArmy: allypow };
+						nodesMap.set(ally, allynode);
+					}
+				});
+			}
+
+			return { nodes: Array.from(nodesMap.values()), links };
+		}
+
+		const tooltip = d3.select('body').append('div')
+			.attr('id', 'tooltip')
+			.style('position', 'absolute')
+			.style('opacity', 0)
+			.style('pointer-events', 'none')
+			.style('background-color', '#222')
+			.style('color', '#ddd')
+			.style('font-size', '8pt')
+			.style('font-weight', 'lighter')
+			.style('padding', '2px')
+			.style('border', '1px solid #ddd')
+			.style('border-radius', '2px');
+
+		function displayGraph(graphData) {
+			const svg = d3.select('svg');
+
+			// Clear existing content in the SVG
+			svg.selectAll('*').remove();
 
 			const nodes = graphData.nodes;
 			const links = graphData.links;
 
-			// Display the graph using your preferred graph visualization library (e.g., D3.js, vis.js, etc.)
-			// Here, we'll use a simple textual representation
-			const graphText = `
-        <p>Nodes:</p>
-        <ul>
-          ${nodes.map(node => `<li>${node.name}</li>`).join('')}
-        </ul>
-        <p>Links:</p>
-        <ul>
-          ${links.map(link => `<li>${link.source} -> ${link.target}</li>`).join('')}
-        </ul>
-      `;
+			const scaleNodeSize = d3.scalePow()
+				.exponent(1.1)
+				.domain([0, d3.max(nodes, d => parseInt(d.powArmy, 10))])
+				.range([2, 30]); // Adjust the range for desired node size limits
 
-			graphContainer.innerHTML = graphText;
+			// Create a D3 force simulation
+			const simulation = d3.forceSimulation(graphData.nodes)
+				.force('link', d3.forceLink(graphData.links).id(d => d.id))
+				.force('charge', d3.forceManyBody().strength(d => -50 * scaleNodeSize(parseInt(d.powArmy, 10))))
+				.force('center', d3.forceCenter(svg.attr('width') / 4, svg.attr('height') / 4));
+
+			// Create links
+			const link = svg.selectAll('line')
+				.data(graphData.links)
+				.enter().append('line')
+			      .style('stroke', d => (d.type === "Military Alliance") ? "red" : (d.type === "Vassal") ? "white" : "blue");
+
+			// Create nodes
+			const node = svg.selectAll('circle')
+				.data(graphData.nodes)
+				.enter().append('circle')
+				.attr('r', d => scaleNodeSize(parseInt(d.powArmy, 10)))
+				.attr('fill', 'steelblue')
+				.call(d3.drag()
+					.on('start', dragstarted)
+					.on('drag', dragged)
+					.on('end', dragended))
+				.on('mouseover', function (event, d) {
+					handleMouseOver(event, d); // Pass event and data to handleMouseOver
+				})
+				.on('mouseout', handleMouseOut);
+
+			// Add labels to nodes
+			const label = svg.selectAll('.label')
+				.data(graphData.nodes)
+				.enter().append('text')
+				.text(d => d.name)
+				.attr('font-size', '12px')
+				.attr('fill', 'white')
+				.attr('dx', 15)
+				.attr('dy', 4);
+
+			// Update positions on each tick of the simulation
+			simulation.on('tick', () => {
+				link
+					.attr('x1', d => d.source.x)
+					.attr('y1', d => d.source.y)
+					.attr('x2', d => d.target.x)
+					.attr('y2', d => d.target.y);
+
+				node
+					.attr('cx', d => d.x)
+					.attr('cy', d => d.y);
+
+				label
+					.attr('x', d => d.x)
+					.attr('y', d => d.y)
+			});
+
+			// Hover effect functions
+			function handleMouseOver(event, d) {
+				console.log("Mouse Over!");
+				console.log(d);
+				console.log(d3.pointer(event));
+				tooltip.transition()
+					.duration(200)
+					.style('opacity', 0.9);
+
+				tooltip.html(`<strong>${d.name}</strong><br>Power: ${d.powArmy}`)
+					.style('right', '10' + '%')
+					.style('top', '1' + '%');
+			}
+
+			function handleMouseOut() {
+				tooltip.transition()
+					.duration(500)
+					.style('opacity', 0);
+			}
+			// Drag functions
+			function dragstarted(event, d) {
+				if (!event.active) simulation.alphaTarget(0.3).restart();
+				d.fx = d.x;
+				d.fy = d.y;
+			}
+
+			function dragged(event, d) {
+				d.fx = event.x;
+				d.fy = event.y;
+			}
+
+			function dragended(event, d) {
+				if (!event.active) simulation.alphaTarget(0);
+				d.fx = null;
+				d.fy = null;
+			}
 		}
 	</script>
 
@@ -194,3 +376,6 @@
 </body>
 
 </html>
+<div id="tooltip"
+	style="position: absolute; opacity: 0; pointer-events: none; background-color: #fff; padding: 8px; border: 1px solid #ddd; border-radius: 5px;">
+</div>
