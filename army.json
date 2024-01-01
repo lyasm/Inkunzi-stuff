@@ -1502,7 +1502,7 @@
   "Vitten": {
     "Nations": "Vitten",
     "Nation Check": "Vitten",
-    "Pow_Army": "324",
+    "Pow_Army": "322",
     "Pow_Navy": "0"
   },
   "Grand Nimbusia": {
@@ -2001,6 +2001,54 @@
     "Nations": "Sadis Ultimuspes",
     "Nation Check": "Sadis Ultimuspes",
     "Pow_Army": "64",
+    "Pow_Navy": "0"
+  },
+  "Marsigar Kuningate": {
+    "Nations": "Marsigar Kuningate",
+    "Nation Check": "Marsigar Kuningate",
+    "Pow_Army": "474",
+    "Pow_Navy": "0"
+  },
+  "Sei Oola": {
+    "Nations": "Sei Oola",
+    "Nation Check": "Sei Oola",
+    "Pow_Army": "308",
+    "Pow_Navy": "0"
+  },
+  "Jelling": {
+    "Nations": "Jelling",
+    "Nation Check": "Jelling",
+    "Pow_Army": "233",
+    "Pow_Navy": "0"
+  },
+  "Stratavia": {
+    "Nations": "Stratavia",
+    "Nation Check": "Stratavia",
+    "Pow_Army": "234",
+    "Pow_Navy": "0"
+  },
+  "Him Maliataki": {
+    "Nations": "Him Maliataki",
+    "Nation Check": "Him Maliataki",
+    "Pow_Army": "367",
+    "Pow_Navy": "0"
+  },
+  "Despotate of Valedouro": {
+    "Nations": "Despotate of Valedouro",
+    "Nation Check": "Despotate of Valedouro",
+    "Pow_Army": "302",
+    "Pow_Navy": "0"
+  },
+  "Cleannmor": {
+    "Nations": "Cleannmor",
+    "Nation Check": "Cleannmor",
+    "Pow_Army": "432",
+    "Pow_Navy": "0"
+  },
+  "Pataia": {
+    "Nations": "Pataia",
+    "Nation Check": "Pataia",
+    "Pow_Army": "249",
     "Pow_Navy": "0"
   }
 }
