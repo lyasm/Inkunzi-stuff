@@ -1019,9 +1019,9 @@
     "Mil. Pacts": "2",
     "Trades": "2"
   },
-  "Baitveal": {
-    "Nations": "Baitveal",
-    "Nation Check": "Baitveal",
+  "": {
+    "Nations": "",
+    "Nation Check": "",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -1033,93 +1033,93 @@
     "": "",
     "L. Desire": "",
     "Base": "",
-    "Comparison": "0.00%",
+    "Comparison": "",
     "Individual": "",
-    "Friend/Rival": "0.00%",
+    "Friend/Rival": "",
     "Taxes": "",
     "Indep War?": "",
     "Autonomy": "None",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "6",
+    "Threshold": null,
+    "Chaotic?": null,
+    "Deceptive?": null,
+    "Honor?": null,
+    "Indep.?": null,
+    "Unity?": null,
+    "Ov. Culture": null,
+    "Ov. Religion": null,
+    "Non-aggression Pacts": null,
+    "Defensive Pacts": null,
+    "Defensive Pacts 2": null,
+    "Military Alliances": null,
+    "Military Alliances 2": null,
+    "Limit": null,
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": null,
+      "Trade 1 Value": null
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": null,
+      "Trade 2 Value": null
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": null,
+      "Trade 3 Value": null
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": null,
+      "Trade 4 Value": null
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": null,
+      "Trade 5 Value": null
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": null,
+      "Trade 6 Value": null
     },
     "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
+      "Value": null,
+      "Trade 7 Value": null
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": null,
+      "Trade 8 Value": null
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": null,
+      "Trade 9 Value": null
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": null,
+      "Trade 10 Value": null
     },
     "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
+      "Value": null,
+      "Trade 11 Value": null
     },
     "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
+      "Value": null,
+      "Trade 12 Value": null
     },
     "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
+      "Value": null,
+      "Trade 13 Value": null
     },
     "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
+      "Value": null,
+      "Trade 14 Value": null
     },
     "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
+      "Value": null,
+      "Trade 15 Value": null
     },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "1.00",
-    "Trade Income": "0.00",
-    "NAPs": "0",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
+    "Raw Trade Income": null,
+    "Tariffs": null,
+    "Trade Income": null,
+    "NAPs": null,
+    "Def. Pacts": null,
+    "Mil. Pacts": null,
+    "Trades": null
   },
   "Brotherhood of Pikpik": {
     "Nations": "Brotherhood of Pikpik",
