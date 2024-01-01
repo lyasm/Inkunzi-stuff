@@ -95,7 +95,6 @@
 		// 		nationDetails.innerHTML = '<code>' + JSON.stringify(selectedNationData, null, 2) + powArmy + '</code>';
 		// }
 		function displayNationDetails(selectedNationName) {
-	 		const selectedNationName = document.getElementById('nationDropdown').value;
 			const nationDetails = document.getElementById('nationDetails');
 			const armyDetails = document.getElementById('armyDetails');
 
@@ -107,7 +106,7 @@
 		}
 
 		// Function to update the graph
-	  function updateGraph() {
+		function updateGraph() {
 			const selectedNationName = document.getElementById('nationDropdown').value;
 			const depth = parseInt(document.getElementById('depthInput').value, 10);
 
@@ -118,45 +117,49 @@
 			displayGraph(graphData);
 		}
 
-		// Recursive function to get graph data
-		function getGraphData(nationName, depth, visited = new Set()) {
-			if (depth <= 0 || visited.has(nationName)) {
-				return null;
-			}
-		    nationName = document.getElementById('nationDropdown').value;
+	  // Recursive function to get graph data
+	  function getGraphData(nationName, depth, visited = new Set(), nodesMap = new Map()) {
+	      if (depth <= 0 || visited.has(nationName)) {
+    return null;
+  }
 
-			visited.add(nationName);
+	      visited.add(nationName);
 
-			const alliances = data[nationName]["Military Alliances"];
-			const defensivePacts = data[nationName]["Defensive Pacts"];
+  if (!nodesMap.has(nationName)) {
+    const node = { id: nationName, name: nationName };
+    nodesMap.set(nationName, node);
+  }
 
-			const node = { id: nationName, name: nationName };
-			const links = [];
+  const alliances = data[nationName]["Military Alliances"];
+  const defensivePacts = data[nationName]["Defensive Pacts"];
 
-			// Process alliances
-			if (alliances) {
-				alliances.split(', ').forEach(ally => {
-					const allyData = getGraphData(ally, depth - 1, visited);
-					if (allyData) {
-						links.push({ source: node.id, target: allyData.id });
-						links.push(...allyData.links);
-					}
-				});
-			}
+  const currentNode = nodesMap.get(nationName);
+  const links = [];
 
-			// Process defensive pacts
-			if (defensivePacts) {
-				defensivePacts.split(', ').forEach(pact => {
-					const pactData = getGraphData(pact, depth - 1, visited);
-					if (pactData) {
-						links.push({ source: node.id, target: pactData.id });
-						links.push(...pactData.links);
-					}
-				});
-			}
+  // Process alliances
+  if (alliances) {
+    alliances.split(', ').forEach(ally => {
+      const allyData = getGraphData(ally, depth - 1, visited, nodesMap);
+      if (allyData) {
+          links.push(...allyData.links, { source: currentNode.id, target: allyData.nodes[0].id });
+	  console.log(allyData);
+      }
+    });
+  }
 
-			return { nodes: [node], links };
-		}
+  // Process defensive pacts
+  if (defensivePacts) {
+    defensivePacts.split(', ').forEach(pact => {
+      const pactData = getGraphData(pact, depth - 1, visited, nodesMap);
+      if (pactData) {
+        links.push(...pactData.links, { source: currentNode.id, target: pactData.nodes[0].id });
+      }
+    });
+  }
+
+  return { nodes: Array.from(nodesMap.values()), links };
+    }
+
 
 		// Function to display the graph data
 		function displayGraph(graphData) {
