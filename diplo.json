@@ -113,10 +113,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "5.09%",
-    "Base": "5.09%",
-    "Comparison": "18.21%",
-    "Individual": "11.88%",
+    "L. Desire": "5.24%",
+    "Base": "5.24%",
+    "Comparison": "18.31%",
+    "Individual": "11.93%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -161,7 +161,7 @@
     },
     "Trade 7": {
       "Value": "Mātrentwo",
-      "Trade 7 Value": "8,639.06"
+      "Trade 7 Value": "11,732.81"
     },
     "Trade 8": {
       "Value": "",
@@ -195,9 +195,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "57,216.88",
+    "Raw Trade Income": "60,310.63",
     "Tariffs": "1.05",
-    "Trade Income": "60,077.72",
+    "Trade Income": "63,326.16",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -207,12 +207,12 @@
     "Nations": "Aethyrrajyam",
     "Nation Check": "Aethyrrajyam",
     "Overlord": "",
-    "Eco Vassals": "532,977.61",
+    "Eco Vassals": "539,319.80",
     "Eco Over.": "1,285,319.94",
     "Compare": "49.57%",
     "MP Vassals": "180,210.25",
     "MP Over.": "363,513.56",
-    "20% Total": "18.21%",
+    "20% Total": "18.31%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -420,9 +420,9 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-0.46%",
-    "Comparison": "18.21%",
-    "Individual": "6.33%",
+    "Base": "-0.32%",
+    "Comparison": "18.31%",
+    "Individual": "6.38%",
     "Friend/Rival": "-25.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -463,7 +463,7 @@
     },
     "Trade 6": {
       "Value": "Mātrentwo",
-      "Trade 6 Value": "8,639.06"
+      "Trade 6 Value": "11,732.81"
     },
     "Trade 7": {
       "Value": "",
@@ -501,9 +501,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "62,381.25",
+    "Raw Trade Income": "65,475.00",
     "Tariffs": "1.00",
-    "Trade Income": "62,381.25",
+    "Trade Income": "65,475.00",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -2656,7 +2656,7 @@
     "Nation Check": "Extremely Radical Corta",
     "Overlord": "",
     "Eco Vassals": "192,792.81",
-    "Eco Over.": "1,385,868.08",
+    "Eco Over.": "1,388,807.14",
     "Compare": "21.10%",
     "MP Vassals": "101,763.75",
     "MP Over.": "482,284.69",
@@ -2691,7 +2691,7 @@
     },
     "Trade 2": {
       "Value": "Mātrentwo",
-      "Trade 2 Value": "8,639.06"
+      "Trade 2 Value": "11,732.81"
     },
     "Trade 3": {
       "Value": "Gerak",
@@ -2745,9 +2745,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "183,624.63",
+    "Raw Trade Income": "186,718.38",
     "Tariffs": "0.95",
-    "Trade Income": "174,443.39",
+    "Trade Income": "177,382.46",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -3276,7 +3276,7 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-17.48%",
+    "Base": "-17.49%",
     "Comparison": "5.41%",
     "Individual": "4.61%",
     "Friend/Rival": "0.00%",
@@ -3479,8 +3479,8 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "13.09%",
-    "Base": "13.09%",
+    "L. Desire": "13.08%",
+    "Base": "13.08%",
     "Comparison": "7.00%",
     "Individual": "4.42%",
     "Friend/Rival": "0.00%",
@@ -3982,7 +3982,7 @@
     "Nation Check": "Here Be Dragons",
     "Overlord": "",
     "Eco Vassals": "160,417.49",
-    "Eco Over.": "1,330,087.36",
+    "Eco Over.": "1,333,026.42",
     "Compare": "14.99%",
     "MP Vassals": "34,570.94",
     "MP Over.": "230,588.88",
@@ -4021,7 +4021,7 @@
     },
     "Trade 3": {
       "Value": "Mātrentwo",
-      "Trade 3 Value": "8,639.06"
+      "Trade 3 Value": "11,732.81"
     },
     "Trade 4": {
       "Value": "Psarades",
@@ -4071,9 +4071,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "325,939.06",
+    "Raw Trade Income": "329,032.81",
     "Tariffs": "0.95",
-    "Trade Income": "309,642.11",
+    "Trade Income": "312,581.17",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -6658,8 +6658,8 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "Ironskin Kingdom",
-    "Defensive Pacts": "Jörðnar",
-    "Defensive Pacts 2": "Vzaria",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
     "Military Alliances": "Here Be Dragons",
     "Military Alliances 2": "Extremely Radical Corta",
     "Limit": "9",
@@ -6727,7 +6727,7 @@
     "Tariffs": "0.95",
     "Trade Income": "79,466.85",
     "NAPs": "1",
-    "Def. Pacts": "2",
+    "Def. Pacts": "0",
     "Mil. Pacts": "2",
     "Trades": "6"
   },
@@ -7042,7 +7042,7 @@
     "Nation Check": "Nixond",
     "Overlord": "",
     "Eco Vassals": "15,706.88",
-    "Eco Over.": "699,176.33",
+    "Eco Over.": "702,115.39",
     "Compare": "3.76%",
     "MP Vassals": "6,345.63",
     "MP Over.": "168,640.31",
@@ -7097,7 +7097,7 @@
     },
     "Trade 7": {
       "Value": "Mātrentwo",
-      "Trade 7 Value": "8,639.06"
+      "Trade 7 Value": "11,732.81"
     },
     "Trade 8": {
       "Value": "Gno’hdail Impireachd",
@@ -7131,9 +7131,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "105,559.13",
+    "Raw Trade Income": "108,652.88",
     "Tariffs": "0.95",
-    "Trade Income": "100,281.17",
+    "Trade Income": "103,220.23",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -33569,8 +33569,8 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "9.58%",
-    "Base": "9.58%",
+    "L. Desire": "9.57%",
+    "Base": "9.57%",
     "Comparison": "7.00%",
     "Individual": "2.58%",
     "Friend/Rival": "0.00%",
