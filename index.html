@@ -50,6 +50,19 @@
 
 			/* Add more dark mode specific styles as needed */
 		}
+
+		#container {
+			width: 100%;
+			/* Fixed width for the container */
+			height: 100%;
+			/* Fixed height for the container */
+			overflow: auto;
+			/* Enable scrolling if content overflows */
+		}
+
+		.line.highlighted {
+		    stroke-widt: 4 !important;
+		}
 	</style>
 
 	<script src="https://d3js.org/d3.v7.min.js"></script>
@@ -67,13 +80,15 @@
 	<div id="tooltip"
 		style="position: absolute; opacity: 0; pointer-events: none; background-color: #fff; padding: 8px; border: 1px solid #ddd; border-radius: 2px;">
 		Hello World</div>
-
-	<svg width="960" height="960"></svg>
-
+	<div id="container">
+	  <svg width="1000" height="1000">
+	     <g id="x-axis" transform="translate(0, 400)"></g>
+	  </svg>
+	</div>
 
 	<script>
 		let data;
-		let armyData;
+	  let armyData;
 		// Fetch The JSON data
 		fetch('diplo.json')
 			.then(response => response.json())
@@ -157,92 +172,92 @@
 			if (depth <= 0 || visited.has(nationName)) {
 				return null;
 			}
-		    visited.add(nationName);
-		    let pact;
-		    let pact2;
-		    if(data[nationName]){
-			pact2 = data[nationName]["Defensive Pacts 2"]; //? data[nationName]["Defensive Pacts 2"] : "";
-			pact = data[nationName]["Defensive Pacts"]; //? data[nationName]["Defensive Pacts"] : "";
-		    } else {
-			pact2 = "";
-			pact = "";
-		    }
-//		    console.log(nationName);
-		    const alliancesdata =  Object.values(data)
-			  .filter(entry =>
-			      (entry["Military Alliances"] &&  entry["Military Alliances"].includes(nationName)) ||
-			      (entry["Military Alliances 2"] &&  entry["Military Alliances 2"].includes(nationName))
-			  )
-			  .map(entry => entry.Nations);
-		    // console.log(alliancesdata);
-		    const defensivePactsdata = Object.values(data)
-			  .filter(entry =>
-			      (entry["Defensive Pacts"] && entry["Defensive Pacts"].includes(nationName)) ||
-			      (entry["Defensive Pacts 2"] && entry["Defensive Pacts 2"].includes(nationName))
-			  )
-			  .map(entry => [entry.Nations  ,pact, pact2])
-  .flat()
-  .filter(Boolean);
-		    console.log(data[nationName]);
-		    const vassalsData = Object.values(data)
-			  .filter(entry => entry.Overlord && entry.Overlord.includes(nationName))
-			  .map(entry => entry.Nations);
+			visited.add(nationName);
+			let pact;
+			let pact2;
+			if (data[nationName]) {
+				pact2 = data[nationName]["Defensive Pacts 2"]; //? data[nationName]["Defensive Pacts 2"] : "";
+				pact = data[nationName]["Defensive Pacts"]; //? data[nationName]["Defensive Pacts"] : "";
+			} else {
+				pact2 = "";
+				pact = "";
+			}
+			//		    console.log(nationName);
+			const alliancesdata = Object.values(data)
+				.filter(entry =>
+					(entry["Military Alliances"] && entry["Military Alliances"].includes(nationName)) ||
+					(entry["Military Alliances 2"] && entry["Military Alliances 2"].includes(nationName))
+				)
+				.map(entry => entry.Nations);
+			// console.log(alliancesdata);
+			const defensivePactsdata = Object.values(data)
+				.filter(entry =>
+					(entry["Defensive Pacts"] && entry["Defensive Pacts"].includes(nationName)) ||
+					(entry["Defensive Pacts 2"] && entry["Defensive Pacts 2"].includes(nationName))
+				)
+				.map(entry => [entry.Nations, pact, pact2])
+				.flat()
+				.filter(Boolean);
+			console.log(data[nationName]);
+			const vassalsData = Object.values(data)
+				.filter(entry => entry.Overlord && entry.Overlord.includes(nationName))
+				.map(entry => entry.Nations);
 
-		    if (!nodesMap.has(nationName)) {
-//			console.log(!armyData[nationName]);
-			let pow = undefined;
-			if(armyData[nationName]) {
-//			    console.log(nationName);
-			const selectedArmy = armyData[nationName]
-			    pow = parseInt(selectedArmy.Pow_Army.replace(/[^0-9]/g, ''), 10);
-			    } else {
-				 pow = 0;
-			    }
+			if (!nodesMap.has(nationName)) {
+				//			console.log(!armyData[nationName]);
+				let pow = undefined;
+				if (armyData[nationName]) {
+					//			    console.log(nationName);
+					const selectedArmy = armyData[nationName]
+					pow = parseInt(selectedArmy.Pow_Army.replace(/[^0-9]/g, ''), 10);
+				} else {
+					pow = 0;
+				}
 				const node = { id: nationName, name: nationName, powArmy: pow };
 				nodesMap.set(nationName, node);
 			}
 
 			// const alliances = data[nationName]["Military Alliances"];
-		    // 	const defensivePacts = data[nationName]["Defensive Pacts"];
-		    // 	const alliances2 = data[nationName]["Military Alliances 2"];
-		    // const defensivePacts2 = data[nationName]["Defensive Pacts 2"];
-		    // const vassalsData = Object.values(data)
-		    // 	  .filter(entry => entry.Overlord && entry.Overlord.includes(nationName))
-		    // 	  .map(entry => entry.Nations);
-		    const vassals = vassalsData.join(', ');
-		    const alliances = alliancesdata.join(', ');
-		    const defensivePacts = defensivePactsdata.join(', ');
-		    const allies = [alliances, defensivePacts, vassals].filter(Boolean).join(', ');
-		    //console.log(allies);
+			// 	const defensivePacts = data[nationName]["Defensive Pacts"];
+			// 	const alliances2 = data[nationName]["Military Alliances 2"];
+			// const defensivePacts2 = data[nationName]["Defensive Pacts 2"];
+			// const vassalsData = Object.values(data)
+			// 	  .filter(entry => entry.Overlord && entry.Overlord.includes(nationName))
+			// 	  .map(entry => entry.Nations);
+			const vassals = vassalsData.join(', ');
+			const alliances = alliancesdata.join(', ');
+			const defensivePacts = defensivePactsdata.join(', ');
+			const allies = [alliances, defensivePacts, vassals].filter(Boolean).join(', ');
+			//console.log(allies);
 			const currentNode = nodesMap.get(nationName);
 			const links = [];
 
 
 			if (allies) {
 				allies.split(', ').forEach(ally => {
-				let linkType = undefined;
-				if (alliances.includes(ally)) {
+					let linkType = undefined;
+					if (alliances.includes(ally)) {
 						linkType = "Military Alliance";
 					} else if (vassals.includes(ally)) {
-					    linkType = "Vassal";
-					} else{
+						linkType = "Vassal";
+					} else {
 						linkType = "Defensive Pact";
 					}
 					links.push({ source: currentNode.id, target: ally, type: linkType });
 					if (depth > 1) {
 						const allyData = getGraphData(ally, depth - 1, visited, nodesMap);
-//						console.log(ally);
+						//						console.log(ally);
 						if (allyData) {
 							links.push(...allyData.links);
 						}
 					} else if (!nodesMap.has(ally)) {
-					    let allypow;
-					    if(armyData[ally]) {
-						const allyArmy = armyData[ally];
-						allypow = parseInt(allyArmy.Pow_Army.replace(/[^0-9]/g, ''), 10);
-					    } else {
-						allypow = 1;
-					    }
+						let allypow;
+						if (armyData[ally]) {
+							const allyArmy = armyData[ally];
+							allypow = parseInt(allyArmy.Pow_Army.replace(/[^0-9]/g, ''), 10);
+						} else {
+							allypow = 1;
+						}
 						const allynode = { id: ally, name: ally, powArmy: allypow };
 						nodesMap.set(ally, allynode);
 					}
@@ -263,56 +278,101 @@
 			.style('font-weight', 'lighter')
 			.style('padding', '2px')
 			.style('border', '1px solid #ddd')
-			.style('border-radius', '2px');
+		      .style('border-radius', '2px');
 
-		function displayGraph(graphData) {
-			const svg = d3.select('svg');
 
+
+	  function displayGraph(graphData) {
+	      const svg = d3.select('svg');
 			// Clear existing content in the SVG
-			svg.selectAll('*').remove();
+	      svg.selectAll('*').remove();
 
-			const nodes = graphData.nodes;
+//zoom stuff
+	       const g = svg.append('g');
+	      // const handleZoom = (e) => g.attr('transform', e.transform);
+	      // const zoom = d3.zoom().on('zoom', handleZoom);
+	      // d3.select('svg').call(zoom);
+
+const linkGroup = g.append('g');
+const nodeGroup = g.append('g');
+const labelGroup = g.append('g');
+const handleZoom = (e) => {
+    nodeGroup.attr('transform', e.transform);
+    linkGroup.attr('transform', e.transform);
+    labelGroup.attr('transform', e.transform);
+
+ const labels = labelGroup.selectAll('.label');
+  labels.attr('transform', e.transform);
+    labels.attr('font-size', '8px')
+    console.log(e.transform.k);
+}
+
+const zoom = d3.zoom().on('zoom', handleZoom);
+
+d3.select('svg').call(zoom);
+
+svg.call(zoom);
+
+	const nodes = graphData.nodes;
 			const links = graphData.links;
 
 			const scaleNodeSize = d3.scalePow()
-				.exponent(1.1)
+				.exponent(1.01)
 				.domain([0, d3.max(nodes, d => parseInt(d.powArmy, 10))])
-				.range([2, 30]); // Adjust the range for desired node size limits
+				.range([2, 30]); // Adjust the range for desidarksalmon node size limits
 
 			// Create a D3 force simulation
+			// const simulation = d3.forceSimulation(graphData.nodes)
+			// 	.force('link', d3.forceLink(graphData.links).id(d => d.id))
+			// 	.force('charge', d3.forceManyBody().strength(d => -30 * scaleNodeSize(parseInt(d.powArmy, 10))))
+			// 	.force('center', d3.forceCenter(svg.attr('width') / 2, svg.attr('height') / 2));
+
+
 			const simulation = d3.forceSimulation(graphData.nodes)
-				.force('link', d3.forceLink(graphData.links).id(d => d.id))
-				.force('charge', d3.forceManyBody().strength(d => -50 * scaleNodeSize(parseInt(d.powArmy, 10))))
-				.force('center', d3.forceCenter(svg.attr('width') / 4, svg.attr('height') / 4));
+				.force('link', d3.forceLink(graphData.links).id(d => d.id).strength(1)) // Adjust the link strength as needed
+				.force('charge', d3.forceManyBody().strength(d => -30 * scaleNodeSize(parseInt(d.powArmy, 10))))
+				.force('center', d3.forceCenter(g.attr('width') / 2, g.attr('height') / 2))
+			      .force('collide', d3.forceCollide().radius(d => scaleNodeSize(parseInt(d.powArmy, 10)) + 5)); // Adjust the collide radius as needed
 
-			// Create links
-			const link = svg.selectAll('line')
+			const link = linkGroup.selectAll('line.link')
 				.data(graphData.links)
-				.enter().append('line')
-			      .style('stroke', d => (d.type === "Military Alliance") ? "red" : (d.type === "Vassal") ? "white" : "blue");
+			      .enter().append('line')
+			      .classed('link', true)
+			      .attr('x1', d => d.source.x)
+			      .attr('x2', d => d.target.x)
+			      .attr('y1', d => d.source.y)
+			      .attr('y2', d => d.target.y)
+			      .style('stroke', d => (d.type === "Military Alliance") ? "darksalmon" : (d.type === "Vassal") ? "ghostwhite" : "lightskyblue");
 
-			// Create nodes
-			const node = svg.selectAll('circle')
+	      const node = nodeGroup.selectAll('circle')
 				.data(graphData.nodes)
-				.enter().append('circle')
+			      .enter().append('circle')
+			      .classed('node', true)
+		    .attr('cx', d => d.x)
+		    .attr('cy', d => d.y)
 				.attr('r', d => scaleNodeSize(parseInt(d.powArmy, 10)))
-				.attr('fill', 'steelblue')
+			      .attr('fill', '#303745')
+			      .attr('stroke','ghostwhite')
+			      .attr('stroke-width', 1)
 				.call(d3.drag()
 					.on('start', dragstarted)
 					.on('drag', dragged)
 					.on('end', dragended))
 				.on('mouseover', function (event, d) {
-					handleMouseOver(event, d); // Pass event and data to handleMouseOver
-				})
-				.on('mouseout', handleMouseOut);
+				    handleMouseOver(event, d);})
+		    .on('mouseout', function (event, d) {
+			handleMouseOut(event, d);
+			      });
 
 			// Add labels to nodes
-			const label = svg.selectAll('.label')
+			const label = labelGroup.selectAll('.label')
 				.data(graphData.nodes)
 				.enter().append('text')
 				.text(d => d.name)
 				.attr('font-size', '12px')
-				.attr('fill', 'white')
+				.attr('fill', 'ghostwhite')
+  .attr('x', d => d.x)
+  .attr('y', d => d.y)
 				.attr('dx', 15)
 				.attr('dy', 4);
 
@@ -326,18 +386,39 @@
 
 				node
 					.attr('cx', d => d.x)
-					.attr('cy', d => d.y);
+				.attr('cy', d => d.y);
+			    // circles
+			    // 	.attr('cx', d => d.x)
+			    // 	.attr('cy', d => d.y);
 
 				label
 					.attr('x', d => d.x)
 					.attr('y', d => d.y)
 			});
 
+function getDullerColor(color) {
+    const dullerFactor = 1.1;
+    return d3.color(color).darker(dullerFactor).toString();
+}
+
+function getLighterColor(color) {
+    // You can implement your logic to obtain a duller version of the color here
+    // For example, you can darksalmonuce the saturation or brightness
+    // This is just a simple example, you may need to adjust it based on your preferences
+    const lightnessFactor = 0.5;
+    return d3.color(color).brighter(lightnessFactor).toString();
+}
+
 			// Hover effect functions
 			function handleMouseOver(event, d) {
-				console.log("Mouse Over!");
-				console.log(d);
-				console.log(d3.pointer(event));
+			    link.style('stroke-opacity', l => (l.source === d || l.target === d) ? 1 : 0.75);
+			    link.style('stroke-width', l => (l.source === d || l.target === d) ? 3 : 2);
+			    // link.style('stroke', l => (l.source === d || l.target === d) ? 'grey' : 'ghostwhite');
+			    // link.style('stroke', d => (d.type === "Military Alliance") ? "darksalmon" : (d.type === "Vassal") ? "ghostwhite" : "lightskyblue");
+			    link.style('stroke', l => {
+    const color = (l.type === "Military Alliance") ? "darksalmon" : (l.type === "Vassal") ? "ghostwhite" : "lightskyblue";
+				return (l.source === d || l.target === d) ? getLighterColor(color) : getDullerColor(color);
+			    });
 				tooltip.transition()
 					.duration(200)
 					.style('opacity', 0.9);
@@ -347,10 +428,14 @@
 					.style('top', '1' + '%');
 			}
 
-			function handleMouseOut() {
+	      function handleMouseOut(event, d) {
 				tooltip.transition()
-					.duration(500)
-					.style('opacity', 0);
+				.duration(500)
+				.style('opacity', 0);
+			    console.log("Mouse Out!");
+			    link.style('stroke-opacity', 1);
+			    link.style('stroke-width', 2);
+			    link.style('stroke', d => (d.type === "Military Alliance") ? "darksalmon" : (d.type === "Vassal") ? "ghostwhite" : "lightskyblue");
 			}
 			// Drag functions
 			function dragstarted(event, d) {
