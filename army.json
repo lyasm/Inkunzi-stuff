@@ -398,7 +398,7 @@
   "Mātrentwo": {
     "Nations": "Mātrentwo",
     "Nation Check": "Mātrentwo",
-    "Pow_Army": "4,987",
+    "Pow_Army": "5,320",
     "Pow_Navy": "0"
   },
   "Mazazuma": {
@@ -1058,7 +1058,7 @@
   "The Aislings": {
     "Nations": "The Aislings",
     "Nation Check": "The Aislings",
-    "Pow_Army": "925",
+    "Pow_Army": "935",
     "Pow_Navy": "0"
   },
   "Principality of Skanderborg": {
@@ -1208,7 +1208,7 @@
   "Amethyst Clan": {
     "Nations": "Amethyst Clan",
     "Nation Check": "Amethyst Clan",
-    "Pow_Army": "1,188",
+    "Pow_Army": "1,561",
     "Pow_Navy": "0"
   },
   "The Lakarish Kingdom of Olkmania": {
@@ -1317,6 +1317,12 @@
     "Nations": "Nournourlant",
     "Nation Check": "Nournourlant",
     "Pow_Army": "1,687",
+    "Pow_Navy": "0"
+  },
+  "Ahupau'a o Heiau": {
+    "Nations": "Ahupau'a o Heiau",
+    "Nation Check": "Ahupau'a o Heiau",
+    "Pow_Army": "364",
     "Pow_Navy": "0"
   },
   "The Tarmarches": {
