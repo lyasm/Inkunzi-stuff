@@ -1236,7 +1236,7 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-3.59%",
+    "Base": "-3.60%",
     "Comparison": "5.70%",
     "Individual": "5.70%",
     "Friend/Rival": "0.00%",
@@ -2483,7 +2483,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Netsanet Republic",
-      "Trade 1 Value": "32,180.00"
+      "Trade 1 Value": "34,100.00"
     },
     "Trade 2": {
       "Value": "Ko'ch Q'ash",
@@ -2541,9 +2541,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,605.00",
+    "Raw Trade Income": "42,525.00",
     "Tariffs": "0.95",
-    "Trade Income": "38,574.75",
+    "Trade Income": "40,398.75",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -9701,10 +9701,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "39.81%",
-    "Base": "39.81%",
-    "Comparison": "20.03%",
-    "Individual": "4.78%",
+    "L. Desire": "40.06%",
+    "Base": "40.06%",
+    "Comparison": "20.24%",
+    "Individual": "4.82%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -9725,15 +9725,15 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Netsanet Republic",
-      "Trade 1 Value": "32,180.00"
+      "Trade 1 Value": "34,100.00"
     },
     "Trade 2": {
       "Value": "Ishmalkan Confederated Cities",
-      "Trade 2 Value": "6,237.50"
+      "Trade 2 Value": "6,837.50"
     },
     "Trade 3": {
       "Value": "Ulanasa Republic",
-      "Trade 3 Value": "3,070.31"
+      "Trade 3 Value": "3,970.31"
     },
     "Trade 4": {
       "Value": "Kashin Aquanorix",
@@ -9783,9 +9783,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "81,342.81",
+    "Raw Trade Income": "84,762.81",
     "Tariffs": "0.75",
-    "Trade Income": "61,007.11",
+    "Trade Income": "63,572.11",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -10765,11 +10765,11 @@
     },
     "Trade 6": {
       "Value": "Netsanet Republic",
-      "Trade 6 Value": "32,180.00"
+      "Trade 6 Value": "34,100.00"
     },
     "Trade 7": {
       "Value": "Grand Tetalay",
-      "Trade 7 Value": "5,125.00"
+      "Trade 7 Value": "5,725.00"
     },
     "Trade 8": {
       "Value": "Shakisu",
@@ -10803,9 +10803,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "113,485.84",
+    "Raw Trade Income": "116,005.84",
     "Tariffs": "0.95",
-    "Trade Income": "107,811.55",
+    "Trade Income": "110,205.55",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -11859,9 +11859,9 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Alderdorf",
+    "Non-aggression Pacts": "Alderdorf, Nournourlant",
     "Defensive Pacts": "Glasrhaidd",
-    "Defensive Pacts 2": "",
+    "Defensive Pacts 2": "Alderdorf",
     "Military Alliances": "Kinh Nam City-State",
     "Military Alliances 2": "Elphonsa",
     "Limit": "6",
@@ -11874,8 +11874,8 @@
       "Trade 2 Value": "5,652.50"
     },
     "Trade 3": {
-      "Value": "Glasrhaidd",
-      "Trade 3 Value": "3,368.75"
+      "Value": "Alderdorf",
+      "Trade 3 Value": "3,445.00"
     },
     "Trade 4": {
       "Value": "Republic o. Zuntirar",
@@ -11925,11 +11925,11 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "35,954.69",
+    "Raw Trade Income": "36,030.94",
     "Tariffs": "1.05",
-    "Trade Income": "37,752.42",
-    "NAPs": "1",
-    "Def. Pacts": "1",
+    "Trade Income": "37,832.48",
+    "NAPs": "2",
+    "Def. Pacts": "2",
     "Mil. Pacts": "2",
     "Trades": "6"
   },
@@ -12149,10 +12149,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "23.48%",
-    "Base": "23.48%",
-    "Comparison": "20.03%",
-    "Individual": "8.45%",
+    "L. Desire": "23.77%",
+    "Base": "23.77%",
+    "Comparison": "20.24%",
+    "Individual": "8.53%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -12173,15 +12173,15 @@
     "Limit": "6",
     "Trade 1": {
       "Value": "Netsanet Republic",
-      "Trade 1 Value": "32,180.00"
+      "Trade 1 Value": "34,100.00"
     },
     "Trade 2": {
       "Value": "Grand Tetalay",
-      "Trade 2 Value": "5,125.00"
+      "Trade 2 Value": "5,725.00"
     },
     "Trade 3": {
       "Value": "Ulanasa Republic",
-      "Trade 3 Value": "3,070.31"
+      "Trade 3 Value": "3,970.31"
     },
     "Trade 4": {
       "Value": "",
@@ -12231,9 +12231,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,375.31",
+    "Raw Trade Income": "43,795.31",
     "Tariffs": "1.25",
-    "Trade Income": "50,469.14",
+    "Trade Income": "54,744.14",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -13169,10 +13169,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "36.15%",
-    "Base": "36.15%",
-    "Comparison": "33.98%",
-    "Individual": "12.18%",
+    "L. Desire": "36.17%",
+    "Base": "36.17%",
+    "Comparison": "33.96%",
+    "Individual": "12.21%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -13193,7 +13193,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Netsanet Republic",
-      "Trade 1 Value": "32,180.00"
+      "Trade 1 Value": "34,100.00"
     },
     "Trade 2": {
       "Value": "Brotherhood of Pikpik",
@@ -13251,9 +13251,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "106,423.56",
+    "Raw Trade Income": "108,343.56",
     "Tariffs": "0.75",
-    "Trade Income": "79,817.67",
+    "Trade Income": "81,257.67",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -13271,10 +13271,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "37.28%",
-    "Base": "37.28%",
-    "Comparison": "33.98%",
-    "Individual": "13.31%",
+    "L. Desire": "37.25%",
+    "Base": "37.25%",
+    "Comparison": "33.96%",
+    "Individual": "13.28%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -13373,10 +13373,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "32.46%",
-    "Base": "32.46%",
-    "Comparison": "33.98%",
-    "Individual": "8.49%",
+    "L. Desire": "32.44%",
+    "Base": "32.44%",
+    "Comparison": "33.96%",
+    "Individual": "8.47%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -13679,10 +13679,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "39.12%",
-    "Base": "39.12%",
-    "Comparison": "28.82%",
-    "Individual": "10.30%",
+    "L. Desire": "39.50%",
+    "Base": "39.50%",
+    "Comparison": "29.11%",
+    "Individual": "10.39%",
     "Friend/Rival": "-25.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -15947,7 +15947,7 @@
     "Limit": "3",
     "Trade 1": {
       "Value": "Grand Tetalay",
-      "Trade 1 Value": "5,125.00"
+      "Trade 1 Value": "5,725.00"
     },
     "Trade 2": {
       "Value": "",
@@ -16005,9 +16005,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "5,125.00",
+    "Raw Trade Income": "5,725.00",
     "Tariffs": "1.00",
-    "Trade Income": "5,125.00",
+    "Trade Income": "5,725.00",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -16324,7 +16324,7 @@
     "Nation Check": "Kycerian Dominion",
     "Overlord": "",
     "Eco Vassals": "66,890.38",
-    "Eco Over.": "642,462.12",
+    "Eco Over.": "644,286.12",
     "Compare": "18.11%",
     "MP Vassals": "42,735.00",
     "MP Over.": "235,932.81",
@@ -16355,7 +16355,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Netsanet Republic",
-      "Trade 1 Value": "32,180.00"
+      "Trade 1 Value": "34,100.00"
     },
     "Trade 2": {
       "Value": "Shakisu",
@@ -16413,9 +16413,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "76,528.88",
+    "Raw Trade Income": "78,448.88",
     "Tariffs": "0.95",
-    "Trade Income": "72,702.43",
+    "Trade Income": "74,526.43",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -19039,7 +19039,7 @@
     },
     "Trade 9": {
       "Value": "Nummum",
-      "Trade 9 Value": "11,853.63"
+      "Trade 9 Value": "16,933.75"
     },
     "Trade 10": {
       "Value": "The Trade Families of Kemakmura",
@@ -19065,9 +19065,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "94,805.83",
+    "Raw Trade Income": "99,885.95",
     "Tariffs": "0.75",
-    "Trade Income": "71,104.37",
+    "Trade Income": "74,914.46",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -19345,7 +19345,7 @@
     },
     "Trade 9": {
       "Value": "Nummum",
-      "Trade 9 Value": "11,853.63"
+      "Trade 9 Value": "16,933.75"
     },
     "Trade 10": {
       "Value": "Hui Kai",
@@ -19371,9 +19371,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "68,429.41",
+    "Raw Trade Income": "73,509.53",
     "Tariffs": "0.75",
-    "Trade Income": "51,322.05",
+    "Trade Income": "55,132.15",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -20043,7 +20043,7 @@
     },
     "Trade 5": {
       "Value": "Nummum",
-      "Trade 5 Value": "11,853.63"
+      "Trade 5 Value": "16,933.75"
     },
     "Trade 6": {
       "Value": "Rosefire Dynasty",
@@ -20085,9 +20085,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "59,257.06",
+    "Raw Trade Income": "64,337.19",
     "Tariffs": "0.95",
-    "Trade Income": "56,294.21",
+    "Trade Income": "61,120.33",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -20301,12 +20301,12 @@
     "Nations": "Netsanet Republic",
     "Nation Check": "Netsanet Republic",
     "Overlord": "",
-    "Eco Vassals": "473,888.39",
-    "Eco Over.": "943,279.45",
+    "Eco Vassals": "484,628.39",
+    "Eco Over.": "945,274.45",
     "Compare": "49.92%",
     "MP Vassals": "160,633.00",
     "MP Over.": "321,750.00",
-    "20% Total": "20.03%",
+    "20% Total": "20.24%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -20341,15 +20341,15 @@
     },
     "Trade 3": {
       "Value": "Grand Tetalay",
-      "Trade 3 Value": "5,125.00"
+      "Trade 3 Value": "5,725.00"
     },
     "Trade 4": {
       "Value": "Ishmalkan Confederated Cities",
-      "Trade 4 Value": "6,237.50"
+      "Trade 4 Value": "6,837.50"
     },
     "Trade 5": {
       "Value": "Ulanasa Republic",
-      "Trade 5 Value": "3,070.31"
+      "Trade 5 Value": "3,970.31"
     },
     "Trade 6": {
       "Value": "Shakisu",
@@ -20391,9 +20391,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "76,207.31",
+    "Raw Trade Income": "78,307.31",
     "Tariffs": "0.95",
-    "Trade Income": "72,396.95",
+    "Trade Income": "74,391.95",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -21125,10 +21125,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "21.82%",
-    "Base": "21.82%",
-    "Comparison": "6.91%",
-    "Individual": "6.91%",
+    "L. Desire": "21.74%",
+    "Base": "21.74%",
+    "Comparison": "6.87%",
+    "Individual": "6.87%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -22349,10 +22349,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "47.79%",
-    "Base": "47.79%",
-    "Comparison": "28.82%",
-    "Individual": "8.96%",
+    "L. Desire": "48.15%",
+    "Base": "48.15%",
+    "Comparison": "29.11%",
+    "Individual": "9.04%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -24993,12 +24993,12 @@
     "Nations": "Shakisu",
     "Nation Check": "Shakisu",
     "Overlord": "",
-    "Eco Vassals": "540,069.78",
-    "Eco Over.": "561,832.70",
+    "Eco Vassals": "541,509.78",
+    "Eco Over.": "563,656.70",
     "Compare": "73.75%",
     "MP Vassals": "108,225.22",
     "MP Over.": "146,744.81",
-    "20% Total": "33.98%",
+    "20% Total": "33.96%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -25041,7 +25041,7 @@
     },
     "Trade 5": {
       "Value": "Netsanet Republic",
-      "Trade 5 Value": "32,180.00"
+      "Trade 5 Value": "34,100.00"
     },
     "Trade 6": {
       "Value": "Brotherhood of Pikpik",
@@ -25083,9 +25083,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "152,007.19",
+    "Raw Trade Income": "153,927.19",
     "Tariffs": "0.95",
-    "Trade Income": "144,406.83",
+    "Trade Income": "146,230.83",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -28054,11 +28054,11 @@
     "Nation Check": "The Free Cities of Cupiditas",
     "Overlord": "",
     "Eco Vassals": "60,995.31",
-    "Eco Over.": "378,664.45",
+    "Eco Over.": "383,490.57",
     "Compare": "18.45%",
     "MP Vassals": "12,873.44",
     "MP Over.": "69,776.44",
-    "20% Total": "6.91%",
+    "20% Total": "6.87%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -28093,7 +28093,7 @@
     },
     "Trade 3": {
       "Value": "Nummum",
-      "Trade 3 Value": "11,853.63"
+      "Trade 3 Value": "16,933.75"
     },
     "Trade 4": {
       "Value": "High City of Tirsil",
@@ -28143,9 +28143,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "86,086.93",
+    "Raw Trade Income": "91,167.05",
     "Tariffs": "0.95",
-    "Trade Income": "81,782.58",
+    "Trade Income": "86,608.70",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -32549,10 +32549,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "31.84%",
-    "Base": "31.84%",
-    "Comparison": "20.03%",
-    "Individual": "6.81%",
+    "L. Desire": "32.12%",
+    "Base": "32.12%",
+    "Comparison": "20.24%",
+    "Individual": "6.88%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -32573,15 +32573,15 @@
     "Limit": "6",
     "Trade 1": {
       "Value": "Netsanet Republic",
-      "Trade 1 Value": "32,180.00"
+      "Trade 1 Value": "34,100.00"
     },
     "Trade 2": {
       "Value": "Grand Tetalay",
-      "Trade 2 Value": "5,125.00"
+      "Trade 2 Value": "5,725.00"
     },
     "Trade 3": {
       "Value": "Ishmalkan Confederated Cities",
-      "Trade 3 Value": "6,237.50"
+      "Trade 3 Value": "6,837.50"
     },
     "Trade 4": {
       "Value": "",
@@ -32631,9 +32631,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "43,542.50",
+    "Raw Trade Income": "46,662.50",
     "Tariffs": "1.25",
-    "Trade Income": "54,428.13",
+    "Trade Income": "58,328.13",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -32950,11 +32950,11 @@
     "Nation Check": "Uqhuma Killa",
     "Overlord": "",
     "Eco Vassals": "1,176,084.62",
-    "Eco Over.": "1,860,618.70",
-    "Compare": "80.89%",
+    "Eco Over.": "1,817,306.20",
+    "Compare": "80.81%",
     "MP Vassals": "346,513.75",
-    "MP Over.": "428,360.63",
-    "20% Total": "28.82%",
+    "MP Over.": "428,793.75",
+    "20% Total": "29.11%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -33671,10 +33671,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "28.88%",
-    "Base": "28.88%",
-    "Comparison": "28.82%",
-    "Individual": "9.56%",
+    "L. Desire": "29.28%",
+    "Base": "29.28%",
+    "Comparison": "29.11%",
+    "Individual": "9.67%",
     "Friend/Rival": "-25.00%",
     "Taxes": "10.00%",
     "Indep War?": "",
