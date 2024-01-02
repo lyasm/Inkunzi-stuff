@@ -7983,10 +7983,10 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "The Awakened, The imperial theocray of Borbenska, Zastita, Kingdom of Jasper",
-    "Defensive Pacts": "Malekate of Opolexion",
+    "Non-aggression Pacts": "The Kingdom of Jasper, The Awakened ",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Malekate of Opolexion",
+    "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
@@ -7998,16 +7998,16 @@
       "Trade 2 Value": "6,981.25"
     },
     "Trade 3": {
-      "Value": "Imperial Theocracy of Borbenska",
-      "Trade 3 Value": "2,100.00"
+      "Value": "The Republic of Alyvosk",
+      "Trade 3 Value": "6,704.50"
     },
     "Trade 4": {
       "Value": "Terrum Aetheri",
       "Trade 4 Value": "5,980.00"
     },
     "Trade 5": {
-      "Value": "Zastita",
-      "Trade 5 Value": "2,800.00"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "The Awakened",
@@ -8022,7 +8022,7 @@
       "Trade 8 Value": "5,652.50"
     },
     "Trade 9": {
-      "Value": "Malekate of Opolexion",
+      "Value": "",
       "Trade 9 Value": ""
     },
     "Trade 10": {
@@ -8049,13 +8049,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "34,426.25",
+    "Raw Trade Income": "36,230.75",
     "Tariffs": "0.95",
-    "Trade Income": "32,704.94",
-    "NAPs": "4",
-    "Def. Pacts": "1",
-    "Mil. Pacts": "1",
-    "Trades": "8"
+    "Trade Income": "34,419.21",
+    "NAPs": "2",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
+    "Trades": "7"
   },
   "Free City of Fray Ventos": {
     "Nations": "Free City of Fray Ventos",
@@ -16562,8 +16562,8 @@
       "Trade 1 Value": "3,047.50"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Tuk Dynasty",
+      "Trade 2 Value": "3,047.50"
     },
     "Trade 3": {
       "Value": "",
@@ -16617,13 +16617,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "3,047.50",
+    "Raw Trade Income": "6,095.00",
     "Tariffs": "0.95",
-    "Trade Income": "2,895.13",
+    "Trade Income": "5,790.25",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "1"
+    "Trades": "2"
   },
   "Lialikidus": {
     "Nations": "Lialikidus",
@@ -23471,10 +23471,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "44.49%",
-    "Base": "44.49%",
-    "Comparison": "11.41%",
-    "Individual": "11.41%",
+    "L. Desire": "52.56%",
+    "Base": "52.56%",
+    "Comparison": "15.44%",
+    "Individual": "15.44%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
@@ -30400,11 +30400,11 @@
     "Nation Check": "The Second Temple",
     "Overlord": "",
     "Eco Vassals": "65,325.56",
-    "Eco Over.": "294,708.00",
-    "Compare": "34.90%",
+    "Eco Over.": "234,208.00",
+    "Compare": "49.33%",
     "MP Vassals": "41,002.50",
-    "MP Over.": "117,495.13",
-    "20% Total": "11.41%",
+    "MP Over.": "83,120.13",
+    "20% Total": "15.44%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
