@@ -304,7 +304,6 @@ const handleZoom = (e) => {
  const labels = labelGroup.selectAll('.label');
   labels.attr('transform', e.transform);
     labels.attr('font-size', '8px')
-    console.log(e.transform.k);
 }
 
 const zoom = d3.zoom().on('zoom', handleZoom);
@@ -369,7 +368,7 @@ svg.call(zoom);
 				.data(graphData.nodes)
 				.enter().append('text')
 				.text(d => d.name)
-				.attr('font-size', '12px')
+				.attr('font-size', '9px')
 				.attr('fill', 'ghostwhite')
   .attr('x', d => d.x)
   .attr('y', d => d.y)
@@ -432,7 +431,6 @@ function getLighterColor(color) {
 				tooltip.transition()
 				.duration(500)
 				.style('opacity', 0);
-			    console.log("Mouse Out!");
 			    link.style('stroke-opacity', 1);
 			    link.style('stroke-width', 2);
 			    link.style('stroke', d => (d.type === "Military Alliance") ? "darksalmon" : (d.type === "Vassal") ? "ghostwhite" : "lightskyblue");
