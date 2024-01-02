@@ -17,6 +17,12 @@
     "Pow_Army": "32,414",
     "Pow_Navy": "0"
   },
+  "Adelaar Legioen": {
+    "Nations": "Adelaar Legioen",
+    "Nation Check": "Adelaar Legioen",
+    "Pow_Army": "766",
+    "Pow_Navy": "0"
+  },
   "Aethyllion Pradesh": {
     "Nations": "Aethyllion Pradesh",
     "Nation Check": "Aethyllion Pradesh",
@@ -35,6 +41,42 @@
     "Pow_Army": "167",
     "Pow_Navy": "0"
   },
+  "Ahupau'a o Heiau": {
+    "Nations": "Ahupau'a o Heiau",
+    "Nation Check": "Ahupau'a o Heiau",
+    "Pow_Army": "364",
+    "Pow_Navy": "0"
+  },
+  "Akaḣpetoƞ": {
+    "Nations": "Akaḣpetoƞ",
+    "Nation Check": "Akaḣpetoƞ",
+    "Pow_Army": "3,330",
+    "Pow_Navy": "0"
+  },
+  "Akali": {
+    "Nations": "Akali",
+    "Nation Check": "Akali",
+    "Pow_Army": "782",
+    "Pow_Navy": "0"
+  },
+  "Akalikania": {
+    "Nations": "Akalikania",
+    "Nation Check": "Akalikania",
+    "Pow_Army": "744",
+    "Pow_Navy": "0"
+  },
+  "Alapadana": {
+    "Nations": "Alapadana",
+    "Nation Check": "Alapadana",
+    "Pow_Army": "1,059",
+    "Pow_Navy": "0"
+  },
+  "Alderdorf": {
+    "Nations": "Alderdorf",
+    "Nation Check": "Alderdorf",
+    "Pow_Army": "540",
+    "Pow_Navy": "0"
+  },
   "Alramia": {
     "Nations": "Alramia",
     "Nation Check": "Alramia",
@@ -47,16 +89,52 @@
     "Pow_Army": "735",
     "Pow_Navy": "0"
   },
+  "Amethyst Clan": {
+    "Nations": "Amethyst Clan",
+    "Nation Check": "Amethyst Clan",
+    "Pow_Army": "1,566",
+    "Pow_Navy": "0"
+  },
   "Annakpolis": {
     "Nations": "Annakpolis",
     "Nation Check": "Annakpolis",
     "Pow_Army": "411",
     "Pow_Navy": "0"
   },
+  "Araybattahya ": {
+    "Nations": "Araybattahya ",
+    "Nation Check": "Araybattahya ",
+    "Pow_Army": "1,756",
+    "Pow_Navy": "0"
+  },
+  "Arcadia": {
+    "Nations": "Arcadia",
+    "Nation Check": "Arcadia",
+    "Pow_Army": "986",
+    "Pow_Navy": "0"
+  },
+  "Arethousa": {
+    "Nations": "Arethousa",
+    "Nation Check": "Arethousa",
+    "Pow_Army": "467",
+    "Pow_Navy": "123"
+  },
   "ARG o Jillu Uylor": {
     "Nations": "ARG o Jillu Uylor",
     "Nation Check": "ARG o Jillu Uylor",
     "Pow_Army": "262",
+    "Pow_Navy": "0"
+  },
+  "Ascendant Regency of Newstar": {
+    "Nations": "Ascendant Regency of Newstar",
+    "Nation Check": "Ascendant Regency of Newstar",
+    "Pow_Army": "870",
+    "Pow_Navy": "51"
+  },
+  "Ashdayn": {
+    "Nations": "Ashdayn",
+    "Nation Check": "Ashdayn",
+    "Pow_Army": "715",
     "Pow_Navy": "0"
   },
   "Atlas'ii": {
@@ -65,16 +143,34 @@
     "Pow_Army": "2,724",
     "Pow_Navy": "0"
   },
+  "Audgunn": {
+    "Nations": "Audgunn",
+    "Nation Check": "Audgunn",
+    "Pow_Army": "2,108",
+    "Pow_Navy": "0"
+  },
+  "Autoriteit Hollezel": {
+    "Nations": "Autoriteit Hollezel",
+    "Nation Check": "Autoriteit Hollezel",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
   "Azharid Caliphate": {
     "Nations": "Azharid Caliphate",
     "Nation Check": "Azharid Caliphate",
     "Pow_Army": "4,871",
     "Pow_Navy": "0"
   },
-  "Baitveal": {
-    "Nations": "Baitveal",
-    "Nation Check": "Baitveal",
-    "Pow_Army": "267",
+  "Bork": {
+    "Nations": "Bork",
+    "Nation Check": "Bork",
+    "Pow_Army": "47",
+    "Pow_Navy": "0"
+  },
+  "Brotherhood of Dwarves": {
+    "Nations": "Brotherhood of Dwarves",
+    "Nation Check": "Brotherhood of Dwarves",
+    "Pow_Army": "714",
     "Pow_Navy": "0"
   },
   "Brotherhood of Pikpik": {
@@ -86,7 +182,13 @@
   "Cabyarszag": {
     "Nations": "Cabyarszag",
     "Nation Check": "Cabyarszag",
-    "Pow_Army": "4,573",
+    "Pow_Army": "4,597",
+    "Pow_Navy": "0"
+  },
+  "Caesnauka Empire": {
+    "Nations": "Caesnauka Empire",
+    "Nation Check": "Caesnauka Empire",
+    "Pow_Army": "0",
     "Pow_Navy": "0"
   },
   "Candentis Jalin": {
@@ -101,10 +203,58 @@
     "Pow_Army": "1,264",
     "Pow_Navy": "0"
   },
+  "Carcukhanate": {
+    "Nations": "Carcukhanate",
+    "Nation Check": "Carcukhanate",
+    "Pow_Army": "1,052",
+    "Pow_Navy": "0"
+  },
   "Carya": {
     "Nations": "Carya",
     "Nation Check": "Carya",
     "Pow_Army": "600",
+    "Pow_Navy": "0"
+  },
+  "Cassion": {
+    "Nations": "Cassion",
+    "Nation Check": "Cassion",
+    "Pow_Army": "329",
+    "Pow_Navy": "0"
+  },
+  "Ceavia": {
+    "Nations": "Ceavia",
+    "Nation Check": "Ceavia",
+    "Pow_Army": "1,669",
+    "Pow_Navy": "0"
+  },
+  "Ceridwyn Teulu": {
+    "Nations": "Ceridwyn Teulu",
+    "Nation Check": "Ceridwyn Teulu",
+    "Pow_Army": "377",
+    "Pow_Navy": "0"
+  },
+  "Cheiraa Ousenika": {
+    "Nations": "Cheiraa Ousenika",
+    "Nation Check": "Cheiraa Ousenika",
+    "Pow_Army": "235",
+    "Pow_Navy": "0"
+  },
+  "Chernkov": {
+    "Nations": "Chernkov",
+    "Nation Check": "Chernkov",
+    "Pow_Army": "386",
+    "Pow_Navy": "0"
+  },
+  "Chitinara": {
+    "Nations": "Chitinara",
+    "Nation Check": "Chitinara",
+    "Pow_Army": "760",
+    "Pow_Navy": "0"
+  },
+  "City State of Kido": {
+    "Nations": "City State of Kido",
+    "Nation Check": "City State of Kido",
+    "Pow_Army": "1,169",
     "Pow_Navy": "0"
   },
   "Clan Karatillion": {
@@ -123,6 +273,54 @@
     "Nations": "Clan Lepus",
     "Nation Check": "Clan Lepus",
     "Pow_Army": "560",
+    "Pow_Navy": "0"
+  },
+  "Clan of Skye ": {
+    "Nations": "Clan of Skye ",
+    "Nation Check": "Clan of Skye ",
+    "Pow_Army": "711",
+    "Pow_Navy": "0"
+  },
+  "Clankar Cog": {
+    "Nations": "Clankar Cog",
+    "Nation Check": "Clankar Cog",
+    "Pow_Army": "101",
+    "Pow_Navy": "0"
+  },
+  "Cleannmor": {
+    "Nations": "Cleannmor",
+    "Nation Check": "Cleannmor",
+    "Pow_Army": "422",
+    "Pow_Navy": "0"
+  },
+  "Cóchua Kingdom": {
+    "Nations": "Cóchua Kingdom",
+    "Nation Check": "Cóchua Kingdom",
+    "Pow_Army": "399",
+    "Pow_Navy": "0"
+  },
+  "Colmea": {
+    "Nations": "Colmea",
+    "Nation Check": "Colmea",
+    "Pow_Army": "726",
+    "Pow_Navy": "0"
+  },
+  "Commonwealth of Gonaria": {
+    "Nations": "Commonwealth of Gonaria",
+    "Nation Check": "Commonwealth of Gonaria",
+    "Pow_Army": "698",
+    "Pow_Navy": "0"
+  },
+  "Confederate of Caoilinn": {
+    "Nations": "Confederate of Caoilinn",
+    "Nation Check": "Confederate of Caoilinn",
+    "Pow_Army": "340",
+    "Pow_Navy": "0"
+  },
+  "Council of Dehurkjols": {
+    "Nations": "Council of Dehurkjols",
+    "Nation Check": "Council of Dehurkjols",
+    "Pow_Army": "699",
     "Pow_Navy": "0"
   },
   "Council of Otvori": {
@@ -152,7 +350,7 @@
   "Darzi Loyalists": {
     "Nations": "Darzi Loyalists",
     "Nation Check": "Darzi Loyalists",
-    "Pow_Army": "3,227",
+    "Pow_Army": "3,249",
     "Pow_Navy": "0"
   },
   "Denirar": {
@@ -161,10 +359,82 @@
     "Pow_Army": "350",
     "Pow_Navy": "0"
   },
+  "Despotate of Valedouro": {
+    "Nations": "Despotate of Valedouro",
+    "Nation Check": "Despotate of Valedouro",
+    "Pow_Army": "290",
+    "Pow_Navy": "0"
+  },
+  "Dinasygan": {
+    "Nations": "Dinasygan",
+    "Nation Check": "Dinasygan",
+    "Pow_Army": "1,192",
+    "Pow_Navy": "0"
+  },
+  "Diogen": {
+    "Nations": "Diogen",
+    "Nation Check": "Diogen",
+    "Pow_Army": "945",
+    "Pow_Navy": "0"
+  },
+  "Drahacira": {
+    "Nations": "Drahacira",
+    "Nation Check": "Drahacira",
+    "Pow_Army": "329",
+    "Pow_Navy": "0"
+  },
+  "Drionn Galith": {
+    "Nations": "Drionn Galith",
+    "Nation Check": "Drionn Galith",
+    "Pow_Army": "928",
+    "Pow_Navy": "0"
+  },
+  "Elphonsa": {
+    "Nations": "Elphonsa",
+    "Nation Check": "Elphonsa",
+    "Pow_Army": "1,141",
+    "Pow_Navy": "0"
+  },
+  "Elyen-Mev": {
+    "Nations": "Elyen-Mev",
+    "Nation Check": "Elyen-Mev",
+    "Pow_Army": "995",
+    "Pow_Navy": "42"
+  },
   "Emirate of Zira": {
     "Nations": "Emirate of Zira",
     "Nation Check": "Emirate of Zira",
     "Pow_Army": "30",
+    "Pow_Navy": "0"
+  },
+  "Enushkan Ur Kaash'shum": {
+    "Nations": "Enushkan Ur Kaash'shum",
+    "Nation Check": "Enushkan Ur Kaash'shum",
+    "Pow_Army": "277",
+    "Pow_Navy": "0"
+  },
+  "Eskannwa": {
+    "Nations": "Eskannwa",
+    "Nation Check": "Eskannwa",
+    "Pow_Army": "1,067",
+    "Pow_Navy": "0"
+  },
+  "Etolian Πολιτεία": {
+    "Nations": "Etolian Πολιτεία",
+    "Nation Check": "Etolian Πολιτεία",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "Ewig Republic": {
+    "Nations": "Ewig Republic",
+    "Nation Check": "Ewig Republic",
+    "Pow_Army": "270",
+    "Pow_Navy": "0"
+  },
+  "Exodists of Amunkedat": {
+    "Nations": "Exodists of Amunkedat",
+    "Nation Check": "Exodists of Amunkedat",
+    "Pow_Army": "732",
     "Pow_Navy": "0"
   },
   "Extremely Radical Corta": {
@@ -179,10 +449,28 @@
     "Pow_Army": "2,265",
     "Pow_Navy": "0"
   },
+  "Federation of Tlo'tsaa": {
+    "Nations": "Federation of Tlo'tsaa",
+    "Nation Check": "Federation of Tlo'tsaa",
+    "Pow_Army": "495",
+    "Pow_Navy": "0"
+  },
+  "Fellowship of the Crown": {
+    "Nations": "Fellowship of the Crown",
+    "Nation Check": "Fellowship of the Crown",
+    "Pow_Army": "28,758",
+    "Pow_Navy": "108"
+  },
   "Followers of the Chosen": {
     "Nations": "Followers of the Chosen",
     "Nation Check": "Followers of the Chosen",
     "Pow_Army": "2,882",
+    "Pow_Navy": "0"
+  },
+  "Forge of Aarde": {
+    "Nations": "Forge of Aarde",
+    "Nation Check": "Forge of Aarde",
+    "Pow_Army": "759",
     "Pow_Navy": "0"
   },
   "Four Leagues of Trinity": {
@@ -190,6 +478,12 @@
     "Nation Check": "Four Leagues of Trinity",
     "Pow_Army": "542",
     "Pow_Navy": "0"
+  },
+  "Free City of Erub-Kai": {
+    "Nations": "Free City of Erub-Kai",
+    "Nation Check": "Free City of Erub-Kai",
+    "Pow_Army": "529",
+    "Pow_Navy": "43"
   },
   "Free City of Fray Ventos": {
     "Nations": "Free City of Fray Ventos",
@@ -203,10 +497,46 @@
     "Pow_Army": "1,374",
     "Pow_Navy": "11"
   },
+  "Free City of Zephon": {
+    "Nations": "Free City of Zephon",
+    "Nation Check": "Free City of Zephon",
+    "Pow_Army": "1,904",
+    "Pow_Navy": "33"
+  },
+  "Free City of Zephyrabad": {
+    "Nations": "Free City of Zephyrabad",
+    "Nation Check": "Free City of Zephyrabad",
+    "Pow_Army": "408",
+    "Pow_Navy": "0"
+  },
+  "Fu Tiangun Realm": {
+    "Nations": "Fu Tiangun Realm",
+    "Nation Check": "Fu Tiangun Realm",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "Galdu Hegal": {
+    "Nations": "Galdu Hegal",
+    "Nation Check": "Galdu Hegal",
+    "Pow_Army": "616",
+    "Pow_Navy": "0"
+  },
   "Gerak": {
     "Nations": "Gerak",
     "Nation Check": "Gerak",
     "Pow_Army": "467",
+    "Pow_Navy": "0"
+  },
+  "Glasrhaidd": {
+    "Nations": "Glasrhaidd",
+    "Nation Check": "Glasrhaidd",
+    "Pow_Army": "668",
+    "Pow_Navy": "0"
+  },
+  "Glorbentura": {
+    "Nations": "Glorbentura",
+    "Nation Check": "Glorbentura",
+    "Pow_Army": "0",
     "Pow_Navy": "0"
   },
   "Gno’hdail Impireachd": {
@@ -221,6 +551,12 @@
     "Pow_Army": "2,643",
     "Pow_Navy": "0"
   },
+  "Goldmongers": {
+    "Nations": "Goldmongers",
+    "Nation Check": "Goldmongers",
+    "Pow_Army": "207",
+    "Pow_Navy": "0"
+  },
   "Gramantinia": {
     "Nations": "Gramantinia",
     "Nation Check": "Gramantinia",
@@ -233,10 +569,28 @@
     "Pow_Army": "5,268",
     "Pow_Navy": "0"
   },
+  "Grand Nimbusia": {
+    "Nations": "Grand Nimbusia",
+    "Nation Check": "Grand Nimbusia",
+    "Pow_Army": "804",
+    "Pow_Navy": "0"
+  },
+  "Grand Principality of Onica": {
+    "Nations": "Grand Principality of Onica",
+    "Nation Check": "Grand Principality of Onica",
+    "Pow_Army": "859",
+    "Pow_Navy": "0"
+  },
   "Grand Tetalay": {
     "Nations": "Grand Tetalay",
     "Nation Check": "Grand Tetalay",
-    "Pow_Army": "1,383",
+    "Pow_Army": "1,304",
+    "Pow_Navy": "0"
+  },
+  "Great Host of the Unconquered Sun": {
+    "Nations": "Great Host of the Unconquered Sun",
+    "Nation Check": "Great Host of the Unconquered Sun",
+    "Pow_Army": "594",
     "Pow_Navy": "0"
   },
   "Greater Stahlland": {
@@ -245,16 +599,100 @@
     "Pow_Army": "558",
     "Pow_Navy": "0"
   },
+  "Gul-Kesh": {
+    "Nations": "Gul-Kesh",
+    "Nation Check": "Gul-Kesh",
+    "Pow_Army": "675",
+    "Pow_Navy": "0"
+  },
+  "Hadastan Commenwealth": {
+    "Nations": "Hadastan Commenwealth",
+    "Nation Check": "Hadastan Commenwealth",
+    "Pow_Army": "265",
+    "Pow_Navy": "0"
+  },
+  "Hanza Trade Republic": {
+    "Nations": "Hanza Trade Republic",
+    "Nation Check": "Hanza Trade Republic",
+    "Pow_Army": "347",
+    "Pow_Navy": "0"
+  },
   "Here Be Dragons": {
     "Nations": "Here Be Dragons",
     "Nation Check": "Here Be Dragons",
     "Pow_Army": "6,556",
     "Pow_Navy": "0"
   },
+  "Herzogtum Enzla": {
+    "Nations": "Herzogtum Enzla",
+    "Nation Check": "Herzogtum Enzla",
+    "Pow_Army": "895",
+    "Pow_Navy": "0"
+  },
+  "High City of Tirsil": {
+    "Nations": "High City of Tirsil",
+    "Nation Check": "High City of Tirsil",
+    "Pow_Army": "758",
+    "Pow_Navy": "90"
+  },
+  "Him Maliataki": {
+    "Nations": "Him Maliataki",
+    "Nation Check": "Him Maliataki",
+    "Pow_Army": "367",
+    "Pow_Navy": "0"
+  },
+  "HlérHeim": {
+    "Nations": "HlérHeim",
+    "Nation Check": "HlérHeim",
+    "Pow_Army": "658",
+    "Pow_Navy": "30"
+  },
+  "Holy Council of Axhaea": {
+    "Nations": "Holy Council of Axhaea",
+    "Nation Check": "Holy Council of Axhaea",
+    "Pow_Army": "983",
+    "Pow_Navy": "0"
+  },
+  "Holy Kingdom of Scripts": {
+    "Nations": "Holy Kingdom of Scripts",
+    "Nation Check": "Holy Kingdom of Scripts",
+    "Pow_Army": "920",
+    "Pow_Navy": "0"
+  },
+  "Hrvolan Qaris": {
+    "Nations": "Hrvolan Qaris",
+    "Nation Check": "Hrvolan Qaris",
+    "Pow_Army": "660",
+    "Pow_Navy": "0"
+  },
+  "Hui Kai": {
+    "Nations": "Hui Kai",
+    "Nation Check": "Hui Kai",
+    "Pow_Army": "588",
+    "Pow_Navy": "6"
+  },
+  "I’Hamon": {
+    "Nations": "I’Hamon",
+    "Nation Check": "I’Hamon",
+    "Pow_Army": "261",
+    "Pow_Navy": "6"
+  },
   "Iarthar Grove": {
     "Nations": "Iarthar Grove",
     "Nation Check": "Iarthar Grove",
     "Pow_Army": "2,227",
+    "Pow_Navy": "0"
+  },
+  "Iidunn": {
+    "Nations": "Iidunn",
+    "Nation Check": "Iidunn",
+    "Pow_Army": "1,219",
+    "Pow_Navy": "0"
+  },
+  "Il-Esak'Chukhpelekh": {
+    "Nations": "Il-Esak'Chukhpelekh",
+    "Nation Check": "Il-Esak'Chukhpelekh",
+    "Pow_Army": "944",
     "Pow_Navy": "0"
   },
   "Ilikiu'Foriris": {
@@ -269,6 +707,18 @@
     "Pow_Army": "609",
     "Pow_Navy": "53"
   },
+  "Imperial City of Soria": {
+    "Nations": "Imperial City of Soria",
+    "Nation Check": "Imperial City of Soria",
+    "Pow_Army": "794",
+    "Pow_Navy": "0"
+  },
+  "Imperial Theocracy of Borbenska": {
+    "Nations": "Imperial Theocracy of Borbenska",
+    "Nation Check": "Imperial Theocracy of Borbenska",
+    "Pow_Army": "729",
+    "Pow_Navy": "0"
+  },
   "Ironskin Kingdom": {
     "Nations": "Ironskin Kingdom",
     "Nation Check": "Ironskin Kingdom",
@@ -281,22 +731,58 @@
     "Pow_Army": "1,506",
     "Pow_Navy": "0"
   },
+  "Jään Herruus": {
+    "Nations": "Jään Herruus",
+    "Nation Check": "Jään Herruus",
+    "Pow_Army": "528",
+    "Pow_Navy": "0"
+  },
+  "Jahanje": {
+    "Nations": "Jahanje",
+    "Nation Check": "Jahanje",
+    "Pow_Army": "249",
+    "Pow_Navy": "0"
+  },
+  "Jalpol": {
+    "Nations": "Jalpol",
+    "Nation Check": "Jalpol",
+    "Pow_Army": "376",
+    "Pow_Navy": "0"
+  },
+  "Jelling": {
+    "Nations": "Jelling",
+    "Nation Check": "Jelling",
+    "Pow_Army": "233",
+    "Pow_Navy": "0"
+  },
   "Jörðnar": {
     "Nations": "Jörðnar",
     "Nation Check": "Jörðnar",
     "Pow_Army": "0",
     "Pow_Navy": "0"
   },
+  "Jubal'on": {
+    "Nations": "Jubal'on",
+    "Nation Check": "Jubal'on",
+    "Pow_Army": "313",
+    "Pow_Navy": "0"
+  },
   "Karak Drung": {
     "Nations": "Karak Drung",
     "Nation Check": "Karak Drung",
-    "Pow_Army": "1,368",
+    "Pow_Army": "1,357",
     "Pow_Navy": "0"
   },
   "Karak Gazan": {
     "Nations": "Karak Gazan",
     "Nation Check": "Karak Gazan",
     "Pow_Army": "879",
+    "Pow_Navy": "0"
+  },
+  "Karak Helhein": {
+    "Nations": "Karak Helhein",
+    "Nation Check": "Karak Helhein",
+    "Pow_Army": "1,077",
     "Pow_Navy": "0"
   },
   "Kashin Aquanorix": {
@@ -314,13 +800,19 @@
   "Kashin Olderia": {
     "Nations": "Kashin Olderia",
     "Nation Check": "Kashin Olderia",
-    "Pow_Army": "510",
-    "Pow_Navy": "116"
+    "Pow_Army": "806",
+    "Pow_Navy": "350"
   },
   "Katu-Lachei Aztarnak": {
     "Nations": "Katu-Lachei Aztarnak",
     "Nation Check": "Katu-Lachei Aztarnak",
     "Pow_Army": "596",
+    "Pow_Navy": "0"
+  },
+  "Kaug-Põhja": {
+    "Nations": "Kaug-Põhja",
+    "Nation Check": "Kaug-Põhja",
+    "Pow_Army": "1,117",
     "Pow_Navy": "0"
   },
   "Kawranti": {
@@ -329,10 +821,52 @@
     "Pow_Army": "2,097",
     "Pow_Navy": "0"
   },
+  "Kh'nûll Diocese": {
+    "Nations": "Kh'nûll Diocese",
+    "Nation Check": "Kh'nûll Diocese",
+    "Pow_Army": "285",
+    "Pow_Navy": "0"
+  },
+  "Khyxwuz": {
+    "Nations": "Khyxwuz",
+    "Nation Check": "Khyxwuz",
+    "Pow_Army": "1,347",
+    "Pow_Navy": "0"
+  },
+  "Kiciakinikan": {
+    "Nations": "Kiciakinikan",
+    "Nation Check": "Kiciakinikan",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
   "Kiith Gaalsien": {
     "Nations": "Kiith Gaalsien",
     "Nation Check": "Kiith Gaalsien",
     "Pow_Army": "3,635",
+    "Pow_Navy": "0"
+  },
+  "Kilshandia": {
+    "Nations": "Kilshandia",
+    "Nation Check": "Kilshandia",
+    "Pow_Army": "419",
+    "Pow_Navy": "0"
+  },
+  "Kingdom of Aeornia": {
+    "Nations": "Kingdom of Aeornia",
+    "Nation Check": "Kingdom of Aeornia",
+    "Pow_Army": "438",
+    "Pow_Navy": "0"
+  },
+  "Kingdom of Ardungual": {
+    "Nations": "Kingdom of Ardungual",
+    "Nation Check": "Kingdom of Ardungual",
+    "Pow_Army": "1,065",
+    "Pow_Navy": "0"
+  },
+  "Kingdom of Gallacia": {
+    "Nations": "Kingdom of Gallacia",
+    "Nation Check": "Kingdom of Gallacia",
+    "Pow_Army": "1,534",
     "Pow_Navy": "0"
   },
   "Kingdom of Geloía": {
@@ -341,10 +875,70 @@
     "Pow_Army": "6,649",
     "Pow_Navy": "0"
   },
+  "Kingdom of Gloria": {
+    "Nations": "Kingdom of Gloria",
+    "Nation Check": "Kingdom of Gloria",
+    "Pow_Army": "926",
+    "Pow_Navy": "220"
+  },
+  "Kingdom of Járnfjall": {
+    "Nations": "Kingdom of Járnfjall",
+    "Nation Check": "Kingdom of Járnfjall",
+    "Pow_Army": "1,014",
+    "Pow_Navy": "0"
+  },
+  "Kingdom of Jasper": {
+    "Nations": "Kingdom of Jasper",
+    "Nation Check": "Kingdom of Jasper",
+    "Pow_Army": "929",
+    "Pow_Navy": "0"
+  },
+  "Kingdom of Kahtet": {
+    "Nations": "Kingdom of Kahtet",
+    "Nation Check": "Kingdom of Kahtet",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "Kingdom of Lyroa": {
+    "Nations": "Kingdom of Lyroa",
+    "Nation Check": "Kingdom of Lyroa",
+    "Pow_Army": "793",
+    "Pow_Navy": "0"
+  },
+  "Kingdom of Mimgrond": {
+    "Nations": "Kingdom of Mimgrond",
+    "Nation Check": "Kingdom of Mimgrond",
+    "Pow_Army": "1,221",
+    "Pow_Navy": "0"
+  },
   "Kingdom of Nexus": {
     "Nations": "Kingdom of Nexus",
     "Nation Check": "Kingdom of Nexus",
     "Pow_Army": "917",
+    "Pow_Navy": "0"
+  },
+  "Kingdom of Nymeria ": {
+    "Nations": "Kingdom of Nymeria ",
+    "Nation Check": "Kingdom of Nymeria ",
+    "Pow_Army": "530",
+    "Pow_Navy": "0"
+  },
+  "Kingdom of the Aurore": {
+    "Nations": "Kingdom of the Aurore",
+    "Nation Check": "Kingdom of the Aurore",
+    "Pow_Army": "1,358",
+    "Pow_Navy": "0"
+  },
+  "Kingdom of the Kettlelands": {
+    "Nations": "Kingdom of the Kettlelands",
+    "Nation Check": "Kingdom of the Kettlelands",
+    "Pow_Army": "631",
+    "Pow_Navy": "0"
+  },
+  "Kinh Nam City-State": {
+    "Nations": "Kinh Nam City-State",
+    "Nation Check": "Kinh Nam City-State",
+    "Pow_Army": "792",
     "Pow_Navy": "0"
   },
   "Ko'ch Q'ash": {
@@ -365,16 +959,52 @@
     "Pow_Army": "726",
     "Pow_Navy": "0"
   },
+  "Krosen Dynasty": {
+    "Nations": "Krosen Dynasty",
+    "Nation Check": "Krosen Dynasty",
+    "Pow_Army": "679",
+    "Pow_Navy": "0"
+  },
+  "Kup": {
+    "Nations": "Kup",
+    "Nation Check": "Kup",
+    "Pow_Army": "281",
+    "Pow_Navy": "0"
+  },
   "Kycerian Dominion": {
     "Nations": "Kycerian Dominion",
     "Nation Check": "Kycerian Dominion",
     "Pow_Army": "3,289",
     "Pow_Navy": "2"
   },
+  "Lauzydos": {
+    "Nations": "Lauzydos",
+    "Nation Check": "Lauzydos",
+    "Pow_Army": "1,057",
+    "Pow_Navy": "0"
+  },
+  "Lepnia": {
+    "Nations": "Lepnia",
+    "Nation Check": "Lepnia",
+    "Pow_Army": "1,228",
+    "Pow_Navy": "0"
+  },
   "Lialikidus": {
     "Nations": "Lialikidus",
     "Nation Check": "Lialikidus",
     "Pow_Army": "456",
+    "Pow_Navy": "0"
+  },
+  "Lisanos": {
+    "Nations": "Lisanos",
+    "Nation Check": "Lisanos",
+    "Pow_Army": "613",
+    "Pow_Navy": "0"
+  },
+  "Lohiida Dathinaal": {
+    "Nations": "Lohiida Dathinaal",
+    "Nation Check": "Lohiida Dathinaal",
+    "Pow_Army": "737",
     "Pow_Navy": "0"
   },
   "Los": {
@@ -389,10 +1019,82 @@
     "Pow_Army": "3,736",
     "Pow_Navy": "220"
   },
+  "Luminus": {
+    "Nations": "Luminus",
+    "Nation Check": "Luminus",
+    "Pow_Army": "1,144",
+    "Pow_Navy": "42"
+  },
+  "Lună sângeroasă": {
+    "Nations": "Lună sângeroasă",
+    "Nation Check": "Lună sângeroasă",
+    "Pow_Army": "951",
+    "Pow_Navy": "0"
+  },
   "Lundrium": {
     "Nations": "Lundrium",
     "Nation Check": "Lundrium",
     "Pow_Army": "1,327",
+    "Pow_Navy": "0"
+  },
+  "Lysian Republic": {
+    "Nations": "Lysian Republic",
+    "Nation Check": "Lysian Republic",
+    "Pow_Army": "456",
+    "Pow_Navy": "0"
+  },
+  "M'Qili Confederacy": {
+    "Nations": "M'Qili Confederacy",
+    "Nation Check": "M'Qili Confederacy",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "Maa": {
+    "Nations": "Maa",
+    "Nation Check": "Maa",
+    "Pow_Army": "910",
+    "Pow_Navy": "0"
+  },
+  "Maatada Istara": {
+    "Nations": "Maatada Istara",
+    "Nation Check": "Maatada Istara",
+    "Pow_Army": "2,089",
+    "Pow_Navy": "0"
+  },
+  "Mach Republic": {
+    "Nations": "Mach Republic",
+    "Nation Check": "Mach Republic",
+    "Pow_Army": "1,519",
+    "Pow_Navy": "0"
+  },
+  "Magoen Lurraldea": {
+    "Nations": "Magoen Lurraldea",
+    "Nation Check": "Magoen Lurraldea",
+    "Pow_Army": "1,148",
+    "Pow_Navy": "1"
+  },
+  "Malekate of Opolexion": {
+    "Nations": "Malekate of Opolexion",
+    "Nation Check": "Malekate of Opolexion",
+    "Pow_Army": "1,948",
+    "Pow_Navy": "0"
+  },
+  "Malo'Sami": {
+    "Nations": "Malo'Sami",
+    "Nation Check": "Malo'Sami",
+    "Pow_Army": "843",
+    "Pow_Navy": "0"
+  },
+  "Mardune": {
+    "Nations": "Mardune",
+    "Nation Check": "Mardune",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "Marsigar Kuningate": {
+    "Nations": "Marsigar Kuningate",
+    "Nation Check": "Marsigar Kuningate",
+    "Pow_Army": "474",
     "Pow_Navy": "0"
   },
   "Mās'": {
@@ -404,7 +1106,7 @@
   "Mātrentwo": {
     "Nations": "Mātrentwo",
     "Nation Check": "Mātrentwo",
-    "Pow_Army": "4,340",
+    "Pow_Army": "5,306",
     "Pow_Navy": "0"
   },
   "Mazazuma": {
@@ -413,10 +1115,94 @@
     "Pow_Army": "3,579",
     "Pow_Navy": "0"
   },
+  "Meadoia Dynasty": {
+    "Nations": "Meadoia Dynasty",
+    "Nation Check": "Meadoia Dynasty",
+    "Pow_Army": "593",
+    "Pow_Navy": "0"
+  },
+  "Mébian Confederation": {
+    "Nations": "Mébian Confederation",
+    "Nation Check": "Mébian Confederation",
+    "Pow_Army": "1,230",
+    "Pow_Navy": "0"
+  },
+  "Mercati Emporium": {
+    "Nations": "Mercati Emporium",
+    "Nation Check": "Mercati Emporium",
+    "Pow_Army": "620",
+    "Pow_Navy": "0"
+  },
+  "Meridomus Kalleprii": {
+    "Nations": "Meridomus Kalleprii",
+    "Nation Check": "Meridomus Kalleprii",
+    "Pow_Army": "810",
+    "Pow_Navy": "0"
+  },
+  "Mhawm Meung Ssok Nyieat Qux Si": {
+    "Nations": "Mhawm Meung Ssok Nyieat Qux Si",
+    "Nation Check": "Mhawm Meung Ssok Nyieat Qux Si",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "Mizarina": {
+    "Nations": "Mizarina",
+    "Nation Check": "Mizarina",
+    "Pow_Army": "179",
+    "Pow_Navy": "0"
+  },
+  "Môr Oer": {
+    "Nations": "Môr Oer",
+    "Nation Check": "Môr Oer",
+    "Pow_Army": "424",
+    "Pow_Navy": "0"
+  },
+  "Morchandor": {
+    "Nations": "Morchandor",
+    "Nation Check": "Morchandor",
+    "Pow_Army": "699",
+    "Pow_Navy": "0"
+  },
+  "Mulosk": {
+    "Nations": "Mulosk",
+    "Nation Check": "Mulosk",
+    "Pow_Army": "874",
+    "Pow_Navy": "0"
+  },
+  "Murenman": {
+    "Nations": "Murenman",
+    "Nation Check": "Murenman",
+    "Pow_Army": "875",
+    "Pow_Navy": "0"
+  },
+  "Naga Wangjo": {
+    "Nations": "Naga Wangjo",
+    "Nation Check": "Naga Wangjo",
+    "Pow_Army": "1,006",
+    "Pow_Navy": "0"
+  },
   "Nanakueyaltepetl": {
     "Nations": "Nanakueyaltepetl",
     "Nation Check": "Nanakueyaltepetl",
     "Pow_Army": "894",
+    "Pow_Navy": "0"
+  },
+  "Nāšā Qaḏmāyā": {
+    "Nations": "Nāšā Qaḏmāyā",
+    "Nation Check": "Nāšā Qaḏmāyā",
+    "Pow_Army": "1,831",
+    "Pow_Navy": "0"
+  },
+  "Natałor": {
+    "Nations": "Natałor",
+    "Nation Check": "Natałor",
+    "Pow_Army": "2,150",
+    "Pow_Navy": "0"
+  },
+  "Neonian Kuningate": {
+    "Nations": "Neonian Kuningate",
+    "Nation Check": "Neonian Kuningate",
+    "Pow_Army": "1,294",
     "Pow_Navy": "0"
   },
   "Netsanet Republic": {
@@ -431,11 +1217,47 @@
     "Pow_Army": "7,286",
     "Pow_Navy": "0"
   },
+  "Nournourlant": {
+    "Nations": "Nournourlant",
+    "Nation Check": "Nournourlant",
+    "Pow_Army": "1,687",
+    "Pow_Navy": "0"
+  },
+  "Novae Aeseriae": {
+    "Nations": "Novae Aeseriae",
+    "Nation Check": "Novae Aeseriae",
+    "Pow_Army": "898",
+    "Pow_Navy": "0"
+  },
+  "Nuanta": {
+    "Nations": "Nuanta",
+    "Nation Check": "Nuanta",
+    "Pow_Army": "2,005",
+    "Pow_Navy": "0"
+  },
+  "Nummum": {
+    "Nations": "Nummum",
+    "Nation Check": "Nummum",
+    "Pow_Army": "275",
+    "Pow_Navy": "210"
+  },
+  "Nuvoria": {
+    "Nations": "Nuvoria",
+    "Nation Check": "Nuvoria",
+    "Pow_Army": "878",
+    "Pow_Navy": "0"
+  },
   "Onaokoku": {
     "Nations": "Onaokoku",
     "Nation Check": "Onaokoku",
-    "Pow_Army": "4,616",
-    "Pow_Navy": "66"
+    "Pow_Army": "5,121",
+    "Pow_Navy": "186"
+  },
+  "Ophenadon": {
+    "Nations": "Ophenadon",
+    "Nation Check": "Ophenadon",
+    "Pow_Army": "292",
+    "Pow_Navy": "0"
   },
   "Order of Rock and Stone": {
     "Nations": "Order of Rock and Stone",
@@ -443,10 +1265,46 @@
     "Pow_Army": "180",
     "Pow_Navy": "0"
   },
+  "Order of The Radiance": {
+    "Nations": "Order of The Radiance",
+    "Nation Check": "Order of The Radiance",
+    "Pow_Army": "290",
+    "Pow_Navy": "0"
+  },
+  "Pataia": {
+    "Nations": "Pataia",
+    "Nation Check": "Pataia",
+    "Pow_Army": "247",
+    "Pow_Navy": "0"
+  },
+  "Pavellion": {
+    "Nations": "Pavellion",
+    "Nation Check": "Pavellion",
+    "Pow_Army": "867",
+    "Pow_Navy": "0"
+  },
+  "Pólitonskóron": {
+    "Nations": "Pólitonskóron",
+    "Nation Check": "Pólitonskóron",
+    "Pow_Army": "855",
+    "Pow_Navy": "0"
+  },
+  "Poloma": {
+    "Nations": "Poloma",
+    "Nation Check": "Poloma",
+    "Pow_Army": "1,058",
+    "Pow_Navy": "0"
+  },
   "Principality of Kol'zaskopjeia": {
     "Nations": "Principality of Kol'zaskopjeia",
     "Nation Check": "Principality of Kol'zaskopjeia",
-    "Pow_Army": "707",
+    "Pow_Army": "703",
+    "Pow_Navy": "0"
+  },
+  "Principality of Skanderborg": {
+    "Nations": "Principality of Skanderborg",
+    "Nation Check": "Principality of Skanderborg",
+    "Pow_Army": "782",
     "Pow_Navy": "0"
   },
   "Psarades": {
@@ -455,16 +1313,70 @@
     "Pow_Army": "8,620",
     "Pow_Navy": "260"
   },
+  "Pucanje": {
+    "Nations": "Pucanje",
+    "Nation Check": "Pucanje",
+    "Pow_Army": "849",
+    "Pow_Navy": "0"
+  },
+  "Pyhätmetsät": {
+    "Nations": "Pyhätmetsät",
+    "Nation Check": "Pyhätmetsät",
+    "Pow_Army": "362",
+    "Pow_Navy": "0"
+  },
   "Q'awachu": {
     "Nations": "Q'awachu",
     "Nation Check": "Q'awachu",
     "Pow_Army": "1,353",
     "Pow_Navy": "0"
   },
+  "Queendom of Edithia": {
+    "Nations": "Queendom of Edithia",
+    "Nation Check": "Queendom of Edithia",
+    "Pow_Army": "250",
+    "Pow_Navy": "0"
+  },
+  "Raaspazzlivatl": {
+    "Nations": "Raaspazzlivatl",
+    "Nation Check": "Raaspazzlivatl",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
   "Rampart Republic": {
     "Nations": "Rampart Republic",
     "Nation Check": "Rampart Republic",
     "Pow_Army": "262",
+    "Pow_Navy": "0"
+  },
+  "Rastoria": {
+    "Nations": "Rastoria",
+    "Nation Check": "Rastoria",
+    "Pow_Army": "338",
+    "Pow_Navy": "0"
+  },
+  "Remid Republic": {
+    "Nations": "Remid Republic",
+    "Nation Check": "Remid Republic",
+    "Pow_Army": "1,237",
+    "Pow_Navy": "0"
+  },
+  "Republic o. Zuntirar": {
+    "Nations": "Republic o. Zuntirar",
+    "Nation Check": "Republic o. Zuntirar",
+    "Pow_Army": "885",
+    "Pow_Navy": "0"
+  },
+  "Republic of Nymaró": {
+    "Nations": "Republic of Nymaró",
+    "Nation Check": "Republic of Nymaró",
+    "Pow_Army": "2,510",
+    "Pow_Navy": "0"
+  },
+  "Republic of Rostora": {
+    "Nations": "Republic of Rostora",
+    "Nation Check": "Republic of Rostora",
+    "Pow_Army": "321",
     "Pow_Navy": "0"
   },
   "Republyk Balresk": {
@@ -479,976 +1391,10 @@
     "Pow_Army": "707",
     "Pow_Navy": "0"
   },
-  "Shakisu": {
-    "Nations": "Shakisu",
-    "Nation Check": "Shakisu",
-    "Pow_Army": "1,985",
-    "Pow_Navy": "2,160"
-  },
-  "Skullantium": {
-    "Nations": "Skullantium",
-    "Nation Check": "Skullantium",
-    "Pow_Army": "3,011",
-    "Pow_Navy": "222"
-  },
-  "Spinelle": {
-    "Nations": "Spinelle",
-    "Nation Check": "Spinelle",
-    "Pow_Army": "899",
-    "Pow_Navy": "0"
-  },
-  "Talanrío": {
-    "Nations": "Talanrío",
-    "Nation Check": "Talanrío",
-    "Pow_Army": "27",
-    "Pow_Navy": "0"
-  },
-  "Terra Magicae": {
-    "Nations": "Terra Magicae",
-    "Nation Check": "Terra Magicae",
-    "Pow_Army": "3,113",
-    "Pow_Navy": "0"
-  },
-  "The Charter Territory of Riveria": {
-    "Nations": "The Charter Territory of Riveria",
-    "Nation Check": "The Charter Territory of Riveria",
-    "Pow_Army": "126",
-    "Pow_Navy": "0"
-  },
-  "The High Dukedom of Duloque": {
-    "Nations": "The High Dukedom of Duloque",
-    "Nation Check": "The High Dukedom of Duloque",
-    "Pow_Army": "472",
-    "Pow_Navy": "0"
-  },
-  "The Wild Fields": {
-    "Nations": "The Wild Fields",
-    "Nation Check": "The Wild Fields",
-    "Pow_Army": "1,155",
-    "Pow_Navy": "0"
-  },
-  "Theocratic Republic of Rekkatsija": {
-    "Nations": "Theocratic Republic of Rekkatsija",
-    "Nation Check": "Theocratic Republic of Rekkatsija",
-    "Pow_Army": "721",
-    "Pow_Navy": "31"
-  },
-  "Trinitas": {
-    "Nations": "Trinitas",
-    "Nation Check": "Trinitas",
-    "Pow_Army": "2,407",
-    "Pow_Navy": "0"
-  },
-  "Uisceam Grove": {
-    "Nations": "Uisceam Grove",
-    "Nation Check": "Uisceam Grove",
-    "Pow_Army": "749",
-    "Pow_Navy": "0"
-  },
-  "Ulanasa Republic": {
-    "Nations": "Ulanasa Republic",
-    "Nation Check": "Ulanasa Republic",
-    "Pow_Army": "1,599",
-    "Pow_Navy": "0"
-  },
-  "Uqhuma Killa": {
-    "Nations": "Uqhuma Killa",
-    "Nation Check": "Uqhuma Killa",
-    "Pow_Army": "4,972",
-    "Pow_Navy": "0"
-  },
-  "Vyraisos": {
-    "Nations": "Vyraisos",
-    "Nation Check": "Vyraisos",
-    "Pow_Army": "3,432",
-    "Pow_Navy": "0"
-  },
-  "Fellowship of the Crown": {
-    "Nations": "Fellowship of the Crown",
-    "Nation Check": "Fellowship of the Crown",
-    "Pow_Army": "28,758",
-    "Pow_Navy": "108"
-  },
-  "Wandon Council": {
-    "Nations": "Wandon Council",
-    "Nation Check": "Wandon Council",
-    "Pow_Army": "1,095",
-    "Pow_Navy": "280"
-  },
-  "WrestleMania": {
-    "Nations": "WrestleMania",
-    "Nation Check": "WrestleMania",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Yuranisuk": {
-    "Nations": "Yuranisuk",
-    "Nation Check": "Yuranisuk",
-    "Pow_Army": "666",
-    "Pow_Navy": "0"
-  },
-  "City State of Kido": {
-    "Nations": "City State of Kido",
-    "Nation Check": "City State of Kido",
-    "Pow_Army": "1,169",
-    "Pow_Navy": "0"
-  },
-  "Maatada Istara": {
-    "Nations": "Maatada Istara",
-    "Nation Check": "Maatada Istara",
-    "Pow_Army": "2,089",
-    "Pow_Navy": "0"
-  },
-  "Velken Bulwark": {
-    "Nations": "Velken Bulwark",
-    "Nation Check": "Velken Bulwark",
-    "Pow_Army": "1,025",
-    "Pow_Navy": "0"
-  },
-  "Thaandom of Fangkar": {
-    "Nations": "Thaandom of Fangkar",
-    "Nation Check": "Thaandom of Fangkar",
-    "Pow_Army": "993",
-    "Pow_Navy": "0"
-  },
-  "Sarmatai Confederation": {
-    "Nations": "Sarmatai Confederation",
-    "Nation Check": "Sarmatai Confederation",
-    "Pow_Army": "418",
-    "Pow_Navy": "0"
-  },
-  "Alderdorf": {
-    "Nations": "Alderdorf",
-    "Nation Check": "Alderdorf",
-    "Pow_Army": "510",
-    "Pow_Navy": "0"
-  },
-  "Hanza Trade Republic": {
-    "Nations": "Hanza Trade Republic",
-    "Nation Check": "Hanza Trade Republic",
-    "Pow_Army": "347",
-    "Pow_Navy": "0"
-  },
-  "Kingdom of Jasper": {
-    "Nations": "Kingdom of Jasper",
-    "Nation Check": "Kingdom of Jasper",
-    "Pow_Army": "929",
-    "Pow_Navy": "0"
-  },
-  "Tort Uli Xaliq": {
-    "Nations": "Tort Uli Xaliq",
-    "Nation Check": "Tort Uli Xaliq",
-    "Pow_Army": "422",
-    "Pow_Navy": "0"
-  },
-  "Saulka": {
-    "Nations": "Saulka",
-    "Nation Check": "Saulka",
-    "Pow_Army": "1,468",
-    "Pow_Navy": "0"
-  },
-  "Imperial Theocracy of Borbenska": {
-    "Nations": "Imperial Theocracy of Borbenska",
-    "Nation Check": "Imperial Theocracy of Borbenska",
-    "Pow_Army": "729",
-    "Pow_Navy": "0"
-  },
-  "Meridomus Kalleprii": {
-    "Nations": "Meridomus Kalleprii",
-    "Nation Check": "Meridomus Kalleprii",
-    "Pow_Army": "810",
-    "Pow_Navy": "0"
-  },
-  "Lauzydos": {
-    "Nations": "Lauzydos",
-    "Nation Check": "Lauzydos",
-    "Pow_Army": "1,057",
-    "Pow_Navy": "0"
-  },
-  "Free City of Erub-Kai": {
-    "Nations": "Free City of Erub-Kai",
-    "Nation Check": "Free City of Erub-Kai",
-    "Pow_Army": "529",
-    "Pow_Navy": "43"
-  },
-  "Free City of Zephon": {
-    "Nations": "Free City of Zephon",
-    "Nation Check": "Free City of Zephon",
-    "Pow_Army": "494",
-    "Pow_Navy": "33"
-  },
-  "Queendom of Edithia": {
-    "Nations": "Queendom of Edithia",
-    "Nation Check": "Queendom of Edithia",
-    "Pow_Army": "250",
-    "Pow_Navy": "0"
-  },
-  "Kingdom of Aeornia": {
-    "Nations": "Kingdom of Aeornia",
-    "Nation Check": "Kingdom of Aeornia",
-    "Pow_Army": "438",
-    "Pow_Navy": "0"
-  },
-  "Tetóth Kegeth": {
-    "Nations": "Tetóth Kegeth",
-    "Nation Check": "Tetóth Kegeth",
-    "Pow_Army": "931",
-    "Pow_Navy": "0"
-  },
-  "Hadastan Commenwealth": {
-    "Nations": "Hadastan Commenwealth",
-    "Nation Check": "Hadastan Commenwealth",
-    "Pow_Army": "265",
-    "Pow_Navy": "0"
-  },
-  "Royal City of Gevero": {
-    "Nations": "Royal City of Gevero",
-    "Nation Check": "Royal City of Gevero",
-    "Pow_Army": "995",
-    "Pow_Navy": "15"
-  },
-  "Snow Dominion": {
-    "Nations": "Snow Dominion",
-    "Nation Check": "Snow Dominion",
-    "Pow_Army": "868",
-    "Pow_Navy": "6"
-  },
-  "The Kingdom of Hemia": {
-    "Nations": "The Kingdom of Hemia",
-    "Nation Check": "The Kingdom of Hemia",
-    "Pow_Army": "905",
-    "Pow_Navy": "0"
-  },
-  "Federation of Tlo'tsaa": {
-    "Nations": "Federation of Tlo'tsaa",
-    "Nation Check": "Federation of Tlo'tsaa",
-    "Pow_Army": "495",
-    "Pow_Navy": "0"
-  },
-  "Ceavia": {
-    "Nations": "Ceavia",
-    "Nation Check": "Ceavia",
-    "Pow_Army": "1,669",
-    "Pow_Navy": "0"
-  },
-  "Carcukhanate": {
-    "Nations": "Carcukhanate",
-    "Nation Check": "Carcukhanate",
-    "Pow_Army": "1,052",
-    "Pow_Navy": "0"
-  },
-  "Stryaxina": {
-    "Nations": "Stryaxina",
-    "Nation Check": "Stryaxina",
-    "Pow_Army": "2,374",
-    "Pow_Navy": "0"
-  },
-  "Imperial City of Soria": {
-    "Nations": "Imperial City of Soria",
-    "Nation Check": "Imperial City of Soria",
-    "Pow_Army": "794",
-    "Pow_Navy": "0"
-  },
-  "Great Host of the Unconquered Sun": {
-    "Nations": "Great Host of the Unconquered Sun",
-    "Nation Check": "Great Host of the Unconquered Sun",
-    "Pow_Army": "594",
-    "Pow_Navy": "0"
-  },
-  "Zalmoxia": {
-    "Nations": "Zalmoxia",
-    "Nation Check": "Zalmoxia",
-    "Pow_Army": "959",
-    "Pow_Navy": "0"
-  },
-  "Mercati Emporium": {
-    "Nations": "Mercati Emporium",
-    "Nation Check": "Mercati Emporium",
-    "Pow_Army": "620",
-    "Pow_Navy": "0"
-  },
-  "Jalpol": {
-    "Nations": "Jalpol",
-    "Nation Check": "Jalpol",
-    "Pow_Army": "376",
-    "Pow_Navy": "0"
-  },
-  "Terrum Aetheri": {
-    "Nations": "Terrum Aetheri",
-    "Nation Check": "Terrum Aetheri",
-    "Pow_Army": "1,157",
-    "Pow_Navy": "0"
-  },
-  "Holy Kingdom of Scripts": {
-    "Nations": "Holy Kingdom of Scripts",
-    "Nation Check": "Holy Kingdom of Scripts",
-    "Pow_Army": "920",
-    "Pow_Navy": "0"
-  },
-  "Kingdom of Járnfjall": {
-    "Nations": "Kingdom of Járnfjall",
-    "Nation Check": "Kingdom of Járnfjall",
-    "Pow_Army": "1,014",
-    "Pow_Navy": "0"
-  },
-  "Mébian Confederation": {
-    "Nations": "Mébian Confederation",
-    "Nation Check": "Mébian Confederation",
-    "Pow_Army": "1,230",
-    "Pow_Navy": "0"
-  },
-  "Jään Herruus": {
-    "Nations": "Jään Herruus",
-    "Nation Check": "Jään Herruus",
-    "Pow_Army": "528",
-    "Pow_Navy": "0"
-  },
-  "Drahacira": {
-    "Nations": "Drahacira",
-    "Nation Check": "Drahacira",
-    "Pow_Army": "329",
-    "Pow_Navy": "0"
-  },
-  "Forge of Aarde": {
-    "Nations": "Forge of Aarde",
-    "Nation Check": "Forge of Aarde",
-    "Pow_Army": "755",
-    "Pow_Navy": "0"
-  },
-  "The Teutā Erwā": {
-    "Nations": "The Teutā Erwā",
-    "Nation Check": "The Teutā Erwā",
-    "Pow_Army": "471",
-    "Pow_Navy": "0"
-  },
-  "Arcadia": {
-    "Nations": "Arcadia",
-    "Nation Check": "Arcadia",
-    "Pow_Army": "986",
-    "Pow_Navy": "0"
-  },
-  "Arethousa": {
-    "Nations": "Arethousa",
-    "Nation Check": "Arethousa",
-    "Pow_Army": "467",
-    "Pow_Navy": "123"
-  },
-  "Ashdayn": {
-    "Nations": "Ashdayn",
-    "Nation Check": "Ashdayn",
-    "Pow_Army": "715",
-    "Pow_Navy": "0"
-  },
-  "Rastoria": {
-    "Nations": "Rastoria",
-    "Nation Check": "Rastoria",
-    "Pow_Army": "338",
-    "Pow_Navy": "0"
-  },
-  "Saholnahes Ceuluanas": {
-    "Nations": "Saholnahes Ceuluanas",
-    "Nation Check": "Saholnahes Ceuluanas",
-    "Pow_Army": "482",
-    "Pow_Navy": "0"
-  },
-  "The Amerian Republic": {
-    "Nations": "The Amerian Republic",
-    "Nation Check": "The Amerian Republic",
-    "Pow_Army": "409",
-    "Pow_Navy": "0"
-  },
-  "Kingdom of Gallacia": {
-    "Nations": "Kingdom of Gallacia",
-    "Nation Check": "Kingdom of Gallacia",
-    "Pow_Army": "1,534",
-    "Pow_Navy": "0"
-  },
-  "The Statute of Order": {
-    "Nations": "The Statute of Order",
-    "Nation Check": "The Statute of Order",
-    "Pow_Army": "1,507",
-    "Pow_Navy": "0"
-  },
-  "Pólitonskóron": {
-    "Nations": "Pólitonskóron",
-    "Nation Check": "Pólitonskóron",
-    "Pow_Army": "855",
-    "Pow_Navy": "0"
-  },
-  "Thys Alari": {
-    "Nations": "Thys Alari",
-    "Nation Check": "Thys Alari",
-    "Pow_Army": "972",
-    "Pow_Navy": "0"
-  },
-  "Kingdom of Mimgrond": {
-    "Nations": "Kingdom of Mimgrond",
-    "Nation Check": "Kingdom of Mimgrond",
-    "Pow_Army": "1,221",
-    "Pow_Navy": "0"
-  },
-  "Exodists of Amunkedat": {
-    "Nations": "Exodists of Amunkedat",
-    "Nation Check": "Exodists of Amunkedat",
-    "Pow_Army": "732",
-    "Pow_Navy": "0"
-  },
-  "Yeotang": {
-    "Nations": "Yeotang",
-    "Nation Check": "Yeotang",
-    "Pow_Army": "1,620",
-    "Pow_Navy": "0"
-  },
-  "Colmea": {
-    "Nations": "Colmea",
-    "Nation Check": "Colmea",
-    "Pow_Army": "726",
-    "Pow_Navy": "0"
-  },
-  "Soroner": {
-    "Nations": "Soroner",
-    "Nation Check": "Soroner",
-    "Pow_Army": "1,001",
-    "Pow_Navy": "0"
-  },
-  "Kh'nûll Diocese": {
-    "Nations": "Kh'nûll Diocese",
-    "Nation Check": "Kh'nûll Diocese",
-    "Pow_Army": "285",
-    "Pow_Navy": "0"
-  },
-  "Scientarium": {
-    "Nations": "Scientarium",
-    "Nation Check": "Scientarium",
-    "Pow_Army": "674",
-    "Pow_Navy": "0"
-  },
-  "Diogen": {
-    "Nations": "Diogen",
-    "Nation Check": "Diogen",
-    "Pow_Army": "945",
-    "Pow_Navy": "0"
-  },
-  "Republic o. Zuntirar": {
-    "Nations": "Republic o. Zuntirar",
-    "Nation Check": "Republic o. Zuntirar",
-    "Pow_Army": "885",
-    "Pow_Navy": "0"
-  },
-  "Free City of Zephyrabad": {
-    "Nations": "Free City of Zephyrabad",
-    "Nation Check": "Free City of Zephyrabad",
-    "Pow_Army": "408",
-    "Pow_Navy": "0"
-  },
-  "The Wendel Witaner": {
-    "Nations": "The Wendel Witaner",
-    "Nation Check": "The Wendel Witaner",
-    "Pow_Army": "188",
-    "Pow_Navy": "0"
-  },
-  "Brotherhood of Dwarves": {
-    "Nations": "Brotherhood of Dwarves",
-    "Nation Check": "Brotherhood of Dwarves",
-    "Pow_Army": "714",
-    "Pow_Navy": "0"
-  },
-  "Chitinara": {
-    "Nations": "Chitinara",
-    "Nation Check": "Chitinara",
-    "Pow_Army": "760",
-    "Pow_Navy": "0"
-  },
-  "High City of Tirsil": {
-    "Nations": "High City of Tirsil",
-    "Nation Check": "High City of Tirsil",
-    "Pow_Army": "760",
-    "Pow_Navy": "90"
-  },
-  "Elphonsa": {
-    "Nations": "Elphonsa",
-    "Nation Check": "Elphonsa",
-    "Pow_Army": "1,141",
-    "Pow_Navy": "0"
-  },
-  "Kilshandia": {
-    "Nations": "Kilshandia",
-    "Nation Check": "Kilshandia",
-    "Pow_Army": "419",
-    "Pow_Navy": "0"
-  },
-  "Maa": {
-    "Nations": "Maa",
-    "Nation Check": "Maa",
-    "Pow_Army": "910",
-    "Pow_Navy": "0"
-  },
-  "Lisanos": {
-    "Nations": "Lisanos",
-    "Nation Check": "Lisanos",
-    "Pow_Army": "613",
-    "Pow_Navy": "0"
-  },
-  "HlérHeim": {
-    "Nations": "HlérHeim",
-    "Nation Check": "HlérHeim",
-    "Pow_Army": "658",
-    "Pow_Navy": "30"
-  },
-  "Grand Principality of Onica": {
-    "Nations": "Grand Principality of Onica",
-    "Nation Check": "Grand Principality of Onica",
-    "Pow_Army": "859",
-    "Pow_Navy": "0"
-  },
-  "Republic of Nymaró": {
-    "Nations": "Republic of Nymaró",
-    "Nation Check": "Republic of Nymaró",
-    "Pow_Army": "2,510",
-    "Pow_Navy": "0"
-  },
-  "Meadoia Dynasty": {
-    "Nations": "Meadoia Dynasty",
-    "Nation Check": "Meadoia Dynasty",
-    "Pow_Army": "593",
-    "Pow_Navy": "0"
-  },
-  "Ewig Republic": {
-    "Nations": "Ewig Republic",
-    "Nation Check": "Ewig Republic",
-    "Pow_Army": "270",
-    "Pow_Navy": "0"
-  },
-  "The Holy Realm of Herkunft": {
-    "Nations": "The Holy Realm of Herkunft",
-    "Nation Check": "The Holy Realm of Herkunft",
-    "Pow_Army": "230",
-    "Pow_Navy": "0"
-  },
-  "Fu Tiangun Realm": {
-    "Nations": "Fu Tiangun Realm",
-    "Nation Check": "Fu Tiangun Realm",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Glorbentura": {
-    "Nations": "Glorbentura",
-    "Nation Check": "Glorbentura",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "The Despotate of Kaartiyek": {
-    "Nations": "The Despotate of Kaartiyek",
-    "Nation Check": "The Despotate of Kaartiyek",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Hui Kai": {
-    "Nations": "Hui Kai",
-    "Nation Check": "Hui Kai",
-    "Pow_Army": "588",
-    "Pow_Navy": "6"
-  },
-  "Vorokov": {
-    "Nations": "Vorokov",
-    "Nation Check": "Vorokov",
-    "Pow_Army": "287",
-    "Pow_Navy": "0"
-  },
-  "Treakwielg": {
-    "Nations": "Treakwielg",
-    "Nation Check": "Treakwielg",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "The Aislings": {
-    "Nations": "The Aislings",
-    "Nation Check": "The Aislings",
-    "Pow_Army": "925",
-    "Pow_Navy": "0"
-  },
-  "Principality of Skanderborg": {
-    "Nations": "Principality of Skanderborg",
-    "Nation Check": "Principality of Skanderborg",
-    "Pow_Army": "782",
-    "Pow_Navy": "0"
-  },
-  "Akalikania": {
-    "Nations": "Akalikania",
-    "Nation Check": "Akalikania",
-    "Pow_Army": "744",
-    "Pow_Navy": "0"
-  },
-  "Stepovytskyi Cossack Host": {
-    "Nations": "Stepovytskyi Cossack Host",
-    "Nation Check": "Stepovytskyi Cossack Host",
-    "Pow_Army": "502",
-    "Pow_Navy": "0"
-  },
-  "The Dukedom of Sylicia": {
-    "Nations": "The Dukedom of Sylicia",
-    "Nation Check": "The Dukedom of Sylicia",
-    "Pow_Army": "643",
-    "Pow_Navy": "45"
-  },
-  "Tautaspils": {
-    "Nations": "Tautaspils",
-    "Nation Check": "Tautaspils",
-    "Pow_Army": "764",
-    "Pow_Navy": "0"
-  },
-  "Kaug-Põhja": {
-    "Nations": "Kaug-Põhja",
-    "Nation Check": "Kaug-Põhja",
-    "Pow_Army": "1,117",
-    "Pow_Navy": "0"
-  },
-  "Pyhätmetsät": {
-    "Nations": "Pyhätmetsät",
-    "Nation Check": "Pyhätmetsät",
-    "Pow_Army": "362",
-    "Pow_Navy": "0"
-  },
-  "Kingdom of the Aurore": {
-    "Nations": "Kingdom of the Aurore",
-    "Nation Check": "Kingdom of the Aurore",
-    "Pow_Army": "1,358",
-    "Pow_Navy": "0"
-  },
-  "Araybattahya ": {
-    "Nations": "Araybattahya ",
-    "Nation Check": "Araybattahya ",
-    "Pow_Army": "1,756",
-    "Pow_Navy": "0"
-  },
-  "Morchandor": {
-    "Nations": "Morchandor",
-    "Nation Check": "Morchandor",
-    "Pow_Army": "699",
-    "Pow_Navy": "0"
-  },
-  "Ascendant Regency of Newstar": {
-    "Nations": "Ascendant Regency of Newstar",
-    "Nation Check": "Ascendant Regency of Newstar",
-    "Pow_Army": "870",
-    "Pow_Navy": "51"
-  },
-  "Magoen Lurraldea": {
-    "Nations": "Magoen Lurraldea",
-    "Nation Check": "Magoen Lurraldea",
-    "Pow_Army": "1,148",
-    "Pow_Navy": "1"
-  },
-  "Lohiida Dathinaal": {
-    "Nations": "Lohiida Dathinaal",
-    "Nation Check": "Lohiida Dathinaal",
-    "Pow_Army": "737",
-    "Pow_Navy": "0"
-  },
-  "Vantira": {
-    "Nations": "Vantira",
-    "Nation Check": "Vantira",
-    "Pow_Army": "1,146",
-    "Pow_Navy": "0"
-  },
-  "Republic of Rostora": {
-    "Nations": "Republic of Rostora",
-    "Nation Check": "Republic of Rostora",
-    "Pow_Army": "321",
-    "Pow_Navy": "0"
-  },
-  "Cassion": {
-    "Nations": "Cassion",
-    "Nation Check": "Cassion",
-    "Pow_Army": "329",
-    "Pow_Navy": "0"
-  },
-  "Clan of Skye ": {
-    "Nations": "Clan of Skye ",
-    "Nation Check": "Clan of Skye ",
-    "Pow_Army": "711",
-    "Pow_Navy": "0"
-  },
-  "Shiny Taking": {
-    "Nations": "Shiny Taking",
-    "Nation Check": "Shiny Taking",
-    "Pow_Army": "1,189",
-    "Pow_Navy": "0"
-  },
-  "Xriotir": {
-    "Nations": "Xriotir",
-    "Nation Check": "Xriotir",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Malo'Sami": {
-    "Nations": "Malo'Sami",
-    "Nation Check": "Malo'Sami",
-    "Pow_Army": "843",
-    "Pow_Navy": "0"
-  },
-  "The Trade Families of Kemakmura": {
-    "Nations": "The Trade Families of Kemakmura",
-    "Nation Check": "The Trade Families of Kemakmura",
-    "Pow_Army": "724",
-    "Pow_Navy": "0"
-  },
-  "Caesnauka Empire": {
-    "Nations": "Caesnauka Empire",
-    "Nation Check": "Caesnauka Empire",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Iidunn": {
-    "Nations": "Iidunn",
-    "Nation Check": "Iidunn",
-    "Pow_Army": "1,219",
-    "Pow_Navy": "0"
-  },
-  "Remid Republic": {
-    "Nations": "Remid Republic",
-    "Nation Check": "Remid Republic",
-    "Pow_Army": "1,237",
-    "Pow_Navy": "0"
-  },
-  "Amethyst Clan": {
-    "Nations": "Amethyst Clan",
-    "Nation Check": "Amethyst Clan",
-    "Pow_Army": "1,188",
-    "Pow_Navy": "0"
-  },
-  "The Lakarish Kingdom of Olkmania": {
-    "Nations": "The Lakarish Kingdom of Olkmania",
-    "Nation Check": "The Lakarish Kingdom of Olkmania",
-    "Pow_Army": "894",
-    "Pow_Navy": "0"
-  },
-  "Serenissima Res Publica Di Ghalivi": {
-    "Nations": "Serenissima Res Publica Di Ghalivi",
-    "Nation Check": "Serenissima Res Publica Di Ghalivi",
-    "Pow_Army": "374",
-    "Pow_Navy": "0"
-  },
-  "Raaspazzlivatl": {
-    "Nations": "Raaspazzlivatl",
-    "Nation Check": "Raaspazzlivatl",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Tavir": {
-    "Nations": "Tavir",
-    "Nation Check": "Tavir",
-    "Pow_Army": "390",
-    "Pow_Navy": "0"
-  },
-  "United Federation of Malam States": {
-    "Nations": "United Federation of Malam States",
-    "Nation Check": "United Federation of Malam States",
-    "Pow_Army": "1,205",
-    "Pow_Navy": "0"
-  },
-  "Natałor": {
-    "Nations": "Natałor",
-    "Nation Check": "Natałor",
-    "Pow_Army": "2,150",
-    "Pow_Navy": "0"
-  },
-  "The Gavi’ Kingdom": {
-    "Nations": "The Gavi’ Kingdom",
-    "Nation Check": "The Gavi’ Kingdom",
-    "Pow_Army": "260",
-    "Pow_Navy": "0"
-  },
-  "Kinh Nam City-State": {
-    "Nations": "Kinh Nam City-State",
-    "Nation Check": "Kinh Nam City-State",
-    "Pow_Army": "792",
-    "Pow_Navy": "0"
-  },
-  "Mhawm Meung Ssok Nyieat Qux Si": {
-    "Nations": "Mhawm Meung Ssok Nyieat Qux Si",
-    "Nation Check": "Mhawm Meung Ssok Nyieat Qux Si",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Lună sângeroasă": {
-    "Nations": "Lună sângeroasă",
-    "Nation Check": "Lună sângeroasă",
-    "Pow_Army": "951",
-    "Pow_Navy": "0"
-  },
-  "Akaḣpetoƞ": {
-    "Nations": "Akaḣpetoƞ",
-    "Nation Check": "Akaḣpetoƞ",
-    "Pow_Army": "3,330",
-    "Pow_Navy": "0"
-  },
-  "The Awakened": {
-    "Nations": "The Awakened",
-    "Nation Check": "The Awakened",
-    "Pow_Army": "2,533",
-    "Pow_Navy": "0"
-  },
-  "Lepnia": {
-    "Nations": "Lepnia",
-    "Nation Check": "Lepnia",
-    "Pow_Army": "1,228",
-    "Pow_Navy": "0"
-  },
-  "Thaurinna": {
-    "Nations": "Thaurinna",
-    "Nation Check": "Thaurinna",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Il-Esak'Chukhpelekh": {
-    "Nations": "Il-Esak'Chukhpelekh",
-    "Nation Check": "Il-Esak'Chukhpelekh",
-    "Pow_Army": "944",
-    "Pow_Navy": "0"
-  },
-  "Goldmongers": {
-    "Nations": "Goldmongers",
-    "Nation Check": "Goldmongers",
-    "Pow_Army": "209",
-    "Pow_Navy": "0"
-  },
-  "M'Qili Confederacy": {
-    "Nations": "M'Qili Confederacy",
-    "Nation Check": "M'Qili Confederacy",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Nournourlant": {
-    "Nations": "Nournourlant",
-    "Nation Check": "Nournourlant",
-    "Pow_Army": "1,687",
-    "Pow_Navy": "0"
-  },
-  "The Tarmarches": {
-    "Nations": "The Tarmarches",
-    "Nation Check": "The Tarmarches",
-    "Pow_Army": "1,267",
-    "Pow_Navy": "0"
-  },
-  "Akali": {
-    "Nations": "Akali",
-    "Nation Check": "Akali",
-    "Pow_Army": "782",
-    "Pow_Navy": "0"
-  },
-  "Commonwealth of Gonaria": {
-    "Nations": "Commonwealth of Gonaria",
-    "Nation Check": "Commonwealth of Gonaria",
-    "Pow_Army": "698",
-    "Pow_Navy": "0"
-  },
-  "The Nema Pact": {
-    "Nations": "The Nema Pact",
-    "Nation Check": "The Nema Pact",
-    "Pow_Army": "733",
-    "Pow_Navy": "0"
-  },
-  "Order of The Radiance": {
-    "Nations": "Order of The Radiance",
-    "Nation Check": "Order of The Radiance",
-    "Pow_Army": "290",
-    "Pow_Navy": "0"
-  },
-  "Clankar Cog": {
-    "Nations": "Clankar Cog",
-    "Nation Check": "Clankar Cog",
-    "Pow_Army": "101",
-    "Pow_Navy": "0"
-  },
-  "Naga Wangjo": {
-    "Nations": "Naga Wangjo",
-    "Nation Check": "Naga Wangjo",
-    "Pow_Army": "1,006",
-    "Pow_Navy": "0"
-  },
-  "Council of Dehurkjols": {
-    "Nations": "Council of Dehurkjols",
-    "Nation Check": "Council of Dehurkjols",
-    "Pow_Army": "699",
-    "Pow_Navy": "0"
-  },
-  "The Second Temple": {
-    "Nations": "The Second Temple",
-    "Nation Check": "The Second Temple",
-    "Pow_Army": "1,710",
-    "Pow_Navy": "0"
-  },
-  "Dinasygan": {
-    "Nations": "Dinasygan",
-    "Nation Check": "Dinasygan",
-    "Pow_Army": "1,192",
-    "Pow_Navy": "0"
-  },
-  "Môr Oer": {
-    "Nations": "Môr Oer",
-    "Nation Check": "Môr Oer",
-    "Pow_Army": "424",
-    "Pow_Navy": "0"
-  },
-  "Neonian Kuningate": {
-    "Nations": "Neonian Kuningate",
-    "Nation Check": "Neonian Kuningate",
-    "Pow_Army": "1,294",
-    "Pow_Navy": "0"
-  },
-  "Luminus": {
-    "Nations": "Luminus",
-    "Nation Check": "Luminus",
-    "Pow_Army": "1,142",
-    "Pow_Navy": "42"
-  },
-  "The Free Cities of Cupiditas": {
-    "Nations": "The Free Cities of Cupiditas",
-    "Nation Check": "The Free Cities of Cupiditas",
-    "Pow_Army": "1,498",
-    "Pow_Navy": "42"
-  },
-  "Elyen-Mev": {
-    "Nations": "Elyen-Mev",
-    "Nation Check": "Elyen-Mev",
-    "Pow_Army": "995",
-    "Pow_Navy": "42"
-  },
-  "Murenman": {
-    "Nations": "Murenman",
-    "Nation Check": "Murenman",
-    "Pow_Army": "875",
-    "Pow_Navy": "0"
-  },
-  "Confederate of Caoilinn": {
-    "Nations": "Confederate of Caoilinn",
-    "Nation Check": "Confederate of Caoilinn",
-    "Pow_Army": "340",
-    "Pow_Navy": "0"
-  },
-  "The House": {
-    "Nations": "The House",
-    "Nation Check": "The House",
-    "Pow_Army": "888",
-    "Pow_Navy": "0"
-  },
-  "Holy Council of Axhaea": {
-    "Nations": "Holy Council of Axhaea",
-    "Nation Check": "Holy Council of Axhaea",
-    "Pow_Army": "983",
-    "Pow_Navy": "0"
-  },
-  "Xiboda": {
-    "Nations": "Xiboda",
-    "Nation Check": "Xiboda",
-    "Pow_Army": "225",
-    "Pow_Navy": "5"
-  },
-  "The Sinere Theocracy": {
-    "Nations": "The Sinere Theocracy",
-    "Nation Check": "The Sinere Theocracy",
-    "Pow_Army": "494",
+  "Rokmar Camp": {
+    "Nations": "Rokmar Camp",
+    "Nation Check": "Rokmar Camp",
+    "Pow_Army": "410",
     "Pow_Navy": "0"
   },
   "Rosefire Dynasty": {
@@ -1457,64 +1403,64 @@
     "Pow_Army": "2,400",
     "Pow_Navy": "100"
   },
-  "The Gilded City": {
-    "Nations": "The Gilded City",
-    "Nation Check": "The Gilded City",
-    "Pow_Army": "1,132",
+  "Royal City of Gevero": {
+    "Nations": "Royal City of Gevero",
+    "Nation Check": "Royal City of Gevero",
+    "Pow_Army": "995",
+    "Pow_Navy": "15"
+  },
+  "Sadis Ultimuspes": {
+    "Nations": "Sadis Ultimuspes",
+    "Nation Check": "Sadis Ultimuspes",
+    "Pow_Army": "64",
     "Pow_Navy": "0"
   },
-  "Lysian Republic": {
-    "Nations": "Lysian Republic",
-    "Nation Check": "Lysian Republic",
-    "Pow_Army": "456",
+  "Saholnahes Ceuluanas": {
+    "Nations": "Saholnahes Ceuluanas",
+    "Nation Check": "Saholnahes Ceuluanas",
+    "Pow_Army": "482",
     "Pow_Navy": "0"
   },
-  "Jubal'on": {
-    "Nations": "Jubal'on",
-    "Nation Check": "Jubal'on",
-    "Pow_Army": "313",
+  "Sajuanelhi": {
+    "Nations": "Sajuanelhi",
+    "Nation Check": "Sajuanelhi",
+    "Pow_Army": "654",
     "Pow_Navy": "0"
   },
-  "Karak Helhein": {
-    "Nations": "Karak Helhein",
-    "Nation Check": "Karak Helhein",
-    "Pow_Army": "1,077",
+  "Sancta Discordia": {
+    "Nations": "Sancta Discordia",
+    "Nation Check": "Sancta Discordia",
+    "Pow_Army": "1,142",
+    "Pow_Navy": "120"
+  },
+  "Sange Teren": {
+    "Nations": "Sange Teren",
+    "Nation Check": "Sange Teren",
+    "Pow_Army": "381",
     "Pow_Navy": "0"
   },
-  "Tribes of Lunaria": {
-    "Nations": "Tribes of Lunaria",
-    "Nation Check": "Tribes of Lunaria",
-    "Pow_Army": "0",
+  "Sarmatai Confederation": {
+    "Nations": "Sarmatai Confederation",
+    "Nation Check": "Sarmatai Confederation",
+    "Pow_Army": "420",
     "Pow_Navy": "0"
   },
-  "Kingdom of Gloria": {
-    "Nations": "Kingdom of Gloria",
-    "Nation Check": "Kingdom of Gloria",
-    "Pow_Army": "926",
-    "Pow_Navy": "220"
-  },
-  "Khyxwuz": {
-    "Nations": "Khyxwuz",
-    "Nation Check": "Khyxwuz",
-    "Pow_Army": "1,751",
+  "Saulka": {
+    "Nations": "Saulka",
+    "Nation Check": "Saulka",
+    "Pow_Army": "1,468",
     "Pow_Navy": "0"
   },
-  "Pavellion": {
-    "Nations": "Pavellion",
-    "Nation Check": "Pavellion",
-    "Pow_Army": "867",
+  "Scarcojiu": {
+    "Nations": "Scarcojiu",
+    "Nation Check": "Scarcojiu",
+    "Pow_Army": "1,040",
     "Pow_Navy": "0"
   },
-  "Vitten": {
-    "Nations": "Vitten",
-    "Nation Check": "Vitten",
-    "Pow_Army": "324",
-    "Pow_Navy": "0"
-  },
-  "Grand Nimbusia": {
-    "Nations": "Grand Nimbusia",
-    "Nation Check": "Grand Nimbusia",
-    "Pow_Army": "804",
+  "Scientarium": {
+    "Nations": "Scientarium",
+    "Nation Check": "Scientarium",
+    "Pow_Army": "677",
     "Pow_Navy": "0"
   },
   "Second State of Los": {
@@ -1523,220 +1469,52 @@
     "Pow_Army": "848",
     "Pow_Navy": "0"
   },
-  "Unigol": {
-    "Nations": "Unigol",
-    "Nation Check": "Unigol",
-    "Pow_Army": "480",
+  "Sei Oola": {
+    "Nations": "Sei Oola",
+    "Nation Check": "Sei Oola",
+    "Pow_Army": "308",
     "Pow_Navy": "0"
   },
-  "The Kingdom of Lunar": {
-    "Nations": "The Kingdom of Lunar",
-    "Nation Check": "The Kingdom of Lunar",
-    "Pow_Army": "1,610",
+  "Serenissima Res Publica Di Ghalivi": {
+    "Nations": "Serenissima Res Publica Di Ghalivi",
+    "Nation Check": "Serenissima Res Publica Di Ghalivi",
+    "Pow_Army": "374",
     "Pow_Navy": "0"
   },
-  "The Republic of Alyvosk": {
-    "Nations": "The Republic of Alyvosk",
-    "Nation Check": "The Republic of Alyvosk",
-    "Pow_Army": "211",
+  "Shakisu": {
+    "Nations": "Shakisu",
+    "Nation Check": "Shakisu",
+    "Pow_Army": "2,655",
+    "Pow_Navy": "2,060"
+  },
+  "Shiny Taking": {
+    "Nations": "Shiny Taking",
+    "Nation Check": "Shiny Taking",
+    "Pow_Army": "1,189",
     "Pow_Navy": "0"
   },
-  "Drionn Galith": {
-    "Nations": "Drionn Galith",
-    "Nation Check": "Drionn Galith",
-    "Pow_Army": "928",
-    "Pow_Navy": "0"
+  "Skullantium": {
+    "Nations": "Skullantium",
+    "Nation Check": "Skullantium",
+    "Pow_Army": "3,011",
+    "Pow_Navy": "222"
   },
-  "Mach Republic": {
-    "Nations": "Mach Republic",
-    "Nation Check": "Mach Republic",
-    "Pow_Army": "1,519",
-    "Pow_Navy": "0"
-  },
-  "The Ruzgaristan Enclave": {
-    "Nations": "The Ruzgaristan Enclave",
-    "Nation Check": "The Ruzgaristan Enclave",
-    "Pow_Army": "338",
-    "Pow_Navy": "0"
-  },
-  "Kingdom of Ardungual": {
-    "Nations": "Kingdom of Ardungual",
-    "Nation Check": "Kingdom of Ardungual",
-    "Pow_Army": "1,065",
-    "Pow_Navy": "0"
-  },
-  "Kingdom of Kahtet": {
-    "Nations": "Kingdom of Kahtet",
-    "Nation Check": "Kingdom of Kahtet",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Svetograd": {
-    "Nations": "Svetograd",
-    "Nation Check": "Svetograd",
-    "Pow_Army": "963",
-    "Pow_Navy": "0"
-  },
-  "The Ignate of Manineira": {
-    "Nations": "The Ignate of Manineira",
-    "Nation Check": "The Ignate of Manineira",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "The Kingdom of Zahar": {
-    "Nations": "The Kingdom of Zahar",
-    "Nation Check": "The Kingdom of Zahar",
-    "Pow_Army": "940",
-    "Pow_Navy": "0"
-  },
-  "Unified Republic of Kaiarau": {
-    "Nations": "Unified Republic of Kaiarau",
-    "Nation Check": "Unified Republic of Kaiarau",
-    "Pow_Army": "317",
-    "Pow_Navy": "0"
-  },
-  "The Animal Kingdom": {
-    "Nations": "The Animal Kingdom",
-    "Nation Check": "The Animal Kingdom",
-    "Pow_Army": "409",
-    "Pow_Navy": "0"
-  },
-  "The Kingdom of Zakheira": {
-    "Nations": "The Kingdom of Zakheira",
-    "Nation Check": "The Kingdom of Zakheira",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Kingdom of the Kettlelands": {
-    "Nations": "Kingdom of the Kettlelands",
-    "Nation Check": "Kingdom of the Kettlelands",
-    "Pow_Army": "631",
-    "Pow_Navy": "0"
-  },
-  "Nuanta": {
-    "Nations": "Nuanta",
-    "Nation Check": "Nuanta",
-    "Pow_Army": "2,005",
-    "Pow_Navy": "0"
-  },
-  "Tsûa Lâng": {
-    "Nations": "Tsûa Lâng",
-    "Nation Check": "Tsûa Lâng",
-    "Pow_Army": "1,169",
-    "Pow_Navy": "0"
-  },
-  "Kingdom of Nymeria ": {
-    "Nations": "Kingdom of Nymeria ",
-    "Nation Check": "Kingdom of Nymeria ",
-    "Pow_Army": "530",
-    "Pow_Navy": "0"
-  },
-  "The Al-Deni Dominion": {
-    "Nations": "The Al-Deni Dominion",
-    "Nation Check": "The Al-Deni Dominion",
-    "Pow_Army": "293",
-    "Pow_Navy": "0"
-  },
-  "Kingdom of Lyroa": {
-    "Nations": "Kingdom of Lyroa",
-    "Nation Check": "Kingdom of Lyroa",
-    "Pow_Army": "793",
-    "Pow_Navy": "0"
-  },
-  "The Free City of the Getsa": {
-    "Nations": "The Free City of the Getsa",
-    "Nation Check": "The Free City of the Getsa",
-    "Pow_Army": "424",
-    "Pow_Navy": "0"
-  },
-  "Hrvolan Qaris": {
-    "Nations": "Hrvolan Qaris",
-    "Nation Check": "Hrvolan Qaris",
-    "Pow_Army": "660",
-    "Pow_Navy": "0"
-  },
-  "Glasrhaidd": {
-    "Nations": "Glasrhaidd",
-    "Nation Check": "Glasrhaidd",
-    "Pow_Army": "668",
-    "Pow_Navy": "0"
-  },
-  "Teōcolhua": {
-    "Nations": "Teōcolhua",
-    "Nation Check": "Teōcolhua",
+  "Snow Dominion": {
+    "Nations": "Snow Dominion",
+    "Nation Check": "Snow Dominion",
     "Pow_Army": "868",
+    "Pow_Navy": "6"
+  },
+  "Soroner": {
+    "Nations": "Soroner",
+    "Nation Check": "Soroner",
+    "Pow_Army": "1,001",
     "Pow_Navy": "0"
   },
-  "The Great City of Kula": {
-    "Nations": "The Great City of Kula",
-    "Nation Check": "The Great City of Kula",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Sancta Discordia": {
-    "Nations": "Sancta Discordia",
-    "Nation Check": "Sancta Discordia",
-    "Pow_Army": "1,132",
-    "Pow_Navy": "120"
-  },
-  "Mulosk": {
-    "Nations": "Mulosk",
-    "Nation Check": "Mulosk",
-    "Pow_Army": "874",
-    "Pow_Navy": "0"
-  },
-  "Nummum": {
-    "Nations": "Nummum",
-    "Nation Check": "Nummum",
-    "Pow_Army": "275",
-    "Pow_Navy": "210"
-  },
-  "The Kingdom of Sk'o'chapr": {
-    "Nations": "The Kingdom of Sk'o'chapr",
-    "Nation Check": "The Kingdom of Sk'o'chapr",
-    "Pow_Army": "1,208",
-    "Pow_Navy": "30"
-  },
-  "Sajuanelhi": {
-    "Nations": "Sajuanelhi",
-    "Nation Check": "Sajuanelhi",
-    "Pow_Army": "654",
-    "Pow_Navy": "0"
-  },
-  "Autoriteit Hollezel": {
-    "Nations": "Autoriteit Hollezel",
-    "Nation Check": "Autoriteit Hollezel",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Novae Aeseriae": {
-    "Nations": "Novae Aeseriae",
-    "Nation Check": "Novae Aeseriae",
-    "Pow_Army": "898",
-    "Pow_Navy": "0"
-  },
-  "Cheiraa Ousenika": {
-    "Nations": "Cheiraa Ousenika",
-    "Nation Check": "Cheiraa Ousenika",
-    "Pow_Army": "235",
-    "Pow_Navy": "0"
-  },
-  "The State of Iskura": {
-    "Nations": "The State of Iskura",
-    "Nation Check": "The State of Iskura",
-    "Pow_Army": "591",
-    "Pow_Navy": "0"
-  },
-  "Mizarina": {
-    "Nations": "Mizarina",
-    "Nation Check": "Mizarina",
-    "Pow_Army": "179",
-    "Pow_Navy": "0"
-  },
-  "Zarkone": {
-    "Nations": "Zarkone",
-    "Nation Check": "Zarkone",
-    "Pow_Army": "410",
+  "Spinelle": {
+    "Nations": "Spinelle",
+    "Nation Check": "Spinelle",
+    "Pow_Army": "899",
     "Pow_Navy": "0"
   },
   "State of Aburrido": {
@@ -1745,28 +1523,10 @@
     "Pow_Army": "417",
     "Pow_Navy": "0"
   },
-  "Cóchua Kingdom": {
-    "Nations": "Cóchua Kingdom",
-    "Nation Check": "Cóchua Kingdom",
-    "Pow_Army": "399",
-    "Pow_Navy": "0"
-  },
-  "Herzogtum Enzla": {
-    "Nations": "Herzogtum Enzla",
-    "Nation Check": "Herzogtum Enzla",
-    "Pow_Army": "895",
-    "Pow_Navy": "0"
-  },
-  "Zudrye Sisterhood": {
-    "Nations": "Zudrye Sisterhood",
-    "Nation Check": "Zudrye Sisterhood",
-    "Pow_Army": "0",
-    "Pow_Navy": "0"
-  },
-  "Nuvoria": {
-    "Nations": "Nuvoria",
-    "Nation Check": "Nuvoria",
-    "Pow_Army": "875",
+  "Stepovytskyi Cossack Host": {
+    "Nations": "Stepovytskyi Cossack Host",
+    "Nation Check": "Stepovytskyi Cossack Host",
+    "Pow_Army": "502",
     "Pow_Navy": "0"
   },
   "Steppeheart Herd": {
@@ -1781,28 +1541,250 @@
     "Pow_Army": "1,193",
     "Pow_Navy": "0"
   },
-  "Nāšā Qaḏmāyā": {
-    "Nations": "Nāšā Qaḏmāyā",
-    "Nation Check": "Nāšā Qaḏmāyā",
-    "Pow_Army": "1,253",
+  "Stratavia": {
+    "Nations": "Stratavia",
+    "Nation Check": "Stratavia",
+    "Pow_Army": "234",
     "Pow_Navy": "0"
   },
-  "The Seelern State": {
-    "Nations": "The Seelern State",
-    "Nation Check": "The Seelern State",
-    "Pow_Army": "1,311",
+  "Stryaxina": {
+    "Nations": "Stryaxina",
+    "Nation Check": "Stryaxina",
+    "Pow_Army": "2,374",
     "Pow_Navy": "0"
   },
-  "Audgunn": {
-    "Nations": "Audgunn",
-    "Nation Check": "Audgunn",
-    "Pow_Army": "2,105",
+  "Svetograd": {
+    "Nations": "Svetograd",
+    "Nation Check": "Svetograd",
+    "Pow_Army": "963",
     "Pow_Navy": "0"
   },
-  "The Tribes of C’tis": {
-    "Nations": "The Tribes of C’tis",
-    "Nation Check": "The Tribes of C’tis",
-    "Pow_Army": "336",
+  "Talanrío": {
+    "Nations": "Talanrío",
+    "Nation Check": "Talanrío",
+    "Pow_Army": "27",
+    "Pow_Navy": "0"
+  },
+  "Tautaspils": {
+    "Nations": "Tautaspils",
+    "Nation Check": "Tautaspils",
+    "Pow_Army": "764",
+    "Pow_Navy": "0"
+  },
+  "Tavir": {
+    "Nations": "Tavir",
+    "Nation Check": "Tavir",
+    "Pow_Army": "390",
+    "Pow_Navy": "0"
+  },
+  "Teōcolhua": {
+    "Nations": "Teōcolhua",
+    "Nation Check": "Teōcolhua",
+    "Pow_Army": "868",
+    "Pow_Navy": "0"
+  },
+  "Terra Magicae": {
+    "Nations": "Terra Magicae",
+    "Nation Check": "Terra Magicae",
+    "Pow_Army": "3,278",
+    "Pow_Navy": "0"
+  },
+  "Terrum Aetheri": {
+    "Nations": "Terrum Aetheri",
+    "Nation Check": "Terrum Aetheri",
+    "Pow_Army": "1,157",
+    "Pow_Navy": "0"
+  },
+  "Tetóth Kegeth": {
+    "Nations": "Tetóth Kegeth",
+    "Nation Check": "Tetóth Kegeth",
+    "Pow_Army": "931",
+    "Pow_Navy": "0"
+  },
+  "Thaandom of Fangkar": {
+    "Nations": "Thaandom of Fangkar",
+    "Nation Check": "Thaandom of Fangkar",
+    "Pow_Army": "993",
+    "Pow_Navy": "0"
+  },
+  "Thaurinna": {
+    "Nations": "Thaurinna",
+    "Nation Check": "Thaurinna",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "The Aislings": {
+    "Nations": "The Aislings",
+    "Nation Check": "The Aislings",
+    "Pow_Army": "935",
+    "Pow_Navy": "0"
+  },
+  "The Al-Deni Dominion": {
+    "Nations": "The Al-Deni Dominion",
+    "Nation Check": "The Al-Deni Dominion",
+    "Pow_Army": "293",
+    "Pow_Navy": "0"
+  },
+  "The Amerian Republic": {
+    "Nations": "The Amerian Republic",
+    "Nation Check": "The Amerian Republic",
+    "Pow_Army": "409",
+    "Pow_Navy": "0"
+  },
+  "The Animal Kingdom": {
+    "Nations": "The Animal Kingdom",
+    "Nation Check": "The Animal Kingdom",
+    "Pow_Army": "409",
+    "Pow_Navy": "0"
+  },
+  "The Awakened": {
+    "Nations": "The Awakened",
+    "Nation Check": "The Awakened",
+    "Pow_Army": "2,533",
+    "Pow_Navy": "0"
+  },
+  "The Charter Territory of Riveria": {
+    "Nations": "The Charter Territory of Riveria",
+    "Nation Check": "The Charter Territory of Riveria",
+    "Pow_Army": "126",
+    "Pow_Navy": "0"
+  },
+  "The Despotate of Kaartiyek": {
+    "Nations": "The Despotate of Kaartiyek",
+    "Nation Check": "The Despotate of Kaartiyek",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "The Dukedom of Sylicia": {
+    "Nations": "The Dukedom of Sylicia",
+    "Nation Check": "The Dukedom of Sylicia",
+    "Pow_Army": "643",
+    "Pow_Navy": "45"
+  },
+  "The Free Cities of Cupiditas": {
+    "Nations": "The Free Cities of Cupiditas",
+    "Nation Check": "The Free Cities of Cupiditas",
+    "Pow_Army": "1,498",
+    "Pow_Navy": "42"
+  },
+  "The Free City of the Getsa": {
+    "Nations": "The Free City of the Getsa",
+    "Nation Check": "The Free City of the Getsa",
+    "Pow_Army": "424",
+    "Pow_Navy": "0"
+  },
+  "The Galdu Ipar Republic": {
+    "Nations": "The Galdu Ipar Republic",
+    "Nation Check": "The Galdu Ipar Republic",
+    "Pow_Army": "1,204",
+    "Pow_Navy": "0"
+  },
+  "The Gavi’ Kingdom": {
+    "Nations": "The Gavi’ Kingdom",
+    "Nation Check": "The Gavi’ Kingdom",
+    "Pow_Army": "260",
+    "Pow_Navy": "0"
+  },
+  "The Gilded City": {
+    "Nations": "The Gilded City",
+    "Nation Check": "The Gilded City",
+    "Pow_Army": "1,132",
+    "Pow_Navy": "0"
+  },
+  "The Grand City of Smmeíaia": {
+    "Nations": "The Grand City of Smmeíaia",
+    "Nation Check": "The Grand City of Smmeíaia",
+    "Pow_Army": "524",
+    "Pow_Navy": "0"
+  },
+  "The Great City of Kula": {
+    "Nations": "The Great City of Kula",
+    "Nation Check": "The Great City of Kula",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "The High Dukedom of Duloque": {
+    "Nations": "The High Dukedom of Duloque",
+    "Nation Check": "The High Dukedom of Duloque",
+    "Pow_Army": "472",
+    "Pow_Navy": "0"
+  },
+  "The Holy Realm of Herkunft": {
+    "Nations": "The Holy Realm of Herkunft",
+    "Nation Check": "The Holy Realm of Herkunft",
+    "Pow_Army": "295",
+    "Pow_Navy": "0"
+  },
+  "The House": {
+    "Nations": "The House",
+    "Nation Check": "The House",
+    "Pow_Army": "888",
+    "Pow_Navy": "0"
+  },
+  "The Ignate of Manineira": {
+    "Nations": "The Ignate of Manineira",
+    "Nation Check": "The Ignate of Manineira",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "The Jokers": {
+    "Nations": "The Jokers",
+    "Nation Check": "The Jokers",
+    "Pow_Army": "856",
+    "Pow_Navy": "0"
+  },
+  "The Kingdom of Hemia": {
+    "Nations": "The Kingdom of Hemia",
+    "Nation Check": "The Kingdom of Hemia",
+    "Pow_Army": "905",
+    "Pow_Navy": "0"
+  },
+  "The Kingdom of Lunar": {
+    "Nations": "The Kingdom of Lunar",
+    "Nation Check": "The Kingdom of Lunar",
+    "Pow_Army": "1,610",
+    "Pow_Navy": "0"
+  },
+  "The Kingdom of Sk'o'chapr": {
+    "Nations": "The Kingdom of Sk'o'chapr",
+    "Nation Check": "The Kingdom of Sk'o'chapr",
+    "Pow_Army": "1,208",
+    "Pow_Navy": "30"
+  },
+  "The Kingdom of Zahar": {
+    "Nations": "The Kingdom of Zahar",
+    "Nation Check": "The Kingdom of Zahar",
+    "Pow_Army": "940",
+    "Pow_Navy": "0"
+  },
+  "The Kingdom of Zakheira": {
+    "Nations": "The Kingdom of Zakheira",
+    "Nation Check": "The Kingdom of Zakheira",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "The Lakarish Kingdom of Olkmania": {
+    "Nations": "The Lakarish Kingdom of Olkmania",
+    "Nation Check": "The Lakarish Kingdom of Olkmania",
+    "Pow_Army": "894",
+    "Pow_Navy": "0"
+  },
+  "The Nema Pact": {
+    "Nations": "The Nema Pact",
+    "Nation Check": "The Nema Pact",
+    "Pow_Army": "733",
+    "Pow_Navy": "0"
+  },
+  "The Republic of Alyvosk": {
+    "Nations": "The Republic of Alyvosk",
+    "Nation Check": "The Republic of Alyvosk",
+    "Pow_Army": "211",
+    "Pow_Navy": "0"
+  },
+  "The Ruzgaristan Enclave": {
+    "Nations": "The Ruzgaristan Enclave",
+    "Nation Check": "The Ruzgaristan Enclave",
+    "Pow_Army": "338",
     "Pow_Navy": "0"
   },
   "The Sacred Band of Sargon": {
@@ -1817,106 +1799,58 @@
     "Pow_Army": "472",
     "Pow_Navy": "0"
   },
-  "Ophenadon": {
-    "Nations": "Ophenadon",
-    "Nation Check": "Ophenadon",
-    "Pow_Army": "292",
+  "The Second Temple": {
+    "Nations": "The Second Temple",
+    "Nation Check": "The Second Temple",
+    "Pow_Army": "3,602",
     "Pow_Navy": "0"
   },
-  "Ceridwyn Teulu": {
-    "Nations": "Ceridwyn Teulu",
-    "Nation Check": "Ceridwyn Teulu",
-    "Pow_Army": "331",
+  "The Seelern State": {
+    "Nations": "The Seelern State",
+    "Nation Check": "The Seelern State",
+    "Pow_Army": "1,311",
     "Pow_Navy": "0"
   },
-  "The Grand City of Smmeíaia": {
-    "Nations": "The Grand City of Smmeíaia",
-    "Nation Check": "The Grand City of Smmeíaia",
-    "Pow_Army": "524",
+  "The Sinere Theocracy": {
+    "Nations": "The Sinere Theocracy",
+    "Nation Check": "The Sinere Theocracy",
+    "Pow_Army": "494",
     "Pow_Navy": "0"
   },
-  "Visjido": {
-    "Nations": "Visjido",
-    "Nation Check": "Visjido",
-    "Pow_Army": "1,082",
+  "The State of Iskura": {
+    "Nations": "The State of Iskura",
+    "Nation Check": "The State of Iskura",
+    "Pow_Army": "591",
     "Pow_Navy": "0"
   },
-  "Etolian Πολιτεία": {
-    "Nations": "Etolian Πολιτεία",
-    "Nation Check": "Etolian Πολιτεία",
-    "Pow_Army": "0",
+  "The Statute of Order": {
+    "Nations": "The Statute of Order",
+    "Nation Check": "The Statute of Order",
+    "Pow_Army": "1,558",
     "Pow_Navy": "0"
   },
-  "Enushkan Ur Kaash'shum": {
-    "Nations": "Enushkan Ur Kaash'shum",
-    "Nation Check": "Enushkan Ur Kaash'shum",
-    "Pow_Army": "277",
+  "The Tarmarches": {
+    "Nations": "The Tarmarches",
+    "Nation Check": "The Tarmarches",
+    "Pow_Army": "1,267",
     "Pow_Navy": "0"
   },
-  "Bork": {
-    "Nations": "Bork",
-    "Nation Check": "Bork",
-    "Pow_Army": "47",
+  "The Teutā Erwā": {
+    "Nations": "The Teutā Erwā",
+    "Nation Check": "The Teutā Erwā",
+    "Pow_Army": "472",
     "Pow_Navy": "0"
   },
-  "Yayallpa": {
-    "Nations": "Yayallpa",
-    "Nation Check": "Yayallpa",
-    "Pow_Army": "1,459",
+  "The Trade Families of Kemakmura": {
+    "Nations": "The Trade Families of Kemakmura",
+    "Nation Check": "The Trade Families of Kemakmura",
+    "Pow_Army": "724",
     "Pow_Navy": "0"
   },
-  "Eskannwa": {
-    "Nations": "Eskannwa",
-    "Nation Check": "Eskannwa",
-    "Pow_Army": "1,067",
-    "Pow_Navy": "0"
-  },
-  "Gul-Kesh": {
-    "Nations": "Gul-Kesh",
-    "Nation Check": "Gul-Kesh",
-    "Pow_Army": "675",
-    "Pow_Navy": "0"
-  },
-  "Alapadana": {
-    "Nations": "Alapadana",
-    "Nation Check": "Alapadana",
-    "Pow_Army": "1,059",
-    "Pow_Navy": "0"
-  },
-  "Kup": {
-    "Nations": "Kup",
-    "Nation Check": "Kup",
-    "Pow_Army": "281",
-    "Pow_Navy": "0"
-  },
-  "Malekate of Opolexion": {
-    "Nations": "Malekate of Opolexion",
-    "Nation Check": "Malekate of Opolexion",
-    "Pow_Army": "1,868",
-    "Pow_Navy": "0"
-  },
-  "Poloma": {
-    "Nations": "Poloma",
-    "Nation Check": "Poloma",
-    "Pow_Army": "1,058",
-    "Pow_Navy": "0"
-  },
-  "Adelaar Legioen": {
-    "Nations": "Adelaar Legioen",
-    "Nation Check": "Adelaar Legioen",
-    "Pow_Army": "766",
-    "Pow_Navy": "0"
-  },
-  "Pucanje": {
-    "Nations": "Pucanje",
-    "Nation Check": "Pucanje",
-    "Pow_Army": "849",
-    "Pow_Navy": "0"
-  },
-  "The Galdu Ipar Republic": {
-    "Nations": "The Galdu Ipar Republic",
-    "Nation Check": "The Galdu Ipar Republic",
-    "Pow_Army": "1,204",
+  "The Tribes of C’tis": {
+    "Nations": "The Tribes of C’tis",
+    "Nation Check": "The Tribes of C’tis",
+    "Pow_Army": "301",
     "Pow_Navy": "0"
   },
   "The Tsyurin State": {
@@ -1925,52 +1859,58 @@
     "Pow_Army": "0",
     "Pow_Navy": "0"
   },
-  "Scarcojiu": {
-    "Nations": "Scarcojiu",
-    "Nation Check": "Scarcojiu",
-    "Pow_Army": "1,040",
+  "The Wendel Witaner": {
+    "Nations": "The Wendel Witaner",
+    "Nation Check": "The Wendel Witaner",
+    "Pow_Army": "188",
     "Pow_Navy": "0"
   },
-  "Zastita": {
-    "Nations": "Zastita",
-    "Nation Check": "Zastita",
-    "Pow_Army": "222",
+  "The Wild Fields": {
+    "Nations": "The Wild Fields",
+    "Nation Check": "The Wild Fields",
+    "Pow_Army": "1,155",
     "Pow_Navy": "0"
   },
-  "Mardune": {
-    "Nations": "Mardune",
-    "Nation Check": "Mardune",
+  "Theocratic Republic of Rekkatsija": {
+    "Nations": "Theocratic Republic of Rekkatsija",
+    "Nation Check": "Theocratic Republic of Rekkatsija",
+    "Pow_Army": "721",
+    "Pow_Navy": "31"
+  },
+  "Thys Alari": {
+    "Nations": "Thys Alari",
+    "Nation Check": "Thys Alari",
+    "Pow_Army": "975",
+    "Pow_Navy": "0"
+  },
+  "Tort Uli Xaliq": {
+    "Nations": "Tort Uli Xaliq",
+    "Nation Check": "Tort Uli Xaliq",
+    "Pow_Army": "422",
+    "Pow_Navy": "0"
+  },
+  "Treakwielg": {
+    "Nations": "Treakwielg",
+    "Nation Check": "Treakwielg",
     "Pow_Army": "0",
     "Pow_Navy": "0"
   },
-  "Jahanje": {
-    "Nations": "Jahanje",
-    "Nation Check": "Jahanje",
-    "Pow_Army": "245",
-    "Pow_Navy": "0"
-  },
-  "I’Hamon": {
-    "Nations": "I’Hamon",
-    "Nation Check": "I’Hamon",
-    "Pow_Army": "261",
-    "Pow_Navy": "6"
-  },
-  "Kiciakinikan": {
-    "Nations": "Kiciakinikan",
-    "Nation Check": "Kiciakinikan",
+  "Tribes of Lunaria": {
+    "Nations": "Tribes of Lunaria",
+    "Nation Check": "Tribes of Lunaria",
     "Pow_Army": "0",
     "Pow_Navy": "0"
   },
-  "Galdu Hegal": {
-    "Nations": "Galdu Hegal",
-    "Nation Check": "Galdu Hegal",
-    "Pow_Army": "616",
+  "Trinitas": {
+    "Nations": "Trinitas",
+    "Nation Check": "Trinitas",
+    "Pow_Army": "2,407",
     "Pow_Navy": "0"
   },
-  "Krosen Dynasty": {
-    "Nations": "Krosen Dynasty",
-    "Nation Check": "Krosen Dynasty",
-    "Pow_Army": "679",
+  "Tsûa Lâng": {
+    "Nations": "Tsûa Lâng",
+    "Nation Check": "Tsûa Lâng",
+    "Pow_Army": "1,169",
     "Pow_Navy": "0"
   },
   "Tuk Dynasty": {
@@ -1979,34 +1919,142 @@
     "Pow_Army": "1,118",
     "Pow_Navy": "0"
   },
-  "Chernkov": {
-    "Nations": "Chernkov",
-    "Nation Check": "Chernkov",
-    "Pow_Army": "386",
+  "Uisceam Grove": {
+    "Nations": "Uisceam Grove",
+    "Nation Check": "Uisceam Grove",
+    "Pow_Army": "749",
     "Pow_Navy": "0"
   },
-  "Sange Teren": {
-    "Nations": "Sange Teren",
-    "Nation Check": "Sange Teren",
-    "Pow_Army": "381",
+  "Ulanasa Republic": {
+    "Nations": "Ulanasa Republic",
+    "Nation Check": "Ulanasa Republic",
+    "Pow_Army": "1,599",
     "Pow_Navy": "0"
   },
-  "The Jokers": {
-    "Nations": "The Jokers",
-    "Nation Check": "The Jokers",
-    "Pow_Army": "856",
+  "Unified Republic of Kaiarau": {
+    "Nations": "Unified Republic of Kaiarau",
+    "Nation Check": "Unified Republic of Kaiarau",
+    "Pow_Army": "317",
     "Pow_Navy": "0"
   },
-  "Rokmar Camp": {
-    "Nations": "Rokmar Camp",
-    "Nation Check": "Rokmar Camp",
+  "Unigol": {
+    "Nations": "Unigol",
+    "Nation Check": "Unigol",
+    "Pow_Army": "480",
+    "Pow_Navy": "0"
+  },
+  "United Federation of Malam States": {
+    "Nations": "United Federation of Malam States",
+    "Nation Check": "United Federation of Malam States",
+    "Pow_Army": "1,205",
+    "Pow_Navy": "0"
+  },
+  "Uqhuma Killa": {
+    "Nations": "Uqhuma Killa",
+    "Nation Check": "Uqhuma Killa",
+    "Pow_Army": "4,972",
+    "Pow_Navy": "0"
+  },
+  "Vantira": {
+    "Nations": "Vantira",
+    "Nation Check": "Vantira",
+    "Pow_Army": "1,146",
+    "Pow_Navy": "0"
+  },
+  "Velken Bulwark": {
+    "Nations": "Velken Bulwark",
+    "Nation Check": "Velken Bulwark",
+    "Pow_Army": "1,025",
+    "Pow_Navy": "0"
+  },
+  "Visjido": {
+    "Nations": "Visjido",
+    "Nation Check": "Visjido",
+    "Pow_Army": "1,082",
+    "Pow_Navy": "0"
+  },
+  "Vitten": {
+    "Nations": "Vitten",
+    "Nation Check": "Vitten",
+    "Pow_Army": "322",
+    "Pow_Navy": "0"
+  },
+  "Vorokov": {
+    "Nations": "Vorokov",
+    "Nation Check": "Vorokov",
+    "Pow_Army": "287",
+    "Pow_Navy": "0"
+  },
+  "Vyraisos": {
+    "Nations": "Vyraisos",
+    "Nation Check": "Vyraisos",
+    "Pow_Army": "3,432",
+    "Pow_Navy": "0"
+  },
+  "Wandon Council": {
+    "Nations": "Wandon Council",
+    "Nation Check": "Wandon Council",
+    "Pow_Army": "1,095",
+    "Pow_Navy": "280"
+  },
+  "WrestleMania": {
+    "Nations": "WrestleMania",
+    "Nation Check": "WrestleMania",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "Xiboda": {
+    "Nations": "Xiboda",
+    "Nation Check": "Xiboda",
+    "Pow_Army": "225",
+    "Pow_Navy": "5"
+  },
+  "Xriotir": {
+    "Nations": "Xriotir",
+    "Nation Check": "Xriotir",
+    "Pow_Army": "0",
+    "Pow_Navy": "0"
+  },
+  "Yayallpa": {
+    "Nations": "Yayallpa",
+    "Nation Check": "Yayallpa",
+    "Pow_Army": "1,459",
+    "Pow_Navy": "0"
+  },
+  "Yeotang": {
+    "Nations": "Yeotang",
+    "Nation Check": "Yeotang",
+    "Pow_Army": "1,620",
+    "Pow_Navy": "0"
+  },
+  "Yuranisuk": {
+    "Nations": "Yuranisuk",
+    "Nation Check": "Yuranisuk",
+    "Pow_Army": "666",
+    "Pow_Navy": "0"
+  },
+  "Zalmoxia": {
+    "Nations": "Zalmoxia",
+    "Nation Check": "Zalmoxia",
+    "Pow_Army": "959",
+    "Pow_Navy": "0"
+  },
+  "Zarkone": {
+    "Nations": "Zarkone",
+    "Nation Check": "Zarkone",
     "Pow_Army": "410",
     "Pow_Navy": "0"
   },
-  "Sadis Ultimuspes": {
-    "Nations": "Sadis Ultimuspes",
-    "Nation Check": "Sadis Ultimuspes",
-    "Pow_Army": "64",
+  "Zastita": {
+    "Nations": "Zastita",
+    "Nation Check": "Zastita",
+    "Pow_Army": "222",
+    "Pow_Navy": "0"
+  },
+  "Zudrye Sisterhood": {
+    "Nations": "Zudrye Sisterhood",
+    "Nation Check": "Zudrye Sisterhood",
+    "Pow_Army": "0",
     "Pow_Navy": "0"
   }
 }
