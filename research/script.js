@@ -47,4 +47,5 @@ function DisplayNationDetails() {
 
     const selectedNationData = data[selectedNationName];
     console.log(selectedNationData);
+    console.log(techData);
 }
