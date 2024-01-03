@@ -90,7 +90,7 @@
 		let data;
 	  let armyData;
 		// Fetch The JSON data
-		fetch('diplo.json')
+		fetch('../diplo.json')
 			.then(response => response.json())
 			.then(jsonData => {
 				data = jsonData;
@@ -106,7 +106,7 @@
 			.catch(error => console.error('Error loading JSON:', error));
 
 		// Fetch the army JSON data
-		fetch('army.json')
+		fetch('../army.json')
 			.then(response => response.json())
 			.then(armyJsonData => {
 				armyData = armyJsonData;
