@@ -6352,7 +6352,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "The Seelern State",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Glasrhaidd",
     "Military Alliances 2": "Svetograd",
@@ -6421,7 +6421,7 @@
     "Tariffs": "0.95",
     "Trade Income": "28,977.52",
     "NAPs": "0",
-    "Def. Pacts": "1",
+    "Def. Pacts": "0",
     "Mil. Pacts": "2",
     "Trades": "9"
   },
@@ -12065,9 +12065,9 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "Clan Làidirsgith",
+    "Defensive Pacts 2": "",
     "Military Alliances": "",
-    "Military Alliances 2": "Vzaria",
+    "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
       "Value": "",
@@ -12133,8 +12133,8 @@
     "Tariffs": "1.00",
     "Trade Income": "0.00",
     "NAPs": "0",
-    "Def. Pacts": "1",
-    "Mil. Pacts": "1",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
     "Trades": "0"
   },
   "Ishmalkan Confederated Cities": {
@@ -21449,7 +21449,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
+    "Defensive Pacts 2": "Unified Republic of Kaiarau",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "8",
@@ -21517,7 +21517,7 @@
     "Tariffs": "0.95",
     "Trade Income": "4,291.63",
     "NAPs": "0",
-    "Def. Pacts": "0",
+    "Def. Pacts": "1",
     "Mil. Pacts": "0",
     "Trades": "1"
   },
