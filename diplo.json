@@ -7378,8 +7378,8 @@
     "Military Alliances 2": "Skullantium",
     "Limit": "11",
     "Trade 1": {
-      "Value": "Skullantium",
-      "Trade 1 Value": "14,470.00"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
       "Value": "Council of the Alonissos Isles",
@@ -7437,13 +7437,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "403,033.00",
+    "Raw Trade Income": "388,563.00",
     "Tariffs": "0.95",
-    "Trade Income": "382,881.35",
+    "Trade Income": "369,134.85",
     "NAPs": "7",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "11"
+    "Trades": "10"
   },
   "Federation of Tlo'tsaa": {
     "Nations": "Federation of Tlo'tsaa",
@@ -14699,10 +14699,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "50.95%",
-    "Base": "50.95%",
-    "Comparison": "32.97%",
-    "Individual": "32.97%",
+    "L. Desire": "49.85%",
+    "Base": "49.85%",
+    "Comparison": "32.42%",
+    "Individual": "32.42%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -14935,7 +14935,7 @@
     },
     "Trade 3": {
       "Value": "Queendom of Edithia",
-      "Trade 3 Value": "2,650.00"
+      "Trade 3 Value": "1,987.50"
     },
     "Trade 4": {
       "Value": "Free City of Zephyrabad",
@@ -14985,9 +14985,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "58,369.50",
+    "Raw Trade Income": "57,707.00",
     "Tariffs": "0.95",
-    "Trade Income": "55,451.03",
+    "Trade Income": "54,821.65",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -24586,11 +24586,11 @@
     "Nation Check": "Scientarium",
     "Overlord": "",
     "Eco Vassals": "126,352.06",
-    "Eco Over.": "243,450.01",
-    "Compare": "112.97%",
+    "Eco Over.": "253,175.69",
+    "Compare": "112.22%",
     "MP Vassals": "44,610.00",
-    "MP Over.": "39,490.00",
-    "20% Total": "32.97%",
+    "MP Over.": "39,754.00",
+    "20% Total": "32.42%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -24644,8 +24644,8 @@
       "Trade 7 Value": "3,445.00"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "Kinh Nam City-State",
+      "Trade 8 Value": "9,313.56"
     },
     "Trade 9": {
       "Value": "Diogen",
@@ -24675,13 +24675,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "49,934.88",
+    "Raw Trade Income": "59,248.44",
     "Tariffs": "0.95",
-    "Trade Income": "47,438.13",
+    "Trade Income": "56,286.02",
     "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "10"
+    "Trades": "11"
   },
   "Second State of Los": {
     "Nations": "Second State of Los",
@@ -27697,7 +27697,7 @@
     },
     "Trade 6": {
       "Value": "Queendom of Edithia",
-      "Trade 6 Value": "2,650.00"
+      "Trade 6 Value": "1,987.50"
     },
     "Trade 7": {
       "Value": "The Jokers",
@@ -27735,9 +27735,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "26,545.13",
+    "Raw Trade Income": "25,882.63",
     "Tariffs": "0.95",
-    "Trade Income": "25,217.87",
+    "Trade Income": "24,588.49",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -30047,7 +30047,7 @@
     },
     "Trade 7": {
       "Value": "Queendom of Edithia",
-      "Trade 7 Value": "2,650.00"
+      "Trade 7 Value": "1,987.50"
     },
     "Trade 8": {
       "Value": "Zastita",
@@ -30081,9 +30081,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,031.38",
+    "Raw Trade Income": "29,368.88",
     "Tariffs": "0.95",
-    "Trade Income": "28,529.81",
+    "Trade Income": "27,900.43",
     "NAPs": "3",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
