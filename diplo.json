@@ -717,12 +717,12 @@
     "Nations": "Akali",
     "Nation Check": "Akali",
     "Overlord": "",
-    "Eco Vassals": "91,988.36",
+    "Eco Vassals": "94,465.84",
     "Eco Over.": "164,886.00",
     "Compare": "79.24%",
     "MP Vassals": "77,550.00",
     "MP Over.": "97,865.63",
-    "20% Total": "27.01%",
+    "20% Total": "27.31%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -3727,7 +3727,7 @@
     },
     "Trade 6": {
       "Value": "Adelaar Legioen",
-      "Trade 6 Value": "8,508.50"
+      "Trade 6 Value": "10,868.00"
     },
     "Trade 7": {
       "Value": "The Seelern State",
@@ -3765,9 +3765,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "48,752.88",
+    "Raw Trade Income": "51,112.38",
     "Tariffs": "1.00",
-    "Trade Income": "48,752.88",
+    "Trade Income": "51,112.38",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -4143,7 +4143,7 @@
     },
     "Trade 8": {
       "Value": "Unified Republic of Kaiarau",
-      "Trade 8 Value": "4,287.50"
+      "Trade 8 Value": "4,497.50"
     },
     "Trade 9": {
       "Value": "",
@@ -4173,9 +4173,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "66,877.23",
+    "Raw Trade Income": "67,087.23",
     "Tariffs": "0.95",
-    "Trade Income": "63,533.36",
+    "Trade Income": "63,732.86",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -6069,7 +6069,7 @@
     },
     "Trade 5": {
       "Value": "Adelaar Legioen",
-      "Trade 5 Value": "8,508.50"
+      "Trade 5 Value": "10,868.00"
     },
     "Trade 6": {
       "Value": "Akali",
@@ -6111,9 +6111,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "46,921.94",
+    "Raw Trade Income": "49,281.44",
     "Tariffs": "0.75",
-    "Trade Income": "35,191.45",
+    "Trade Income": "36,961.08",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -8305,7 +8305,7 @@
     },
     "Trade 3": {
       "Value": "Unified Republic of Kaiarau",
-      "Trade 3 Value": "4,287.50"
+      "Trade 3 Value": "4,497.50"
     },
     "Trade 4": {
       "Value": "City State of Kido",
@@ -8355,9 +8355,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "82,744.88",
+    "Raw Trade Income": "82,954.88",
     "Tariffs": "0.95",
-    "Trade Income": "78,607.63",
+    "Trade Income": "78,807.13",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -12275,7 +12275,7 @@
     "Limit": "6",
     "Trade 1": {
       "Value": "Unified Republic of Kaiarau",
-      "Trade 1 Value": "4,287.50"
+      "Trade 1 Value": "4,497.50"
     },
     "Trade 2": {
       "Value": "Free City of Zephon",
@@ -12333,9 +12333,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "15,235.10",
+    "Raw Trade Income": "15,445.10",
     "Tariffs": "1.05",
-    "Trade Income": "15,996.86",
+    "Trade Income": "16,217.36",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -14555,7 +14555,7 @@
     },
     "Trade 10": {
       "Value": "Adelaar Legioen",
-      "Trade 10 Value": "8,508.50"
+      "Trade 10 Value": "10,868.00"
     },
     "Trade 11": {
       "Value": "",
@@ -14577,9 +14577,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "64,697.69",
+    "Raw Trade Income": "67,057.19",
     "Tariffs": "0.95",
-    "Trade Income": "61,462.80",
+    "Trade Income": "63,704.33",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -18191,7 +18191,7 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Sancta Discordia",
-      "Trade 1 Value": "6,998.75"
+      "Trade 1 Value": "7,328.75"
     },
     "Trade 2": {
       "Value": "Snow Dominion",
@@ -18249,9 +18249,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "22,088.75",
+    "Raw Trade Income": "22,418.75",
     "Tariffs": "0.95",
-    "Trade Income": "20,984.31",
+    "Trade Income": "21,297.81",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -18598,40 +18598,40 @@
     "Military Alliances 2": "Extremely Radical Corta",
     "Limit": "9",
     "Trade 1": {
-      "Value": "Here Be Dragons",
-      "Trade 1 Value": "33,194.00"
+      "Value": "Psarades",
+      "Trade 1 Value": "53,880.00"
     },
     "Trade 2": {
-      "Value": "Federation of the Winds",
-      "Trade 2 Value": "27,940.00"
+      "Value": "Here Be Dragons",
+      "Trade 2 Value": "33,194.00"
     },
     "Trade 3": {
-      "Value": "Extremely Radical Corta",
-      "Trade 3 Value": "25,100.00"
+      "Value": "Federation of the Winds",
+      "Trade 3 Value": "27,940.00"
     },
     "Trade 4": {
-      "Value": "Kingdom of Geloía",
-      "Trade 4 Value": "16,373.44"
+      "Value": "Extremely Radical Corta",
+      "Trade 4 Value": "25,100.00"
     },
     "Trade 5": {
-      "Value": "Nixond",
-      "Trade 5 Value": "13,365.63"
+      "Value": "Kingdom of Geloía",
+      "Trade 5 Value": "16,373.44"
     },
     "Trade 6": {
-      "Value": "Cabyarszag",
-      "Trade 6 Value": "13,375.00"
+      "Value": "Nixond",
+      "Trade 6 Value": "13,365.63"
     },
     "Trade 7": {
-      "Value": "Aethyllion Pradesh",
-      "Trade 7 Value": "9,075.63"
+      "Value": "Cabyarszag",
+      "Trade 7 Value": "13,375.00"
     },
     "Trade 8": {
-      "Value": "Clan Karatillion",
-      "Trade 8 Value": "8,944.00"
+      "Value": "Aethyllion Pradesh",
+      "Trade 8 Value": "9,075.63"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Clan Karatillion",
+      "Trade 9 Value": "8,944.00"
     },
     "Trade 10": {
       "Value": "",
@@ -18657,13 +18657,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "147,367.69",
+    "Raw Trade Income": "201,247.69",
     "Tariffs": "0.95",
-    "Trade Income": "139,999.30",
+    "Trade Income": "191,185.30",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "8"
+    "Trades": "9"
   },
   "Mazazuma": {
     "Nations": "Mazazuma",
@@ -20035,7 +20035,7 @@
     },
     "Trade 3": {
       "Value": "Adelaar Legioen",
-      "Trade 3 Value": "8,508.50"
+      "Trade 3 Value": "10,868.00"
     },
     "Trade 4": {
       "Value": "The Second Temple",
@@ -20085,9 +20085,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "59,257.06",
+    "Raw Trade Income": "61,616.56",
     "Tariffs": "0.95",
-    "Trade Income": "56,294.21",
+    "Trade Income": "58,535.73",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -21127,8 +21127,8 @@
     "": "",
     "L. Desire": "19.95%",
     "Base": "19.95%",
-    "Comparison": "5.98%",
-    "Individual": "5.98%",
+    "Comparison": "5.97%",
+    "Individual": "5.97%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -22082,8 +22082,8 @@
       "Trade 4 Value": "21,740.63"
     },
     "Trade 5": {
-      "Value": "Terra Magicae",
-      "Trade 5 Value": "3,953.13"
+      "Value": "Mātrentwo",
+      "Trade 5 Value": "17,706.25"
     },
     "Trade 6": {
       "Value": "Kingdom of Geloía",
@@ -22125,9 +22125,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "236,052.56",
+    "Raw Trade Income": "249,805.69",
     "Tariffs": "1.25",
-    "Trade Income": "295,065.70",
+    "Trade Income": "312,257.11",
     "NAPs": "3",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -23021,7 +23021,7 @@
     },
     "Trade 10": {
       "Value": "Adelaar Legioen",
-      "Trade 10 Value": "8,508.50"
+      "Trade 10 Value": "10,868.00"
     },
     "Trade 11": {
       "Value": "",
@@ -23043,9 +23043,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "74,476.56",
+    "Raw Trade Income": "76,836.06",
     "Tariffs": "0.95",
-    "Trade Income": "70,752.73",
+    "Trade Income": "72,994.26",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -23083,7 +23083,7 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Audgunn",
-    "Military Alliances 2": "",
+    "Military Alliances 2": "Sarmatai Confederation",
     "Limit": "9",
     "Trade 1": {
       "Value": "Audgunn",
@@ -23150,7 +23150,7 @@
     "Trade Income": "44,847.13",
     "NAPs": "0",
     "Def. Pacts": "0",
-    "Mil. Pacts": "1",
+    "Mil. Pacts": "2",
     "Trades": "8"
   },
   "Republic of Rostora": {
@@ -23919,7 +23919,7 @@
     },
     "Trade 5": {
       "Value": "Adelaar Legioen",
-      "Trade 5 Value": "8,508.50"
+      "Trade 5 Value": "10,868.00"
     },
     "Trade 6": {
       "Value": "United Federation of Malam States",
@@ -23961,9 +23961,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "25,006.86",
+    "Raw Trade Income": "27,366.36",
     "Tariffs": "1.25",
-    "Trade Income": "31,258.57",
+    "Trade Income": "34,207.95",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -24021,7 +24021,7 @@
     },
     "Trade 5": {
       "Value": "Adelaar Legioen",
-      "Trade 5 Value": "8,508.50"
+      "Trade 5 Value": "10,868.00"
     },
     "Trade 6": {
       "Value": "Saholnahes Ceuluanas",
@@ -24063,9 +24063,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "36,810.38",
+    "Raw Trade Income": "39,169.88",
     "Tariffs": "1.00",
-    "Trade Income": "36,810.38",
+    "Trade Income": "39,169.88",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -24307,7 +24307,7 @@
     "Defensive Pacts": "Jubal'on",
     "Defensive Pacts 2": "",
     "Military Alliances": "Tort Uli Xaliq",
-    "Military Alliances 2": "",
+    "Military Alliances 2": "Republic of Nymaró",
     "Limit": "7",
     "Trade 1": {
       "Value": "Tort Uli Xaliq",
@@ -24374,7 +24374,7 @@
     "Trade Income": "21,766.66",
     "NAPs": "2",
     "Def. Pacts": "1",
-    "Mil. Pacts": "1",
+    "Mil. Pacts": "2",
     "Trades": "5"
   },
   "Saulka": {
@@ -25343,7 +25343,7 @@
     },
     "Trade 4": {
       "Value": "Sancta Discordia",
-      "Trade 4 Value": "6,998.75"
+      "Trade 4 Value": "7,328.75"
     },
     "Trade 5": {
       "Value": "Mercati Emporium",
@@ -25389,9 +25389,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "52,991.56",
+    "Raw Trade Income": "53,321.56",
     "Tariffs": "0.95",
-    "Trade Income": "50,341.98",
+    "Trade Income": "50,655.48",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -26249,7 +26249,7 @@
     "Limit": "11",
     "Trade 1": {
       "Value": "Adelaar Legioen",
-      "Trade 1 Value": "8,508.50"
+      "Trade 1 Value": "10,868.00"
     },
     "Trade 2": {
       "Value": "Etolian Πολιτεία",
@@ -26307,9 +26307,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "54,114.05",
+    "Raw Trade Income": "56,473.55",
     "Tariffs": "0.75",
-    "Trade Income": "40,585.54",
+    "Trade Income": "42,355.16",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -27473,7 +27473,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Unified Republic of Kaiarau",
-      "Trade 1 Value": "4,287.50"
+      "Trade 1 Value": "4,497.50"
     },
     "Trade 2": {
       "Value": "Free City of Zephon",
@@ -27531,9 +27531,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "39,722.60",
+    "Raw Trade Income": "39,932.60",
     "Tariffs": "0.95",
-    "Trade Income": "37,736.47",
+    "Trade Income": "37,935.97",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -28054,11 +28054,11 @@
     "Nation Check": "The Free Cities of Cupiditas",
     "Overlord": "",
     "Eco Vassals": "71,210.94",
-    "Eco Over.": "455,211.14",
+    "Eco Over.": "455,410.64",
     "Compare": "14.23%",
     "MP Vassals": "12,873.44",
     "MP Over.": "90,450.94",
-    "20% Total": "5.98%",
+    "20% Total": "5.97%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -28121,7 +28121,7 @@
     },
     "Trade 10": {
       "Value": "Unified Republic of Kaiarau",
-      "Trade 10 Value": "4,287.50"
+      "Trade 10 Value": "4,497.50"
     },
     "Trade 11": {
       "Value": "Luminus",
@@ -28143,9 +28143,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "84,610.41",
+    "Raw Trade Income": "84,820.41",
     "Tariffs": "0.95",
-    "Trade Income": "80,379.89",
+    "Trade Income": "80,579.39",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -28896,7 +28896,7 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Alapadana",
-    "Military Alliances": "Kingdom of Járnfjall",
+    "Military Alliances": "",
     "Military Alliances 2": "Zalmoxia",
     "Limit": "5",
     "Trade 1": {
@@ -28964,7 +28964,7 @@
     "Trade Income": "30,515.63",
     "NAPs": "0",
     "Def. Pacts": "1",
-    "Mil. Pacts": "2",
+    "Mil. Pacts": "1",
     "Trades": "5"
   },
   "The House": {
@@ -29529,7 +29529,7 @@
     },
     "Trade 5": {
       "Value": "Sancta Discordia",
-      "Trade 5 Value": "6,998.75"
+      "Trade 5 Value": "7,328.75"
     },
     "Trade 6": {
       "Value": "",
@@ -29571,9 +29571,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "26,914.94",
+    "Raw Trade Income": "27,244.94",
     "Tariffs": "1.05",
-    "Trade Income": "28,260.68",
+    "Trade Income": "28,607.18",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -30509,10 +30509,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "69.01%",
-    "Base": "69.01%",
-    "Comparison": "27.01%",
-    "Individual": "27.01%",
+    "L. Desire": "69.61%",
+    "Base": "69.61%",
+    "Comparison": "27.31%",
+    "Individual": "27.31%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -30541,7 +30541,7 @@
     },
     "Trade 3": {
       "Value": "Adelaar Legioen",
-      "Trade 3 Value": "8,508.50"
+      "Trade 3 Value": "10,868.00"
     },
     "Trade 4": {
       "Value": "Ceridwyn Teulu",
@@ -30591,9 +30591,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "19,722.25",
+    "Raw Trade Income": "22,081.75",
     "Tariffs": "1.05",
-    "Trade Income": "20,708.36",
+    "Trade Income": "23,185.84",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -30859,7 +30859,7 @@
     },
     "Trade 6": {
       "Value": "Sancta Discordia",
-      "Trade 6 Value": "6,998.75"
+      "Trade 6 Value": "7,328.75"
     },
     "Trade 7": {
       "Value": "Hadastan Commenwealth",
@@ -30897,9 +30897,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "50,464.00",
+    "Raw Trade Income": "50,794.00",
     "Tariffs": "0.95",
-    "Trade Income": "47,940.80",
+    "Trade Income": "48,254.30",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -33401,7 +33401,7 @@
     },
     "Trade 4": {
       "Value": "Adelaar Legioen",
-      "Trade 4 Value": "8,508.50"
+      "Trade 4 Value": "10,868.00"
     },
     "Trade 5": {
       "Value": "United Federation of Malam States",
@@ -33447,9 +33447,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,973.50",
+    "Raw Trade Income": "33,333.00",
     "Tariffs": "1.25",
-    "Trade Income": "38,716.88",
+    "Trade Income": "41,666.25",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
