@@ -3119,7 +3119,7 @@
     },
     "Trade 7": {
       "Value": "Kingdom of Nexus",
-      "Trade 7 Value": "7,481.25"
+      "Trade 7 Value": "7,901.25"
     },
     "Trade 8": {
       "Value": "",
@@ -3153,9 +3153,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "101,467.38",
+    "Raw Trade Income": "101,887.38",
     "Tariffs": "1.00",
-    "Trade Income": "101,467.38",
+    "Trade Income": "101,887.38",
     "NAPs": "5",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -5410,7 +5410,7 @@
     "Nation Check": "Council of the Alonissos Isles",
     "Overlord": "",
     "Eco Vassals": "303,611.48",
-    "Eco Over.": "808,700.11",
+    "Eco Over.": "809,099.11",
     "Compare": "62.66%",
     "MP Vassals": "111,899.22",
     "MP Over.": "178,573.31",
@@ -5485,7 +5485,7 @@
     },
     "Trade 12": {
       "Value": "Kingdom of Nexus",
-      "Trade 12 Value": "7,481.25"
+      "Trade 12 Value": "7,901.25"
     },
     "Trade 13": {
       "Value": "",
@@ -5499,9 +5499,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "202,130.38",
+    "Raw Trade Income": "202,550.38",
     "Tariffs": "0.95",
-    "Trade Income": "192,023.86",
+    "Trade Income": "192,422.86",
     "NAPs": "6",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -5649,7 +5649,7 @@
     },
     "Trade 2": {
       "Value": "Kingdom of Nexus",
-      "Trade 2 Value": "7,481.25"
+      "Trade 2 Value": "7,901.25"
     },
     "Trade 3": {
       "Value": "Skullantium",
@@ -5703,9 +5703,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "48,248.63",
+    "Raw Trade Income": "48,668.63",
     "Tariffs": "0.95",
-    "Trade Income": "45,836.19",
+    "Trade Income": "46,235.19",
     "NAPs": "4",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -15311,10 +15311,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "18.43%",
-    "Base": "18.43%",
-    "Comparison": "13.80%",
-    "Individual": "13.80%",
+    "L. Desire": "18.41%",
+    "Base": "18.41%",
+    "Comparison": "13.79%",
+    "Individual": "13.79%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -17038,11 +17038,11 @@
     "Nation Check": "Lowy Combine",
     "Overlord": "",
     "Eco Vassals": "161,422.84",
-    "Eco Over.": "404,178.54",
+    "Eco Over.": "404,577.54",
     "Compare": "29.05%",
     "MP Vassals": "39,672.19",
     "MP Over.": "136,568.44",
-    "20% Total": "13.80%",
+    "20% Total": "13.79%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -17101,7 +17101,7 @@
     },
     "Trade 9": {
       "Value": "Kingdom of Nexus",
-      "Trade 9 Value": "7,481.25"
+      "Trade 9 Value": "7,901.25"
     },
     "Trade 10": {
       "Value": "Carya",
@@ -17127,9 +17127,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "125,489.25",
+    "Raw Trade Income": "125,909.25",
     "Tariffs": "0.95",
-    "Trade Income": "119,214.79",
+    "Trade Income": "119,613.79",
     "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -23471,10 +23471,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "52.56%",
-    "Base": "52.56%",
-    "Comparison": "15.44%",
-    "Individual": "15.44%",
+    "L. Desire": "57.60%",
+    "Base": "57.60%",
+    "Comparison": "17.97%",
+    "Individual": "17.97%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
@@ -23589,10 +23589,10 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "The Sinere Theocracy",
+    "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "",
+    "Military Alliances": "The Sinere Theocracy",
     "Military Alliances 2": "",
     "Limit": "6",
     "Trade 1": {
@@ -23658,9 +23658,9 @@
     "Raw Trade Income": "7,099.38",
     "Tariffs": "1.25",
     "Trade Income": "8,874.22",
-    "NAPs": "1",
+    "NAPs": "0",
     "Def. Pacts": "0",
-    "Mil. Pacts": "0",
+    "Mil. Pacts": "1",
     "Trades": "2"
   },
   "Royal City of Gevero": {
@@ -30400,11 +30400,11 @@
     "Nation Check": "The Second Temple",
     "Overlord": "",
     "Eco Vassals": "65,325.56",
-    "Eco Over.": "234,208.00",
-    "Compare": "49.33%",
+    "Eco Over.": "210,613.00",
+    "Compare": "58.82%",
     "MP Vassals": "41,002.50",
-    "MP Over.": "83,120.13",
-    "20% Total": "15.44%",
+    "MP Over.": "69,713.88",
+    "20% Total": "17.97%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -30627,10 +30627,10 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Rosefire Dynasty",
+    "Non-aggression Pacts": "I'hamon",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "",
+    "Military Alliances": "Rosefire Dynasty",
     "Military Alliances 2": "",
     "Limit": "4",
     "Trade 1": {
@@ -30698,7 +30698,7 @@
     "Trade Income": "10,126.59",
     "NAPs": "1",
     "Def. Pacts": "0",
-    "Mil. Pacts": "0",
+    "Mil. Pacts": "1",
     "Trades": "3"
   },
   "The State of Iskura": {
@@ -33178,7 +33178,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Holy Council of Axhaea",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Akaḣpetoƞ",
     "Military Alliances 2": "Remid Republic",
@@ -33247,7 +33247,7 @@
     "Tariffs": "0.95",
     "Trade Income": "54,168.41",
     "NAPs": "0",
-    "Def. Pacts": "1",
+    "Def. Pacts": "0",
     "Mil. Pacts": "2",
     "Trades": "9"
   },
