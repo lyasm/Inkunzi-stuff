@@ -1,8 +1,7 @@
 let data;
-let armyData;
-let data;
+let techData;
 // Fetch The JSON data
-fetch('../diplo.json')
+fetch('../research.json')
     .then(response => response.json())
     .then(jsonData => {
 	data = jsonData;
@@ -17,13 +16,13 @@ fetch('../diplo.json')
     })
     .catch(error => console.error('Error loading JSON:', error));
 
-// Fetch the army JSON data
-fetch('../army.json')
+// Fetch the tech JSON data
+fetch('../tech.json')
     .then(response => response.json())
-    .then(armyJsonData => {
-	armyData = armyJsonData;
+    .then(techJsonData => {
+	techData = techJsonData;
     })
-    .catch(error => console.error('Error loading army JSON:', error));
+    .catch(error => console.error('Error loading tech JSON:', error));
 
 // Function to filter nations based on user input
 function filterNations() {
@@ -38,19 +37,14 @@ function filterNations() {
 	option.value = nationName;
 	nationList.appendChild(option);
     });
-    readyDisplayNationDetails();
+    DisplayNationDetails();
 }
 
-function readyDisplayNationDetails() {
+function DisplayNationDetails() {
     const selectedNationName = document.getElementById('nationDropdown').value;
     const nationDetails = document.getElementById('nationDetails');
-    const armyDetails = document.getElementById('armyDetails');
+    const techDetails = document.getElementById('techDetails');
 
-    // Find the selected nation in the JSON data
     const selectedNationData = data[selectedNationName];
-    displayNationDetails(selectedNationData);
-    // Display the details in the HTML
-    // nationDetails.innerHTML = '<pre>' + JSON.stringify(selectedNationData, null, 2) + '</pre>';
-}
-function displayNationDetails(nationData) {
+    console.log(selectedNationData);
 }
