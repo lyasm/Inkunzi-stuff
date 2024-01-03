@@ -1585,7 +1585,7 @@
     },
     "Trade 6": {
       "Value": "The Gilded City",
-      "Trade 6 Value": "4,709.38"
+      "Trade 6 Value": "2,975.00"
     },
     "Trade 7": {
       "Value": "Xiboda",
@@ -1623,9 +1623,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "37,386.06",
+    "Raw Trade Income": "35,651.69",
     "Tariffs": "1.05",
-    "Trade Income": "39,255.37",
+    "Trade Income": "37,434.27",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -1847,9 +1847,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "41.12%",
-    "Base": "41.12%",
-    "Comparison": "42.54%",
+    "L. Desire": "41.29%",
+    "Base": "41.29%",
+    "Comparison": "42.71%",
     "Individual": "1.09%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
@@ -2867,9 +2867,9 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "59.59%",
-    "Base": "59.59%",
-    "Comparison": "42.54%",
+    "L. Desire": "59.76%",
+    "Base": "59.76%",
+    "Comparison": "42.71%",
     "Individual": "8.72%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
@@ -3173,10 +3173,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "39.42%",
-    "Base": "39.42%",
-    "Comparison": "42.54%",
-    "Individual": "8.55%",
+    "L. Desire": "39.76%",
+    "Base": "39.76%",
+    "Comparison": "42.71%",
+    "Individual": "8.72%",
     "Friend/Rival": "0.00%",
     "Taxes": "-1.67%",
     "Indep War?": "",
@@ -3232,8 +3232,8 @@
       "Trade 9 Value": "27,940.00"
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": "Wandon Council",
+      "Trade 10 Value": "22,797.50"
     },
     "Trade 11": {
       "Value": "",
@@ -3255,13 +3255,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "255,342.81",
+    "Raw Trade Income": "278,140.31",
     "Tariffs": "0.95",
-    "Trade Income": "242,575.67",
+    "Trade Income": "264,233.30",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "9"
+    "Trades": "10"
   },
   "Carcukhanate": {
     "Nations": "Carcukhanate",
@@ -4193,9 +4193,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "51.77%",
-    "Base": "51.77%",
-    "Comparison": "42.54%",
+    "L. Desire": "51.94%",
+    "Base": "51.94%",
+    "Comparison": "42.71%",
     "Individual": "4.24%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
@@ -4397,9 +4397,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "55.89%",
-    "Base": "55.89%",
-    "Comparison": "42.54%",
+    "L. Desire": "56.06%",
+    "Base": "56.06%",
+    "Comparison": "42.71%",
     "Individual": "0.86%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
@@ -5519,9 +5519,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "39.06%",
-    "Base": "39.06%",
-    "Comparison": "42.54%",
+    "L. Desire": "39.23%",
+    "Base": "39.23%",
+    "Comparison": "42.71%",
     "Individual": "4.02%",
     "Friend/Rival": "-25.00%",
     "Taxes": "7.50%",
@@ -5723,9 +5723,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "63.10%",
-    "Base": "63.10%",
-    "Comparison": "42.54%",
+    "L. Desire": "63.27%",
+    "Base": "63.27%",
+    "Comparison": "42.71%",
     "Individual": "5.56%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -5825,9 +5825,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "73.31%",
-    "Base": "73.31%",
-    "Comparison": "42.54%",
+    "L. Desire": "73.48%",
+    "Base": "73.48%",
+    "Comparison": "42.71%",
     "Individual": "0.78%",
     "Friend/Rival": "0.00%",
     "Taxes": "20.00%",
@@ -5927,10 +5927,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "16.92%",
-    "Base": "16.92%",
-    "Comparison": "7.21%",
-    "Individual": "7.21%",
+    "L. Desire": "15.96%",
+    "Base": "15.96%",
+    "Comparison": "6.73%",
+    "Individual": "6.73%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -7551,12 +7551,12 @@
     "Nations": "Fellowship of the Crown",
     "Nation Check": "Fellowship of the Crown",
     "Overlord": "",
-    "Eco Vassals": "3,537,145.40",
+    "Eco Vassals": "3,560,981.03",
     "Eco Over.": "3,049,194.91",
-    "Compare": "96.68%",
-    "MP Vassals": "1,056,721.84",
+    "Compare": "96.75%",
+    "MP Vassals": "1,057,464.34",
     "MP Over.": "1,093,011.56",
-    "20% Total": "42.54%",
+    "20% Total": "42.71%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -10259,7 +10259,7 @@
     },
     "Trade 7": {
       "Value": "The Gilded City",
-      "Trade 7 Value": "4,709.38"
+      "Trade 7 Value": "2,975.00"
     },
     "Trade 8": {
       "Value": "",
@@ -10293,9 +10293,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "31,291.88",
+    "Raw Trade Income": "29,557.50",
     "Tariffs": "1.05",
-    "Trade Income": "32,856.47",
+    "Trade Income": "31,035.38",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -10447,7 +10447,7 @@
     },
     "Trade 3": {
       "Value": "The Gilded City",
-      "Trade 3 Value": "4,709.38"
+      "Trade 3 Value": "2,975.00"
     },
     "Trade 4": {
       "Value": "The Aislings",
@@ -10497,9 +10497,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "42,196.17",
+    "Raw Trade Income": "40,461.80",
     "Tariffs": "0.75",
-    "Trade Income": "31,647.13",
+    "Trade Income": "30,346.35",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -10847,7 +10847,7 @@
     "Limit": "6",
     "Trade 1": {
       "Value": "The Gilded City",
-      "Trade 1 Value": "4,709.38"
+      "Trade 1 Value": "2,975.00"
     },
     "Trade 2": {
       "Value": "Velken Bulwark",
@@ -10905,9 +10905,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "25,413.13",
+    "Raw Trade Income": "23,678.75",
     "Tariffs": "1.05",
-    "Trade Income": "26,683.78",
+    "Trade Income": "24,862.69",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -11176,8 +11176,8 @@
       "Trade 6 Value": "8,098.75"
     },
     "Trade 7": {
-      "Value": "Kingdom of the Kettlelands",
-      "Trade 7 Value": "2,650.00"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "Free City of Zephon",
@@ -11211,13 +11211,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "82,259.48",
+    "Raw Trade Income": "79,609.48",
     "Tariffs": "0.95",
-    "Trade Income": "78,146.50",
+    "Trade Income": "75,629.00",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "10"
+    "Trades": "9"
   },
   "I’Hamon": {
     "Nations": "I’Hamon",
@@ -12863,9 +12863,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "18.15%",
-    "Base": "18.15%",
-    "Comparison": "42.54%",
+    "L. Desire": "18.32%",
+    "Base": "18.32%",
+    "Comparison": "42.71%",
     "Individual": "3.12%",
     "Friend/Rival": "-25.00%",
     "Taxes": "0.00%",
@@ -12965,9 +12965,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "58.65%",
-    "Base": "58.65%",
-    "Comparison": "42.54%",
+    "L. Desire": "58.82%",
+    "Base": "58.82%",
+    "Comparison": "42.71%",
     "Individual": "1.11%",
     "Friend/Rival": "0.00%",
     "Taxes": "10.00%",
@@ -15311,10 +15311,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "18.41%",
-    "Base": "18.41%",
-    "Comparison": "13.79%",
-    "Individual": "13.79%",
+    "L. Desire": "20.30%",
+    "Base": "20.30%",
+    "Comparison": "14.73%",
+    "Individual": "14.73%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -16025,9 +16025,9 @@
     "20% Total": "",
     "Vassal Type": "Autonomous",
     "": "",
-    "L. Desire": "19.53%",
-    "Base": "19.53%",
-    "Comparison": "42.54%",
+    "L. Desire": "19.70%",
+    "Base": "19.70%",
+    "Comparison": "42.71%",
     "Individual": "1.99%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -16637,9 +16637,9 @@
     "20% Total": "",
     "Vassal Type": "",
     "": "",
-    "L. Desire": "38.61%",
-    "Base": "38.61%",
-    "Comparison": "42.54%",
+    "L. Desire": "38.78%",
+    "Base": "38.78%",
+    "Comparison": "42.71%",
     "Individual": "0.57%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -17037,12 +17037,12 @@
     "Nations": "Lowy Combine",
     "Nation Check": "Lowy Combine",
     "Overlord": "",
-    "Eco Vassals": "161,422.84",
+    "Eco Vassals": "180,480.34",
     "Eco Over.": "404,577.54",
     "Compare": "29.05%",
     "MP Vassals": "39,672.19",
     "MP Over.": "136,568.44",
-    "20% Total": "13.79%",
+    "20% Total": "14.73%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -17351,9 +17351,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "68.80%",
-    "Base": "68.80%",
-    "Comparison": "42.54%",
+    "L. Desire": "68.97%",
+    "Base": "68.97%",
+    "Comparison": "42.71%",
     "Individual": "1.26%",
     "Friend/Rival": "0.00%",
     "Taxes": "20.00%",
@@ -19121,7 +19121,7 @@
     },
     "Trade 4": {
       "Value": "The Gilded City",
-      "Trade 4 Value": "4,709.38"
+      "Trade 4 Value": "2,975.00"
     },
     "Trade 5": {
       "Value": "I’Hamon",
@@ -19167,9 +19167,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "38,284.81",
+    "Raw Trade Income": "36,550.44",
     "Tariffs": "0.95",
-    "Trade Income": "36,370.57",
+    "Trade Income": "34,722.92",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -21125,10 +21125,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "20.52%",
-    "Base": "20.52%",
-    "Comparison": "6.26%",
-    "Individual": "6.26%",
+    "L. Desire": "19.95%",
+    "Base": "19.95%",
+    "Comparison": "5.98%",
+    "Individual": "5.98%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -21227,9 +21227,9 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "58.21%",
-    "Base": "58.21%",
-    "Comparison": "42.54%",
+    "L. Desire": "58.38%",
+    "Base": "58.38%",
+    "Comparison": "42.71%",
     "Individual": "0.67%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -26115,12 +26115,12 @@
     "Nations": "Stryaxina",
     "Nation Check": "Stryaxina",
     "Overlord": "",
-    "Eco Vassals": "65,903.13",
+    "Eco Vassals": "67,862.50",
     "Eco Over.": "379,547.39",
-    "Compare": "18.68%",
-    "MP Vassals": "28,978.13",
+    "Compare": "15.76%",
+    "MP Vassals": "24,440.63",
     "MP Over.": "155,093.13",
-    "20% Total": "7.21%",
+    "20% Total": "6.73%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27681,7 +27681,7 @@
     },
     "Trade 2": {
       "Value": "The Gilded City",
-      "Trade 2 Value": "4,709.38"
+      "Trade 2 Value": "2,975.00"
     },
     "Trade 3": {
       "Value": "",
@@ -27735,9 +27735,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "25,882.63",
+    "Raw Trade Income": "24,148.25",
     "Tariffs": "0.95",
-    "Trade Income": "24,588.49",
+    "Trade Income": "22,940.84",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -28053,12 +28053,12 @@
     "Nations": "The Free Cities of Cupiditas",
     "Nation Check": "The Free Cities of Cupiditas",
     "Overlord": "",
-    "Eco Vassals": "77,742.19",
+    "Eco Vassals": "71,210.94",
     "Eco Over.": "455,211.14",
     "Compare": "14.23%",
     "MP Vassals": "12,873.44",
     "MP Over.": "90,450.94",
-    "20% Total": "6.26%",
+    "20% Total": "5.98%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -28490,7 +28490,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "Holy Council of Axhaea",
     "Military Alliances 2": "",
-    "Limit": "8",
+    "Limit": "7",
     "Trade 1": {
       "Value": "Velken Bulwark",
       "Trade 1 Value": "4,300.00"
@@ -28508,20 +28508,20 @@
       "Trade 4 Value": "6,221.31"
     },
     "Trade 5": {
-      "Value": "Araybattahya ",
-      "Trade 5 Value": "3,475.00"
+      "Value": "Meridomus Kalleprii",
+      "Trade 5 Value": "4,730.00"
     },
     "Trade 6": {
-      "Value": "Holy Council of Axhaea",
-      "Trade 6 Value": "3,533.75"
+      "Value": "The Awakened",
+      "Trade 6 Value": "6,250.00"
     },
     "Trade 7": {
       "Value": "The Republic of Alyvosk",
       "Trade 7 Value": "6,704.50"
     },
     "Trade 8": {
-      "Value": "Meridomus Kalleprii",
-      "Trade 8 Value": "4,730.00"
+      "Value": "Araybattahya ",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
       "Value": "",
@@ -28551,13 +28551,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "41,765.81",
+    "Raw Trade Income": "41,007.06",
     "Tariffs": "0.95",
-    "Trade Income": "39,677.52",
+    "Trade Income": "38,956.71",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "8"
+    "Trades": "7"
   },
   "The Grand City of Smmeíaia": {
     "Nations": "The Grand City of Smmeíaia",
@@ -30039,7 +30039,7 @@
     },
     "Trade 5": {
       "Value": "The Gilded City",
-      "Trade 5 Value": "4,709.38"
+      "Trade 5 Value": "2,975.00"
     },
     "Trade 6": {
       "Value": "The Grand City of Smmeíaia",
@@ -30081,9 +30081,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "29,368.88",
+    "Raw Trade Income": "27,634.50",
     "Tariffs": "0.95",
-    "Trade Income": "27,900.43",
+    "Trade Income": "26,252.78",
     "NAPs": "3",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -33185,7 +33185,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "The Gilded City",
-      "Trade 1 Value": "4,709.38"
+      "Trade 1 Value": "2,975.00"
     },
     "Trade 2": {
       "Value": "Remid Republic",
@@ -33243,9 +33243,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "57,019.38",
+    "Raw Trade Income": "55,285.00",
     "Tariffs": "0.95",
-    "Trade Income": "54,168.41",
+    "Trade Income": "52,520.75",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
