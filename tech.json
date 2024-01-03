@@ -1,0 +1,752 @@
+{
+  "Tribal Governance": {
+    "Technology": "Tribal Governance",
+    "Age": "Tribal Age",
+    "Type": "Cultural",
+    "Difficulty": "Trivial",
+    "Req 1": null,
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Tribal Culture": {
+    "Technology": "Tribal Culture",
+    "Age": "Tribal Age",
+    "Type": "Cultural",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Governance",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Tribal Religion": {
+    "Technology": "Tribal Religion",
+    "Age": "Tribal Age",
+    "Type": "Cultural",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Governance",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Writing": {
+    "Technology": "Writing",
+    "Age": "Tribal Age",
+    "Type": "Cultural",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Governance",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Tribal Agriculture": {
+    "Technology": "Tribal Agriculture",
+    "Age": "Tribal Age",
+    "Type": "Agriculture",
+    "Difficulty": "Trivial",
+    "Req 1": null,
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Animal Husbandry": {
+    "Technology": "Animal Husbandry",
+    "Age": "Tribal Age",
+    "Type": "Agriculture",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Agriculture",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Basic Storage": {
+    "Technology": "Basic Storage",
+    "Age": "Tribal Age",
+    "Type": "Agriculture",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Agriculture",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Archery": {
+    "Technology": "Archery",
+    "Age": "Tribal Age",
+    "Type": "Warfare",
+    "Difficulty": "Trivial",
+    "Req 1": null,
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Military Training": {
+    "Technology": "Military Training",
+    "Age": "Tribal Age",
+    "Type": "Warfare",
+    "Difficulty": "Trivial",
+    "Req 1": null,
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Riders": {
+    "Technology": "Riders",
+    "Age": "Tribal Age",
+    "Type": "Warfare",
+    "Difficulty": "Trivial",
+    "Req 1": "Animal Husbandry",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Military Camp": {
+    "Technology": "Military Camp",
+    "Age": "Tribal Age",
+    "Type": "Warfare",
+    "Difficulty": "Trivial",
+    "Req 1": "Basic Construction",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Tribal Infrastructure": {
+    "Technology": "Tribal Infrastructure",
+    "Age": "Tribal Age",
+    "Type": "Infrastructure",
+    "Difficulty": "Trivial",
+    "Req 1": null,
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Tribal Commerce": {
+    "Technology": "Tribal Commerce",
+    "Age": "Tribal Age",
+    "Type": "Infrastructure",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Infrastructure",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Basic Construction": {
+    "Technology": "Basic Construction",
+    "Age": "Tribal Age",
+    "Type": "Infrastructure",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Infrastructure",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Cartography": {
+    "Technology": "Cartography",
+    "Age": "Tribal Age",
+    "Type": "Infrastructure",
+    "Difficulty": "Trivial",
+    "Req 1": "Writing",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Copper Working": {
+    "Technology": "Copper Working",
+    "Age": "Tribal Age",
+    "Type": "Industrial",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Infrastructure",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Metal Forges": {
+    "Technology": "Metal Forges",
+    "Age": "Tribal Age",
+    "Type": "Industrial",
+    "Difficulty": "Trivial",
+    "Req 1": "Copper Working",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Bronze Working": {
+    "Technology": "Bronze Working",
+    "Age": "Tribal Age",
+    "Type": "Industrial",
+    "Difficulty": "Trivial",
+    "Req 1": "Copper Working",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Code of Laws": {
+    "Technology": "Code of Laws",
+    "Age": "Bronze Age",
+    "Type": "Cultural",
+    "Difficulty": "Trivial",
+    "Req 1": "Writing",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Organized Faith": {
+    "Technology": "Organized Faith",
+    "Age": "Bronze Age",
+    "Type": "Cultural",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Religion",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Traditions": {
+    "Technology": "Traditions",
+    "Age": "Bronze Age",
+    "Type": "Cultural",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Culture",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Plowshares": {
+    "Technology": "Plowshares",
+    "Age": "Bronze Age",
+    "Type": "Agriculture",
+    "Difficulty": "Trivial",
+    "Req 1": "Animal Husbandry",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Windmills": {
+    "Technology": "Windmills",
+    "Age": "Bronze Age",
+    "Type": "Agriculture",
+    "Difficulty": "Trivial",
+    "Req 1": "Basic Construction",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Basic Ship Design": {
+    "Technology": "Basic Ship Design",
+    "Age": "Bronze Age",
+    "Type": "Warfare",
+    "Difficulty": "Trivial",
+    "Req 1": "Basic Construction",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Barding": {
+    "Technology": "Barding",
+    "Age": "Bronze Age",
+    "Type": "Warfare",
+    "Difficulty": "Trivial",
+    "Req 1": "Riders",
+    "Req 2": "Bronze Toolmaking",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Bronze Armor": {
+    "Technology": "Bronze Armor",
+    "Age": "Bronze Age",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "Bronze Toolmaking",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Military Instructors": {
+    "Technology": "Military Instructors",
+    "Age": "Bronze Age",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "Military Camp",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Merchant Guilds": {
+    "Technology": "Merchant Guilds",
+    "Age": "Bronze Age",
+    "Type": "Infrastructure",
+    "Difficulty": "Trivial",
+    "Req 1": "Writing",
+    "Req 2": "Tribal Commerce",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Cargo Holds": {
+    "Technology": "Cargo Holds",
+    "Age": "Bronze Age",
+    "Type": "Infrastructure",
+    "Difficulty": "Trivial",
+    "Req 1": "Basic Ship Design",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Masonry": {
+    "Technology": "Masonry",
+    "Age": "Bronze Age",
+    "Type": "Infrastructure",
+    "Difficulty": "Trivial",
+    "Req 1": "Basic Construction",
+    "Req 2": "Bronze Toolmaking",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Advanced Construction": {
+    "Technology": "Advanced Construction",
+    "Age": "Bronze Age",
+    "Type": "Infrastructure",
+    "Difficulty": "Basic",
+    "Req 1": "Bronze Toolmaking",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Bronze Toolmaking": {
+    "Technology": "Bronze Toolmaking",
+    "Age": "Bronze Age",
+    "Type": "Industrial",
+    "Difficulty": "Trivial",
+    "Req 1": "Bronze Working",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Siegecraft": {
+    "Technology": "Siegecraft",
+    "Age": "Bronze Age",
+    "Type": "Industrial",
+    "Difficulty": "Trivial",
+    "Req 1": "Military Camp",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Mineshafts": {
+    "Technology": "Mineshafts",
+    "Age": "Bronze Age",
+    "Type": "Industrial",
+    "Difficulty": "Basic",
+    "Req 1": "Advanced Construction",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Iron Working": {
+    "Technology": "Iron Working",
+    "Age": "Bronze Age",
+    "Type": "Industrial",
+    "Difficulty": "Easy",
+    "Req 1": "Advanced Construction",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Classical Governance": {
+    "Technology": "Classical Governance",
+    "Age": "Age of Conquest",
+    "Type": "Cultural",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Governance",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "National Defense": {
+    "Technology": "National Defense",
+    "Age": "Age of Conquest",
+    "Type": "Cultural",
+    "Difficulty": "Basic",
+    "Req 1": "Military Instructors",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Myths and Fables": {
+    "Technology": "Myths and Fables",
+    "Age": "Age of Conquest",
+    "Type": "Cultural",
+    "Difficulty": "Basic",
+    "Req 1": "Traditions",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Paper and Ink Records": {
+    "Technology": "Paper and Ink Records",
+    "Age": "Age of Conquest",
+    "Type": "Cultural",
+    "Difficulty": "Basic",
+    "Req 1": "Writing",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Irrigation": {
+    "Technology": "Irrigation",
+    "Age": "Age of Conquest",
+    "Type": "Agriculture",
+    "Difficulty": "Trivial",
+    "Req 1": "Tribal Agriculture",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Weighted Nets": {
+    "Technology": "Weighted Nets",
+    "Age": "Age of Conquest",
+    "Type": "Agriculture",
+    "Difficulty": "Trivial",
+    "Req 1": "Basic Construction",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Two-Crop Rotation": {
+    "Technology": "Two-Crop Rotation",
+    "Age": "Age of Conquest",
+    "Type": "Agriculture",
+    "Difficulty": "Basic",
+    "Req 1": "Irrigation",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Advanced Tactics": {
+    "Technology": "Advanced Tactics",
+    "Age": "Age of Conquest",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "Military Instructors",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Iron Armor": {
+    "Technology": "Iron Armor",
+    "Age": "Age of Conquest",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "Iron Toolmaking",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Stirrups": {
+    "Technology": "Stirrups",
+    "Age": "Age of Conquest",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "Iron Toolmaking",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "War Horses": {
+    "Technology": "War Horses",
+    "Age": "Age of Conquest",
+    "Type": "Warfare",
+    "Difficulty": "Trivial",
+    "Req 1": "Iron Armor",
+    "Req 2": "Stirrups",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Officer Academy": {
+    "Technology": "Officer Academy",
+    "Age": "Age of Conquest",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "Military Instructors",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Supply Wagons": {
+    "Technology": "Supply Wagons",
+    "Age": "Age of Conquest",
+    "Type": "Warfare",
+    "Difficulty": "Trivial",
+    "Req 1": "Iron Toolmaking",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Advanced Ship Design": {
+    "Technology": "Advanced Ship Design",
+    "Age": "Age of Conquest",
+    "Type": "Warfare",
+    "Difficulty": "Easy",
+    "Req 1": "Classical Construction",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Specialized Ship Design": {
+    "Technology": "Specialized Ship Design",
+    "Age": "Age of Conquest",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "Advanced Ship Design",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Classical Construction": {
+    "Technology": "Classical Construction",
+    "Age": "Age of Conquest",
+    "Type": "Infrastructure",
+    "Difficulty": "Trivial",
+    "Req 1": "Iron Toolmaking",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Interior Wells": {
+    "Technology": "Interior Wells",
+    "Age": "Age of Conquest",
+    "Type": "Infrastructure",
+    "Difficulty": "Basic",
+    "Req 1": "Classical Construction",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Watchtowers": {
+    "Technology": "Watchtowers",
+    "Age": "Age of Conquest",
+    "Type": "Infrastructure",
+    "Difficulty": "Basic",
+    "Req 1": "Classical Construction",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Gatehouses": {
+    "Technology": "Gatehouses",
+    "Age": "Age of Conquest",
+    "Type": "Infrastructure",
+    "Difficulty": "Easy",
+    "Req 1": "Watchtowers",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Banking Guilds": {
+    "Technology": "Banking Guilds",
+    "Age": "Age of Conquest",
+    "Type": "Infrastructure",
+    "Difficulty": "Trivial",
+    "Req 1": "Merchant Guilds",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Iron Toolmaking": {
+    "Technology": "Iron Toolmaking",
+    "Age": "Age of Conquest",
+    "Type": "Industrial",
+    "Difficulty": "Trivial",
+    "Req 1": "Iron Working",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Bellows": {
+    "Technology": "Bellows",
+    "Age": "Age of Conquest",
+    "Type": "Industrial",
+    "Difficulty": "Basic",
+    "Req 1": "Iron Toolmaking",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Advanced Siegecraft": {
+    "Technology": "Advanced Siegecraft",
+    "Age": "Age of Conquest",
+    "Type": "Industrial",
+    "Difficulty": "Basic",
+    "Req 1": "Iron Toolmaking",
+    "Req 2": "Siegecraft",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Mining Camps": {
+    "Technology": "Mining Camps",
+    "Age": "Age of Conquest",
+    "Type": "Industrial",
+    "Difficulty": "Easy",
+    "Req 1": "Bellows",
+    "Req 2": "Mineshafts",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Arena Games": {
+    "Technology": "Arena Games",
+    "Age": "Age of the Crown",
+    "Type": "Cultural",
+    "Difficulty": "Basic",
+    "Req 1": "Classical Construction",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Guilds": {
+    "Technology": "Guilds",
+    "Age": "Age of the Crown",
+    "Type": "Cultural",
+    "Difficulty": "Basic",
+    "Req 1": "Classical Governance",
+    "Req 2": "Paper and Ink Records",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Bread and Circuses": {
+    "Technology": "Bread and Circuses",
+    "Age": "Age of the Crown",
+    "Type": "Cultural",
+    "Difficulty": "Easy",
+    "Req 1": "Guilds",
+    "Req 2": "Arena Games",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Greens and Blues": {
+    "Technology": "Greens and Blues",
+    "Age": "Age of the Crown",
+    "Type": "Cultural",
+    "Difficulty": "Easy",
+    "Req 1": "Bread and Circuses",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "One Small Step": {
+    "Technology": "One Small Step",
+    "Age": "Age of the Crown",
+    "Type": "Cultural",
+    "Difficulty": "Challenging",
+    "Req 1": null,
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Estate Farming": {
+    "Technology": "Estate Farming",
+    "Age": "Age of the Crown",
+    "Type": "Agriculture",
+    "Difficulty": "Basic",
+    "Req 1": "Classical Governance",
+    "Req 2": "Two-Crop Rotation",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Fishing Fleets": {
+    "Technology": "Fishing Fleets",
+    "Age": "Age of the Crown",
+    "Type": "Agriculture",
+    "Difficulty": "Basic",
+    "Req 1": "Weighted Nets",
+    "Req 2": "Advanced Ship Design",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Classical Planning": {
+    "Technology": "Classical Planning",
+    "Age": "Age of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Basic",
+    "Req 1": "Classical Construction",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "City Planning": {
+    "Technology": "City Planning",
+    "Age": "Age of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Challenging",
+    "Req 1": "Classical Planning",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Artisan Guilds": {
+    "Technology": "Artisan Guilds",
+    "Age": "Age of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Easy",
+    "Req 1": "Classical Construction",
+    "Req 2": "Guilds",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Stonemason Guilds": {
+    "Technology": "Stonemason Guilds",
+    "Age": "Age of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Basic",
+    "Req 1": "Classical Construction",
+    "Req 2": "Guilds",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Classical Storage": {
+    "Technology": "Classical Storage",
+    "Age": "Age of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Easy",
+    "Req 1": "Basic Storage",
+    "Req 2": "Classical Construction",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Standardized Coinage": {
+    "Technology": "Standardized Coinage",
+    "Age": "Age of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Easy",
+    "Req 1": "Banking Guilds",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Classic Siegecraft": {
+    "Technology": "Classic Siegecraft",
+    "Age": "Age of the Crown",
+    "Type": "Industrial",
+    "Difficulty": "Basic",
+    "Req 1": "Advanced Siegecraft",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Mining Guilds": {
+    "Technology": "Mining Guilds",
+    "Age": "Age of the Crown",
+    "Type": "Industrial",
+    "Difficulty": "Easy",
+    "Req 1": "Guilds",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Water Mining": {
+    "Technology": "Water Mining",
+    "Age": "Age of the Crown",
+    "Type": "Industrial",
+    "Difficulty": "Basic",
+    "Req 1": "Mining Guilds",
+    "Req 2": "Standardized Coinage",
+    "Req 3": null,
+    "Req 4": null
+  }
+}
