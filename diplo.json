@@ -8011,7 +8011,7 @@
     },
     "Trade 6": {
       "Value": "The Awakened",
-      "Trade 6 Value": "4,462.50"
+      "Trade 6 Value": "6,250.00"
     },
     "Trade 7": {
       "Value": "Magoen Lurraldea",
@@ -8049,9 +8049,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "33,050.75",
+    "Raw Trade Income": "34,838.25",
     "Tariffs": "0.95",
-    "Trade Income": "31,398.21",
+    "Trade Income": "33,096.34",
     "NAPs": "3",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -14943,7 +14943,7 @@
     },
     "Trade 5": {
       "Value": "The Awakened",
-      "Trade 5 Value": "4,462.50"
+      "Trade 5 Value": "6,250.00"
     },
     "Trade 6": {
       "Value": "Velken Bulwark",
@@ -14985,9 +14985,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "56,582.00",
+    "Raw Trade Income": "58,369.50",
     "Tariffs": "0.95",
-    "Trade Income": "53,752.90",
+    "Trade Income": "55,451.03",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -15225,7 +15225,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Zalmoxia / Herkunft",
+    "Non-aggression Pacts": "Zalmoxia / Herkunft / Nournourlant",
     "Defensive Pacts": "Kh'nûll Diocese",
     "Defensive Pacts 2": "The Animal Kingdom",
     "Military Alliances": "Diogen",
@@ -17995,7 +17995,7 @@
     },
     "Trade 3": {
       "Value": "The Awakened",
-      "Trade 3 Value": "4,462.50"
+      "Trade 3 Value": "6,250.00"
     },
     "Trade 4": {
       "Value": "Free City of Erub-Kai",
@@ -18045,9 +18045,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "24,207.50",
+    "Raw Trade Income": "25,995.00",
     "Tariffs": "1.25",
-    "Trade Income": "30,259.38",
+    "Trade Income": "32,493.75",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -18771,12 +18771,12 @@
     "Nations": "Meadoia Dynasty",
     "Nation Check": "Meadoia Dynasty",
     "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
+    "Eco Vassals": "69,387.81",
+    "Eco Over.": "100,457.55",
+    "Compare": "180.03%",
+    "MP Vassals": "29,308.13",
+    "MP Over.": "16,280.00",
+    "20% Total": "49.82%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -25943,7 +25943,7 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "The Awakened",
-      "Trade 1 Value": "4,462.50"
+      "Trade 1 Value": "6,250.00"
     },
     "Trade 2": {
       "Value": "Kaug-Põhja",
@@ -26001,9 +26001,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "38,477.56",
+    "Raw Trade Income": "40,265.06",
     "Tariffs": "0.95",
-    "Trade Income": "36,553.68",
+    "Trade Income": "38,251.81",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -29211,7 +29211,7 @@
     },
     "Trade 2": {
       "Value": "The Awakened",
-      "Trade 2 Value": "4,462.50"
+      "Trade 2 Value": "6,250.00"
     },
     "Trade 3": {
       "Value": "Imperial Theocracy of Borbenska",
@@ -29265,9 +29265,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "21,872.50",
+    "Raw Trade Income": "23,660.00",
     "Tariffs": "1.25",
-    "Trade Income": "27,340.63",
+    "Trade Income": "29,575.00",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -30092,31 +30092,31 @@
   "The Ruzgaristan Enclave": {
     "Nations": "The Ruzgaristan Enclave",
     "Nation Check": "The Ruzgaristan Enclave",
-    "Overlord": "",
+    "Overlord": "Meadoia Dynasty",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
     "MP Vassals": "",
     "MP Over.": "",
     "20% Total": "",
-    "Vassal Type": "",
+    "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
+    "L. Desire": "87.97%",
+    "Base": "87.97%",
+    "Comparison": "49.82%",
+    "Individual": "49.82%",
     "Friend/Rival": "0.00%",
-    "Taxes": "",
+    "Taxes": "3.33%",
     "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
+    "Autonomy": "Both",
+    "Threshold": "100.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "Meadotukian",
+    "Ov. Religion": "Opulenian",
     "Non-aggression Pacts": "The State of Iskura",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
