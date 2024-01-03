@@ -59,7 +59,7 @@ jobs:
         echo "$tech_data" > tech.json
 
         keys=$(jq -r 'map(select(. != "")) | .[32:109]' keys.json)
-        research_data=$(jq -r --argjson keys "$keys" '.values[1:] | map({Nations: .[0], "Nation Check": .[1], ($keys[]): .[32:109]}) | add' resarch_data.json)
+        research_data=$(jq -r --argjson keys "$keys" '.values[1:] | map({Nations: .[0], "Nation Check": .[1], ($keys[]): .[32:109]}) | add' research_data.json)
          echo "$research_data" > research.json
 
     - name: Commit and push changes
