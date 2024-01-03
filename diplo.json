@@ -718,11 +718,11 @@
     "Nation Check": "Akali",
     "Overlord": "",
     "Eco Vassals": "91,988.36",
-    "Eco Over.": "148,886.00",
+    "Eco Over.": "164,886.00",
     "Compare": "79.24%",
     "MP Vassals": "77,550.00",
     "MP Over.": "97,865.63",
-    "20% Total": "28.21%",
+    "20% Total": "27.01%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -3378,9 +3378,9 @@
     "Vassal Type": "Mercantile",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-2.02%",
-    "Comparison": "16.01%",
-    "Individual": "9.47%",
+    "Base": "-2.43%",
+    "Comparison": "15.75%",
+    "Individual": "9.32%",
     "Friend/Rival": "-25.00%",
     "Taxes": "10.00%",
     "Indep War?": "",
@@ -18602,28 +18602,28 @@
       "Trade 1 Value": "33,194.00"
     },
     "Trade 2": {
-      "Value": "Extremely Radical Corta",
-      "Trade 2 Value": "25,100.00"
+      "Value": "Federation of the Winds",
+      "Trade 2 Value": "27,940.00"
     },
     "Trade 3": {
-      "Value": "Nixond",
-      "Trade 3 Value": "13,365.63"
+      "Value": "Extremely Radical Corta",
+      "Trade 3 Value": "25,100.00"
     },
     "Trade 4": {
-      "Value": "Cabyarszag",
-      "Trade 4 Value": "13,375.00"
+      "Value": "Nixond",
+      "Trade 4 Value": "13,365.63"
     },
     "Trade 5": {
-      "Value": "Aethyllion Pradesh",
-      "Trade 5 Value": "9,075.63"
+      "Value": "Cabyarszag",
+      "Trade 5 Value": "13,375.00"
     },
     "Trade 6": {
-      "Value": "Clan Karatillion",
-      "Trade 6 Value": "8,944.00"
+      "Value": "Aethyllion Pradesh",
+      "Trade 6 Value": "9,075.63"
     },
     "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
+      "Value": "Clan Karatillion",
+      "Trade 7 Value": "8,944.00"
     },
     "Trade 8": {
       "Value": "",
@@ -18657,13 +18657,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "103,054.25",
+    "Raw Trade Income": "130,994.25",
     "Tariffs": "0.95",
-    "Trade Income": "97,901.54",
+    "Trade Income": "124,444.54",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "6"
+    "Trades": "7"
   },
   "Mazazuma": {
     "Nations": "Mazazuma",
@@ -19039,7 +19039,7 @@
     },
     "Trade 9": {
       "Value": "Nummum",
-      "Trade 9 Value": "16,933.75"
+      "Trade 9 Value": "11,853.63"
     },
     "Trade 10": {
       "Value": "The Trade Families of Kemakmura",
@@ -19065,9 +19065,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "101,162.75",
+    "Raw Trade Income": "96,082.63",
     "Tariffs": "0.75",
-    "Trade Income": "75,872.06",
+    "Trade Income": "72,061.97",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -19345,7 +19345,7 @@
     },
     "Trade 9": {
       "Value": "Nummum",
-      "Trade 9 Value": "16,933.75"
+      "Trade 9 Value": "11,853.63"
     },
     "Trade 10": {
       "Value": "Hui Kai",
@@ -19371,9 +19371,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "78,378.75",
+    "Raw Trade Income": "73,298.63",
     "Tariffs": "0.75",
-    "Trade Income": "58,784.06",
+    "Trade Income": "54,973.97",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -20043,7 +20043,7 @@
     },
     "Trade 5": {
       "Value": "Nummum",
-      "Trade 5 Value": "16,933.75"
+      "Trade 5 Value": "11,853.63"
     },
     "Trade 6": {
       "Value": "Rosefire Dynasty",
@@ -20085,9 +20085,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "64,337.19",
+    "Raw Trade Income": "59,257.06",
     "Tariffs": "0.95",
-    "Trade Income": "61,120.33",
+    "Trade Income": "56,294.21",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -21016,11 +21016,11 @@
     "Nation Check": "Onaokoku",
     "Overlord": "",
     "Eco Vassals": "454,326.44",
-    "Eco Over.": "1,067,317.75",
-    "Compare": "37.47%",
+    "Eco Over.": "1,083,199.00",
+    "Compare": "36.80%",
     "MP Vassals": "89,048.44",
-    "MP Over.": "237,641.25",
-    "20% Total": "16.01%",
+    "MP Over.": "241,972.50",
+    "20% Total": "15.75%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -21125,10 +21125,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "19.00%",
-    "Base": "19.00%",
-    "Comparison": "5.50%",
-    "Individual": "5.50%",
+    "L. Desire": "19.05%",
+    "Base": "19.05%",
+    "Comparison": "5.53%",
+    "Individual": "5.53%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -28054,11 +28054,11 @@
     "Nation Check": "The Free Cities of Cupiditas",
     "Overlord": "",
     "Eco Vassals": "60,995.31",
-    "Eco Over.": "460,037.26",
+    "Eco Over.": "455,211.14",
     "Compare": "14.23%",
     "MP Vassals": "12,873.44",
     "MP Over.": "90,450.94",
-    "20% Total": "5.50%",
+    "20% Total": "5.53%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -28093,7 +28093,7 @@
     },
     "Trade 3": {
       "Value": "Nummum",
-      "Trade 3 Value": "16,933.75"
+      "Trade 3 Value": "11,853.63"
     },
     "Trade 4": {
       "Value": "High City of Tirsil",
@@ -28143,9 +28143,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "89,690.54",
+    "Raw Trade Income": "84,610.41",
     "Tariffs": "0.95",
-    "Trade Income": "85,206.01",
+    "Trade Income": "80,379.89",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -30509,10 +30509,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "71.41%",
-    "Base": "71.41%",
-    "Comparison": "28.21%",
-    "Individual": "28.21%",
+    "L. Desire": "69.01%",
+    "Base": "69.01%",
+    "Comparison": "27.01%",
+    "Individual": "27.01%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -34283,10 +34283,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "30.88%",
-    "Base": "30.88%",
-    "Comparison": "16.01%",
-    "Individual": "6.54%",
+    "L. Desire": "30.51%",
+    "Base": "30.51%",
+    "Comparison": "15.75%",
+    "Individual": "6.43%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
