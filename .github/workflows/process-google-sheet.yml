@@ -58,8 +58,8 @@ jobs:
         tech_data=$(jq -r '.values[1:] | map(select(.[0] != null) | { (.[0]):{Technology: .[0], "Age": .[1], "Type": .[2], "Difficulty": .[6], "Req 1": .[7], "Req 2": .[8], "Req 3": .[9], "Req 4": .[10]}}) | add' tech_data.json)
         echo "$tech_data" > tech.json
 
-keys=$(jq -r 'map(select(. != "")) | .[32:109]' keys.json)
-research_data=$(jq -r --argjson keys "$keys" '.values[1:] | map({Nations: .[0], "Nation Check": .[1], ($keys[]): .[32:109]}) | add' resarch_data.json)
+        keys=$(jq -r 'map(select(. != "")) | .[32:109]' keys.json)
+        research_data=$(jq -r --argjson keys "$keys" '.values[1:] | map({Nations: .[0], "Nation Check": .[1], ($keys[]): .[32:109]}) | add' resarch_data.json)
          echo "$research_data" > research.json
 
     - name: Commit and push changes

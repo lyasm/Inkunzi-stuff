@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <link rel="stylesheet" href="style.css">
+	<title>INKUNZI TECH STUFF</title>
+</head>
+
+<body onload="">
+	<label for="nationDropdown">Select a Nation:</label>
+	<input type="text" id="nationDropdown" oninput="filterNations()" list="nationList" onchange="readyDisplayNationDetails()">
+	<datalist id="nationList"></datalist>
+	<div id="nationDetails"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
