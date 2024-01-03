@@ -68,7 +68,7 @@ jobs:
         git config --global user.name "GitHub Actions"
         git add diplo.json
         git add army.json
-        git add technology.json
+        git add tech.json
         git add research.json
           git commit -m "Update processed Sheets data [skip ci]"
           git push
