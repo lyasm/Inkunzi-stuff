@@ -9,15 +9,17 @@
 </head>
 
 <body onload="">
-
  <div id="hoverArea"></div>
   <header id="stickyHeader">
   <button onclick="window.location.href='./diplo-web'">Diplo</button>
   </header>
 
-
-
-
+<div id="content">
+	<label for="nationDropdown">Select a Nation:</label>
+	<input type="text" id="nationDropdown" oninput="filterNations()" list="nationList" onchange="readyDisplayNationDetails()">
+	<datalist id="nationList"></datalist>
+	<div id="nationDetails"></div>
+</div>
 
 <script src="script.js"></script>
 </body>

@@ -5,7 +5,11 @@ body {
     /* Light text color */
     font-family: Arial, sans-serif;
     font-size: 20pt;
+}
 
+#content {
+    margin-top: 80px;
+}
 
 #stickyHeader {
   background-color: #333;
