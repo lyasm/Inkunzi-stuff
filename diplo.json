@@ -15774,8 +15774,8 @@
       "Trade 8 Value": "5,390.00"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Scientarium",
+      "Trade 9 Value": "13,156.00"
     },
     "Trade 10": {
       "Value": "",
@@ -15801,13 +15801,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "42,211.75",
+    "Raw Trade Income": "55,367.75",
     "Tariffs": "0.95",
-    "Trade Income": "40,101.16",
+    "Trade Income": "52,599.36",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "8"
+    "Trades": "9"
   },
   "Ko'ch Q'ash": {
     "Nations": "Ko'ch Q'ash",
@@ -30424,7 +30424,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "Natalor",
-    "Defensive Pacts": "",
+    "Defensive Pacts": "Nāšā Qaḏmāyā",
     "Defensive Pacts 2": "",
     "Military Alliances": "Rokmar Camp",
     "Military Alliances 2": "",
@@ -30493,7 +30493,7 @@
     "Tariffs": "1.25",
     "Trade Income": "33,913.28",
     "NAPs": "1",
-    "Def. Pacts": "0",
+    "Def. Pacts": "1",
     "Mil. Pacts": "1",
     "Trades": "6"
   },
