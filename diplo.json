@@ -717,12 +717,12 @@
     "Nations": "Akali",
     "Nation Check": "Akali",
     "Overlord": "",
-    "Eco Vassals": "94,465.84",
+    "Eco Vassals": "92,424.90",
     "Eco Over.": "148,961.00",
     "Compare": "90.89%",
     "MP Vassals": "77,550.00",
     "MP Over.": "85,318.75",
-    "20% Total": "30.86%",
+    "20% Total": "30.59%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -1973,7 +1973,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "The Statute of Order",
-      "Trade 1 Value": "4,462.50"
+      "Trade 1 Value": "4,687.50"
     },
     "Trade 2": {
       "Value": "Hadastan Commenwealth",
@@ -1981,7 +1981,7 @@
     },
     "Trade 3": {
       "Value": "The Kingdom of Sk'o'chapr",
-      "Trade 3 Value": "4,049.38"
+      "Trade 3 Value": "6,998.75"
     },
     "Trade 4": {
       "Value": "Him Maliataki",
@@ -1992,8 +1992,8 @@
       "Trade 5 Value": "6,165.00"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Republic of Rostora",
+      "Trade 6 Value": "3,368.75"
     },
     "Trade 7": {
       "Value": "",
@@ -2031,13 +2031,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "27,698.06",
+    "Raw Trade Income": "34,241.19",
     "Tariffs": "0.95",
-    "Trade Income": "26,313.16",
+    "Trade Income": "32,529.13",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Ashdayn": {
     "Nations": "Ashdayn",
@@ -3699,11 +3699,11 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "Vitten",
+    "Non-aggression Pacts": "The Teutā Erwā",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "Dinasygan",
     "Military Alliances": "Svetograd",
-    "Military Alliances 2": "",
+    "Military Alliances 2": "Vitten",
     "Limit": "8",
     "Trade 1": {
       "Value": "Svetograd",
@@ -3768,9 +3768,9 @@
     "Raw Trade Income": "44,570.00",
     "Tariffs": "1.00",
     "Trade Income": "44,570.00",
-    "NAPs": "0",
-    "Def. Pacts": "2",
-    "Mil. Pacts": "1",
+    "NAPs": "1",
+    "Def. Pacts": "1",
+    "Mil. Pacts": "2",
     "Trades": "8"
   },
   "Cheiraa Ousenika": {
@@ -5033,7 +5033,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Second State of Los",
-      "Trade 1 Value": "4,300.00"
+      "Trade 1 Value": "4,730.00"
     },
     "Trade 2": {
       "Value": "Stryaxina",
@@ -5091,9 +5091,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "31,203.75",
+    "Raw Trade Income": "31,633.75",
     "Tariffs": "0.95",
-    "Trade Income": "29,643.56",
+    "Trade Income": "30,052.06",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -6065,7 +6065,7 @@
     },
     "Trade 4": {
       "Value": "Ceridwyn Teulu",
-      "Trade 4 Value": "5,053.75"
+      "Trade 4 Value": "3,110.00"
     },
     "Trade 5": {
       "Value": "Adelaar Legioen",
@@ -6111,9 +6111,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "48,147.06",
+    "Raw Trade Income": "46,203.31",
     "Tariffs": "0.75",
-    "Trade Income": "36,110.30",
+    "Trade Income": "34,652.48",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -6359,7 +6359,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Ceridwyn Teulu",
-      "Trade 1 Value": "5,053.75"
+      "Trade 1 Value": "3,110.00"
     },
     "Trade 2": {
       "Value": "Glasrhaidd",
@@ -6417,9 +6417,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "32,036.47",
+    "Raw Trade Income": "30,092.72",
     "Tariffs": "0.95",
-    "Trade Income": "30,434.65",
+    "Trade Income": "28,588.08",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -10141,7 +10141,7 @@
     },
     "Trade 3": {
       "Value": "Republic of Rostora",
-      "Trade 3 Value": "3,062.50"
+      "Trade 3 Value": "3,368.75"
     },
     "Trade 4": {
       "Value": "Nuanta",
@@ -10157,7 +10157,7 @@
     },
     "Trade 7": {
       "Value": "The Kingdom of Sk'o'chapr",
-      "Trade 7 Value": "4,049.38"
+      "Trade 7 Value": "6,998.75"
     },
     "Trade 8": {
       "Value": "The Free Cities of Cupiditas",
@@ -10191,9 +10191,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "59,187.88",
+    "Raw Trade Income": "62,443.50",
     "Tariffs": "0.75",
-    "Trade Income": "44,390.91",
+    "Trade Income": "46,832.63",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -11886,8 +11886,8 @@
       "Trade 5 Value": "2,296.88"
     },
     "Trade 6": {
-      "Value": "Mach Republic",
-      "Trade 6 Value": "5,390.00"
+      "Value": "Nournourlant",
+      "Trade 6 Value": "4,575.00"
     },
     "Trade 7": {
       "Value": "",
@@ -11925,9 +11925,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "36,030.94",
+    "Raw Trade Income": "35,215.94",
     "Tariffs": "1.05",
-    "Trade Income": "37,832.48",
+    "Trade Income": "36,976.73",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -14429,7 +14429,7 @@
     },
     "Trade 4": {
       "Value": "Second State of Los",
-      "Trade 4 Value": "4,300.00"
+      "Trade 4 Value": "4,730.00"
     },
     "Trade 5": {
       "Value": "The Aislings",
@@ -14475,9 +14475,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "32,701.28",
+    "Raw Trade Income": "33,131.28",
     "Tariffs": "0.95",
-    "Trade Income": "31,066.22",
+    "Trade Income": "31,474.72",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -14530,8 +14530,8 @@
       "Trade 3 Value": "9,313.56"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Nournourlant",
+      "Trade 4 Value": "4,575.00"
     },
     "Trade 5": {
       "Value": "Saholnahes Ceuluanas",
@@ -14577,13 +14577,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "61,777.06",
+    "Raw Trade Income": "66,352.06",
     "Tariffs": "0.95",
-    "Trade Income": "58,688.21",
+    "Trade Income": "63,034.46",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "9"
+    "Trades": "10"
   },
   "Kingdom of Geloía": {
     "Nations": "Kingdom of Geloía",
@@ -15649,7 +15649,7 @@
     },
     "Trade 3": {
       "Value": "The Kingdom of Sk'o'chapr",
-      "Trade 3 Value": "4,049.38"
+      "Trade 3 Value": "6,998.75"
     },
     "Trade 4": {
       "Value": "Hui Kai",
@@ -15699,9 +15699,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,203.63",
+    "Raw Trade Income": "33,153.00",
     "Tariffs": "0.95",
-    "Trade Income": "28,693.44",
+    "Trade Income": "31,495.35",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -16574,8 +16574,8 @@
       "Trade 4 Value": "4,300.00"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Zastita",
+      "Trade 5 Value": "2,800.00"
     },
     "Trade 6": {
       "Value": "",
@@ -16617,13 +16617,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "13,620.00",
+    "Raw Trade Income": "16,420.00",
     "Tariffs": "0.95",
-    "Trade Income": "12,939.00",
+    "Trade Income": "15,599.00",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "4"
+    "Trades": "5"
   },
   "Lialikidus": {
     "Nations": "Lialikidus",
@@ -17799,7 +17799,7 @@
     },
     "Trade 5": {
       "Value": "The Statute of Order",
-      "Trade 5 Value": "4,462.50"
+      "Trade 5 Value": "4,687.50"
     },
     "Trade 6": {
       "Value": "Malo'Sami",
@@ -17841,9 +17841,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "33,400.94",
+    "Raw Trade Income": "33,625.94",
     "Tariffs": "1.00",
-    "Trade Income": "33,400.94",
+    "Trade Income": "33,625.94",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -18191,7 +18191,7 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Sancta Discordia",
-      "Trade 1 Value": "5,496.56"
+      "Trade 1 Value": "5,744.06"
     },
     "Trade 2": {
       "Value": "Snow Dominion",
@@ -18199,7 +18199,7 @@
     },
     "Trade 3": {
       "Value": "The Statute of Order",
-      "Trade 3 Value": "4,462.50"
+      "Trade 3 Value": "4,687.50"
     },
     "Trade 4": {
       "Value": "Maatada Istara",
@@ -18249,9 +18249,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "20,811.56",
+    "Raw Trade Income": "21,284.06",
     "Tariffs": "0.95",
-    "Trade Income": "19,770.98",
+    "Trade Income": "20,219.86",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -19027,7 +19027,7 @@
     },
     "Trade 6": {
       "Value": "The Statute of Order",
-      "Trade 6 Value": "4,462.50"
+      "Trade 6 Value": "4,687.50"
     },
     "Trade 7": {
       "Value": "The Free Cities of Cupiditas",
@@ -19065,9 +19065,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "100,411.63",
+    "Raw Trade Income": "100,636.63",
     "Tariffs": "0.75",
-    "Trade Income": "75,308.72",
+    "Trade Income": "75,477.47",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -20137,7 +20137,7 @@
     },
     "Trade 3": {
       "Value": "Second State of Los",
-      "Trade 3 Value": "4,300.00"
+      "Trade 3 Value": "4,730.00"
     },
     "Trade 4": {
       "Value": "Pavellion",
@@ -20187,9 +20187,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "16,360.63",
+    "Raw Trade Income": "16,790.63",
     "Tariffs": "1.25",
-    "Trade Income": "20,450.78",
+    "Trade Income": "20,988.28",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -21125,10 +21125,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "18.21%",
-    "Base": "18.21%",
-    "Comparison": "5.11%",
-    "Individual": "5.11%",
+    "L. Desire": "19.47%",
+    "Base": "19.47%",
+    "Comparison": "5.73%",
+    "Individual": "5.73%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -21667,7 +21667,7 @@
     },
     "Trade 3": {
       "Value": "Second State of Los",
-      "Trade 3 Value": "4,300.00"
+      "Trade 3 Value": "4,730.00"
     },
     "Trade 4": {
       "Value": "",
@@ -21717,9 +21717,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "32,612.50",
+    "Raw Trade Income": "33,042.50",
     "Tariffs": "0.95",
-    "Trade Income": "30,981.88",
+    "Trade Income": "31,390.38",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -23188,12 +23188,12 @@
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Hadastan Commenwealth",
+      "Trade 1 Value": "8,503.69"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Ascendant Regency of Newstar",
+      "Trade 2 Value": "4,450.00"
     },
     "Trade 3": {
       "Value": "",
@@ -23247,13 +23247,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "12,953.69",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "12,306.00",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "2"
   },
   "Republyk Balresk": {
     "Nations": "Republyk Balresk",
@@ -24029,7 +24029,7 @@
     },
     "Trade 7": {
       "Value": "Ceridwyn Teulu",
-      "Trade 7 Value": "5,053.75"
+      "Trade 7 Value": "3,110.00"
     },
     "Trade 8": {
       "Value": "The Seelern State",
@@ -24063,9 +24063,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "39,169.88",
+    "Raw Trade Income": "37,226.13",
     "Tariffs": "1.00",
-    "Trade Income": "39,169.88",
+    "Trade Income": "37,226.13",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -24111,7 +24111,7 @@
     },
     "Trade 2": {
       "Value": "The Kingdom of Sk'o'chapr",
-      "Trade 2 Value": "4,049.38"
+      "Trade 2 Value": "6,998.75"
     },
     "Trade 3": {
       "Value": "Mizarina",
@@ -24123,7 +24123,7 @@
     },
     "Trade 5": {
       "Value": "The Statute of Order",
-      "Trade 5 Value": "4,462.50"
+      "Trade 5 Value": "4,687.50"
     },
     "Trade 6": {
       "Value": "Ascendant Regency of Newstar",
@@ -24165,9 +24165,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "24,685.94",
+    "Raw Trade Income": "27,860.31",
     "Tariffs": "1.05",
-    "Trade Income": "25,920.23",
+    "Trade Income": "29,253.33",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -24514,8 +24514,8 @@
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Lună sângeroasă",
+      "Trade 1 Value": "5,390.00"
     },
     "Trade 2": {
       "Value": "Kingdom of the Kettlelands",
@@ -24573,13 +24573,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "13,137.19",
+    "Raw Trade Income": "18,527.19",
     "Tariffs": "0.95",
-    "Trade Income": "12,480.33",
+    "Trade Income": "17,600.83",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "4"
+    "Trades": "5"
   },
   "Scientarium": {
     "Nations": "Scientarium",
@@ -25335,7 +25335,7 @@
     },
     "Trade 2": {
       "Value": "The Statute of Order",
-      "Trade 2 Value": "4,462.50"
+      "Trade 2 Value": "4,687.50"
     },
     "Trade 3": {
       "Value": "Ascendant Regency of Newstar",
@@ -25343,7 +25343,7 @@
     },
     "Trade 4": {
       "Value": "Sancta Discordia",
-      "Trade 4 Value": "5,496.56"
+      "Trade 4 Value": "5,744.06"
     },
     "Trade 5": {
       "Value": "Mercati Emporium",
@@ -25354,8 +25354,8 @@
       "Trade 6 Value": "7,387.50"
     },
     "Trade 7": {
-      "Value": "Môr Oer",
-      "Trade 7 Value": "4,049.38"
+      "Value": "The Free Cities of Cupiditas",
+      "Trade 7 Value": "24,405.00"
     },
     "Trade 8": {
       "Value": "The Amerian Republic",
@@ -25389,9 +25389,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "47,840.63",
+    "Raw Trade Income": "68,668.75",
     "Tariffs": "0.95",
-    "Trade Income": "45,448.59",
+    "Trade Income": "65,235.31",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -26041,7 +26041,7 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
-    "Military Alliances 2": "",
+    "Military Alliances 2": "Ligurth",
     "Limit": "8",
     "Trade 1": {
       "Value": "Jubal'on",
@@ -26108,7 +26108,7 @@
     "Trade Income": "10,813.97",
     "NAPs": "0",
     "Def. Pacts": "0",
-    "Mil. Pacts": "0",
+    "Mil. Pacts": "1",
     "Trades": "3"
   },
   "Stryaxina": {
@@ -26289,7 +26289,7 @@
     },
     "Trade 11": {
       "Value": "Ceridwyn Teulu",
-      "Trade 11 Value": "5,053.75"
+      "Trade 11 Value": "3,110.00"
     },
     "Trade 12": {
       "Value": "",
@@ -26307,9 +26307,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "57,656.77",
+    "Raw Trade Income": "55,713.02",
     "Tariffs": "0.75",
-    "Trade Income": "43,242.57",
+    "Trade Income": "41,784.76",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -26548,7 +26548,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
+    "Defensive Pacts": "Qalqin",
     "Defensive Pacts 2": "",
     "Military Alliances": "Nāšā Qaḏmāyā",
     "Military Alliances 2": "",
@@ -26574,8 +26574,8 @@
       "Trade 5 Value": "3,475.00"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Qalqin",
+      "Trade 6 Value": "2,000.00"
     },
     "Trade 7": {
       "Value": "",
@@ -26613,13 +26613,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "24,536.91",
+    "Raw Trade Income": "26,536.91",
     "Tariffs": "0.95",
-    "Trade Income": "23,310.06",
+    "Trade Income": "25,210.06",
     "NAPs": "0",
-    "Def. Pacts": "0",
+    "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Teōcolhua": {
     "Nations": "Teōcolhua",
@@ -27987,7 +27987,7 @@
     },
     "Trade 2": {
       "Value": "The Statute of Order",
-      "Trade 2 Value": "4,462.50"
+      "Trade 2 Value": "4,687.50"
     },
     "Trade 3": {
       "Value": "Lisanos",
@@ -28041,9 +28041,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "56,429.81",
+    "Raw Trade Income": "56,654.81",
     "Tariffs": "0.95",
-    "Trade Income": "53,608.32",
+    "Trade Income": "53,822.07",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -28054,11 +28054,11 @@
     "Nation Check": "The Free Cities of Cupiditas",
     "Overlord": "",
     "Eco Vassals": "71,210.94",
-    "Eco Over.": "510,705.09",
-    "Compare": "11.58%",
+    "Eco Over.": "432,756.69",
+    "Compare": "12.21%",
     "MP Vassals": "12,873.44",
-    "MP Over.": "111,125.44",
-    "20% Total": "5.11%",
+    "MP Over.": "105,449.44",
+    "20% Total": "5.73%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -28077,55 +28077,55 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "",
+    "Non-aggression Pacts": "Luminus",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "Lisanos",
-    "Military Alliances": "Nuanta",
-    "Military Alliances 2": "Hui Kai",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
     "Limit": "11",
     "Trade 1": {
-      "Value": "Free City of Zephon",
-      "Trade 1 Value": "10,947.60"
+      "Value": "City State of Kido",
+      "Trade 1 Value": "11,816.25"
     },
     "Trade 2": {
-      "Value": "Hui Kai",
-      "Trade 2 Value": "8,908.63"
+      "Value": "Mercati Emporium",
+      "Trade 2 Value": "6,360.00"
     },
     "Trade 3": {
-      "Value": "Nummum",
-      "Trade 3 Value": "11,853.63"
+      "Value": "Snow Dominion",
+      "Trade 3 Value": "6,165.00"
     },
     "Trade 4": {
-      "Value": "High City of Tirsil",
-      "Trade 4 Value": "9,718.50"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
-      "Value": "City State of Kido",
-      "Trade 5 Value": "11,816.25"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
-      "Value": "Nuanta",
-      "Trade 6 Value": "3,475.00"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
-      "Value": "Serenissima Res Publica Di Ghalivi",
-      "Trade 7 Value": "8,098.75"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
-      "Value": "Hadastan Commenwealth",
-      "Trade 8 Value": "8,503.69"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
-      "Value": "Mercati Emporium",
-      "Trade 9 Value": "6,360.00"
+      "Value": "",
+      "Trade 9 Value": ""
     },
     "Trade 10": {
-      "Value": "Unified Republic of Kaiarau",
-      "Trade 10 Value": "4,497.50"
+      "Value": "",
+      "Trade 10 Value": ""
     },
     "Trade 11": {
-      "Value": "Luminus",
-      "Trade 11 Value": "2,296.88"
+      "Value": "",
+      "Trade 11 Value": ""
     },
     "Trade 12": {
       "Value": "",
@@ -28143,13 +28143,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "86,476.41",
+    "Raw Trade Income": "24,341.25",
     "Tariffs": "0.95",
-    "Trade Income": "82,152.59",
-    "NAPs": "0",
-    "Def. Pacts": "1",
-    "Mil. Pacts": "2",
-    "Trades": "11"
+    "Trade Income": "23,124.19",
+    "NAPs": "1",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
+    "Trades": "3"
   },
   "The Free City of the Getsa": {
     "Nations": "The Free City of the Getsa",
@@ -29427,7 +29427,7 @@
     },
     "Trade 5": {
       "Value": "The Statute of Order",
-      "Trade 5 Value": "4,462.50"
+      "Trade 5 Value": "4,687.50"
     },
     "Trade 6": {
       "Value": "",
@@ -29469,9 +29469,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "37,712.38",
+    "Raw Trade Income": "37,937.38",
     "Tariffs": "1.05",
-    "Trade Income": "39,597.99",
+    "Trade Income": "39,834.24",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -29521,7 +29521,7 @@
     },
     "Trade 3": {
       "Value": "The Statute of Order",
-      "Trade 3 Value": "4,462.50"
+      "Trade 3 Value": "4,687.50"
     },
     "Trade 4": {
       "Value": "Ascendant Regency of Newstar",
@@ -29529,7 +29529,7 @@
     },
     "Trade 5": {
       "Value": "Sancta Discordia",
-      "Trade 5 Value": "5,496.56"
+      "Trade 5 Value": "5,744.06"
     },
     "Trade 6": {
       "Value": "",
@@ -29571,9 +29571,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "25,562.75",
+    "Raw Trade Income": "26,035.25",
     "Tariffs": "1.05",
-    "Trade Income": "26,840.89",
+    "Trade Income": "27,337.01",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -30509,10 +30509,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "76.72%",
-    "Base": "76.72%",
-    "Comparison": "30.86%",
-    "Individual": "30.86%",
+    "L. Desire": "76.18%",
+    "Base": "76.18%",
+    "Comparison": "30.59%",
+    "Individual": "30.59%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -30545,7 +30545,7 @@
     },
     "Trade 4": {
       "Value": "Ceridwyn Teulu",
-      "Trade 4 Value": "5,053.75"
+      "Trade 4 Value": "3,110.00"
     },
     "Trade 5": {
       "Value": "",
@@ -30591,9 +30591,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "22,081.75",
+    "Raw Trade Income": "20,138.00",
     "Tariffs": "1.05",
-    "Trade Income": "23,185.84",
+    "Trade Income": "21,144.90",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -30851,7 +30851,7 @@
     },
     "Trade 4": {
       "Value": "The Kingdom of Sk'o'chapr",
-      "Trade 4 Value": "4,049.38"
+      "Trade 4 Value": "6,998.75"
     },
     "Trade 5": {
       "Value": "Mercati Emporium",
@@ -30859,7 +30859,7 @@
     },
     "Trade 6": {
       "Value": "Sancta Discordia",
-      "Trade 6 Value": "5,496.56"
+      "Trade 6 Value": "5,744.06"
     },
     "Trade 7": {
       "Value": "Hadastan Commenwealth",
@@ -30897,9 +30897,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "49,111.81",
+    "Raw Trade Income": "52,308.69",
     "Tariffs": "0.95",
-    "Trade Income": "46,656.22",
+    "Trade Income": "49,693.25",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -32291,7 +32291,7 @@
     },
     "Trade 7": {
       "Value": "Second State of Los",
-      "Trade 7 Value": "4,300.00"
+      "Trade 7 Value": "4,730.00"
     },
     "Trade 8": {
       "Value": "",
@@ -32325,9 +32325,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,160.03",
+    "Raw Trade Income": "30,590.03",
     "Tariffs": "1.05",
-    "Trade Income": "31,668.03",
+    "Trade Income": "32,119.53",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -32887,7 +32887,7 @@
     },
     "Trade 3": {
       "Value": "Ceridwyn Teulu",
-      "Trade 3 Value": "5,053.75"
+      "Trade 3 Value": "3,110.00"
     },
     "Trade 4": {
       "Value": "Drionn Galith",
@@ -32937,9 +32937,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,036.25",
+    "Raw Trade Income": "28,092.50",
     "Tariffs": "1.05",
-    "Trade Income": "31,538.06",
+    "Trade Income": "29,497.13",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -33382,10 +33382,10 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "Jillon",
-    "Defensive Pacts": "Ceridwyn Teulu",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Jillon (NPC)",
-    "Military Alliances 2": "",
+    "Military Alliances 2": "Ceridwyn Teulu",
     "Limit": "5",
     "Trade 1": {
       "Value": "Svetograd",
@@ -33451,8 +33451,8 @@
     "Tariffs": "1.25",
     "Trade Income": "42,041.25",
     "NAPs": "1",
-    "Def. Pacts": "1",
-    "Mil. Pacts": "1",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "2",
     "Trades": "5"
   },
   "Vorokov": {
@@ -34608,7 +34608,7 @@
     "Non-aggression Pacts": "Free City of Erub-Kai, Frystdomet",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Pucanje",
+    "Military Alliances": "",
     "Military Alliances 2": "The House",
     "Limit": "8",
     "Trade 1": {
@@ -34616,12 +34616,12 @@
       "Trade 1 Value": "8,098.75"
     },
     "Trade 2": {
-      "Value": "Imperial Theocracy of Borbenska",
-      "Trade 2 Value": "2,100.00"
+      "Value": "Lepnia",
+      "Trade 2 Value": "3,655.00"
     },
     "Trade 3": {
-      "Value": "Pucanje",
-      "Trade 3 Value": "4,637.50"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "Jahanje",
@@ -34671,13 +34671,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "34,564.56",
+    "Raw Trade Income": "31,482.06",
     "Tariffs": "0.95",
-    "Trade Income": "32,836.33",
+    "Trade Income": "29,907.96",
     "NAPs": "2",
     "Def. Pacts": "0",
-    "Mil. Pacts": "2",
-    "Trades": "7"
+    "Mil. Pacts": "1",
+    "Trades": "6"
   },
   "Zudrye Sisterhood": {
     "Nations": "Zudrye Sisterhood",
