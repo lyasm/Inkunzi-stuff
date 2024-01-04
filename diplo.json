@@ -850,36 +850,36 @@
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
-      "Value": "Karak Helhein",
-      "Trade 1 Value": "4,785.63"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
-      "Value": "Lună sângeroasă",
-      "Trade 2 Value": "5,390.00"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
-      "Value": "Royal City of Gevero",
-      "Trade 3 Value": "5,742.75"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "Lohiida Dathinaal",
-      "Trade 4 Value": "2,650.00"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
-      "Value": "Goldmongers",
-      "Trade 5 Value": "3,222.00"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
-      "Value": "Ashdayn",
-      "Trade 6 Value": "4,300.00"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
-      "Value": "Scarcojiu",
-      "Trade 7 Value": "2,186.25"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
-      "Value": "Council of Dehurkjols",
-      "Trade 8 Value": "3,537.19"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
       "Value": "",
@@ -909,13 +909,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "31,813.81",
+    "Raw Trade Income": "0.00",
     "Tariffs": "0.95",
-    "Trade Income": "30,223.12",
+    "Trade Income": "0.00",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
-    "Trades": "8"
+    "Trades": "0"
   },
   "Alapadana": {
     "Nations": "Alapadana",
