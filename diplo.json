@@ -10160,8 +10160,8 @@
       "Trade 7 Value": "7,988.75"
     },
     "Trade 8": {
-      "Value": "The Free Cities of Cupiditas",
-      "Trade 8 Value": "26,565.00"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
       "Value": "High City of Tirsil",
@@ -10191,13 +10191,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "66,493.50",
+    "Raw Trade Income": "39,928.50",
     "Tariffs": "0.75",
-    "Trade Income": "49,870.13",
+    "Trade Income": "29,946.38",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "9"
+    "Trades": "8"
   },
   "Hanza Trade Republic": {
     "Nations": "Hanza Trade Republic",
@@ -18592,7 +18592,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Extremely Radical Corta",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Here Be Dragons",
     "Military Alliances 2": "Cabyarszag",
@@ -18661,7 +18661,7 @@
     "Tariffs": "0.95",
     "Trade Income": "247,989.16",
     "NAPs": "0",
-    "Def. Pacts": "1",
+    "Def. Pacts": "0",
     "Mil. Pacts": "2",
     "Trades": "9"
   },
@@ -21125,10 +21125,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "17.49%",
-    "Base": "17.49%",
-    "Comparison": "4.74%",
-    "Individual": "4.74%",
+    "L. Desire": "16.53%",
+    "Base": "16.53%",
+    "Comparison": "4.26%",
+    "Individual": "4.26%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -27998,8 +27998,8 @@
       "Trade 4 Value": "4,075.00"
     },
     "Trade 5": {
-      "Value": "The Free Cities of Cupiditas",
-      "Trade 5 Value": "26,565.00"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "Maatada Istara",
@@ -28041,24 +28041,24 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "61,586.67",
+    "Raw Trade Income": "35,021.67",
     "Tariffs": "0.95",
-    "Trade Income": "58,507.34",
+    "Trade Income": "33,270.59",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "7"
+    "Trades": "6"
   },
   "The Free Cities of Cupiditas": {
     "Nations": "The Free Cities of Cupiditas",
     "Nation Check": "The Free Cities of Cupiditas",
     "Overlord": "",
     "Eco Vassals": "79,036.56",
-    "Eco Over.": "437,454.96",
-    "Compare": "5.65%",
+    "Eco Over.": "499,737.41",
+    "Compare": "5.51%",
     "MP Vassals": "6,080.94",
-    "MP Over.": "107,577.94",
-    "20% Total": "4.74%",
+    "MP Over.": "110,415.94",
+    "20% Total": "4.26%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -28108,20 +28108,20 @@
       "Trade 6 Value": "2,296.88"
     },
     "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
+      "Value": "Nummum",
+      "Trade 7 Value": "21,574.58"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "High City of Tirsil",
+      "Trade 8 Value": "9,718.50"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Free City of Zephon",
+      "Trade 9 Value": "10,947.60"
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": "Serenissima Res Publica Di Ghalivi",
+      "Trade 10 Value": "8,098.75"
     },
     "Trade 11": {
       "Value": "",
@@ -28143,13 +28143,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "38,660.48",
+    "Raw Trade Income": "88,999.91",
     "Tariffs": "0.95",
-    "Trade Income": "36,727.46",
+    "Trade Income": "84,549.91",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "6"
+    "Trades": "10"
   },
   "The Free City of the Getsa": {
     "Nations": "The Free City of the Getsa",
