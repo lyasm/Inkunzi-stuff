@@ -161,7 +161,7 @@
     },
     "Trade 7": {
       "Value": "Kingdom of Gallacia",
-      "Trade 7 Value": "5,652.50"
+      "Trade 7 Value": "7,348.25"
     },
     "Trade 8": {
       "Value": "Republic o. Zuntirar",
@@ -195,9 +195,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "50,900.50",
+    "Raw Trade Income": "52,596.25",
     "Tariffs": "0.95",
-    "Trade Income": "48,355.48",
+    "Trade Income": "49,966.44",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -1457,7 +1457,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "Republyk Balresk",
-    "Defensive Pacts 2": "",
+    "Defensive Pacts 2": "Nixond",
     "Military Alliances": "Nixond",
     "Military Alliances 2": "",
     "Limit": "9",
@@ -1470,8 +1470,8 @@
       "Trade 2 Value": "9,456.25"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Nixond",
+      "Trade 3 Value": "13,365.63"
     },
     "Trade 4": {
       "Value": "",
@@ -1521,13 +1521,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "10,471.88",
+    "Raw Trade Income": "23,837.50",
     "Tariffs": "0.95",
-    "Trade Income": "9,948.28",
+    "Trade Income": "22,645.63",
     "NAPs": "0",
-    "Def. Pacts": "1",
+    "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "2"
+    "Trades": "3"
   },
   "Araybattahya ": {
     "Nations": "Araybattahya ",
@@ -2781,7 +2781,7 @@
     "Unity?": "TRUE",
     "Ov. Culture": "Den’glaic",
     "Ov. Religion": "Faigh’denic",
-    "Non-aggression Pacts": "Spinelle",
+    "Non-aggression Pacts": "Spinelle, Shakisu",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
@@ -2850,7 +2850,7 @@
     "Raw Trade Income": "144,021.38",
     "Tariffs": "1.25",
     "Trade Income": "180,026.72",
-    "NAPs": "1",
+    "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
     "Trades": "6"
@@ -3303,7 +3303,7 @@
     },
     "Trade 2": {
       "Value": "Kingdom of Ardungual",
-      "Trade 2 Value": "6,545.00"
+      "Trade 2 Value": "7,735.00"
     },
     "Trade 3": {
       "Value": "Stryaxina",
@@ -3357,9 +3357,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "48,425.25",
+    "Raw Trade Income": "49,615.25",
     "Tariffs": "0.75",
-    "Trade Income": "36,318.94",
+    "Trade Income": "37,211.44",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -4123,7 +4123,7 @@
     },
     "Trade 3": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 3 Value": "24,405.00"
+      "Trade 3 Value": "25,125.00"
     },
     "Trade 4": {
       "Value": "High City of Tirsil",
@@ -4173,9 +4173,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "79,422.35",
+    "Raw Trade Income": "80,142.35",
     "Tariffs": "0.95",
-    "Trade Income": "75,451.23",
+    "Trade Income": "76,135.23",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -5927,10 +5927,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "15.63%",
-    "Base": "15.63%",
-    "Comparison": "6.57%",
-    "Individual": "6.57%",
+    "L. Desire": "15.61%",
+    "Base": "15.61%",
+    "Comparison": "6.56%",
+    "Individual": "6.56%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -6171,7 +6171,7 @@
     },
     "Trade 5": {
       "Value": "Kingdom of Gallacia",
-      "Trade 5 Value": "5,652.50"
+      "Trade 5 Value": "7,348.25"
     },
     "Trade 6": {
       "Value": "Iidunn",
@@ -6213,9 +6213,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "61,310.00",
+    "Raw Trade Income": "63,005.75",
     "Tariffs": "0.75",
-    "Trade Income": "45,982.50",
+    "Trade Income": "47,254.31",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -7795,7 +7795,7 @@
     },
     "Trade 3": {
       "Value": "Kingdom of Gallacia",
-      "Trade 3 Value": "5,652.50"
+      "Trade 3 Value": "7,348.25"
     },
     "Trade 4": {
       "Value": "",
@@ -7845,9 +7845,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "12,502.50",
+    "Raw Trade Income": "14,198.25",
     "Tariffs": "1.25",
-    "Trade Income": "15,628.13",
+    "Trade Income": "17,747.81",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -8019,7 +8019,7 @@
     },
     "Trade 8": {
       "Value": "Kingdom of Gallacia",
-      "Trade 8 Value": "5,652.50"
+      "Trade 8 Value": "7,348.25"
     },
     "Trade 9": {
       "Value": "",
@@ -8049,9 +8049,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "36,825.75",
+    "Raw Trade Income": "38,521.50",
     "Tariffs": "0.95",
-    "Trade Income": "34,984.46",
+    "Trade Income": "36,595.43",
     "NAPs": "4",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -8329,7 +8329,7 @@
     },
     "Trade 9": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 9 Value": "24,405.00"
+      "Trade 9 Value": "25,125.00"
     },
     "Trade 10": {
       "Value": "Hui Kai",
@@ -8355,9 +8355,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "88,114.13",
+    "Raw Trade Income": "88,834.13",
     "Tariffs": "0.95",
-    "Trade Income": "83,708.42",
+    "Trade Income": "84,392.42",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -10161,7 +10161,7 @@
     },
     "Trade 8": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 8 Value": "24,405.00"
+      "Trade 8 Value": "25,125.00"
     },
     "Trade 9": {
       "Value": "High City of Tirsil",
@@ -10191,9 +10191,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "62,743.50",
+    "Raw Trade Income": "63,463.50",
     "Tariffs": "0.75",
-    "Trade Income": "47,057.63",
+    "Trade Income": "47,597.63",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -10439,7 +10439,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Novae Aeseriae",
-      "Trade 1 Value": "4,450.00"
+      "Trade 1 Value": "6,718.75"
     },
     "Trade 2": {
       "Value": "Holy Kingdom of Scripts",
@@ -10497,9 +10497,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "41,348.77",
+    "Raw Trade Income": "43,617.52",
     "Tariffs": "0.75",
-    "Trade Income": "31,011.57",
+    "Trade Income": "32,713.14",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -10561,7 +10561,7 @@
     },
     "Trade 6": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 6 Value": "24,405.00"
+      "Trade 6 Value": "25,125.00"
     },
     "Trade 7": {
       "Value": "Kingdom of Lyroa",
@@ -10599,9 +10599,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "77,161.29",
+    "Raw Trade Income": "77,881.29",
     "Tariffs": "0.75",
-    "Trade Income": "57,870.97",
+    "Trade Income": "58,410.97",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -10918,11 +10918,11 @@
     "Nation Check": "Holy Kingdom of Scripts",
     "Overlord": "",
     "Eco Vassals": "59,146.23",
-    "Eco Over.": "231,725.63",
+    "Eco Over.": "233,506.17",
     "Compare": "42.87%",
     "MP Vassals": "30,236.25",
     "MP Over.": "70,527.19",
-    "20% Total": "13.68%",
+    "20% Total": "13.64%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -10957,7 +10957,7 @@
     },
     "Trade 3": {
       "Value": "Kingdom of Gallacia",
-      "Trade 3 Value": "5,652.50"
+      "Trade 3 Value": "7,348.25"
     },
     "Trade 4": {
       "Value": "Terrum Aetheri",
@@ -11007,9 +11007,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,817.27",
+    "Raw Trade Income": "42,513.02",
     "Tariffs": "1.05",
-    "Trade Income": "42,858.13",
+    "Trade Income": "44,638.67",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -11161,7 +11161,7 @@
     },
     "Trade 3": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 3 Value": "24,405.00"
+      "Trade 3 Value": "25,125.00"
     },
     "Trade 4": {
       "Value": "Nuanta",
@@ -11189,7 +11189,7 @@
     },
     "Trade 10": {
       "Value": "Mercati Emporium",
-      "Trade 10 Value": "6,360.00"
+      "Trade 10 Value": "5,697.50"
     },
     "Trade 11": {
       "Value": "",
@@ -11211,9 +11211,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "94,700.35",
+    "Raw Trade Income": "94,757.85",
     "Tariffs": "0.95",
-    "Trade Income": "89,965.33",
+    "Trade Income": "90,019.96",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -11871,7 +11871,7 @@
     },
     "Trade 2": {
       "Value": "Kingdom of Gallacia",
-      "Trade 2 Value": "5,652.50"
+      "Trade 2 Value": "7,348.25"
     },
     "Trade 3": {
       "Value": "Alderdorf",
@@ -11925,9 +11925,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "35,215.94",
+    "Raw Trade Income": "36,911.69",
     "Tariffs": "1.05",
-    "Trade Income": "36,976.73",
+    "Trade Income": "38,757.27",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -14699,10 +14699,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "49.78%",
-    "Base": "49.78%",
-    "Comparison": "32.39%",
-    "Individual": "32.39%",
+    "L. Desire": "50.04%",
+    "Base": "50.04%",
+    "Comparison": "32.52%",
+    "Individual": "32.52%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -14731,7 +14731,7 @@
     },
     "Trade 3": {
       "Value": "Novae Aeseriae",
-      "Trade 3 Value": "4,450.00"
+      "Trade 3 Value": "6,718.75"
     },
     "Trade 4": {
       "Value": "",
@@ -14781,9 +14781,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "20,974.75",
+    "Raw Trade Income": "23,243.50",
     "Tariffs": "0.75",
-    "Trade Income": "15,731.06",
+    "Trade Income": "17,432.63",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -15135,7 +15135,7 @@
     },
     "Trade 2": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 2 Value": "24,405.00"
+      "Trade 2 Value": "25,125.00"
     },
     "Trade 3": {
       "Value": "Lysian Republic",
@@ -15189,9 +15189,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "63,999.69",
+    "Raw Trade Income": "64,719.69",
     "Tariffs": "1.05",
-    "Trade Income": "67,199.67",
+    "Trade Income": "67,955.67",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -15233,7 +15233,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Kingdom of Gallacia",
-      "Trade 1 Value": "5,652.50"
+      "Trade 1 Value": "7,348.25"
     },
     "Trade 2": {
       "Value": "The Trade Families of Kemakmura",
@@ -15291,9 +15291,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "67,904.06",
+    "Raw Trade Income": "69,599.81",
     "Tariffs": "0.95",
-    "Trade Income": "64,508.86",
+    "Trade Income": "66,119.82",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -15743,7 +15743,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Kingdom of Gallacia",
-      "Trade 1 Value": "5,652.50"
+      "Trade 1 Value": "7,348.25"
     },
     "Trade 2": {
       "Value": "Imperial City of Soria",
@@ -15801,9 +15801,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "56,204.63",
+    "Raw Trade Income": "57,900.38",
     "Tariffs": "0.95",
-    "Trade Income": "53,394.39",
+    "Trade Income": "55,005.36",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -16767,7 +16767,7 @@
     },
     "Trade 2": {
       "Value": "Mercati Emporium",
-      "Trade 2 Value": "6,360.00"
+      "Trade 2 Value": "5,697.50"
     },
     "Trade 3": {
       "Value": "The Dukedom of Sylicia",
@@ -16821,9 +16821,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "36,568.50",
+    "Raw Trade Income": "35,906.00",
     "Tariffs": "0.95",
-    "Trade Income": "34,740.08",
+    "Trade Income": "34,110.70",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -17195,7 +17195,7 @@
     },
     "Trade 7": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 7 Value": "24,405.00"
+      "Trade 7 Value": "25,125.00"
     },
     "Trade 8": {
       "Value": "High City of Tirsil",
@@ -17229,9 +17229,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "56,689.06",
+    "Raw Trade Income": "57,409.06",
     "Tariffs": "0.95",
-    "Trade Income": "53,854.61",
+    "Trade Income": "54,538.61",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -17787,7 +17787,7 @@
     },
     "Trade 2": {
       "Value": "Mercati Emporium",
-      "Trade 2 Value": "6,360.00"
+      "Trade 2 Value": "5,697.50"
     },
     "Trade 3": {
       "Value": "The Despotate of Kaartiyek",
@@ -17841,9 +17841,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "33,738.44",
+    "Raw Trade Income": "33,075.94",
     "Tariffs": "1.00",
-    "Trade Income": "33,738.44",
+    "Trade Income": "33,075.94",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -17889,7 +17889,7 @@
     },
     "Trade 2": {
       "Value": "Kingdom of Gallacia",
-      "Trade 2 Value": "5,652.50"
+      "Trade 2 Value": "7,348.25"
     },
     "Trade 3": {
       "Value": "The Kingdom of Hemia",
@@ -17943,9 +17943,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "44,240.06",
+    "Raw Trade Income": "45,935.81",
     "Tariffs": "1.25",
-    "Trade Income": "55,300.08",
+    "Trade Income": "57,419.77",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -19031,7 +19031,7 @@
     },
     "Trade 7": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 7 Value": "24,405.00"
+      "Trade 7 Value": "25,125.00"
     },
     "Trade 8": {
       "Value": "Lisanos",
@@ -19065,9 +19065,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "102,201.13",
+    "Raw Trade Income": "102,921.13",
     "Tariffs": "0.75",
-    "Trade Income": "76,650.84",
+    "Trade Income": "77,190.84",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -19313,7 +19313,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Mercati Emporium",
-      "Trade 1 Value": "6,360.00"
+      "Trade 1 Value": "5,697.50"
     },
     "Trade 2": {
       "Value": "The Amerian Republic",
@@ -19371,9 +19371,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "72,164.25",
+    "Raw Trade Income": "71,501.75",
     "Tariffs": "0.75",
-    "Trade Income": "54,123.19",
+    "Trade Income": "53,626.31",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -20404,11 +20404,11 @@
     "Nation Check": "Nixond",
     "Overlord": "",
     "Eco Vassals": "153,522.31",
-    "Eco Over.": "654,211.62",
-    "Compare": "31.17%",
+    "Eco Over.": "647,570.16",
+    "Compare": "31.10%",
     "MP Vassals": "56,636.25",
-    "MP Over.": "181,726.88",
-    "20% Total": "10.93%",
+    "MP Over.": "182,098.13",
+    "20% Total": "10.96%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -20428,7 +20428,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "Fray Ventos, Petty Imperium (idk what Constantine's nation is called)",
-    "Defensive Pacts": "",
+    "Defensive Pacts": "Annapolis",
     "Defensive Pacts 2": "Free City of Fray Ventos",
     "Military Alliances": "Aethyrrajyam",
     "Military Alliances 2": "Gno’hdail Impireachd",
@@ -20458,8 +20458,8 @@
       "Trade 6 Value": "7,031.25"
     },
     "Trade 7": {
-      "Value": "Mātrentwo",
-      "Trade 7 Value": "12,660.94"
+      "Value": "Annakpolis",
+      "Trade 7 Value": "4,093.75"
     },
     "Trade 8": {
       "Value": "Gno’hdail Impireachd",
@@ -20493,11 +20493,11 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "118,660.19",
+    "Raw Trade Income": "110,093.00",
     "Tariffs": "0.95",
-    "Trade Income": "112,727.18",
+    "Trade Income": "104,588.35",
     "NAPs": "2",
-    "Def. Pacts": "1",
+    "Def. Pacts": "2",
     "Mil. Pacts": "2",
     "Trades": "9"
   },
@@ -20745,7 +20745,7 @@
     },
     "Trade 2": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 2 Value": "24,405.00"
+      "Trade 2 Value": "25,125.00"
     },
     "Trade 3": {
       "Value": "High City of Tirsil",
@@ -20799,9 +20799,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "73,462.81",
+    "Raw Trade Income": "74,182.81",
     "Tariffs": "0.95",
-    "Trade Income": "69,789.67",
+    "Trade Income": "70,473.67",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -20851,7 +20851,7 @@
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
-      "Trade 3 Value": "6,360.00"
+      "Trade 3 Value": "5,697.50"
     },
     "Trade 4": {
       "Value": "Nāšā Qaḏmāyā",
@@ -20859,7 +20859,7 @@
     },
     "Trade 5": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 5 Value": "24,405.00"
+      "Trade 5 Value": "25,125.00"
     },
     "Trade 6": {
       "Value": "",
@@ -20901,9 +20901,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,956.25",
+    "Raw Trade Income": "41,013.75",
     "Tariffs": "0.75",
-    "Trade Income": "30,717.19",
+    "Trade Income": "30,760.31",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -21125,10 +21125,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "19.05%",
-    "Base": "19.05%",
-    "Comparison": "5.52%",
-    "Individual": "5.52%",
+    "L. Desire": "19.28%",
+    "Base": "19.28%",
+    "Comparison": "5.64%",
+    "Individual": "5.64%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -21329,10 +21329,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "45.69%",
-    "Base": "45.69%",
-    "Comparison": "13.68%",
-    "Individual": "13.68%",
+    "L. Desire": "45.61%",
+    "Base": "45.61%",
+    "Comparison": "13.64%",
+    "Individual": "13.64%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -21683,7 +21683,7 @@
     },
     "Trade 7": {
       "Value": "Kingdom of Ardungual",
-      "Trade 7 Value": "6,545.00"
+      "Trade 7 Value": "7,735.00"
     },
     "Trade 8": {
       "Value": "HlérHeim",
@@ -21717,9 +21717,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "33,042.50",
+    "Raw Trade Income": "34,232.50",
     "Tariffs": "0.95",
-    "Trade Income": "31,390.38",
+    "Trade Income": "32,520.88",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -22989,7 +22989,7 @@
     },
     "Trade 2": {
       "Value": "Kingdom of Gallacia",
-      "Trade 2 Value": "5,652.50"
+      "Trade 2 Value": "7,348.25"
     },
     "Trade 3": {
       "Value": "High City of Tirsil",
@@ -23043,9 +23043,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "74,724.81",
+    "Raw Trade Income": "76,420.56",
     "Tariffs": "0.95",
-    "Trade Income": "70,988.57",
+    "Trade Income": "72,599.53",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -23369,10 +23369,10 @@
     "20% Total": "37.95%",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "18.17%",
-    "Base": "18.17%",
-    "Comparison": "10.93%",
-    "Individual": "9.75%",
+    "L. Desire": "18.24%",
+    "Base": "18.24%",
+    "Comparison": "10.96%",
+    "Individual": "9.78%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
     "Indep War?": "",
@@ -23777,9 +23777,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "17.11%",
-    "Base": "17.11%",
-    "Comparison": "10.93%",
+    "L. Desire": "17.14%",
+    "Base": "17.14%",
+    "Comparison": "10.96%",
     "Individual": "1.18%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -23903,7 +23903,7 @@
     "Limit": "5",
     "Trade 1": {
       "Value": "Kingdom of Gallacia",
-      "Trade 1 Value": "5,652.50"
+      "Trade 1 Value": "7,348.25"
     },
     "Trade 2": {
       "Value": "Forge of Aarde",
@@ -23961,9 +23961,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "29,018.33",
+    "Raw Trade Income": "30,714.08",
     "Tariffs": "1.25",
-    "Trade Income": "36,272.91",
+    "Trade Income": "38,392.60",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -24585,12 +24585,12 @@
     "Nations": "Scientarium",
     "Nation Check": "Scientarium",
     "Overlord": "",
-    "Eco Vassals": "126,464.56",
+    "Eco Vassals": "128,166.13",
     "Eco Over.": "254,317.53",
     "Compare": "112.22%",
     "MP Vassals": "44,610.00",
     "MP Over.": "39,754.00",
-    "20% Total": "32.39%",
+    "20% Total": "32.52%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -24723,7 +24723,7 @@
     },
     "Trade 2": {
       "Value": "Kingdom of Ardungual",
-      "Trade 2 Value": "6,545.00"
+      "Trade 2 Value": "7,735.00"
     },
     "Trade 3": {
       "Value": "Pólitonskóron",
@@ -24777,9 +24777,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "28,957.53",
+    "Raw Trade Income": "30,147.53",
     "Tariffs": "0.95",
-    "Trade Income": "27,509.65",
+    "Trade Income": "28,640.15",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -24931,7 +24931,7 @@
     },
     "Trade 3": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 3 Value": "24,405.00"
+      "Trade 3 Value": "25,125.00"
     },
     "Trade 4": {
       "Value": "Nuanta",
@@ -24981,9 +24981,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "47,774.38",
+    "Raw Trade Income": "48,494.38",
     "Tariffs": "0.95",
-    "Trade Income": "45,385.66",
+    "Trade Income": "46,069.66",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -25131,7 +25131,7 @@
     },
     "Trade 2": {
       "Value": "Kingdom of Ardungual",
-      "Trade 2 Value": "6,545.00"
+      "Trade 2 Value": "7,735.00"
     },
     "Trade 3": {
       "Value": "Tsûa Lâng",
@@ -25185,9 +25185,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "17,625.00",
+    "Raw Trade Income": "18,815.00",
     "Tariffs": "1.00",
-    "Trade Income": "17,625.00",
+    "Trade Income": "18,815.00",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -25347,7 +25347,7 @@
     },
     "Trade 5": {
       "Value": "Mercati Emporium",
-      "Trade 5 Value": "6,360.00"
+      "Trade 5 Value": "5,697.50"
     },
     "Trade 6": {
       "Value": "The Kingdom of Lunar",
@@ -25355,7 +25355,7 @@
     },
     "Trade 7": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 7 Value": "24,405.00"
+      "Trade 7 Value": "25,125.00"
     },
     "Trade 8": {
       "Value": "The Amerian Republic",
@@ -25389,9 +25389,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "69,081.25",
+    "Raw Trade Income": "69,138.75",
     "Tariffs": "0.95",
-    "Trade Income": "65,627.19",
+    "Trade Income": "65,681.81",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -26116,11 +26116,11 @@
     "Nation Check": "Stryaxina",
     "Overlord": "",
     "Eco Vassals": "69,821.88",
-    "Eco Over.": "386,599.42",
+    "Eco Over.": "387,729.92",
     "Compare": "14.78%",
     "MP Vassals": "25,059.38",
     "MP Over.": "169,585.63",
-    "20% Total": "6.57%",
+    "20% Total": "6.56%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -26159,7 +26159,7 @@
     },
     "Trade 4": {
       "Value": "Kingdom of Ardungual",
-      "Trade 4 Value": "6,545.00"
+      "Trade 4 Value": "7,735.00"
     },
     "Trade 5": {
       "Value": "Pólitonskóron",
@@ -26205,9 +26205,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "61,104.66",
+    "Raw Trade Income": "62,294.66",
     "Tariffs": "0.95",
-    "Trade Income": "58,049.42",
+    "Trade Income": "59,179.92",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -27238,11 +27238,11 @@
     "Nation Check": "The Aislings",
     "Overlord": "",
     "Eco Vassals": "89,476.56",
-    "Eco Over.": "101,571.66",
+    "Eco Over.": "102,702.16",
     "Compare": "126.81%",
     "MP Vassals": "41,765.63",
     "MP Over.": "32,934.69",
-    "20% Total": "42.98%",
+    "20% Total": "42.79%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27289,7 +27289,7 @@
     },
     "Trade 6": {
       "Value": "Kingdom of Ardungual",
-      "Trade 6 Value": "6,545.00"
+      "Trade 6 Value": "7,735.00"
     },
     "Trade 7": {
       "Value": "Neonian Kuningate",
@@ -27327,9 +27327,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "39,263.75",
+    "Raw Trade Income": "40,453.75",
     "Tariffs": "0.95",
-    "Trade Income": "37,300.56",
+    "Trade Income": "38,431.06",
     "NAPs": "5",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -27489,7 +27489,7 @@
     },
     "Trade 5": {
       "Value": "Mercati Emporium",
-      "Trade 5 Value": "6,360.00"
+      "Trade 5 Value": "5,697.50"
     },
     "Trade 6": {
       "Value": "Nournourlant",
@@ -27531,9 +27531,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "39,932.60",
+    "Raw Trade Income": "39,270.10",
     "Tariffs": "0.95",
-    "Trade Income": "37,935.97",
+    "Trade Income": "37,306.60",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -27999,7 +27999,7 @@
     },
     "Trade 5": {
       "Value": "The Free Cities of Cupiditas",
-      "Trade 5 Value": "24,405.00"
+      "Trade 5 Value": "25,125.00"
     },
     "Trade 6": {
       "Value": "Maatada Istara",
@@ -28041,9 +28041,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "58,219.31",
+    "Raw Trade Income": "58,939.31",
     "Tariffs": "0.95",
-    "Trade Income": "55,308.35",
+    "Trade Income": "55,992.35",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -28054,11 +28054,11 @@
     "Nation Check": "The Free Cities of Cupiditas",
     "Overlord": "",
     "Eco Vassals": "71,210.94",
-    "Eco Over.": "455,076.63",
+    "Eco Over.": "438,447.25",
     "Compare": "11.97%",
     "MP Vassals": "12,873.44",
     "MP Over.": "107,577.94",
-    "20% Total": "5.52%",
+    "20% Total": "5.64%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -28081,7 +28081,7 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Nuanta",
-    "Military Alliances 2": "",
+    "Military Alliances 2": "Hui Kai",
     "Limit": "11",
     "Trade 1": {
       "Value": "City State of Kido",
@@ -28089,7 +28089,7 @@
     },
     "Trade 2": {
       "Value": "Mercati Emporium",
-      "Trade 2 Value": "6,360.00"
+      "Trade 2 Value": "5,697.50"
     },
     "Trade 3": {
       "Value": "Snow Dominion",
@@ -28143,12 +28143,12 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,367.50",
+    "Raw Trade Income": "39,705.00",
     "Tariffs": "0.95",
-    "Trade Income": "38,349.13",
+    "Trade Income": "37,719.75",
     "NAPs": "1",
     "Def. Pacts": "0",
-    "Mil. Pacts": "1",
+    "Mil. Pacts": "2",
     "Trades": "6"
   },
   "The Free City of the Getsa": {
@@ -29411,7 +29411,7 @@
     "Limit": "6",
     "Trade 1": {
       "Value": "Mercati Emporium",
-      "Trade 1 Value": "6,360.00"
+      "Trade 1 Value": "5,697.50"
     },
     "Trade 2": {
       "Value": "Hui Kai",
@@ -29469,9 +29469,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "39,501.88",
+    "Raw Trade Income": "38,839.38",
     "Tariffs": "1.05",
-    "Trade Income": "41,476.97",
+    "Trade Income": "40,781.34",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -30855,7 +30855,7 @@
     },
     "Trade 5": {
       "Value": "Mercati Emporium",
-      "Trade 5 Value": "6,360.00"
+      "Trade 5 Value": "5,697.50"
     },
     "Trade 6": {
       "Value": "Sancta Discordia",
@@ -30897,9 +30897,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "52,608.69",
+    "Raw Trade Income": "51,946.19",
     "Tariffs": "0.95",
-    "Trade Income": "49,978.25",
+    "Trade Income": "49,348.88",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -34205,7 +34205,7 @@
     "Limit": "5",
     "Trade 1": {
       "Value": "Kingdom of Gallacia",
-      "Trade 1 Value": "5,652.50"
+      "Trade 1 Value": "7,348.25"
     },
     "Trade 2": {
       "Value": "Republic o. Zuntirar",
@@ -34263,9 +34263,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "32,777.81",
+    "Raw Trade Income": "34,473.56",
     "Tariffs": "1.25",
-    "Trade Income": "40,972.27",
+    "Trade Income": "43,091.95",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -34793,10 +34793,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "83.46%",
-    "Base": "83.46%",
-    "Comparison": "42.98%",
-    "Individual": "42.98%",
+    "L. Desire": "83.07%",
+    "Base": "83.07%",
+    "Comparison": "42.79%",
+    "Individual": "42.79%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
     "Indep War?": "",
