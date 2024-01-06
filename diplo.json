@@ -1355,7 +1355,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "Tuk Dynasty",
     "Defensive Pacts": "Arcadia",
-    "Defensive Pacts 2": "The Second Temple",
+    "Defensive Pacts 2": "First O'irstorian Republic",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "9",
@@ -1376,8 +1376,8 @@
       "Trade 4 Value": "9,550.00"
     },
     "Trade 5": {
-      "Value": "The Second Temple",
-      "Trade 5 Value": "6,268.44"
+      "Value": "First O'irstorian Republic",
+      "Trade 5 Value": "8,279.38"
     },
     "Trade 6": {
       "Value": "Hrvolan Qaris",
@@ -1419,9 +1419,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,878.44",
+    "Raw Trade Income": "42,889.38",
     "Tariffs": "0.95",
-    "Trade Income": "38,834.52",
+    "Trade Income": "40,744.91",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -3676,11 +3676,11 @@
     "Nation Check": "Ceridwyn Teulu",
     "Overlord": "",
     "Eco Vassals": "60,130.22",
-    "Eco Over.": "122,144.50",
+    "Eco Over.": "123,836.51",
     "Compare": "154.01%",
     "MP Vassals": "41,586.19",
     "MP Over.": "27,002.94",
-    "20% Total": "40.65%",
+    "20% Total": "40.51%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -3739,7 +3739,7 @@
     },
     "Trade 9": {
       "Value": "The Teutā Erwā",
-      "Trade 9 Value": "6,298.03"
+      "Trade 9 Value": "8,079.09"
     },
     "Trade 10": {
       "Value": "",
@@ -3765,9 +3765,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "47,749.28",
+    "Raw Trade Income": "49,530.34",
     "Tariffs": "0.95",
-    "Trade Income": "45,361.82",
+    "Trade Income": "47,053.83",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -3887,10 +3887,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "42.03%",
-    "Base": "42.03%",
-    "Comparison": "19.76%",
-    "Individual": "19.76%",
+    "L. Desire": "54.21%",
+    "Base": "54.21%",
+    "Comparison": "25.85%",
+    "Individual": "25.85%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -3908,7 +3908,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "8",
+    "Limit": "9",
     "Trade 1": {
       "Value": "Sarmatai Confederation",
       "Trade 1 Value": "5,160.00"
@@ -3919,7 +3919,7 @@
     },
     "Trade 3": {
       "Value": "The Teutā Erwā",
-      "Trade 3 Value": "6,298.03"
+      "Trade 3 Value": "8,079.09"
     },
     "Trade 4": {
       "Value": "Order of The Radiance",
@@ -3969,9 +3969,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "17,621.78",
+    "Raw Trade Income": "19,402.84",
     "Tariffs": "0.95",
-    "Trade Income": "16,740.69",
+    "Trade Income": "18,432.70",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -6155,7 +6155,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "The Animal Kingdom",
-      "Trade 1 Value": "4,657.50"
+      "Trade 1 Value": "5,433.75"
     },
     "Trade 2": {
       "Value": "Scientarium",
@@ -6213,9 +6213,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "65,362.75",
+    "Raw Trade Income": "66,139.00",
     "Tariffs": "0.75",
-    "Trade Income": "49,022.06",
+    "Trade Income": "49,604.25",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -6387,7 +6387,7 @@
     },
     "Trade 8": {
       "Value": "Chernkov",
-      "Trade 8 Value": "3,529.97"
+      "Trade 8 Value": "5,550.19"
     },
     "Trade 9": {
       "Value": "Herzogtum Enzla",
@@ -6417,9 +6417,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,323.72",
+    "Raw Trade Income": "32,343.94",
     "Tariffs": "0.95",
-    "Trade Income": "28,807.53",
+    "Trade Income": "30,726.74",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -10467,7 +10467,7 @@
     },
     "Trade 8": {
       "Value": "The Teutā Erwā",
-      "Trade 8 Value": "6,298.03"
+      "Trade 8 Value": "8,079.09"
     },
     "Trade 9": {
       "Value": "",
@@ -10497,9 +10497,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,606.00",
+    "Raw Trade Income": "42,387.06",
     "Tariffs": "0.75",
-    "Trade Income": "30,454.50",
+    "Trade Income": "31,790.30",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -10744,8 +10744,8 @@
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
-      "Value": "The Second Temple",
-      "Trade 1 Value": "6,268.44"
+      "Value": "First O'irstorian Republic",
+      "Trade 1 Value": "8,279.38"
     },
     "Trade 2": {
       "Value": "Rosefire Dynasty",
@@ -10803,9 +10803,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "123,162.66",
+    "Raw Trade Income": "125,173.59",
     "Tariffs": "0.95",
-    "Trade Income": "117,004.52",
+    "Trade Income": "118,914.91",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -10917,12 +10917,12 @@
     "Nations": "Holy Kingdom of Scripts",
     "Nation Check": "Holy Kingdom of Scripts",
     "Overlord": "",
-    "Eco Vassals": "87,094.76",
-    "Eco Over.": "278,255.68",
+    "Eco Vassals": "90,705.98",
+    "Eco Over.": "280,125.80",
     "Compare": "22.42%",
     "MP Vassals": "16,568.75",
     "MP Over.": "73,885.63",
-    "20% Total": "10.75%",
+    "20% Total": "10.96%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -10953,7 +10953,7 @@
     },
     "Trade 2": {
       "Value": "The Teutā Erwā",
-      "Trade 2 Value": "6,298.03"
+      "Trade 2 Value": "8,079.09"
     },
     "Trade 3": {
       "Value": "Novae Aeseriae",
@@ -11007,9 +11007,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "50,953.03",
+    "Raw Trade Income": "52,734.09",
     "Tariffs": "1.05",
-    "Trade Income": "53,500.68",
+    "Trade Income": "55,370.80",
     "NAPs": "3",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -11459,7 +11459,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "The Animal Kingdom",
-      "Trade 1 Value": "4,657.50"
+      "Trade 1 Value": "5,433.75"
     },
     "Trade 2": {
       "Value": "Ewig Republic",
@@ -11517,9 +11517,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "23,613.75",
+    "Raw Trade Income": "24,390.00",
     "Tariffs": "0.95",
-    "Trade Income": "22,433.06",
+    "Trade Income": "23,170.50",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -13918,8 +13918,8 @@
       "Trade 3 Value": "4,300.00"
     },
     "Trade 4": {
-      "Value": "The Second Temple",
-      "Trade 4 Value": "6,268.44"
+      "Value": "First O'irstorian Republic",
+      "Trade 4 Value": "8,279.38"
     },
     "Trade 5": {
       "Value": "",
@@ -13965,9 +13965,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "32,638.44",
+    "Raw Trade Income": "34,649.38",
     "Tariffs": "0.95",
-    "Trade Income": "31,006.52",
+    "Trade Income": "32,916.91",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -14699,10 +14699,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "50.10%",
-    "Base": "50.10%",
-    "Comparison": "32.55%",
-    "Individual": "32.55%",
+    "L. Desire": "50.04%",
+    "Base": "50.04%",
+    "Comparison": "32.52%",
+    "Individual": "32.52%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -15265,7 +15265,7 @@
     },
     "Trade 9": {
       "Value": "The Animal Kingdom",
-      "Trade 9 Value": "4,657.50"
+      "Trade 9 Value": "5,433.75"
     },
     "Trade 10": {
       "Value": "",
@@ -15291,9 +15291,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "75,144.31",
+    "Raw Trade Income": "75,920.56",
     "Tariffs": "0.95",
-    "Trade Income": "71,387.10",
+    "Trade Income": "72,124.53",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -17901,7 +17901,7 @@
     },
     "Trade 5": {
       "Value": "The Animal Kingdom",
-      "Trade 5 Value": "4,657.50"
+      "Trade 5 Value": "5,433.75"
     },
     "Trade 6": {
       "Value": "Imperial City of Soria",
@@ -17943,9 +17943,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "47,478.56",
+    "Raw Trade Income": "48,254.81",
     "Tariffs": "1.25",
-    "Trade Income": "59,348.20",
+    "Trade Income": "60,318.52",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -19996,11 +19996,11 @@
     "Nation Check": "Nāšā Qaḏmāyā",
     "Overlord": "",
     "Eco Vassals": "47,840.63",
-    "Eco Over.": "325,626.97",
+    "Eco Over.": "327,537.36",
     "Compare": "34.04%",
     "MP Vassals": "32,140.63",
     "MP Over.": "94,409.38",
-    "20% Total": "9.75%",
+    "20% Total": "9.73%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -20023,7 +20023,7 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Tavir",
     "Military Alliances": "",
-    "Military Alliances 2": "The Second Temple",
+    "Military Alliances 2": "First O'irstorian Republic",
     "Limit": "9",
     "Trade 1": {
       "Value": "Tavir",
@@ -20038,8 +20038,8 @@
       "Trade 3 Value": "10,868.00"
     },
     "Trade 4": {
-      "Value": "The Second Temple",
-      "Trade 4 Value": "6,268.44"
+      "Value": "First O'irstorian Republic",
+      "Trade 4 Value": "8,279.38"
     },
     "Trade 5": {
       "Value": "Nummum",
@@ -20085,9 +20085,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "59,754.70",
+    "Raw Trade Income": "61,765.64",
     "Tariffs": "0.95",
-    "Trade Income": "56,766.97",
+    "Trade Income": "58,677.36",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -20121,7 +20121,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Second Temple, Rokmar",
+    "Non-aggression Pacts": "First O'irstorian Republic, Rokmar",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Cheiraa Ousenika",
@@ -20651,7 +20651,7 @@
     },
     "Trade 4": {
       "Value": "The Teutā Erwā",
-      "Trade 4 Value": "6,298.03"
+      "Trade 4 Value": "8,079.09"
     },
     "Trade 5": {
       "Value": "Marsigar Kuningate",
@@ -20697,9 +20697,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "31,389.75",
+    "Raw Trade Income": "33,170.81",
     "Tariffs": "1.05",
-    "Trade Income": "32,959.24",
+    "Trade Income": "34,829.35",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -21329,10 +21329,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "39.82%",
-    "Base": "39.82%",
-    "Comparison": "10.75%",
-    "Individual": "10.75%",
+    "L. Desire": "40.26%",
+    "Base": "40.26%",
+    "Comparison": "10.96%",
+    "Individual": "10.96%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -21365,11 +21365,11 @@
     },
     "Trade 4": {
       "Value": "The Teutā Erwā",
-      "Trade 4 Value": "6,298.03"
+      "Trade 4 Value": "8,079.09"
     },
     "Trade 5": {
       "Value": "Chernkov",
-      "Trade 5 Value": "3,529.97"
+      "Trade 5 Value": "5,550.19"
     },
     "Trade 6": {
       "Value": "",
@@ -21411,9 +21411,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "33,430.75",
+    "Raw Trade Income": "37,232.03",
     "Tariffs": "0.95",
-    "Trade Income": "31,759.21",
+    "Trade Income": "35,370.43",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -21560,8 +21560,8 @@
       "Trade 1 Value": "5,590.00"
     },
     "Trade 2": {
-      "Value": "The Second Temple",
-      "Trade 2 Value": "6,268.44"
+      "Value": "First O'irstorian Republic",
+      "Trade 2 Value": "8,279.38"
     },
     "Trade 3": {
       "Value": "Natałor",
@@ -21615,9 +21615,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "25,813.44",
+    "Raw Trade Income": "27,824.38",
     "Tariffs": "1.25",
-    "Trade Income": "32,266.80",
+    "Trade Income": "34,780.47",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -23090,8 +23090,8 @@
       "Trade 1 Value": "7,582.50"
     },
     "Trade 2": {
-      "Value": "The Second Temple",
-      "Trade 2 Value": "6,268.44"
+      "Value": "First O'irstorian Republic",
+      "Trade 2 Value": "8,279.38"
     },
     "Trade 3": {
       "Value": "The Kingdom of Zahar",
@@ -23145,9 +23145,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "74,493.19",
+    "Raw Trade Income": "76,504.13",
     "Tariffs": "0.95",
-    "Trade Income": "70,768.53",
+    "Trade Income": "72,678.92",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -23462,7 +23462,7 @@
   "Rokmar Camp": {
     "Nations": "Rokmar Camp",
     "Nation Check": "Rokmar Camp",
-    "Overlord": "The Second Temple",
+    "Overlord": "First O'irstorian Republic",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
@@ -23471,10 +23471,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "40.78%",
-    "Base": "40.78%",
-    "Comparison": "9.55%",
-    "Individual": "9.55%",
+    "L. Desire": "38.05%",
+    "Base": "38.05%",
+    "Comparison": "8.19%",
+    "Individual": "8.19%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
@@ -23502,8 +23502,8 @@
       "Trade 2 Value": "6,998.75"
     },
     "Trade 3": {
-      "Value": "The Second Temple",
-      "Trade 3 Value": "6,268.44"
+      "Value": "First O'irstorian Republic",
+      "Trade 3 Value": "8,279.38"
     },
     "Trade 4": {
       "Value": "",
@@ -23553,9 +23553,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "16,329.69",
+    "Raw Trade Income": "18,340.63",
     "Tariffs": "0.95",
-    "Trade Income": "15,513.20",
+    "Trade Income": "17,423.59",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -23915,7 +23915,7 @@
     },
     "Trade 4": {
       "Value": "The Teutā Erwā",
-      "Trade 4 Value": "6,298.03"
+      "Trade 4 Value": "8,079.09"
     },
     "Trade 5": {
       "Value": "Adelaar Legioen",
@@ -23961,9 +23961,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "38,987.34",
+    "Raw Trade Income": "40,768.41",
     "Tariffs": "1.25",
-    "Trade Income": "48,734.18",
+    "Trade Income": "50,960.51",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -24327,7 +24327,7 @@
     },
     "Trade 5": {
       "Value": "Chernkov",
-      "Trade 5 Value": "3,529.97"
+      "Trade 5 Value": "5,550.19"
     },
     "Trade 6": {
       "Value": "Tuk Dynasty",
@@ -24369,9 +24369,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "33,616.72",
+    "Raw Trade Income": "35,636.94",
     "Tariffs": "1.05",
-    "Trade Income": "35,297.55",
+    "Trade Income": "37,418.78",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -24586,11 +24586,11 @@
     "Nation Check": "Scientarium",
     "Overlord": "",
     "Eco Vassals": "127,737.13",
-    "Eco Over.": "252,798.13",
+    "Eco Over.": "253,535.56",
     "Compare": "112.22%",
     "MP Vassals": "44,610.00",
     "MP Over.": "39,754.00",
-    "20% Total": "32.55%",
+    "20% Total": "32.52%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -24653,7 +24653,7 @@
     },
     "Trade 10": {
       "Value": "The Animal Kingdom",
-      "Trade 10 Value": "4,657.50"
+      "Trade 10 Value": "5,433.75"
     },
     "Trade 11": {
       "Value": "Kingdom of Gloria",
@@ -24675,9 +24675,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "58,851.00",
+    "Raw Trade Income": "59,627.25",
     "Tariffs": "0.95",
-    "Trade Income": "55,908.45",
+    "Trade Income": "56,645.89",
     "NAPs": "3",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -26281,7 +26281,7 @@
     },
     "Trade 9": {
       "Value": "The Teutā Erwā",
-      "Trade 9 Value": "6,298.03"
+      "Trade 9 Value": "8,079.09"
     },
     "Trade 10": {
       "Value": "Vitten",
@@ -26307,9 +26307,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "57,047.53",
+    "Raw Trade Income": "58,828.59",
     "Tariffs": "0.75",
-    "Trade Income": "42,785.65",
+    "Trade Income": "44,121.45",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -27238,11 +27238,11 @@
     "Nation Check": "The Aislings",
     "Overlord": "",
     "Eco Vassals": "92,606.66",
-    "Eco Over.": "103,012.69",
+    "Eco Over.": "103,750.13",
     "Compare": "126.91%",
     "MP Vassals": "41,796.56",
     "MP Over.": "32,934.69",
-    "20% Total": "43.36%",
+    "20% Total": "43.23%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27297,7 +27297,7 @@
     },
     "Trade 8": {
       "Value": "The Animal Kingdom",
-      "Trade 8 Value": "4,657.50"
+      "Trade 8 Value": "5,433.75"
     },
     "Trade 9": {
       "Value": "",
@@ -27327,9 +27327,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,780.63",
+    "Raw Trade Income": "41,556.88",
     "Tariffs": "0.95",
-    "Trade Income": "38,741.59",
+    "Trade Income": "39,479.03",
     "NAPs": "4",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -30203,10 +30203,10 @@
     "20% Total": "",
     "Vassal Type": "Autonomous",
     "": "",
-    "L. Desire": "56.29%",
-    "Base": "56.29%",
-    "Comparison": "40.65%",
-    "Individual": "40.65%",
+    "L. Desire": "56.02%",
+    "Base": "56.02%",
+    "Comparison": "40.51%",
+    "Individual": "40.51%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -30395,16 +30395,16 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  "The Second Temple": {
-    "Nations": "The Second Temple",
-    "Nation Check": "The Second Temple",
+  "First O'irstorian Republic": {
+    "Nations": "First O'irstorian Republic",
+    "Nation Check": "First O'irstorian Republic",
     "Overlord": "",
-    "Eco Vassals": "60,970.70",
-    "Eco Over.": "335,097.66",
-    "Compare": "29.58%",
+    "Eco Vassals": "62,881.09",
+    "Eco Over.": "401,078.91",
+    "Compare": "25.27%",
     "MP Vassals": "41,002.50",
-    "MP Over.": "138,620.63",
-    "20% Total": "9.55%",
+    "MP Over.": "162,236.25",
+    "20% Total": "8.19%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -30428,7 +30428,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "Nāšā Qaḏmāyā",
-    "Limit": "6",
+    "Limit": "5",
     "Trade 1": {
       "Value": "Republic of Nymaró",
       "Trade 1 Value": "9,550.00"
@@ -30451,7 +30451,7 @@
     },
     "Trade 6": {
       "Value": "Rokmar Camp",
-      "Trade 6 Value": "3,775.00"
+      "Trade 6 Value": ""
     },
     "Trade 7": {
       "Value": "",
@@ -30489,13 +30489,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "34,368.13",
+    "Raw Trade Income": "30,593.13",
     "Tariffs": "1.25",
-    "Trade Income": "42,960.16",
+    "Trade Income": "38,241.41",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "6"
+    "Trades": "5"
   },
   "The Seelern State": {
     "Nations": "The Seelern State",
@@ -31011,12 +31011,12 @@
     "Nations": "The Teutā Erwā",
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
-    "Eco Vassals": "65,412.69",
-    "Eco Over.": "171,602.34",
-    "Compare": "60.70%",
-    "MP Vassals": "36,571.22",
-    "MP Over.": "60,247.69",
-    "20% Total": "19.76%",
+    "Eco Vassals": "78,426.70",
+    "Eco Over.": "169,256.56",
+    "Compare": "82.94%",
+    "MP Vassals": "50,143.84",
+    "MP Over.": "60,459.78",
+    "20% Total": "25.85%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -31051,7 +31051,7 @@
     },
     "Trade 3": {
       "Value": "Chernkov",
-      "Trade 3 Value": "3,529.97"
+      "Trade 3 Value": "5,550.19"
     },
     "Trade 4": {
       "Value": "Herzogtum Enzla",
@@ -31101,9 +31101,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "34,926.22",
+    "Raw Trade Income": "36,946.44",
     "Tariffs": "0.75",
-    "Trade Income": "26,194.66",
+    "Trade Income": "27,709.83",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -34793,10 +34793,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "79.22%",
-    "Base": "79.22%",
-    "Comparison": "43.36%",
-    "Individual": "43.36%",
+    "L. Desire": "78.97%",
+    "Base": "78.97%",
+    "Comparison": "43.23%",
+    "Individual": "43.23%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
     "Indep War?": "",
@@ -34895,10 +34895,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "54.49%",
-    "Base": "54.49%",
-    "Comparison": "9.75%",
-    "Individual": "9.75%",
+    "L. Desire": "54.46%",
+    "Base": "54.46%",
+    "Comparison": "9.73%",
+    "Individual": "9.73%",
     "Friend/Rival": "0.00%",
     "Taxes": "20.00%",
     "Indep War?": "",
