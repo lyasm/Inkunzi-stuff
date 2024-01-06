@@ -3887,10 +3887,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "74.80%",
-    "Base": "74.80%",
-    "Comparison": "36.15%",
-    "Individual": "36.15%",
+    "L. Desire": "74.82%",
+    "Base": "74.82%",
+    "Comparison": "36.16%",
+    "Individual": "36.16%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -3922,8 +3922,8 @@
       "Trade 3 Value": "4,141.27"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Order of The Radiance",
+      "Trade 4 Value": "3,368.75"
     },
     "Trade 5": {
       "Value": "",
@@ -3969,13 +3969,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "11,106.27",
+    "Raw Trade Income": "14,475.02",
     "Tariffs": "0.95",
-    "Trade Income": "10,550.95",
+    "Trade Income": "13,751.26",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "3"
+    "Trades": "4"
   },
   "Chitinara": {
     "Nations": "Chitinara",
@@ -6472,8 +6472,8 @@
       "Trade 3 Value": "3,062.50"
     },
     "Trade 4": {
-      "Value": "The Lakarish Kingdom of Olkmania",
-      "Trade 4 Value": "6,156.25"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "Kinh Nam City-State",
@@ -6519,13 +6519,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "25,901.06",
+    "Raw Trade Income": "19,744.81",
     "Tariffs": "0.95",
-    "Trade Income": "24,606.01",
+    "Trade Income": "18,757.57",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "5"
+    "Trades": "4"
   },
   "Elyen-Mev": {
     "Nations": "Elyen-Mev",
@@ -10917,12 +10917,12 @@
     "Nations": "Holy Kingdom of Scripts",
     "Nation Check": "Holy Kingdom of Scripts",
     "Overlord": "",
-    "Eco Vassals": "78,164.40",
+    "Eco Vassals": "85,369.78",
     "Eco Over.": "276,591.68",
-    "Compare": "22.37%",
-    "MP Vassals": "16,527.50",
+    "Compare": "22.42%",
+    "MP Vassals": "16,568.75",
     "MP Over.": "73,885.63",
-    "20% Total": "10.13%",
+    "20% Total": "10.66%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -21329,10 +21329,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "38.58%",
-    "Base": "38.58%",
-    "Comparison": "10.13%",
-    "Individual": "10.13%",
+    "L. Desire": "39.65%",
+    "Base": "39.65%",
+    "Comparison": "10.66%",
+    "Individual": "10.66%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -21364,12 +21364,12 @@
       "Trade 3 Value": "6,718.75"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "The Teutā Erwā",
+      "Trade 4 Value": "4,141.27"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Chernkov",
+      "Trade 5 Value": "3,298.97"
     },
     "Trade 6": {
       "Value": "",
@@ -21411,13 +21411,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "24,174.75",
+    "Raw Trade Income": "31,614.98",
     "Tariffs": "0.95",
-    "Trade Income": "22,966.01",
+    "Trade Income": "30,034.24",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "3"
+    "Trades": "5"
   },
   "Pataia": {
     "Nations": "Pataia",
@@ -23914,8 +23914,8 @@
       "Trade 3 Value": "5,156.25"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "The Teutā Erwā",
+      "Trade 4 Value": "4,141.27"
     },
     "Trade 5": {
       "Value": "Adelaar Legioen",
@@ -23926,7 +23926,7 @@
       "Trade 6 Value": ""
     },
     "Trade 7": {
-      "Value": "",
+      "Value": "Saholnahes Ceuluanas",
       "Trade 7 Value": ""
     },
     "Trade 8": {
@@ -23961,13 +23961,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "32,689.31",
+    "Raw Trade Income": "36,830.58",
     "Tariffs": "1.25",
-    "Trade Income": "40,861.64",
+    "Trade Income": "46,038.22",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "4"
+    "Trades": "5"
   },
   "Sajuanelhi": {
     "Nations": "Sajuanelhi",
@@ -31011,12 +31011,12 @@
     "Nations": "The Teutā Erwā",
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
-    "Eco Vassals": "58,034.95",
-    "Eco Over.": "98,381.51",
-    "Compare": "121.76%",
-    "MP Vassals": "36,496.97",
-    "MP Over.": "29,975.34",
-    "20% Total": "36.15%",
+    "Eco Vassals": "61,433.26",
+    "Eco Over.": "103,440.89",
+    "Compare": "121.40%",
+    "MP Vassals": "36,571.22",
+    "MP Over.": "30,123.84",
+    "20% Total": "36.16%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -31066,12 +31066,12 @@
       "Trade 6 Value": "3,110.00"
     },
     "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
+      "Value": "Saholnahes Ceuluanas",
+      "Trade 7 Value": "2,718.75"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "Order of The Radiance",
+      "Trade 8 Value": "3,368.75"
     },
     "Trade 9": {
       "Value": "",
@@ -31101,13 +31101,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "27,988.97",
+    "Raw Trade Income": "34,076.47",
     "Tariffs": "0.75",
-    "Trade Income": "20,991.73",
+    "Trade Income": "25,557.35",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "6"
+    "Trades": "8"
   },
   "The Trade Families of Kemakmura": {
     "Nations": "The Trade Families of Kemakmura",
