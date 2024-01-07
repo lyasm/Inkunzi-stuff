@@ -3574,11 +3574,11 @@
     "Nation Check": "Ceavia",
     "Overlord": "",
     "Eco Vassals": "122,064.33",
-    "Eco Over.": "147,345.86",
+    "Eco Over.": "153,926.09",
     "Compare": "141.58%",
     "MP Vassals": "54,285.00",
     "MP Over.": "38,343.63",
-    "20% Total": "44.88%",
+    "20% Total": "44.18%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -3604,8 +3604,8 @@
     "Military Alliances 2": "",
     "Limit": "6",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Kingdom of Aeornia",
+      "Trade 1 Value": "5,264.19"
     },
     "Trade 2": {
       "Value": "The Republic of Alyvosk",
@@ -3663,13 +3663,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "28,598.69",
+    "Raw Trade Income": "33,862.88",
     "Tariffs": "1.25",
-    "Trade Income": "35,748.36",
+    "Trade Income": "42,328.59",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Ceridwyn Teulu": {
     "Nations": "Ceridwyn Teulu",
@@ -9504,7 +9504,7 @@
     "Friend/Rival": "0.00%",
     "Taxes": "",
     "Indep War?": "",
-    "Autonomy": "",
+    "Autonomy": "None",
     "Threshold": "",
     "Chaotic?": "",
     "Deceptive?": "",
@@ -31223,10 +31223,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "82.77%",
-    "Base": "82.77%",
-    "Comparison": "44.88%",
-    "Individual": "44.88%",
+    "L. Desire": "81.35%",
+    "Base": "81.35%",
+    "Comparison": "44.18%",
+    "Individual": "44.18%",
     "Friend/Rival": "0.00%",
     "Taxes": "-2.00%",
     "Indep War?": "",
