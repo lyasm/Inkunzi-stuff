@@ -5848,8 +5848,8 @@
     "Military Alliances 2": "",
     "Limit": "5",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Karak Drung",
+      "Trade 1 Value": "6,297.50"
     },
     "Trade 2": {
       "Value": "",
@@ -5907,13 +5907,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "6,297.50",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "5,982.63",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "1"
   },
   "Despotate of Valedouro": {
     "Nations": "Despotate of Valedouro",
@@ -21550,7 +21550,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
+    "Defensive Pacts": "Republic of Nymaró",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
@@ -21619,7 +21619,7 @@
     "Tariffs": "1.25",
     "Trade Income": "34,780.47",
     "NAPs": "0",
-    "Def. Pacts": "0",
+    "Def. Pacts": "1",
     "Mil. Pacts": "0",
     "Trades": "5"
   },
@@ -23080,7 +23080,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
+    "Defensive Pacts": "Pavellion",
     "Defensive Pacts 2": "",
     "Military Alliances": "Audgunn",
     "Military Alliances 2": "Sarmatai Confederation",
@@ -23149,7 +23149,7 @@
     "Tariffs": "0.95",
     "Trade Income": "76,941.57",
     "NAPs": "0",
-    "Def. Pacts": "0",
+    "Def. Pacts": "1",
     "Mil. Pacts": "2",
     "Trades": "9"
   },
