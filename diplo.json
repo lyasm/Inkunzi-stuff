@@ -3887,10 +3887,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "55.17%",
-    "Base": "55.17%",
-    "Comparison": "26.34%",
-    "Individual": "26.34%",
+    "L. Desire": "56.47%",
+    "Base": "56.47%",
+    "Comparison": "26.99%",
+    "Individual": "26.99%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -3930,8 +3930,8 @@
       "Trade 5 Value": "3,675.00"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Svetograd",
+      "Trade 6 Value": "5,160.00"
     },
     "Trade 7": {
       "Value": "",
@@ -3969,13 +3969,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "23,077.84",
+    "Raw Trade Income": "28,237.84",
     "Tariffs": "0.95",
-    "Trade Income": "21,923.95",
+    "Trade Income": "26,825.95",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Chitinara": {
     "Nations": "Chitinara",
@@ -21551,7 +21551,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "Republic of Nymaró",
-    "Defensive Pacts 2": "",
+    "Defensive Pacts 2": "Sarmatai Confederation",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "6",
@@ -21576,8 +21576,8 @@
       "Trade 5 Value": "5,442.50"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Sarmatai Confederation",
+      "Trade 6 Value": "5,160.00"
     },
     "Trade 7": {
       "Value": "",
@@ -21615,13 +21615,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "27,824.38",
+    "Raw Trade Income": "32,984.38",
     "Tariffs": "1.25",
-    "Trade Income": "34,780.47",
+    "Trade Income": "41,230.47",
     "NAPs": "0",
-    "Def. Pacts": "1",
+    "Def. Pacts": "2",
     "Mil. Pacts": "0",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Pólitonskóron": {
     "Nations": "Pólitonskóron",
@@ -26248,8 +26248,8 @@
     "Military Alliances 2": "Ceridwyn Teulu",
     "Limit": "11",
     "Trade 1": {
-      "Value": "Adelaar Legioen",
-      "Trade 1 Value": "10,868.00"
+      "Value": "Chernkov",
+      "Trade 1 Value": "5,550.19"
     },
     "Trade 2": {
       "Value": "Etolian Πολιτεία",
@@ -26307,9 +26307,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "58,828.59",
+    "Raw Trade Income": "53,510.78",
     "Tariffs": "0.75",
-    "Trade Income": "44,121.45",
+    "Trade Income": "40,133.09",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -31011,12 +31011,12 @@
     "Nations": "The Teutā Erwā",
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
-    "Eco Vassals": "82,203.95",
+    "Eco Vassals": "87,391.95",
     "Eco Over.": "169,256.56",
-    "Compare": "83.11%",
-    "MP Vassals": "50,251.09",
+    "Compare": "83.29%",
+    "MP Vassals": "50,358.34",
     "MP Over.": "60,459.78",
-    "20% Total": "26.34%",
+    "20% Total": "26.99%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
