@@ -2564,9 +2564,9 @@
   "Dinasygan": {
     "Nations": "Dinasygan",
     "Nation Check": "Dinasygan",
-    "Pow_Army": "1,192",
+    "Pow_Army": "1,191",
     "Pow_Navy": "0",
-    "Manpower": "39,173",
+    "Manpower": "39,119",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "40,500.00",
@@ -3401,12 +3401,12 @@
     "Merc 3": "0",
     "Merc 4": null
   },
-  "Free City of Fray Ventos": {
-    "Nations": "Free City of Fray Ventos",
-    "Nation Check": "Free City of Fray Ventos",
-    "Pow_Army": "4,179",
+  "Fray Ventos": {
+    "Nations": "Fray Ventos",
+    "Nation Check": "Fray Ventos",
+    "Pow_Army": "4,163",
     "Pow_Navy": "935",
-    "Manpower": "142,184",
+    "Manpower": "140,585",
     "Manpower Avail.": "13,732",
     "Upkeep": "",
     "Upkeep Army": "200,475.00",

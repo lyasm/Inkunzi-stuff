@@ -3216,7 +3216,7 @@
       "Trade 5 Value": "2,364.06"
     },
     "Trade 6": {
-      "Value": "Free City of Fray Ventos",
+      "Value": "Fray Ventos",
       "Trade 6 Value": "19,282.63"
     },
     "Trade 7": {
@@ -4240,7 +4240,7 @@
       "Trade 6 Value": "31,240.00"
     },
     "Trade 7": {
-      "Value": "Free City of Fray Ventos",
+      "Value": "Fray Ventos",
       "Trade 7 Value": "19,282.63"
     },
     "Trade 8": {
@@ -5480,7 +5480,7 @@
       "Trade 10 Value": "16,743.75"
     },
     "Trade 11": {
-      "Value": "Free City of Fray Ventos",
+      "Value": "Fray Ventos",
       "Trade 11 Value": "19,282.63"
     },
     "Trade 12": {
@@ -6076,8 +6076,8 @@
       "Trade 6 Value": "8,360.00"
     },
     "Trade 7": {
-      "Value": "Glasrhaidd",
-      "Trade 7 Value": "3,368.75"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "Sajuanelhi",
@@ -6111,13 +6111,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "45,749.56",
+    "Raw Trade Income": "42,380.81",
     "Tariffs": "0.75",
-    "Trade Income": "34,312.17",
+    "Trade Income": "31,785.61",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
-    "Trades": "8"
+    "Trades": "7"
   },
   "Diogen": {
     "Nations": "Diogen",
@@ -6328,11 +6328,11 @@
     "Nation Check": "Drionn Galith",
     "Overlord": "",
     "Eco Vassals": "48,534.38",
-    "Eco Over.": "181,721.74",
+    "Eco Over.": "178,521.43",
     "Compare": "66.05%",
     "MP Vassals": "33,893.75",
     "MP Over.": "51,315.00",
-    "20% Total": "18.55%",
+    "20% Total": "18.65%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -6362,8 +6362,8 @@
       "Trade 1 Value": "3,110.00"
     },
     "Trade 2": {
-      "Value": "Glasrhaidd",
-      "Trade 2 Value": "3,368.75"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
       "Value": "United Federation of Malam States",
@@ -6417,13 +6417,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "32,343.94",
+    "Raw Trade Income": "28,975.19",
     "Tariffs": "0.95",
-    "Trade Income": "30,726.74",
+    "Trade Income": "27,526.43",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "9"
+    "Trades": "8"
   },
   "Elphonsa": {
     "Nations": "Elphonsa",
@@ -7892,7 +7892,7 @@
       "Trade 1 Value": "5,410.63"
     },
     "Trade 2": {
-      "Value": "Free City of Fray Ventos",
+      "Value": "Fray Ventos",
       "Trade 2 Value": "19,282.63"
     },
     "Trade 3": {
@@ -8057,16 +8057,16 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  "Free City of Fray Ventos": {
-    "Nations": "Free City of Fray Ventos",
-    "Nation Check": "Free City of Fray Ventos",
+  "Fray Ventos": {
+    "Nations": "Fray Ventos",
+    "Nation Check": "Fray Ventos",
     "Overlord": "",
-    "Eco Vassals": "70,452.91",
-    "Eco Over.": "497,323.05",
-    "Compare": "4.70%",
+    "Eco Vassals": "48,849.63",
+    "Eco Over.": "490,662.89",
+    "Compare": "4.75%",
     "MP Vassals": "6,679.75",
-    "MP Over.": "142,183.63",
-    "20% Total": "3.77%",
+    "MP Over.": "140,585.19",
+    "20% Total": "2.94%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -8189,7 +8189,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "Free City of Fray Ventos",
+    "Defensive Pacts 2": "Fray Ventos",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "10",
@@ -8784,9 +8784,9 @@
     "Vassal Type": "Autonomous",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-0.40%",
-    "Comparison": "18.55%",
-    "Individual": "18.55%",
+    "Base": "-0.21%",
+    "Comparison": "18.65%",
+    "Individual": "18.65%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -9006,7 +9006,7 @@
     "Non-aggression Pacts": "Alonissos Isles, Aethyrrajyam, Clan Làidirsgith, Lowy Combine, WrestleMania, Onaokoku",
     "Defensive Pacts": "Council of the Alonissos Isles",
     "Defensive Pacts 2": "Lowy Combine",
-    "Military Alliances": "Free City of Fray Ventos",
+    "Military Alliances": "Fray Ventos",
     "Military Alliances 2": "Nixond",
     "Limit": "8",
     "Trade 1": {
@@ -20429,7 +20429,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "Fray Ventos, Petty Imperium (idk what Constantine's nation is called)",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "Free City of Fray Ventos",
+    "Defensive Pacts 2": "Fray Ventos",
     "Military Alliances": "",
     "Military Alliances 2": "Gno’hdail Impireachd",
     "Limit": "9",
@@ -20442,7 +20442,7 @@
       "Trade 2 Value": "31,240.00"
     },
     "Trade 3": {
-      "Value": "Free City of Fray Ventos",
+      "Value": "Fray Ventos",
       "Trade 3 Value": "19,282.63"
     },
     "Trade 4": {
@@ -21082,7 +21082,7 @@
       "Trade 9 Value": "16,373.44"
     },
     "Trade 10": {
-      "Value": "Free City of Fray Ventos",
+      "Value": "Fray Ventos",
       "Trade 10 Value": "19,282.63"
     },
     "Trade 11": {
@@ -23287,7 +23287,7 @@
     "Defensive Pacts": "Nixond",
     "Defensive Pacts 2": "",
     "Military Alliances": "Restored Arisii Confederation",
-    "Military Alliances 2": "Free City of Fray Ventos",
+    "Military Alliances 2": "Fray Ventos",
     "Limit": "8",
     "Trade 1": {
       "Value": "",
@@ -23386,9 +23386,9 @@
     "Ov. Culture": "Kranic",
     "Ov. Religion": "Amnesian",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Free City of Fray Ventos",
+    "Defensive Pacts": "Fray Ventos",
     "Defensive Pacts 2": "Nixond",
-    "Military Alliances": "Free City of Fray Ventos",
+    "Military Alliances": "Fray Ventos",
     "Military Alliances 2": "Republyk Balresk",
     "Limit": "8",
     "Trade 1": {
@@ -27746,7 +27746,7 @@
   "The Charter Territory of Riveria": {
     "Nations": "The Charter Territory of Riveria",
     "Nation Check": "The Charter Territory of Riveria",
-    "Overlord": "Free City of Fray Ventos",
+    "Overlord": "Fray Ventos",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
@@ -27755,10 +27755,10 @@
     "20% Total": "",
     "Vassal Type": "",
     "": "",
-    "L. Desire": "2.55%",
-    "Base": "2.55%",
-    "Comparison": "3.77%",
-    "Individual": "3.77%",
+    "L. Desire": "0.88%",
+    "Base": "0.88%",
+    "Comparison": "2.94%",
+    "Individual": "2.94%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -27782,8 +27782,8 @@
       "Trade 1 Value": "24,765.00"
     },
     "Trade 2": {
-      "Value": "Free City of Fray Ventos",
-      "Trade 2 Value": "19,282.63"
+      "Value": "fra",
+      "Trade 2 Value": "2,000.00"
     },
     "Trade 3": {
       "Value": "",
@@ -27837,9 +27837,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "44,047.63",
+    "Raw Trade Income": "26,765.00",
     "Tariffs": "1.25",
-    "Trade Income": "55,059.53",
+    "Trade Income": "33,456.25",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
