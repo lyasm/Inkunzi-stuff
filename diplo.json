@@ -6353,8 +6353,8 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "Drionn Galith",
-    "Military Alliances": "Glasrhaidd",
+    "Defensive Pacts 2": "Ceridwyn Teulu",
+    "Military Alliances": "",
     "Military Alliances 2": "Svetograd",
     "Limit": "9",
     "Trade 1": {
@@ -6422,7 +6422,7 @@
     "Trade Income": "27,526.43",
     "NAPs": "0",
     "Def. Pacts": "1",
-    "Mil. Pacts": "2",
+    "Mil. Pacts": "1",
     "Trades": "8"
   },
   "Elphonsa": {
@@ -19996,11 +19996,11 @@
     "Nation Check": "Nāšā Qaḏmāyā",
     "Overlord": "",
     "Eco Vassals": "58,264.50",
-    "Eco Over.": "341,279.67",
+    "Eco Over.": "338,159.51",
     "Compare": "33.83%",
     "MP Vassals": "31,934.38",
     "MP Over.": "94,409.38",
-    "20% Total": "10.18%",
+    "20% Total": "10.21%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -20058,8 +20058,8 @@
       "Trade 8 Value": "3,262.50"
     },
     "Trade 9": {
-      "Value": "Rosefire Dynasty",
-      "Trade 9 Value": "3,284.38"
+      "Value": "",
+      "Trade 9 Value": ""
     },
     "Trade 10": {
       "Value": "",
@@ -20085,13 +20085,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "62,119.39",
+    "Raw Trade Income": "58,835.01",
     "Tariffs": "0.95",
-    "Trade Income": "59,013.42",
+    "Trade Income": "55,893.26",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "8"
+    "Trades": "7"
   },
   "Natałor": {
     "Nations": "Natałor",
@@ -34895,10 +34895,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "55.36%",
-    "Base": "55.36%",
-    "Comparison": "10.18%",
-    "Individual": "10.18%",
+    "L. Desire": "55.42%",
+    "Base": "55.42%",
+    "Comparison": "10.21%",
+    "Individual": "10.21%",
     "Friend/Rival": "0.00%",
     "Taxes": "20.00%",
     "Indep War?": "",
