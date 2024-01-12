@@ -9238,8 +9238,8 @@
       "Trade 6 Value": "4,042.50"
     },
     "Trade 7": {
-      "Value": "Imperial Theocracy of Borbenska",
-      "Trade 7 Value": "2,100.00"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "Akali",
@@ -9273,13 +9273,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "38,226.25",
+    "Raw Trade Income": "36,126.25",
     "Tariffs": "0.95",
-    "Trade Income": "36,314.94",
+    "Trade Income": "34,319.94",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "8"
+    "Trades": "7"
   },
   "Gramantinia": {
     "Nations": "Gramantinia",
