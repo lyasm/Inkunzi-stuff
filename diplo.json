@@ -6328,11 +6328,11 @@
     "Nation Check": "Drionn Galith",
     "Overlord": "",
     "Eco Vassals": "57,574.38",
-    "Eco Over.": "170,161.43",
+    "Eco Over.": "182,223.82",
     "Compare": "66.05%",
     "MP Vassals": "33,893.75",
     "MP Over.": "51,315.00",
-    "20% Total": "19.98%",
+    "20% Total": "19.53%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -6362,8 +6362,8 @@
       "Trade 1 Value": "3,110.00"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "The Sacred Band of Sargon",
+      "Trade 2 Value": "3,861.25"
     },
     "Trade 3": {
       "Value": "United Federation of Malam States",
@@ -6382,8 +6382,8 @@
       "Trade 6 Value": "1,200.00"
     },
     "Trade 7": {
-      "Value": "Zuntirar",
-      "Trade 7 Value": "2,000.00"
+      "Value": "Republic o. Zuntirar",
+      "Trade 7 Value": "10,836.00"
     },
     "Trade 8": {
       "Value": "Chernkov",
@@ -6417,13 +6417,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "28,975.19",
+    "Raw Trade Income": "41,672.44",
     "Tariffs": "0.95",
-    "Trade Income": "27,526.43",
+    "Trade Income": "39,588.82",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "8"
+    "Trades": "9"
   },
   "Elphonsa": {
     "Nations": "Elphonsa",
@@ -6970,8 +6970,8 @@
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Drionn Galith",
+      "Trade 1 Value": "3,029.00"
     },
     "Trade 2": {
       "Value": "",
@@ -7029,13 +7029,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "3,029.00",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "2,877.55",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "1"
   },
   "Ewig Republic": {
     "Nations": "Ewig Republic",
@@ -8783,10 +8783,10 @@
     "20% Total": "",
     "Vassal Type": "Autonomous",
     "": "",
-    "L. Desire": "2.45%",
-    "Base": "2.45%",
-    "Comparison": "19.98%",
-    "Individual": "19.98%",
+    "L. Desire": "1.56%",
+    "Base": "1.56%",
+    "Comparison": "19.53%",
+    "Individual": "19.53%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
