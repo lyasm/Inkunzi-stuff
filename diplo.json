@@ -4108,9 +4108,9 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Free City of Zephon",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "High City of Tirsil",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "High City of Tirsil",
+    "Military Alliances": "Nuanta",
     "Military Alliances 2": "Maatada Istara",
     "Limit": "10",
     "Trade 1": {
@@ -10535,8 +10535,8 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "Unified Republic of Kaiarau",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "City State of Kido",
+    "Defensive Pacts 2": "City State of Kido",
+    "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "9.5",
     "Trade 1": {
@@ -10603,8 +10603,8 @@
     "Tariffs": "0.75",
     "Trade Income": "55,678.83",
     "NAPs": "0",
-    "Def. Pacts": "1",
-    "Mil. Pacts": "1",
+    "Def. Pacts": "2",
+    "Mil. Pacts": "0",
     "Trades": "9"
   },
   "Him Maliataki": {
@@ -35432,8 +35432,8 @@
       "Trade 1 Value": "9,996.00"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Meadoia Dynasty",
+      "Trade 2 Value": "62,925.00"
     },
     "Trade 3": {
       "Value": "",
@@ -35487,13 +35487,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "9,996.00",
+    "Raw Trade Income": "72,921.00",
     "Tariffs": "0.95",
-    "Trade Income": "9,496.20",
+    "Trade Income": "69,274.95",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "1"
+    "Trades": "2"
   },
   "Hedeby": {
     "Nations": "Hedeby",
