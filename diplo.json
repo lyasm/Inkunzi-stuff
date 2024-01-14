@@ -35319,7 +35319,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "",
+    "Non-aggression Pacts": "Raaspazzlivatl",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
@@ -35334,12 +35334,12 @@
       "Trade 2 Value": "2,000.00"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Raaspazzlivatl",
+      "Trade 3 Value": "3,062.50"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Voreios",
+      "Trade 4 Value": "2,000.00"
     },
     "Trade 5": {
       "Value": "",
@@ -35385,13 +35385,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "7,153.75",
+    "Raw Trade Income": "12,216.25",
     "Tariffs": "0.75",
-    "Trade Income": "5,365.31",
-    "NAPs": "0",
+    "Trade Income": "9,162.19",
+    "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "2"
+    "Trades": "4"
   },
   "Pentru": {
     "Nations": "Pentru",
