@@ -647,7 +647,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Kaug-Põhja",
-      "Trade 1 Value": "3,675.00"
+      "Trade 1 Value": "6,150.00"
     },
     "Trade 2": {
       "Value": "Araybattahya ",
@@ -705,9 +705,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "53,415.25",
+    "Raw Trade Income": "55,890.25",
     "Tariffs": "0.75",
-    "Trade Income": "40,061.44",
+    "Trade Income": "41,917.69",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -1577,7 +1577,7 @@
     },
     "Trade 4": {
       "Value": "Kaug-Põhja",
-      "Trade 4 Value": "3,675.00"
+      "Trade 4 Value": "6,150.00"
     },
     "Trade 5": {
       "Value": "Kingdom of the Aurore",
@@ -1623,9 +1623,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "44,641.25",
+    "Raw Trade Income": "47,116.25",
     "Tariffs": "1.05",
-    "Trade Income": "46,873.31",
+    "Trade Income": "49,472.06",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -2248,11 +2248,11 @@
     "Nation Check": "Audgunn",
     "Overlord": "",
     "Eco Vassals": "107,873.95",
-    "Eco Over.": "398,229.41",
-    "Compare": "11.86%",
+    "Eco Over.": "319,272.72",
+    "Compare": "11.87%",
     "MP Vassals": "18,392.00",
-    "MP Over.": "155,025.75",
-    "20% Total": "7.79%",
+    "MP Over.": "154,930.88",
+    "20% Total": "9.13%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -2290,8 +2290,8 @@
       "Trade 3 Value": "9,996.00"
     },
     "Trade 4": {
-      "Value": "Meadoia Dynasty",
-      "Trade 4 Value": "62,925.00"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "Republic of Nymaró",
@@ -2337,13 +2337,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "107,728.13",
+    "Raw Trade Income": "44,803.13",
     "Tariffs": "1.25",
-    "Trade Income": "134,660.16",
+    "Trade Income": "56,003.91",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "6"
+    "Trades": "5"
   },
   "Autoriteit Hollezel": {
     "Nations": "Autoriteit Hollezel",
@@ -3299,7 +3299,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Stratavia",
-      "Trade 1 Value": "2,655.00"
+      "Trade 1 Value": "7,500.00"
     },
     "Trade 2": {
       "Value": "Kingdom of Ardungual",
@@ -3357,9 +3357,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "51,786.19",
+    "Raw Trade Income": "56,631.19",
     "Tariffs": "0.75",
-    "Trade Income": "38,839.64",
+    "Trade Income": "42,473.39",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -4625,7 +4625,7 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Kaug-Põhja",
-      "Trade 1 Value": "3,675.00"
+      "Trade 1 Value": "6,150.00"
     },
     "Trade 2": {
       "Value": "The House",
@@ -4683,9 +4683,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "7,827.50",
+    "Raw Trade Income": "10,302.50",
     "Tariffs": "0.95",
-    "Trade Income": "7,436.13",
+    "Trade Income": "9,787.38",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -5766,8 +5766,8 @@
       "Trade 5 Value": "34,090.00"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "The Galdu Ipar Republic",
+      "Trade 6 Value": "5,331.25"
     },
     "Trade 7": {
       "Value": "",
@@ -5805,13 +5805,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "68,125.75",
+    "Raw Trade Income": "73,457.00",
     "Tariffs": "0.95",
-    "Trade Income": "64,719.46",
+    "Trade Income": "69,784.15",
     "NAPs": "3",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Denirar": {
     "Nations": "Denirar",
@@ -6178,8 +6178,8 @@
       "Trade 6 Value": "3,225.00"
     },
     "Trade 7": {
-      "Value": "Kingdom of Járnfjall",
-      "Trade 7 Value": "5,137.50"
+      "Value": "Meadoia Dynasty",
+      "Trade 7 Value": "62,925.00"
     },
     "Trade 8": {
       "Value": "The Trade Families of Kemakmura",
@@ -6213,9 +6213,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "67,082.75",
+    "Raw Trade Income": "124,870.25",
     "Tariffs": "0.75",
-    "Trade Income": "50,312.06",
+    "Trade Income": "93,652.69",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -9498,9 +9498,9 @@
     "Vassal Type": "Mercantile",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-11.92%",
-    "Comparison": "7.79%",
-    "Individual": "7.79%",
+    "Base": "-9.24%",
+    "Comparison": "9.13%",
+    "Individual": "9.13%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -11054,8 +11054,8 @@
       "Trade 1 Value": "4,462.50"
     },
     "Trade 2": {
-      "Value": "Meadoia Dynasty",
-      "Trade 2 Value": "62,925.00"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
       "Value": "Tuk Dynasty",
@@ -11109,13 +11109,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "81,683.50",
+    "Raw Trade Income": "18,758.50",
     "Tariffs": "1.05",
-    "Trade Income": "85,767.68",
+    "Trade Income": "19,696.43",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "4"
+    "Trades": "3"
   },
   "Hui Kai": {
     "Nations": "Hui Kai",
@@ -13067,10 +13067,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "28.01%",
-    "Base": "28.01%",
-    "Comparison": "16.25%",
-    "Individual": "16.25%",
+    "L. Desire": "28.12%",
+    "Base": "28.12%",
+    "Comparison": "16.31%",
+    "Individual": "16.31%",
     "Friend/Rival": "0.00%",
     "Taxes": "7.50%",
     "Indep War?": "",
@@ -13598,7 +13598,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "Clankar Cog",
     "Military Alliances 2": "Stortingr Republik af Frystdömet",
-    "Limit": "8",
+    "Limit": "9",
     "Trade 1": {
       "Value": "Pyhätmetsät",
       "Trade 1 Value": "3,062.50"
@@ -17242,11 +17242,11 @@
     "Nation Check": "Lună sângeroasă",
     "Overlord": "",
     "Eco Vassals": "75,250.28",
-    "Eco Over.": "146,037.13",
+    "Eco Over.": "145,211.82",
     "Compare": "29.74%",
     "MP Vassals": "15,095.44",
     "MP Over.": "50,765.00",
-    "20% Total": "16.25%",
+    "20% Total": "16.31%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -17277,7 +17277,7 @@
     },
     "Trade 2": {
       "Value": "Cleannmor",
-      "Trade 2 Value": "3,475.00"
+      "Trade 2 Value": "2,606.25"
     },
     "Trade 3": {
       "Value": "Karak Helhein",
@@ -17331,9 +17331,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "36,738.56",
+    "Raw Trade Income": "35,869.81",
     "Tariffs": "0.95",
-    "Trade Income": "34,901.63",
+    "Trade Income": "34,076.32",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -18838,8 +18838,8 @@
       "Trade 9 Value": "7,072.50"
     },
     "Trade 10": {
-      "Value": "Republic of Nymaró",
-      "Trade 10 Value": "9,550.00"
+      "Value": "Diogen",
+      "Trade 10 Value": "6,440.00"
     },
     "Trade 11": {
       "Value": "Clan of Skye ",
@@ -18861,9 +18861,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "72,998.44",
+    "Raw Trade Income": "69,888.44",
     "Tariffs": "0.95",
-    "Trade Income": "69,348.52",
+    "Trade Income": "66,394.02",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -19137,7 +19137,7 @@
     },
     "Trade 8": {
       "Value": "Stratavia",
-      "Trade 8 Value": "2,655.00"
+      "Trade 8 Value": "7,500.00"
     },
     "Trade 9": {
       "Value": "",
@@ -19167,9 +19167,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,210.00",
+    "Raw Trade Income": "45,055.00",
     "Tariffs": "0.95",
-    "Trade Income": "38,199.50",
+    "Trade Income": "42,802.25",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -22271,7 +22271,7 @@
     "Limit": "6",
     "Trade 1": {
       "Value": "Kaug-Põhja",
-      "Trade 1 Value": "3,675.00"
+      "Trade 1 Value": "6,150.00"
     },
     "Trade 2": {
       "Value": "Remid Republic",
@@ -22329,9 +22329,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "31,713.75",
+    "Raw Trade Income": "34,188.75",
     "Tariffs": "1.00",
-    "Trade Income": "31,713.75",
+    "Trade Income": "34,188.75",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -22883,7 +22883,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Kaug-Põhja",
-      "Trade 1 Value": "3,675.00"
+      "Trade 1 Value": "6,150.00"
     },
     "Trade 2": {
       "Value": "Stortingr Republik af Frystdömet",
@@ -22941,9 +22941,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "64,840.63",
+    "Raw Trade Income": "67,315.63",
     "Tariffs": "0.95",
-    "Trade Income": "61,598.59",
+    "Trade Income": "63,949.84",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -23098,8 +23098,8 @@
       "Trade 3 Value": "4,410.00"
     },
     "Trade 4": {
-      "Value": "Meadoia Dynasty",
-      "Trade 4 Value": "62,925.00"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "Sarmatai Confederation",
@@ -23145,13 +23145,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "116,359.13",
+    "Raw Trade Income": "53,434.13",
     "Tariffs": "0.95",
-    "Trade Income": "110,541.17",
+    "Trade Income": "50,762.42",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "9"
+    "Trades": "8"
   },
   "Republic of Rostora": {
     "Nations": "Republic of Rostora",
@@ -24535,7 +24535,7 @@
     },
     "Trade 6": {
       "Value": "Cleannmor",
-      "Trade 6 Value": "3,475.00"
+      "Trade 6 Value": "2,606.25"
     },
     "Trade 7": {
       "Value": "",
@@ -24573,9 +24573,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "21,184.69",
+    "Raw Trade Income": "20,315.94",
     "Tariffs": "0.95",
-    "Trade Income": "20,125.45",
+    "Trade Income": "19,300.14",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -25947,7 +25947,7 @@
     },
     "Trade 2": {
       "Value": "Kaug-Põhja",
-      "Trade 2 Value": "3,675.00"
+      "Trade 2 Value": "6,150.00"
     },
     "Trade 3": {
       "Value": "Remid Republic",
@@ -26001,9 +26001,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,760.06",
+    "Raw Trade Income": "43,235.06",
     "Tariffs": "0.95",
-    "Trade Income": "38,722.06",
+    "Trade Income": "41,073.31",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -26042,7 +26042,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "Ligurth",
-    "Limit": "8",
+    "Limit": "9",
     "Trade 1": {
       "Value": "Jubal'on",
       "Trade 1 Value": "3,368.75"
@@ -26457,7 +26457,7 @@
     },
     "Trade 2": {
       "Value": "Kaug-Põhja",
-      "Trade 2 Value": "3,675.00"
+      "Trade 2 Value": "6,150.00"
     },
     "Trade 3": {
       "Value": "Akaḣpetoƞ",
@@ -26511,9 +26511,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "57,712.31",
+    "Raw Trade Income": "60,187.31",
     "Tariffs": "0.75",
-    "Trade Income": "43,284.23",
+    "Trade Income": "45,140.48",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -28288,8 +28288,8 @@
     "Military Alliances 2": "",
     "Limit": "10",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Darzi Loyalists",
+      "Trade 1 Value": "11,875.00"
     },
     "Trade 2": {
       "Value": "",
@@ -28347,13 +28347,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "11,875.00",
     "Tariffs": "0.75",
-    "Trade Income": "0.00",
+    "Trade Income": "8,906.25",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "1"
   },
   "The Gavi’ Kingdom": {
     "Nations": "The Gavi’ Kingdom",
@@ -29818,8 +29818,8 @@
     "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
-      "Value": "Elphonsa",
-      "Trade 1 Value": "2,296.88"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
       "Value": "Murenman",
@@ -29877,13 +29877,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "18,963.19",
+    "Raw Trade Income": "16,666.31",
     "Tariffs": "1.00",
-    "Trade Income": "18,963.19",
+    "Trade Income": "16,666.31",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
-    "Trades": "5"
+    "Trades": "4"
   },
   "The Nema Pact": {
     "Nations": "The Nema Pact",
@@ -30643,7 +30643,7 @@
     },
     "Trade 3": {
       "Value": "Stratavia",
-      "Trade 3 Value": "2,655.00"
+      "Trade 3 Value": "7,500.00"
     },
     "Trade 4": {
       "Value": "",
@@ -30693,9 +30693,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "8,854.38",
+    "Raw Trade Income": "13,699.38",
     "Tariffs": "1.05",
-    "Trade Income": "9,297.09",
+    "Trade Income": "14,384.34",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -33491,7 +33491,7 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Kaug-Põhja",
-      "Trade 1 Value": "3,675.00"
+      "Trade 1 Value": "6,150.00"
     },
     "Trade 2": {
       "Value": "",
@@ -33549,9 +33549,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "3,675.00",
+    "Raw Trade Income": "6,150.00",
     "Tariffs": "0.95",
-    "Trade Income": "3,491.25",
+    "Trade Income": "5,842.50",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
