@@ -3808,20 +3808,20 @@
     "Military Alliances 2": "Audgunn",
     "Limit": "8",
     "Trade 1": {
-      "Value": "Stryaxina",
-      "Trade 1 Value": "8,425.63"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
-      "Value": "Natałor",
-      "Trade 2 Value": "2,150.00"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
-      "Value": "Audgunn",
-      "Trade 3 Value": "9,438.75"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "Mizarina",
-      "Trade 4 Value": "2,908.75"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "",
@@ -3867,13 +3867,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "22,923.13",
+    "Raw Trade Income": "0.00",
     "Tariffs": "0.95",
-    "Trade Income": "21,776.97",
+    "Trade Income": "0.00",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "4"
+    "Trades": "0"
   },
   "Chernkov": {
     "Nations": "Chernkov",
