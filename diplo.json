@@ -682,8 +682,8 @@
       "Trade 9 Value": "4,895.00"
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": "Snezhin",
+      "Trade 10 Value": "6,095.00"
     },
     "Trade 11": {
       "Value": "",
@@ -705,13 +705,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "55,890.25",
+    "Raw Trade Income": "61,985.25",
     "Tariffs": "0.75",
-    "Trade Income": "41,917.69",
+    "Trade Income": "46,488.94",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "9"
+    "Trades": "10"
   },
   "Akali": {
     "Nations": "Akali",
@@ -13624,8 +13624,8 @@
       "Trade 6 Value": "5,950.00"
     },
     "Trade 7": {
-      "Value": "Vorokov",
-      "Trade 7 Value": "3,632.75"
+      "Value": "Snezhin",
+      "Trade 7 Value": "6,095.00"
     },
     "Trade 8": {
       "Value": "Araybattahya ",
@@ -13659,9 +13659,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "44,775.56",
+    "Raw Trade Income": "47,237.81",
     "Tariffs": "0.95",
-    "Trade Income": "42,536.78",
+    "Trade Income": "44,875.92",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -18823,7 +18823,7 @@
     },
     "Trade 6": {
       "Value": "Pentru",
-      "Trade 6 Value": "2,650.00"
+      "Trade 6 Value": "4,300.00"
     },
     "Trade 7": {
       "Value": "Arcadia",
@@ -18861,9 +18861,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "62,874.44",
+    "Raw Trade Income": "64,524.44",
     "Tariffs": "0.95",
-    "Trade Income": "59,730.72",
+    "Trade Income": "61,298.22",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -32401,7 +32401,7 @@
     },
     "Trade 9": {
       "Value": "Pentru",
-      "Trade 9 Value": "2,650.00"
+      "Trade 9 Value": "4,300.00"
     },
     "Trade 10": {
       "Value": "Sarmatai Confederation",
@@ -32427,9 +32427,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "123,638.75",
+    "Raw Trade Income": "125,288.75",
     "Tariffs": "0.95",
-    "Trade Income": "117,456.81",
+    "Trade Income": "119,024.31",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -35224,12 +35224,12 @@
     "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Akaḣpetoƞ",
+      "Trade 1 Value": "5,950.00"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Kaug-Põhja",
+      "Trade 2 Value": "6,150.00"
     },
     "Trade 3": {
       "Value": "",
@@ -35283,13 +35283,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "12,100.00",
     "Tariffs": "1.05",
-    "Trade Income": "0.00",
+    "Trade Income": "12,705.00",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "2"
   },
   "Handle Kingdom": {
     "Nations": "Handle Kingdom",
