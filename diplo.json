@@ -5410,11 +5410,11 @@
     "Nation Check": "Council of the Alonissos Isles",
     "Overlord": "",
     "Eco Vassals": "392,289.73",
-    "Eco Over.": "714,742.70",
-    "Compare": "87.40%",
+    "Eco Over.": "726,539.18",
+    "Compare": "86.98%",
     "MP Vassals": "174,480.97",
-    "MP Over.": "199,645.88",
-    "20% Total": "28.46%",
+    "MP Over.": "200,592.56",
+    "20% Total": "28.20%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -5452,8 +5452,8 @@
       "Trade 3 Value": "24,765.00"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Ilikiu'Foriris",
+      "Trade 4 Value": "7,850.00"
     },
     "Trade 5": {
       "Value": "Candentis Jalin",
@@ -5499,13 +5499,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "109,825.13",
+    "Raw Trade Income": "117,675.13",
     "Tariffs": "0.95",
-    "Trade Income": "104,333.87",
+    "Trade Income": "111,791.37",
     "NAPs": "6",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "11"
+    "Trades": "12"
   },
   "Daemonic Inquisition": {
     "Nations": "Daemonic Inquisition",
@@ -5825,10 +5825,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "33.30%",
-    "Base": "33.30%",
-    "Comparison": "28.46%",
-    "Individual": "3.18%",
+    "L. Desire": "33.00%",
+    "Base": "33.00%",
+    "Comparison": "28.20%",
+    "Individual": "3.14%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
@@ -14087,10 +14087,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "11.23%",
-    "Base": "11.23%",
-    "Comparison": "28.46%",
-    "Individual": "25.28%",
+    "L. Desire": "10.75%",
+    "Base": "10.75%",
+    "Comparison": "28.20%",
+    "Individual": "25.05%",
     "Friend/Rival": "-25.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
