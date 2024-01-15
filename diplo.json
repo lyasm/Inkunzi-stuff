@@ -6458,7 +6458,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "Imperial City of Soria",
     "Military Alliances 2": "Kinh Nam City-State",
-    "Limit": "8",
+    "Limit": "9",
     "Trade 1": {
       "Value": "Imperial City of Soria",
       "Trade 1 Value": "2,208.75"
@@ -6477,7 +6477,7 @@
     },
     "Trade 5": {
       "Value": "Kinh Nam City-State",
-      "Trade 5 Value": "7,288.88"
+      "Trade 5 Value": "13,006.13"
     },
     "Trade 6": {
       "Value": "",
@@ -6519,9 +6519,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "19,440.13",
+    "Raw Trade Income": "25,157.38",
     "Tariffs": "0.95",
-    "Trade Income": "18,468.12",
+    "Trade Income": "23,899.51",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -7081,7 +7081,7 @@
     },
     "Trade 3": {
       "Value": "Elphonsa",
-      "Trade 3 Value": "2,296.88"
+      "Trade 3 Value": "5,545.31"
     },
     "Trade 4": {
       "Value": "",
@@ -7131,9 +7131,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "10,911.88",
+    "Raw Trade Income": "14,160.31",
     "Tariffs": "0.95",
-    "Trade Income": "10,366.28",
+    "Trade Income": "13,452.30",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -11867,7 +11867,7 @@
     "Limit": "6",
     "Trade 1": {
       "Value": "Kinh Nam City-State",
-      "Trade 1 Value": "7,288.88"
+      "Trade 1 Value": "13,006.13"
     },
     "Trade 2": {
       "Value": "Kingdom of Gallacia",
@@ -11883,7 +11883,7 @@
     },
     "Trade 5": {
       "Value": "Elphonsa",
-      "Trade 5 Value": "2,296.88"
+      "Trade 5 Value": "5,545.31"
     },
     "Trade 6": {
       "Value": "Nournourlant",
@@ -11925,9 +11925,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "43,453.38",
+    "Raw Trade Income": "52,419.06",
     "Tariffs": "1.05",
-    "Trade Income": "45,626.04",
+    "Trade Income": "55,040.02",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -13805,7 +13805,7 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Kinh Nam City-State",
-      "Trade 1 Value": "7,288.88"
+      "Trade 1 Value": "13,006.13"
     },
     "Trade 2": {
       "Value": "Kingdom of Mimgrond",
@@ -13863,9 +13863,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "50,167.88",
+    "Raw Trade Income": "55,885.13",
     "Tariffs": "0.95",
-    "Trade Income": "47,659.48",
+    "Trade Income": "53,090.87",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -14527,7 +14527,7 @@
     },
     "Trade 3": {
       "Value": "Kinh Nam City-State",
-      "Trade 3 Value": "7,288.88"
+      "Trade 3 Value": "13,006.13"
     },
     "Trade 4": {
       "Value": "Nournourlant",
@@ -14577,9 +14577,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "125,048.48",
+    "Raw Trade Income": "130,765.73",
     "Tariffs": "0.95",
-    "Trade Income": "118,796.06",
+    "Trade Income": "124,227.45",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -14699,10 +14699,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "49.93%",
-    "Base": "49.93%",
-    "Comparison": "32.46%",
-    "Individual": "32.46%",
+    "L. Desire": "49.51%",
+    "Base": "49.51%",
+    "Comparison": "32.25%",
+    "Individual": "32.25%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -15202,11 +15202,11 @@
     "Nation Check": "Kingdom of Mimgrond",
     "Overlord": "",
     "Eco Vassals": "139,242.84",
-    "Eco Over.": "297,442.74",
+    "Eco Over.": "302,874.13",
     "Compare": "24.30%",
     "MP Vassals": "19,944.03",
     "MP Over.": "82,087.50",
-    "20% Total": "14.22%",
+    "20% Total": "14.05%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -15245,7 +15245,7 @@
     },
     "Trade 4": {
       "Value": "Kinh Nam City-State",
-      "Trade 4 Value": "7,288.88"
+      "Trade 4 Value": "13,006.13"
     },
     "Trade 5": {
       "Value": "Scientarium",
@@ -15291,9 +15291,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "136,228.94",
+    "Raw Trade Income": "141,946.19",
     "Tariffs": "0.95",
-    "Trade Income": "129,417.49",
+    "Trade Income": "134,848.88",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -15740,7 +15740,7 @@
     "Defensive Pacts 2": "Kingdom of Gallacia",
     "Military Alliances": "Elphonsa",
     "Military Alliances 2": "Imperial City of Soria",
-    "Limit": "9",
+    "Limit": "10",
     "Trade 1": {
       "Value": "Kingdom of Gallacia",
       "Trade 1 Value": "13,464.75"
@@ -15763,7 +15763,7 @@
     },
     "Trade 6": {
       "Value": "Elphonsa",
-      "Trade 6 Value": "2,296.88"
+      "Trade 6 Value": "5,545.31"
     },
     "Trade 7": {
       "Value": "Kingdom of Mimgrond",
@@ -15801,9 +15801,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "60,354.13",
+    "Raw Trade Income": "63,602.56",
     "Tariffs": "0.95",
-    "Trade Income": "57,336.42",
+    "Trade Income": "60,422.43",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -17701,7 +17701,7 @@
     },
     "Trade 6": {
       "Value": "Elphonsa",
-      "Trade 6 Value": "2,296.88"
+      "Trade 6 Value": "5,545.31"
     },
     "Trade 7": {
       "Value": "The Holy Realm of Herkunft",
@@ -17739,9 +17739,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "42,730.25",
+    "Raw Trade Income": "45,978.69",
     "Tariffs": "0.95",
-    "Trade Income": "40,593.74",
+    "Trade Income": "43,679.75",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -17897,7 +17897,7 @@
     },
     "Trade 4": {
       "Value": "Kinh Nam City-State",
-      "Trade 4 Value": "7,288.88"
+      "Trade 4 Value": "13,006.13"
     },
     "Trade 5": {
       "Value": "The Animal Kingdom",
@@ -17943,9 +17943,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "46,691.38",
+    "Raw Trade Income": "52,408.63",
     "Tariffs": "1.25",
-    "Trade Income": "58,364.22",
+    "Trade Income": "65,510.78",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -20506,11 +20506,11 @@
     "Nation Check": "Nournourlant",
     "Overlord": "",
     "Eco Vassals": "110,413.13",
-    "Eco Over.": "310,881.69",
+    "Eco Over.": "316,313.08",
     "Compare": "19.21%",
     "MP Vassals": "22,763.13",
     "MP Over.": "118,511.25",
-    "20% Total": "10.94%",
+    "20% Total": "10.82%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -20569,7 +20569,7 @@
     },
     "Trade 9": {
       "Value": "Kinh Nam City-State",
-      "Trade 9 Value": "7,288.88"
+      "Trade 9 Value": "13,006.13"
     },
     "Trade 10": {
       "Value": "",
@@ -20595,9 +20595,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "135,089.28",
+    "Raw Trade Income": "140,806.53",
     "Tariffs": "0.95",
-    "Trade Income": "128,334.82",
+    "Trade Income": "133,766.20",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -23009,7 +23009,7 @@
     },
     "Trade 7": {
       "Value": "Kinh Nam City-State",
-      "Trade 7 Value": "7,288.88"
+      "Trade 7 Value": "13,006.13"
     },
     "Trade 8": {
       "Value": "Svetograd",
@@ -23043,9 +23043,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "78,604.38",
+    "Raw Trade Income": "84,321.63",
     "Tariffs": "0.95",
-    "Trade Income": "74,674.16",
+    "Trade Income": "80,105.54",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -24586,11 +24586,11 @@
     "Nation Check": "Scientarium",
     "Overlord": "",
     "Eco Vassals": "127,737.13",
-    "Eco Over.": "254,950.05",
+    "Eco Over.": "260,381.44",
     "Compare": "112.22%",
     "MP Vassals": "44,610.00",
     "MP Over.": "39,754.00",
-    "20% Total": "32.46%",
+    "20% Total": "32.25%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -24645,7 +24645,7 @@
     },
     "Trade 8": {
       "Value": "Kinh Nam City-State",
-      "Trade 8 Value": "7,288.88"
+      "Trade 8 Value": "13,006.13"
     },
     "Trade 9": {
       "Value": "Diogen",
@@ -24675,9 +24675,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "61,116.19",
+    "Raw Trade Income": "66,833.44",
     "Tariffs": "0.95",
-    "Trade Income": "58,060.38",
+    "Trade Income": "63,491.77",
     "NAPs": "3",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -27551,10 +27551,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "3.94%",
-    "Base": "3.94%",
-    "Comparison": "14.22%",
-    "Individual": "14.22%",
+    "L. Desire": "3.61%",
+    "Base": "3.61%",
+    "Comparison": "14.05%",
+    "Individual": "14.05%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -29285,10 +29285,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "36.89%",
-    "Base": "36.89%",
-    "Comparison": "10.94%",
-    "Individual": "10.94%",
+    "L. Desire": "36.65%",
+    "Base": "36.65%",
+    "Comparison": "10.82%",
+    "Individual": "10.82%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -34213,7 +34213,7 @@
     },
     "Trade 3": {
       "Value": "Kinh Nam City-State",
-      "Trade 3 Value": "7,288.88"
+      "Trade 3 Value": "13,006.13"
     },
     "Trade 4": {
       "Value": "Svetograd",
@@ -34263,9 +34263,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,087.13",
+    "Raw Trade Income": "45,804.38",
     "Tariffs": "1.25",
-    "Trade Income": "50,108.91",
+    "Trade Income": "57,255.47",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
