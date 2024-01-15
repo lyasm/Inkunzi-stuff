@@ -1369,7 +1369,7 @@
     },
     "Trade 3": {
       "Value": "Krosen Dynasty",
-      "Trade 3 Value": "7,072.50"
+      "Trade 3 Value": "5,934.00"
     },
     "Trade 4": {
       "Value": "Republic of Nymaró",
@@ -1419,9 +1419,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "43,903.44",
+    "Raw Trade Income": "42,764.94",
     "Tariffs": "0.95",
-    "Trade Income": "41,708.27",
+    "Trade Income": "40,626.69",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -11632,11 +11632,11 @@
     "Nation Check": "Ilikiu'Foriris",
     "Overlord": "",
     "Eco Vassals": "270,481.76",
-    "Eco Over.": "297,355.94",
+    "Eco Over.": "308,403.75",
     "Compare": "5.88%",
     "MP Vassals": "7,480.69",
     "MP Over.": "127,270.00",
-    "20% Total": "19.37%",
+    "20% Total": "18.72%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -11655,7 +11655,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Skullantium, Alonissos Isles, Daoquia, Skullantium, Southern Winds",
+    "Non-aggression Pacts": "Skullantium, Council of the Alonissos Isles, Daoquia, Federation of the Winds, Candentis Jalin, Kingdom of Geloia, Uqhuma Killa",
     "Defensive Pacts": "Candentis Jalin",
     "Defensive Pacts 2": "Daoquia",
     "Military Alliances": "Federation of the Winds",
@@ -11670,12 +11670,12 @@
       "Trade 2 Value": "14,470.00"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Ilioratica",
+      "Trade 3 Value": "3,475.00"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Council of the Alonissos Isles",
+      "Trade 4 Value": "7,572.81"
     },
     "Trade 5": {
       "Value": "",
@@ -11721,13 +11721,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "17,455.94",
+    "Raw Trade Income": "28,503.75",
     "Tariffs": "1.00",
-    "Trade Income": "17,455.94",
-    "NAPs": "5",
+    "Trade Income": "28,503.75",
+    "NAPs": "7",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "2"
+    "Trades": "4"
   },
   "Ilioratica": {
     "Nations": "Ilioratica",
@@ -16559,7 +16559,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Krosen Dynasty",
-      "Trade 1 Value": "7,072.50"
+      "Trade 1 Value": "5,934.00"
     },
     "Trade 2": {
       "Value": "Tuk Dynasty",
@@ -16617,9 +16617,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "27,393.50",
+    "Raw Trade Income": "26,255.00",
     "Tariffs": "0.95",
-    "Trade Income": "26,023.83",
+    "Trade Income": "24,942.25",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -18835,7 +18835,7 @@
     },
     "Trade 9": {
       "Value": "Krosen Dynasty",
-      "Trade 9 Value": "7,072.50"
+      "Trade 9 Value": "5,934.00"
     },
     "Trade 10": {
       "Value": "Diogen",
@@ -18861,9 +18861,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "64,524.44",
+    "Raw Trade Income": "63,385.94",
     "Tariffs": "0.95",
-    "Trade Income": "61,298.22",
+    "Trade Income": "60,216.64",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -20819,10 +20819,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "24.57%",
-    "Base": "24.57%",
-    "Comparison": "19.37%",
-    "Individual": "19.37%",
+    "L. Desire": "23.27%",
+    "Base": "23.27%",
+    "Comparison": "18.72%",
+    "Individual": "18.72%",
     "Friend/Rival": "0.00%",
     "Taxes": "-1.67%",
     "Indep War?": "",
@@ -30129,7 +30129,7 @@
     },
     "Trade 2": {
       "Value": "Krosen Dynasty",
-      "Trade 2 Value": "7,072.50"
+      "Trade 2 Value": "5,934.00"
     },
     "Trade 3": {
       "Value": "Meadoia Dynasty",
@@ -30183,9 +30183,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "82,273.81",
+    "Raw Trade Income": "81,135.31",
     "Tariffs": "1.00",
-    "Trade Income": "82,273.81",
+    "Trade Income": "81,135.31",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -30341,7 +30341,7 @@
     },
     "Trade 4": {
       "Value": "Krosen Dynasty",
-      "Trade 4 Value": "7,072.50"
+      "Trade 4 Value": "5,934.00"
     },
     "Trade 5": {
       "Value": "",
@@ -30387,9 +30387,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "17,979.06",
+    "Raw Trade Income": "16,840.56",
     "Tariffs": "1.05",
-    "Trade Income": "18,878.02",
+    "Trade Income": "17,682.59",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -30749,7 +30749,7 @@
     },
     "Trade 4": {
       "Value": "Krosen Dynasty",
-      "Trade 4 Value": "7,072.50"
+      "Trade 4 Value": "5,934.00"
     },
     "Trade 5": {
       "Value": "Clan of Skye ",
@@ -30795,9 +30795,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "34,198.50",
+    "Raw Trade Income": "33,060.00",
     "Tariffs": "0.75",
-    "Trade Income": "25,648.88",
+    "Trade Income": "24,795.00",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -31773,7 +31773,7 @@
     },
     "Trade 5": {
       "Value": "Krosen Dynasty",
-      "Trade 5 Value": "7,072.50"
+      "Trade 5 Value": "5,934.00"
     },
     "Trade 6": {
       "Value": "Pavellion",
@@ -31815,9 +31815,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "101,524.44",
+    "Raw Trade Income": "100,385.94",
     "Tariffs": "1.05",
-    "Trade Income": "106,600.66",
+    "Trade Income": "105,405.23",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -32373,7 +32373,7 @@
     },
     "Trade 2": {
       "Value": "Krosen Dynasty",
-      "Trade 2 Value": "7,072.50"
+      "Trade 2 Value": "5,934.00"
     },
     "Trade 3": {
       "Value": "Thys Alari",
@@ -32427,9 +32427,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "118,734.06",
+    "Raw Trade Income": "117,595.56",
     "Tariffs": "0.95",
-    "Trade Income": "112,797.36",
+    "Trade Income": "111,715.78",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -32785,7 +32785,7 @@
     },
     "Trade 3": {
       "Value": "Krosen Dynasty",
-      "Trade 3 Value": "7,072.50"
+      "Trade 3 Value": "5,934.00"
     },
     "Trade 4": {
       "Value": "",
@@ -32835,9 +32835,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "65,807.81",
+    "Raw Trade Income": "64,669.31",
     "Tariffs": "0.95",
-    "Trade Income": "62,517.42",
+    "Trade Income": "61,435.85",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
