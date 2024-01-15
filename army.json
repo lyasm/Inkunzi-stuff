@@ -86,9 +86,9 @@
   "ADMIN NATION": {
     "Nations": "ADMIN NATION",
     "Nation Check": "ADMIN NATION",
-    "Pow_Army": "32,864",
+    "Pow_Army": "8,578",
     "Pow_Navy": "0",
-    "Manpower": "3,241,363",
+    "Manpower": "812,769",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "94,500.00",
@@ -122,7 +122,7 @@
     "Slots": "0",
     "Merc 1": "0",
     "Merc 2": "",
-    "Merc 3": "-1",
+    "Merc 3": "3",
     "Merc 4": null
   },
   "Adelaar Legioen": {
@@ -3992,9 +3992,9 @@
   "Grand Nimbusia": {
     "Nations": "Grand Nimbusia",
     "Nation Check": "Grand Nimbusia",
-    "Pow_Army": "584",
+    "Pow_Army": "585",
     "Pow_Navy": "0",
-    "Manpower": "18,392",
+    "Manpower": "18,524",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "20,250.00",
@@ -11428,7 +11428,7 @@
     "Nation Check": "The Animal Kingdom",
     "Pow_Army": "229",
     "Pow_Navy": "0",
-    "Manpower": "19,890",
+    "Manpower": "19,944",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "10,080.00",

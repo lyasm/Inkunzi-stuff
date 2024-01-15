@@ -2247,12 +2247,12 @@
     "Nations": "Audgunn",
     "Nation Check": "Audgunn",
     "Overlord": "",
-    "Eco Vassals": "107,873.95",
+    "Eco Vassals": "110,850.95",
     "Eco Over.": "319,272.72",
-    "Compare": "11.87%",
-    "MP Vassals": "18,392.00",
+    "Compare": "11.96%",
+    "MP Vassals": "18,524.00",
     "MP Over.": "154,930.88",
-    "20% Total": "9.13%",
+    "20% Total": "9.34%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -3194,7 +3194,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "12",
+    "Limit": "14",
     "Trade 1": {
       "Value": "Fellowship of the Crown",
       "Trade 1 Value": "21,221.88"
@@ -3398,7 +3398,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "9",
+    "Limit": "11",
     "Trade 1": {
       "Value": "Onaokoku",
       "Trade 1 Value": "31,240.00"
@@ -5846,7 +5846,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "6",
+    "Limit": "8",
     "Trade 1": {
       "Value": "Karak Drung",
       "Trade 1 Value": "6,297.50"
@@ -9498,9 +9498,9 @@
     "Vassal Type": "Mercantile",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-9.24%",
-    "Comparison": "9.13%",
-    "Individual": "9.13%",
+    "Base": "-8.83%",
+    "Comparison": "9.34%",
+    "Individual": "9.34%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -9518,7 +9518,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "Paloma",
     "Military Alliances 2": "Saulka",
-    "Limit": "7",
+    "Limit": "9",
     "Trade 1": {
       "Value": "Iskura",
       "Trade 1 Value": "2,000.00"
@@ -9549,7 +9549,7 @@
     },
     "Trade 8": {
       "Value": "Imperial Theocracy of Borbenska",
-      "Trade 8 Value": ""
+      "Trade 8 Value": "2,100.00"
     },
     "Trade 9": {
       "Value": "",
@@ -9579,13 +9579,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "21,473.56",
+    "Raw Trade Income": "23,573.56",
     "Tariffs": "1.25",
-    "Trade Income": "26,841.95",
+    "Trade Income": "29,466.95",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "6"
+    "Trades": "7"
   },
   "Grand Principality of Onica": {
     "Nations": "Grand Principality of Onica",
@@ -12272,7 +12272,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "6",
+    "Limit": "8",
     "Trade 1": {
       "Value": "Unified Republic of Kaiarau",
       "Trade 1 Value": "5,140.00"
@@ -13292,7 +13292,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "9",
+    "Limit": "11",
     "Trade 1": {
       "Value": "Shakisu",
       "Trade 1 Value": "23,564.75"
@@ -15201,12 +15201,12 @@
     "Nations": "Kingdom of Mimgrond",
     "Nation Check": "Kingdom of Mimgrond",
     "Overlord": "",
-    "Eco Vassals": "130,735.53",
+    "Eco Vassals": "139,242.84",
     "Eco Over.": "297,442.74",
-    "Compare": "24.23%",
-    "MP Vassals": "19,890.41",
+    "Compare": "24.30%",
+    "MP Vassals": "19,944.03",
     "MP Over.": "82,087.50",
-    "20% Total": "13.64%",
+    "20% Total": "14.22%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -15332,7 +15332,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "4",
+    "Limit": "6",
     "Trade 1": {
       "Value": "Council of the Alonissos Isles",
       "Trade 1 Value": "7,572.81"
@@ -20840,7 +20840,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "6",
+    "Limit": "8",
     "Trade 1": {
       "Value": "Kycerian Dominion",
       "Trade 1 Value": "29,862.50"
@@ -21146,7 +21146,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "9",
+    "Limit": "11",
     "Trade 1": {
       "Value": "Nuanta",
       "Trade 1 Value": "3,056.25"
@@ -21248,7 +21248,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "7",
+    "Limit": "9",
     "Trade 1": {
       "Value": "Clan Làidirsgith",
       "Trade 1 Value": "1,100.00"
@@ -21350,7 +21350,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "8",
+    "Limit": "10",
     "Trade 1": {
       "Value": "Kingdom of Gloria",
       "Trade 1 Value": "4,300.00"
@@ -27551,10 +27551,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "2.77%",
-    "Base": "2.77%",
-    "Comparison": "13.64%",
-    "Individual": "13.64%",
+    "L. Desire": "3.94%",
+    "Base": "3.94%",
+    "Comparison": "14.22%",
+    "Individual": "14.22%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -27572,7 +27572,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "5",
+    "Limit": "7",
     "Trade 1": {
       "Value": "Mach Republic",
       "Trade 1 Value": "5,390.00"
@@ -27595,11 +27595,11 @@
     },
     "Trade 6": {
       "Value": "Alderdorf",
-      "Trade 6 Value": ""
+      "Trade 6 Value": "3,445.00"
     },
     "Trade 7": {
       "Value": "Iidunn",
-      "Trade 7 Value": ""
+      "Trade 7 Value": "3,225.00"
     },
     "Trade 8": {
       "Value": "",
@@ -27633,13 +27633,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "35,048.38",
+    "Raw Trade Income": "41,718.38",
     "Tariffs": "1.25",
-    "Trade Income": "43,810.47",
+    "Trade Income": "52,147.97",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "5"
+    "Trades": "7"
   },
   "The Awakened": {
     "Nations": "The Awakened",
@@ -29306,7 +29306,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "5",
+    "Limit": "7",
     "Trade 1": {
       "Value": "Kingdom of Mimgrond",
       "Trade 1 Value": "5,355.00"
