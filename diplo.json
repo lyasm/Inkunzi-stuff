@@ -848,7 +848,7 @@
     "Defensive Pacts 2": "Lună sângeroasă",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "8",
+    "Limit": "9",
     "Trade 1": {
       "Value": "",
       "Trade 1 Value": ""
@@ -14538,8 +14538,8 @@
       "Trade 5 Value": "10,868.00"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Meadoia Dynasty",
+      "Trade 6 Value": "56,370.31"
     },
     "Trade 7": {
       "Value": "The Teutā Erwā",
@@ -14577,13 +14577,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "77,929.17",
+    "Raw Trade Income": "134,299.48",
     "Tariffs": "0.95",
-    "Trade Income": "74,032.71",
+    "Trade Income": "127,584.51",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "9"
+    "Trades": "10"
   },
   "Kingdom of Geloía": {
     "Nations": "Kingdom of Geloía",
