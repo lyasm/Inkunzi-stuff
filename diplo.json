@@ -136,8 +136,8 @@
     "Military Alliances 2": "",
     "Limit": "11",
     "Trade 1": {
-      "Value": "Svetograd",
-      "Trade 1 Value": "5,160.00"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
       "Value": "Sajuanelhi",
@@ -156,8 +156,8 @@
       "Trade 5 Value": "2,000.00"
     },
     "Trade 6": {
-      "Value": "The Seelern State",
-      "Trade 6 Value": "4,462.50"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
       "Value": "Kingdom of Gallacia",
@@ -195,13 +195,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "67,724.50",
+    "Raw Trade Income": "58,102.00",
     "Tariffs": "0.95",
-    "Trade Income": "64,338.28",
+    "Trade Income": "55,196.90",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "10"
+    "Trades": "8"
   },
   "Aethyllion Pradesh": {
     "Nations": "Aethyllion Pradesh",
