@@ -670,8 +670,8 @@
       "Trade 6 Value": "11,728.75"
     },
     "Trade 7": {
-      "Value": "Free City of Erub-Kai",
-      "Trade 7 Value": "10,342.75"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "Arethousa",
@@ -705,13 +705,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "71,194.31",
+    "Raw Trade Income": "60,851.56",
     "Tariffs": "0.75",
-    "Trade Income": "53,395.73",
+    "Trade Income": "45,638.67",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "10"
+    "Trades": "9"
   },
   "Akali": {
     "Nations": "Akali",
@@ -1592,7 +1592,7 @@
       "Trade 7 Value": "11,068.75"
     },
     "Trade 8": {
-      "Value": "Malekate of Opolexion",
+      "Value": "",
       "Trade 8 Value": ""
     },
     "Trade 9": {
@@ -7983,43 +7983,43 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "The Kingdom of Jasper, The Awakened,  Zastita, Queendom of Editha",
+    "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
-      "Value": "Velken Bulwark",
-      "Trade 1 Value": "4,300.00"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
-      "Value": "Akaḣpetoƞ",
-      "Trade 2 Value": "5,950.00"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
-      "Value": "The Republic of Alyvosk",
-      "Trade 3 Value": "6,704.50"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "Queendom of Edithia",
-      "Trade 4 Value": "1,987.50"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
-      "Value": "Zastita",
-      "Trade 5 Value": "2,800.00"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
-      "Value": "The Awakened",
-      "Trade 6 Value": "6,250.00"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
-      "Value": "Xiboda",
-      "Trade 7 Value": "11,068.75"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
-      "Value": "Kingdom of Gallacia",
-      "Trade 8 Value": "13,464.75"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
       "Value": "",
@@ -8049,13 +8049,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "52,525.50",
+    "Raw Trade Income": "0.00",
     "Tariffs": "0.95",
-    "Trade Income": "49,899.23",
-    "NAPs": "4",
+    "Trade Income": "0.00",
+    "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "8"
+    "Trades": "0"
   },
   "Fray Ventos": {
     "Nations": "Fray Ventos",
@@ -10254,8 +10254,8 @@
       "Trade 5 Value": "3,533.75"
     },
     "Trade 6": {
-      "Value": "Pucanje",
-      "Trade 6 Value": "4,637.50"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
       "Value": "The Gilded City",
@@ -10293,13 +10293,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "39,674.06",
+    "Raw Trade Income": "35,036.56",
     "Tariffs": "1.05",
-    "Trade Income": "41,657.77",
+    "Trade Income": "36,788.39",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "7"
+    "Trades": "6"
   },
   "Here Be Dragons": {
     "Nations": "Here Be Dragons",
@@ -10841,9 +10841,9 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "Velken Bulwark",
-    "Defensive Pacts 2": "Pucanje",
+    "Defensive Pacts 2": "",
     "Military Alliances": "The Gilded City",
-    "Military Alliances 2": "Pucanje",
+    "Military Alliances 2": "",
     "Limit": "6",
     "Trade 1": {
       "Value": "The Gilded City",
@@ -10909,8 +10909,8 @@
     "Tariffs": "1.05",
     "Trade Income": "24,862.69",
     "NAPs": "0",
-    "Def. Pacts": "2",
-    "Mil. Pacts": "2",
+    "Def. Pacts": "1",
+    "Mil. Pacts": "1",
     "Trades": "5"
   },
   "Holy Kingdom of Scripts": {
@@ -11961,7 +11961,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "The Free City of Erub-Kai",
+    "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "The Gilded City",
@@ -11980,8 +11980,8 @@
       "Trade 3 Value": "7,600.00"
     },
     "Trade 4": {
-      "Value": "Free City of Erub-Kai",
-      "Trade 4 Value": "10,342.75"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "The House",
@@ -12027,13 +12027,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "44,078.75",
+    "Raw Trade Income": "33,736.00",
     "Tariffs": "0.95",
-    "Trade Income": "41,874.81",
-    "NAPs": "1",
+    "Trade Income": "32,049.20",
+    "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "7"
+    "Trades": "6"
   },
   "Ironskin Kingdom": {
     "Nations": "Ironskin Kingdom",
@@ -12380,8 +12380,8 @@
       "Trade 1 Value": "2,800.00"
     },
     "Trade 2": {
-      "Value": "Pucanje",
-      "Trade 2 Value": "4,637.50"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
       "Value": "",
@@ -12435,13 +12435,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "7,437.50",
+    "Raw Trade Income": "2,800.00",
     "Tariffs": "1.05",
-    "Trade Income": "7,809.38",
+    "Trade Income": "2,940.00",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "2"
+    "Trades": "1"
   },
   "Jalpol": {
     "Nations": "Jalpol",
@@ -17979,7 +17979,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Erub-Kai",
+    "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
@@ -17998,8 +17998,8 @@
       "Trade 3 Value": "6,250.00"
     },
     "Trade 4": {
-      "Value": "Free City of Erub-Kai",
-      "Trade 4 Value": "10,342.75"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "The Safeguard",
@@ -18045,13 +18045,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "28,239.00",
+    "Raw Trade Income": "17,896.25",
     "Tariffs": "1.25",
-    "Trade Income": "35,298.75",
-    "NAPs": "1",
+    "Trade Income": "22,370.31",
+    "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "5"
+    "Trades": "4"
   },
   "Malekate of Opolexion": {
     "Nations": "Malekate of Opolexion",
@@ -18083,8 +18083,8 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "Republic of Alyvosk",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "Free City of Erub-Kai",
-    "Military Alliances": "The Jokers",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "6",
     "Trade 1": {
@@ -18104,8 +18104,8 @@
       "Trade 4 Value": "2,252.50"
     },
     "Trade 5": {
-      "Value": "Free City of Erub-Kai",
-      "Trade 5 Value": "10,342.75"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "Pyhätmetsät",
@@ -18147,13 +18147,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "36,324.75",
+    "Raw Trade Income": "25,982.00",
     "Tariffs": "1.05",
-    "Trade Income": "38,140.99",
+    "Trade Income": "27,281.10",
     "NAPs": "1",
-    "Def. Pacts": "1",
-    "Mil. Pacts": "1",
-    "Trades": "6"
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
+    "Trades": "5"
   },
   "Malo'Sami": {
     "Nations": "Malo'Sami",
@@ -19996,11 +19996,11 @@
     "Nation Check": "Nāšā Qaḏmāyā",
     "Overlord": "",
     "Eco Vassals": "164,233.20",
-    "Eco Over.": "357,086.53",
+    "Eco Over.": "347,260.92",
     "Compare": "92.94%",
     "MP Vassals": "86,642.88",
     "MP Over.": "93,220.00",
-    "20% Total": "27.79%",
+    "20% Total": "28.05%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -20050,8 +20050,8 @@
       "Trade 6 Value": "3,284.38"
     },
     "Trade 7": {
-      "Value": "Free City of Erub-Kai",
-      "Trade 7 Value": "10,342.75"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "The Kingdom of Zahar",
@@ -20085,13 +20085,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "81,324.74",
+    "Raw Trade Income": "70,981.99",
     "Tariffs": "0.95",
-    "Trade Income": "77,258.50",
+    "Trade Income": "67,432.89",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "9"
+    "Trades": "8"
   },
   "Natałor": {
     "Nations": "Natałor",
@@ -22162,9 +22162,9 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "The Gilded City",
-    "Defensive Pacts 2": "Holy Council of Axhaea",
-    "Military Alliances": "Zastita",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "6",
     "Trade 1": {
@@ -22231,8 +22231,8 @@
     "Tariffs": "1.05",
     "Trade Income": "23,203.69",
     "NAPs": "0",
-    "Def. Pacts": "2",
-    "Mil. Pacts": "1",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
     "Trades": "5"
   },
   "Pyhätmetsät": {
@@ -22286,8 +22286,8 @@
       "Trade 4 Value": "6,678.75"
     },
     "Trade 5": {
-      "Value": "Malekate of Opolexion",
-      "Trade 5 Value": "2,650.00"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "",
@@ -22329,13 +22329,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "33,157.50",
+    "Raw Trade Income": "30,507.50",
     "Tariffs": "1.00",
-    "Trade Income": "33,157.50",
+    "Trade Income": "30,507.50",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
-    "Trades": "5"
+    "Trades": "4"
   },
   "Q'awachu": {
     "Nations": "Q'awachu",
@@ -26868,8 +26868,8 @@
       "Trade 2 Value": "9,718.50"
     },
     "Trade 3": {
-      "Value": "Free City of Erub-Kai",
-      "Trade 3 Value": "10,342.75"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "Herzogtum Enzla",
@@ -26919,13 +26919,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "49,061.82",
+    "Raw Trade Income": "38,719.07",
     "Tariffs": "0.95",
-    "Trade Income": "46,608.73",
+    "Trade Income": "36,783.12",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "7"
+    "Trades": "6"
   },
   "Tetóth Kegeth": {
     "Nations": "Tetóth Kegeth",
@@ -27669,7 +27669,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Citystate of Erub-Kai, Republic of Alyvosk",
+    "Non-aggression Pacts": "Republic of Alyvosk",
     "Defensive Pacts": "Kingdom of Jasper",
     "Defensive Pacts 2": "Stortingr Republik af Frystdömet",
     "Military Alliances": "Queendom of Edithia",
@@ -27738,7 +27738,7 @@
     "Raw Trade Income": "23,437.19",
     "Tariffs": "0.95",
     "Trade Income": "22,265.33",
-    "NAPs": "2",
+    "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
     "Trades": "5"
@@ -29203,7 +29203,7 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "The House",
-    "Military Alliances 2": "Malekate of Opolexion",
+    "Military Alliances 2": "",
     "Limit": "6",
     "Trade 1": {
       "Value": "The House",
@@ -29218,12 +29218,12 @@
       "Trade 3 Value": "2,100.00"
     },
     "Trade 4": {
-      "Value": "Pucanje",
-      "Trade 4 Value": "4,637.50"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
-      "Value": "Malekate of Opolexion",
-      "Trade 5 Value": "2,650.00"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "",
@@ -29265,13 +29265,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "21,275.00",
+    "Raw Trade Income": "13,987.50",
     "Tariffs": "1.25",
-    "Trade Income": "26,593.75",
+    "Trade Income": "17,484.38",
     "NAPs": "0",
     "Def. Pacts": "0",
-    "Mil. Pacts": "2",
-    "Trades": "5"
+    "Mil. Pacts": "1",
+    "Trades": "3"
   },
   "The Kingdom of Hemia": {
     "Nations": "The Kingdom of Hemia",
@@ -30015,7 +30015,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Malekate of Opolexion, Jasper, The Awakened",
+    "Non-aggression Pacts": "Jasper, The Awakened",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Kingdom of Jasper",
@@ -30030,8 +30030,8 @@
       "Trade 2 Value": "5,125.00"
     },
     "Trade 3": {
-      "Value": "Malekate of Opolexion",
-      "Trade 3 Value": "2,650.00"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "Tautaspils",
@@ -30081,13 +30081,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,620.31",
+    "Raw Trade Income": "27,970.31",
     "Tariffs": "0.95",
-    "Trade Income": "29,089.30",
-    "NAPs": "3",
+    "Trade Income": "26,571.80",
+    "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "7"
+    "Trades": "6"
   },
   "The Ruzgaristan Enclave": {
     "Nations": "The Ruzgaristan Enclave",
@@ -32243,10 +32243,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "36.02%",
-    "Base": "36.02%",
-    "Comparison": "27.79%",
-    "Individual": "18.23%",
+    "L. Desire": "36.46%",
+    "Base": "36.46%",
+    "Comparison": "28.05%",
+    "Individual": "18.41%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -33178,7 +33178,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Akaḣpetoƞ",
+    "Defensive Pacts": "Holy Council of Axhaea",
     "Defensive Pacts 2": "",
     "Military Alliances": "Akaḣpetoƞ",
     "Military Alliances 2": "Remid Republic",
@@ -33893,7 +33893,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "The Tribes of C'tis",
     "Defensive Pacts": "Lauzydos",
-    "Defensive Pacts 2": "Free City of Erub-Kai",
+    "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "7",
@@ -33914,8 +33914,8 @@
       "Trade 4 Value": "4,730.00"
     },
     "Trade 5": {
-      "Value": "Free City of Erub-Kai",
-      "Trade 5 Value": "10,342.75"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "Kingdom of Aeornia",
@@ -33957,13 +33957,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "42,608.19",
+    "Raw Trade Income": "32,265.44",
     "Tariffs": "1.05",
-    "Trade Income": "44,738.60",
+    "Trade Income": "33,878.71",
     "NAPs": "1",
-    "Def. Pacts": "2",
+    "Def. Pacts": "1",
     "Mil. Pacts": "0",
-    "Trades": "7"
+    "Trades": "6"
   },
   "Xriotir": {
     "Nations": "Xriotir",
@@ -34605,15 +34605,15 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Free City of Erub-Kai, Frystdomet",
+    "Non-aggression Pacts": "Frystdomet",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "The House",
     "Limit": "8",
     "Trade 1": {
-      "Value": "Free City of Erub-Kai",
-      "Trade 1 Value": "10,342.75"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
       "Value": "Lepnia",
@@ -34671,13 +34671,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "35,856.06",
+    "Raw Trade Income": "25,513.31",
     "Tariffs": "0.95",
-    "Trade Income": "34,063.26",
-    "NAPs": "2",
+    "Trade Income": "24,237.65",
+    "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "6"
+    "Trades": "5"
   },
   "Zudrye Sisterhood": {
     "Nations": "Zudrye Sisterhood",
@@ -34895,10 +34895,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "72.35%",
-    "Base": "72.35%",
-    "Comparison": "27.79%",
-    "Individual": "9.56%",
+    "L. Desire": "72.69%",
+    "Base": "72.69%",
+    "Comparison": "28.05%",
+    "Individual": "9.64%",
     "Friend/Rival": "0.00%",
     "Taxes": "20.00%",
     "Indep War?": "",
