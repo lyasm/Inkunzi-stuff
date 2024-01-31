@@ -1559,9 +1559,9 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "Arethousa, Kingdom of the Aurore",
     "Defensive Pacts": "Kingdom of the Aurore",
-    "Defensive Pacts 2": "",
+    "Defensive Pacts 2": "Tautaspils",
     "Military Alliances": "Akaḣpetoƞ",
-    "Military Alliances 2": "Tautaspils",
+    "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
       "Value": "Arethousa",
@@ -1627,8 +1627,8 @@
     "Tariffs": "1.05",
     "Trade Income": "55,893.14",
     "NAPs": "2",
-    "Def. Pacts": "1",
-    "Mil. Pacts": "2",
+    "Def. Pacts": "2",
+    "Mil. Pacts": "1",
     "Trades": "7"
   },
   "Arcadia": {
@@ -13595,8 +13595,8 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "Frystdömet",
     "Defensive Pacts": "Pyhätmetsät",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "Clankar Cog",
+    "Defensive Pacts 2": "Clankar Cog",
+    "Military Alliances": "Tautaspils",
     "Military Alliances 2": "Stortingr Republik af Frystdömet",
     "Limit": "9",
     "Trade 1": {
@@ -13663,7 +13663,7 @@
     "Tariffs": "0.95",
     "Trade Income": "58,425.00",
     "NAPs": "1",
-    "Def. Pacts": "1",
+    "Def. Pacts": "2",
     "Mil. Pacts": "2",
     "Trades": "8"
   },
@@ -26446,10 +26446,10 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
+    "Defensive Pacts": "Araybattahya ",
     "Defensive Pacts 2": "",
     "Military Alliances": "Akaḣpetoƞ",
-    "Military Alliances 2": "Araybattahya ",
+    "Military Alliances 2": "Kaug-Põhja",
     "Limit": "11",
     "Trade 1": {
       "Value": "Araybattahya ",
@@ -26515,7 +26515,7 @@
     "Tariffs": "0.75",
     "Trade Income": "52,728.14",
     "NAPs": "0",
-    "Def. Pacts": "0",
+    "Def. Pacts": "1",
     "Mil. Pacts": "2",
     "Trades": "9"
   },
