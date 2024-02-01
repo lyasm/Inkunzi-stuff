@@ -1984,8 +1984,8 @@
       "Trade 3 Value": "7,988.75"
     },
     "Trade 4": {
-      "Value": "Maatada Istara",
-      "Trade 4 Value": "9,637.50"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "Snow Dominion",
@@ -2031,13 +2031,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "44,198.00",
+    "Raw Trade Income": "34,560.50",
     "Tariffs": "0.95",
-    "Trade Income": "41,988.10",
+    "Trade Income": "32,832.48",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "6"
+    "Trades": "5"
   },
   "Ashdayn": {
     "Nations": "Ashdayn",
@@ -17786,32 +17786,32 @@
       "Trade 1 Value": "11,122.28"
     },
     "Trade 2": {
-      "Value": "Mercati Emporium",
-      "Trade 2 Value": "6,020.00"
+      "Value": "Hui Kai",
+      "Trade 2 Value": "16,221.56"
     },
     "Trade 3": {
-      "Value": "Ascendant Regency of Newstar",
-      "Trade 3 Value": "2,375.00"
+      "Value": "Free City of Zephon",
+      "Trade 3 Value": "10,947.60"
     },
     "Trade 4": {
-      "Value": "The Dukedom of Sylicia",
-      "Trade 4 Value": "4,049.38"
+      "Value": "Snow Dominion",
+      "Trade 4 Value": "9,729.00"
     },
     "Trade 5": {
-      "Value": "The Statute of Order",
-      "Trade 5 Value": "5,812.50"
+      "Value": "Mercati Emporium",
+      "Trade 5 Value": "6,020.00"
     },
     "Trade 6": {
-      "Value": "Malo'Sami",
-      "Trade 6 Value": "2,650.31"
+      "Value": "Ahupau'a o Heiau",
+      "Trade 6 Value": "4,176.25"
     },
     "Trade 7": {
-      "Value": "Pataia",
-      "Trade 7 Value": "3,062.50"
+      "Value": "The Dukedom of Sylicia",
+      "Trade 7 Value": "4,049.38"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "Pataia",
+      "Trade 8 Value": "3,062.50"
     },
     "Trade 9": {
       "Value": "",
@@ -17841,13 +17841,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "35,091.96",
+    "Raw Trade Income": "65,328.56",
     "Tariffs": "1.00",
-    "Trade Income": "35,091.96",
+    "Trade Income": "65,328.56",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "7"
+    "Trades": "8"
   },
   "Mach Republic": {
     "Nations": "Mach Republic",
@@ -18202,8 +18202,8 @@
       "Trade 3 Value": "5,812.50"
     },
     "Trade 4": {
-      "Value": "Maatada Istara",
-      "Trade 4 Value": "9,637.50"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "",
@@ -18249,13 +18249,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,923.06",
+    "Raw Trade Income": "21,285.56",
     "Tariffs": "0.95",
-    "Trade Income": "29,376.91",
+    "Trade Income": "20,221.28",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "4"
+    "Trades": "3"
   },
   "Mardune": {
     "Nations": "Mardune",
