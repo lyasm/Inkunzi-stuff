@@ -548,8 +548,8 @@
       "Trade 1 Value": "3,062.50"
     },
     "Trade 2": {
-      "Value": "Him Maliataki",
-      "Trade 2 Value": "4,517.50"
+      "Value": "Maatada Istara",
+      "Trade 2 Value": "9,637.50"
     },
     "Trade 3": {
       "Value": "",
@@ -603,9 +603,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "7,580.00",
+    "Raw Trade Income": "12,700.00",
     "Tariffs": "0.95",
-    "Trade Income": "7,201.00",
+    "Trade Income": "12,065.00",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -1984,8 +1984,8 @@
       "Trade 3 Value": "7,988.75"
     },
     "Trade 4": {
-      "Value": "Him Maliataki",
-      "Trade 4 Value": "4,517.50"
+      "Value": "Maatada Istara",
+      "Trade 4 Value": "9,637.50"
     },
     "Trade 5": {
       "Value": "Snow Dominion",
@@ -2031,9 +2031,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "39,078.00",
+    "Raw Trade Income": "44,198.00",
     "Tariffs": "0.95",
-    "Trade Income": "37,124.10",
+    "Trade Income": "41,988.10",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -4084,11 +4084,11 @@
     "Nation Check": "City State of Kido",
     "Overlord": "",
     "Eco Vassals": "137,688.91",
-    "Eco Over.": "214,115.60",
+    "Eco Over.": "215,879.04",
     "Compare": "49.17%",
     "MP Vassals": "17,084.38",
     "MP Over.": "34,749.00",
-    "20% Total": "22.69%",
+    "20% Total": "22.59%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -4115,7 +4115,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Maatada Istara",
-      "Trade 1 Value": "7,781.25"
+      "Trade 1 Value": "9,637.50"
     },
     "Trade 2": {
       "Value": "Free City of Zephon",
@@ -4173,9 +4173,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "95,455.66",
+    "Raw Trade Income": "97,311.91",
     "Tariffs": "0.95",
-    "Trade Income": "90,682.88",
+    "Trade Income": "92,446.32",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -8312,8 +8312,8 @@
       "Trade 4 Value": "11,122.28"
     },
     "Trade 5": {
-      "Value": "Him Maliataki",
-      "Trade 5 Value": "4,517.50"
+      "Value": "Maatada Istara",
+      "Trade 5 Value": "9,637.50"
     },
     "Trade 6": {
       "Value": "Karak Helhein",
@@ -8355,9 +8355,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "102,960.34",
+    "Raw Trade Income": "108,080.34",
     "Tariffs": "0.95",
-    "Trade Income": "97,812.32",
+    "Trade Income": "102,676.32",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -10636,30 +10636,30 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Snow Dominion",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Mercati Emporium",
-    "Military Alliances 2": "The Kingdom of Lunar",
-    "Limit": "11",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "10",
     "Trade 1": {
-      "Value": "Snow Dominion",
-      "Trade 1 Value": "9,729.00"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
-      "Value": "Free City of Zephon",
-      "Trade 2 Value": "10,947.60"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
-      "Value": "Jään Herruus",
-      "Trade 3 Value": "4,755.00"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "Ascendant Regency of Newstar",
-      "Trade 4 Value": "2,375.00"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
-      "Value": "Pataia",
-      "Trade 5 Value": "3,062.50"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "",
@@ -10701,13 +10701,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,869.10",
+    "Raw Trade Income": "0.00",
     "Tariffs": "0.75",
-    "Trade Income": "23,151.83",
+    "Trade Income": "0.00",
     "NAPs": "0",
-    "Def. Pacts": "1",
-    "Mil. Pacts": "2",
-    "Trades": "5"
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
+    "Trades": "0"
   },
   "HlérHeim": {
     "Nations": "HlérHeim",
@@ -11169,7 +11169,7 @@
     },
     "Trade 5": {
       "Value": "Maatada Istara",
-      "Trade 5 Value": "7,781.25"
+      "Trade 5 Value": "9,637.50"
     },
     "Trade 6": {
       "Value": "The Dukedom of Sylicia",
@@ -11211,9 +11211,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "111,395.43",
+    "Raw Trade Income": "113,251.68",
     "Tariffs": "0.95",
-    "Trade Income": "105,825.65",
+    "Trade Income": "107,589.09",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -12251,10 +12251,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "30.89%",
-    "Base": "30.89%",
-    "Comparison": "22.69%",
-    "Individual": "22.69%",
+    "L. Desire": "30.68%",
+    "Base": "30.68%",
+    "Comparison": "22.59%",
+    "Individual": "22.59%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -13593,7 +13593,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Frystdömet",
+    "Non-aggression Pacts": "",
     "Defensive Pacts": "Pyhätmetsät",
     "Defensive Pacts 2": "Clankar Cog",
     "Military Alliances": "Tautaspils",
@@ -13662,7 +13662,7 @@
     "Raw Trade Income": "61,500.00",
     "Tariffs": "0.95",
     "Trade Income": "58,425.00",
-    "NAPs": "1",
+    "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
     "Trades": "8"
@@ -17776,11 +17776,11 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "The Despotate of Kaartiyek",
+    "Defensive Pacts": "Snow Dominion",
+    "Defensive Pacts 2": "Mercati Emporium",
+    "Military Alliances": "The Kingdom of Lunar",
     "Military Alliances 2": "City State of Kido",
-    "Limit": "7",
+    "Limit": "8",
     "Trade 1": {
       "Value": "City State of Kido",
       "Trade 1 Value": "11,122.28"
@@ -17790,8 +17790,8 @@
       "Trade 2 Value": "6,020.00"
     },
     "Trade 3": {
-      "Value": "The Despotate of Kaartiyek",
-      "Trade 3 Value": "6,362.50"
+      "Value": "Ascendant Regency of Newstar",
+      "Trade 3 Value": "2,375.00"
     },
     "Trade 4": {
       "Value": "The Dukedom of Sylicia",
@@ -17841,11 +17841,11 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "39,079.46",
+    "Raw Trade Income": "35,091.96",
     "Tariffs": "1.00",
-    "Trade Income": "39,079.46",
+    "Trade Income": "35,091.96",
     "NAPs": "0",
-    "Def. Pacts": "0",
+    "Def. Pacts": "2",
     "Mil. Pacts": "2",
     "Trades": "7"
   },
@@ -18203,7 +18203,7 @@
     },
     "Trade 4": {
       "Value": "Maatada Istara",
-      "Trade 4 Value": "7,781.25"
+      "Trade 4 Value": "9,637.50"
     },
     "Trade 5": {
       "Value": "",
@@ -18249,9 +18249,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "29,066.81",
+    "Raw Trade Income": "30,923.06",
     "Tariffs": "0.95",
-    "Trade Income": "27,613.47",
+    "Trade Income": "29,376.91",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -19001,9 +19001,9 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "Avaritian Dictatorship",
     "Defensive Pacts": "Snow Dominion",
-    "Defensive Pacts 2": "The Kingdom of Lunar",
+    "Defensive Pacts 2": "Maatada Istara",
     "Military Alliances": "The Kingdom of Lunar",
-    "Military Alliances 2": "Him Maliataki",
+    "Military Alliances 2": "",
     "Limit": "11",
     "Trade 1": {
       "Value": "Snow Dominion",
@@ -19011,7 +19011,7 @@
     },
     "Trade 2": {
       "Value": "Maatada Istara",
-      "Trade 2 Value": "7,781.25"
+      "Trade 2 Value": "9,637.50"
     },
     "Trade 3": {
       "Value": "High City of Tirsil",
@@ -19065,12 +19065,12 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "130,786.36",
+    "Raw Trade Income": "132,642.61",
     "Tariffs": "0.75",
-    "Trade Income": "98,089.77",
+    "Trade Income": "99,481.96",
     "NAPs": "1",
     "Def. Pacts": "2",
-    "Mil. Pacts": "2",
+    "Mil. Pacts": "1",
     "Trades": "11"
   },
   "Meridomus Kalleprii": {
@@ -21449,13 +21449,13 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "Unified Republic of Kaiarau",
+    "Defensive Pacts 2": "",
     "Military Alliances": "Unified Republic of Kaiarau",
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
-      "Value": "Him Maliataki",
-      "Trade 1 Value": "4,517.50"
+      "Value": "Maatada Istara",
+      "Trade 1 Value": "9,637.50"
     },
     "Trade 2": {
       "Value": "",
@@ -21513,11 +21513,11 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "4,517.50",
+    "Raw Trade Income": "9,637.50",
     "Tariffs": "0.95",
-    "Trade Income": "4,291.63",
+    "Trade Income": "9,155.63",
     "NAPs": "0",
-    "Def. Pacts": "1",
+    "Def. Pacts": "0",
     "Mil. Pacts": "1",
     "Trades": "1"
   },
@@ -25324,14 +25324,14 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "The Despotate of Kaartiyek, Sancta Discordia",
-    "Defensive Pacts": "Him Maliataki",
+    "Defensive Pacts": "Maatada Istara",
     "Defensive Pacts 2": "Mercati Emporium",
     "Military Alliances": "",
     "Military Alliances 2": "Malo'Sami",
     "Limit": "9",
     "Trade 1": {
-      "Value": "Him Maliataki",
-      "Trade 1 Value": "4,517.50"
+      "Value": "Maatada Istara",
+      "Trade 1 Value": "9,637.50"
     },
     "Trade 2": {
       "Value": "The Statute of Order",
@@ -25389,9 +25389,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "73,649.88",
+    "Raw Trade Income": "78,769.88",
     "Tariffs": "0.95",
-    "Trade Income": "69,967.38",
+    "Trade Income": "74,831.38",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -28003,7 +28003,7 @@
     },
     "Trade 6": {
       "Value": "Maatada Istara",
-      "Trade 6 Value": "7,781.25"
+      "Trade 6 Value": "9,637.50"
     },
     "Trade 7": {
       "Value": "Hui Kai",
@@ -28041,9 +28041,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "43,362.75",
+    "Raw Trade Income": "45,219.00",
     "Tariffs": "0.95",
-    "Trade Income": "41,194.61",
+    "Trade Income": "42,958.05",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -29406,7 +29406,7 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Him Maliataki",
+    "Military Alliances": "Maatada Istara",
     "Military Alliances 2": "Mercati Emporium",
     "Limit": "6",
     "Trade 1": {
