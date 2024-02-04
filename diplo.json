@@ -5928,7 +5928,7 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "#N/A",
-    "Base": "9.79%",
+    "Base": "9.80%",
     "Comparison": "3.65%",
     "Individual": "3.65%",
     "Friend/Rival": "0.00%",
@@ -10840,7 +10840,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Velken Bulwark",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "The Gilded City",
     "Military Alliances 2": "",
@@ -10909,7 +10909,7 @@
     "Tariffs": "1.05",
     "Trade Income": "24,862.69",
     "NAPs": "0",
-    "Def. Pacts": "1",
+    "Def. Pacts": "0",
     "Mil. Pacts": "1",
     "Trades": "5"
   },
@@ -19325,7 +19325,7 @@
     },
     "Trade 4": {
       "Value": "Vantira",
-      "Trade 4 Value": "6,125.00"
+      "Trade 4 Value": "4,593.75"
     },
     "Trade 5": {
       "Value": "",
@@ -19371,9 +19371,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "75,711.43",
+    "Raw Trade Income": "74,180.18",
     "Tariffs": "0.75",
-    "Trade Income": "56,783.57",
+    "Trade Income": "55,635.13",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -20133,7 +20133,7 @@
     },
     "Trade 2": {
       "Value": "Vantira",
-      "Trade 2 Value": "6,125.00"
+      "Trade 2 Value": "4,593.75"
     },
     "Trade 3": {
       "Value": "Second State of Los",
@@ -20187,9 +20187,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "16,790.63",
+    "Raw Trade Income": "15,259.38",
     "Tariffs": "1.25",
-    "Trade Income": "20,988.28",
+    "Trade Income": "19,074.22",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -26116,7 +26116,7 @@
     "Nation Check": "Stryaxina",
     "Overlord": "",
     "Eco Vassals": "67,862.50",
-    "Eco Over.": "698,646.06",
+    "Eco Over.": "697,191.38",
     "Compare": "8.52%",
     "MP Vassals": "24,440.63",
     "MP Over.": "286,900.63",
@@ -26147,7 +26147,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Vantira",
-      "Trade 1 Value": "6,125.00"
+      "Trade 1 Value": "4,593.75"
     },
     "Trade 2": {
       "Value": "The Animal Kingdom",
@@ -26205,9 +26205,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "126,290.59",
+    "Raw Trade Income": "124,759.34",
     "Tariffs": "0.95",
-    "Trade Income": "119,976.06",
+    "Trade Income": "118,521.38",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -33299,7 +33299,7 @@
     },
     "Trade 4": {
       "Value": "Vantira",
-      "Trade 4 Value": "6,125.00"
+      "Trade 4 Value": "4,593.75"
     },
     "Trade 5": {
       "Value": "",
@@ -33345,9 +33345,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "21,793.44",
+    "Raw Trade Income": "20,262.19",
     "Tariffs": "0.95",
-    "Trade Income": "20,703.77",
+    "Trade Income": "19,249.08",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
