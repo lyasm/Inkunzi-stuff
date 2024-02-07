@@ -5044,8 +5044,8 @@
       "Trade 3 Value": "4,462.50"
     },
     "Trade 4": {
-      "Value": "Drionn Galith",
-      "Trade 4 Value": "3,029.00"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "Visjido",
@@ -5091,13 +5091,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "23,111.50",
+    "Raw Trade Income": "20,082.50",
     "Tariffs": "0.95",
-    "Trade Income": "21,955.93",
+    "Trade Income": "19,078.38",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
-    "Trades": "6"
+    "Trades": "5"
   },
   "Confederate of Caoilinn": {
     "Nations": "Confederate of Caoilinn",
@@ -6328,11 +6328,11 @@
     "Nation Check": "Drionn Galith",
     "Overlord": "",
     "Eco Vassals": "57,574.38",
-    "Eco Over.": "182,470.07",
+    "Eco Over.": "179,429.78",
     "Compare": "66.05%",
     "MP Vassals": "33,893.75",
     "MP Over.": "51,315.00",
-    "20% Total": "19.52%",
+    "20% Total": "19.63%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -6370,8 +6370,8 @@
       "Trade 3 Value": "3,870.00"
     },
     "Trade 4": {
-      "Value": "Commonwealth of Gonaria",
-      "Trade 4 Value": "3,200.31"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "Svetograd",
@@ -6417,13 +6417,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "41,931.66",
+    "Raw Trade Income": "38,731.34",
     "Tariffs": "0.95",
-    "Trade Income": "39,835.07",
+    "Trade Income": "36,794.78",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "9"
+    "Trades": "8"
   },
   "Elphonsa": {
     "Nations": "Elphonsa",
@@ -8784,9 +8784,9 @@
     "Vassal Type": "Autonomous",
     "": "",
     "L. Desire": "#N/A",
-    "Base": "1.54%",
-    "Comparison": "19.52%",
-    "Individual": "19.52%",
+    "Base": "1.76%",
+    "Comparison": "19.63%",
+    "Individual": "19.63%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -11631,12 +11631,12 @@
     "Nations": "Ilikiu'Foriris",
     "Nation Check": "Ilikiu'Foriris",
     "Overlord": "",
-    "Eco Vassals": "285,348.76",
+    "Eco Vassals": "270,468.09",
     "Eco Over.": "323,486.56",
-    "Compare": "5.88%",
-    "MP Vassals": "7,480.69",
+    "Compare": "5.79%",
+    "MP Vassals": "7,373.44",
     "MP Over.": "127,270.00",
-    "20% Total": "18.82%",
+    "20% Total": "17.88%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -14534,12 +14534,12 @@
       "Trade 4 Value": "6,121.88"
     },
     "Trade 5": {
-      "Value": "Adelaar Legioen",
-      "Trade 5 Value": "10,868.00"
+      "Value": "Drionn Galith",
+      "Trade 5 Value": "3,029.00"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Novae Aeseriae",
+      "Trade 6 Value": "6,718.75"
     },
     "Trade 7": {
       "Value": "The Teutā Erwā",
@@ -14577,13 +14577,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "78,486.05",
+    "Raw Trade Income": "77,365.80",
     "Tariffs": "0.95",
-    "Trade Income": "74,561.74",
+    "Trade Income": "73,497.51",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "9"
+    "Trades": "10"
   },
   "Kingdom of Geloía": {
     "Nations": "Kingdom of Geloía",
@@ -19996,11 +19996,11 @@
     "Nation Check": "Nāšā Qaḏmāyā",
     "Overlord": "",
     "Eco Vassals": "164,233.20",
-    "Eco Over.": "357,086.53",
+    "Eco Over.": "309,253.09",
     "Compare": "92.94%",
     "MP Vassals": "86,642.88",
     "MP Over.": "93,220.00",
-    "20% Total": "27.79%",
+    "20% Total": "29.21%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -20030,28 +20030,28 @@
       "Trade 1 Value": "4,918.75"
     },
     "Trade 2": {
-      "Value": "Hadastan Commenwealth",
-      "Trade 2 Value": "8,503.69"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
-      "Value": "Adelaar Legioen",
-      "Trade 3 Value": "10,868.00"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "First O'irstorian Republic",
       "Trade 4 Value": "8,279.38"
     },
     "Trade 5": {
-      "Value": "Nummum",
-      "Trade 5 Value": "20,636.55"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "Rosefire Dynasty",
       "Trade 6 Value": "3,284.38"
     },
     "Trade 7": {
-      "Value": "Free City of Erub-Kai",
-      "Trade 7 Value": "10,342.75"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "The Kingdom of Zahar",
@@ -20085,13 +20085,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "81,324.74",
+    "Raw Trade Income": "30,973.75",
     "Tariffs": "0.95",
-    "Trade Income": "77,258.50",
+    "Trade Income": "29,425.06",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "9"
+    "Trades": "5"
   },
   "Natałor": {
     "Nations": "Natałor",
@@ -20820,9 +20820,9 @@
     "Vassal Type": "Mercantile",
     "": "",
     "L. Desire": "#N/A",
-    "Base": "23.47%",
-    "Comparison": "18.82%",
-    "Individual": "18.82%",
+    "Base": "21.59%",
+    "Comparison": "17.88%",
+    "Individual": "17.88%",
     "Friend/Rival": "0.00%",
     "Taxes": "-1.67%",
     "Indep War?": "",
@@ -20854,8 +20854,8 @@
       "Trade 3 Value": "6,020.00"
     },
     "Trade 4": {
-      "Value": "Nāšā Qaḏmāyā",
-      "Trade 4 Value": "11,660.00"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "Avaritian Dictatorship",
@@ -20901,13 +20901,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "99,429.56",
+    "Raw Trade Income": "87,769.56",
     "Tariffs": "1.25",
-    "Trade Income": "124,286.95",
+    "Trade Income": "109,711.95",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "6"
+    "Trades": "5"
   },
   "Nuvoria": {
     "Nations": "Nuvoria",
@@ -22992,8 +22992,8 @@
       "Trade 2 Value": "13,464.75"
     },
     "Trade 3": {
-      "Value": "High City of Tirsil",
-      "Trade 3 Value": "9,718.50"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "Yeotang",
@@ -23043,13 +23043,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "89,526.00",
+    "Raw Trade Income": "79,807.50",
     "Tariffs": "0.95",
-    "Trade Income": "85,049.70",
+    "Trade Income": "75,817.13",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "10"
+    "Trades": "9"
   },
   "Republic of Nymaró": {
     "Nations": "Republic of Nymaró",
@@ -32244,9 +32244,9 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "#N/A",
-    "Base": "36.02%",
-    "Comparison": "27.79%",
-    "Individual": "18.23%",
+    "Base": "38.43%",
+    "Comparison": "29.21%",
+    "Individual": "19.22%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -34896,9 +34896,9 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "#N/A",
-    "Base": "72.35%",
-    "Comparison": "27.79%",
-    "Individual": "9.56%",
+    "Base": "74.20%",
+    "Comparison": "29.21%",
+    "Individual": "9.99%",
     "Friend/Rival": "0.00%",
     "Taxes": "20.00%",
     "Indep War?": "",
