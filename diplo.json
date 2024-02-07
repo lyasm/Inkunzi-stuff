@@ -14700,9 +14700,9 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "#N/A",
-    "Base": "49.33%",
-    "Comparison": "32.16%",
-    "Individual": "32.16%",
+    "Base": "49.95%",
+    "Comparison": "32.48%",
+    "Individual": "32.48%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -24586,11 +24586,11 @@
     "Nation Check": "Scientarium",
     "Overlord": "",
     "Eco Vassals": "127,737.13",
-    "Eco Over.": "262,830.66",
-    "Compare": "112.22%",
+    "Eco Over.": "258,490.64",
+    "Compare": "112.97%",
     "MP Vassals": "44,610.00",
-    "MP Over.": "39,754.00",
-    "20% Total": "32.16%",
+    "MP Over.": "39,490.00",
+    "20% Total": "32.48%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -24628,8 +24628,8 @@
       "Trade 3 Value": "10,836.00"
     },
     "Trade 4": {
-      "Value": "Murenman",
-      "Trade 4 Value": "3,644.44"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "Nournourlant",
@@ -24675,13 +24675,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "69,411.56",
+    "Raw Trade Income": "65,767.13",
     "Tariffs": "0.95",
-    "Trade Income": "65,940.98",
+    "Trade Income": "62,478.77",
     "NAPs": "3",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "11"
+    "Trades": "10"
   },
   "Second State of Los": {
     "Nations": "Second State of Los",
