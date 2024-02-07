@@ -4083,12 +4083,12 @@
     "Nations": "City State of Kido",
     "Nation Check": "City State of Kido",
     "Overlord": "",
-    "Eco Vassals": "129,139.53",
-    "Eco Over.": "205,614.83",
+    "Eco Vassals": "129,393.17",
+    "Eco Over.": "206,463.89",
     "Compare": "49.17%",
     "MP Vassals": "17,084.38",
     "MP Over.": "34,749.00",
-    "20% Total": "22.39%",
+    "20% Total": "22.37%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -8207,7 +8207,7 @@
     },
     "Trade 4": {
       "Value": "City State of Kido",
-      "Trade 4 Value": "9,101.28"
+      "Trade 4 Value": "9,342.84"
     },
     "Trade 5": {
       "Value": "Maatada Istara",
@@ -8253,9 +8253,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "88,634.87",
+    "Raw Trade Income": "88,876.43",
     "Tariffs": "0.95",
-    "Trade Income": "84,203.12",
+    "Trade Income": "84,432.61",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -10337,7 +10337,7 @@
     "Limit": "9.5",
     "Trade 1": {
       "Value": "City State of Kido",
-      "Trade 1 Value": "9,101.28"
+      "Trade 1 Value": "9,342.84"
     },
     "Trade 2": {
       "Value": "Hui Kai",
@@ -10395,9 +10395,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "78,581.02",
+    "Raw Trade Income": "78,822.58",
     "Tariffs": "0.75",
-    "Trade Income": "58,935.77",
+    "Trade Income": "59,116.94",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -10949,7 +10949,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "City State of Kido",
-      "Trade 1 Value": "9,101.28"
+      "Trade 1 Value": "9,342.84"
     },
     "Trade 2": {
       "Value": "High City of Tirsil",
@@ -11007,9 +11007,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "97,688.16",
+    "Raw Trade Income": "97,929.72",
     "Tariffs": "0.95",
-    "Trade Income": "92,803.75",
+    "Trade Income": "93,033.23",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -12047,10 +12047,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "30.29%",
-    "Base": "30.29%",
-    "Comparison": "22.39%",
-    "Individual": "22.39%",
+    "L. Desire": "30.23%",
+    "Base": "30.23%",
+    "Comparison": "22.37%",
+    "Individual": "22.37%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -12087,7 +12087,7 @@
     },
     "Trade 5": {
       "Value": "City State of Kido",
-      "Trade 5 Value": "9,101.28"
+      "Trade 5 Value": "9,342.84"
     },
     "Trade 6": {
       "Value": "",
@@ -12129,9 +12129,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "53,847.17",
+    "Raw Trade Income": "54,088.73",
     "Tariffs": "1.05",
-    "Trade Income": "56,539.53",
+    "Trade Income": "56,793.17",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -14743,7 +14743,7 @@
     },
     "Trade 6": {
       "Value": "City State of Kido",
-      "Trade 6 Value": "9,101.28"
+      "Trade 6 Value": "9,342.84"
     },
     "Trade 7": {
       "Value": "High City of Tirsil",
@@ -14781,9 +14781,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "62,347.40",
+    "Raw Trade Income": "62,588.96",
     "Tariffs": "1.05",
-    "Trade Income": "65,464.77",
+    "Trade Income": "65,718.41",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -17375,7 +17375,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "City State of Kido",
-      "Trade 1 Value": "9,101.28"
+      "Trade 1 Value": "9,342.84"
     },
     "Trade 2": {
       "Value": "Hui Kai",
@@ -17433,9 +17433,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "53,934.24",
+    "Raw Trade Income": "54,175.80",
     "Tariffs": "1.00",
-    "Trade Income": "53,934.24",
+    "Trade Income": "54,175.80",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -18904,8 +18904,8 @@
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "Mercati Emporium",
-      "Trade 1 Value": "5,040.00"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
       "Value": "The Amerian Republic",
@@ -18932,15 +18932,15 @@
       "Trade 7 Value": "1,150.00"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "Hui Kai",
+      "Trade 8 Value": "13,850.72"
     },
     "Trade 9": {
       "Value": "Nummum",
       "Trade 9 Value": "16,509.24"
     },
     "Trade 10": {
-      "Value": "Hui Kai",
+      "Value": "",
       "Trade 10 Value": ""
     },
     "Trade 11": {
@@ -18963,9 +18963,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "29,693.62",
+    "Raw Trade Income": "38,504.33",
     "Tariffs": "0.75",
-    "Trade Income": "22,270.21",
+    "Trade Income": "28,878.25",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -18983,10 +18983,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "94.83%",
-    "Base": "94.83%",
-    "Comparison": "47.83%",
-    "Individual": "47.83%",
+    "L. Desire": "94.91%",
+    "Base": "94.91%",
+    "Comparison": "47.87%",
+    "Individual": "47.87%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
@@ -19011,7 +19011,7 @@
     },
     "Trade 2": {
       "Value": "City State of Kido",
-      "Trade 2 Value": "9,101.28"
+      "Trade 2 Value": "9,342.84"
     },
     "Trade 3": {
       "Value": "Luminus",
@@ -19065,9 +19065,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "29,375.56",
+    "Raw Trade Income": "29,617.12",
     "Tariffs": "0.95",
-    "Trade Income": "27,906.79",
+    "Trade Income": "28,136.27",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -20301,12 +20301,12 @@
     "Nations": "Nuanta",
     "Nation Check": "Nuanta",
     "Overlord": "",
-    "Eco Vassals": "102,886.45",
+    "Eco Vassals": "103,115.94",
     "Eco Over.": "117,316.40",
     "Compare": "151.47%",
     "MP Vassals": "61,105.69",
     "MP Over.": "40,342.50",
-    "20% Total": "47.83%",
+    "20% Total": "47.87%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27442,7 +27442,7 @@
     "Nation Check": "Avaritian Dictatorship",
     "Overlord": "",
     "Eco Vassals": "82,385.02",
-    "Eco Over.": "565,434.58",
+    "Eco Over.": "565,664.06",
     "Compare": "15.22%",
     "MP Vassals": "19,872.19",
     "MP Over.": "130,537.69",
@@ -27473,7 +27473,7 @@
     "Limit": "12",
     "Trade 1": {
       "Value": "City State of Kido",
-      "Trade 1 Value": "9,101.28"
+      "Trade 1 Value": "9,342.84"
     },
     "Trade 2": {
       "Value": "Mercati Emporium",
@@ -27531,9 +27531,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "92,256.13",
+    "Raw Trade Income": "92,497.69",
     "Tariffs": "0.95",
-    "Trade Income": "87,643.33",
+    "Trade Income": "87,872.81",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -28709,7 +28709,7 @@
     },
     "Trade 4": {
       "Value": "City State of Kido",
-      "Trade 4 Value": "9,101.28"
+      "Trade 4 Value": "9,342.84"
     },
     "Trade 5": {
       "Value": "The Statute of Order",
@@ -28755,9 +28755,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "70,008.69",
+    "Raw Trade Income": "70,250.25",
     "Tariffs": "1.05",
-    "Trade Income": "73,509.12",
+    "Trade Income": "73,762.76",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -31969,7 +31969,7 @@
     },
     "Trade 3": {
       "Value": "City State of Kido",
-      "Trade 3 Value": "9,101.28"
+      "Trade 3 Value": "9,342.84"
     },
     "Trade 4": {
       "Value": "The Amerian Republic",
@@ -32019,9 +32019,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "63,893.73",
+    "Raw Trade Income": "64,135.29",
     "Tariffs": "1.05",
-    "Trade Income": "67,088.42",
+    "Trade Income": "67,342.06",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
