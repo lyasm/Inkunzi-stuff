@@ -545,11 +545,11 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Pataia",
-      "Trade 1 Value": "3,062.50"
+      "Trade 1 Value": "5,743.75"
     },
     "Trade 2": {
       "Value": "Maatada Istara",
-      "Trade 2 Value": "9,637.50"
+      "Trade 2 Value": "8,554.69"
     },
     "Trade 3": {
       "Value": "",
@@ -603,9 +603,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "12,700.00",
+    "Raw Trade Income": "14,298.44",
     "Tariffs": "0.95",
-    "Trade Income": "12,065.00",
+    "Trade Income": "13,583.52",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -4084,11 +4084,11 @@
     "Nation Check": "City State of Kido",
     "Overlord": "",
     "Eco Vassals": "137,688.91",
-    "Eco Over.": "215,879.04",
+    "Eco Over.": "214,850.36",
     "Compare": "49.17%",
     "MP Vassals": "17,084.38",
     "MP Over.": "34,749.00",
-    "20% Total": "22.59%",
+    "20% Total": "22.65%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -4115,7 +4115,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Maatada Istara",
-      "Trade 1 Value": "9,637.50"
+      "Trade 1 Value": "8,554.69"
     },
     "Trade 2": {
       "Value": "Free City of Zephon",
@@ -4173,9 +4173,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "97,311.91",
+    "Raw Trade Income": "96,229.10",
     "Tariffs": "0.95",
-    "Trade Income": "92,446.32",
+    "Trade Income": "91,417.65",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -8313,7 +8313,7 @@
     },
     "Trade 5": {
       "Value": "Maatada Istara",
-      "Trade 5 Value": "9,637.50"
+      "Trade 5 Value": "8,554.69"
     },
     "Trade 6": {
       "Value": "Karak Helhein",
@@ -8355,9 +8355,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "108,080.34",
+    "Raw Trade Income": "106,997.53",
     "Tariffs": "0.95",
-    "Trade Income": "102,676.32",
+    "Trade Income": "101,647.65",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -11169,7 +11169,7 @@
     },
     "Trade 5": {
       "Value": "Maatada Istara",
-      "Trade 5 Value": "9,637.50"
+      "Trade 5 Value": "8,554.69"
     },
     "Trade 6": {
       "Value": "The Dukedom of Sylicia",
@@ -11211,9 +11211,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "113,251.68",
+    "Raw Trade Income": "112,168.86",
     "Tariffs": "0.95",
-    "Trade Income": "107,589.09",
+    "Trade Income": "106,560.42",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -12252,9 +12252,9 @@
     "Vassal Type": "Mercantile",
     "": "",
     "L. Desire": "#N/A",
-    "Base": "30.68%",
-    "Comparison": "22.59%",
-    "Individual": "22.59%",
+    "Base": "30.80%",
+    "Comparison": "22.65%",
+    "Individual": "22.65%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -17780,7 +17780,7 @@
     "Defensive Pacts 2": "Mercati Emporium",
     "Military Alliances": "The Kingdom of Lunar",
     "Military Alliances 2": "City State of Kido",
-    "Limit": "8",
+    "Limit": "7",
     "Trade 1": {
       "Value": "City State of Kido",
       "Trade 1 Value": "11,122.28"
@@ -17811,7 +17811,7 @@
     },
     "Trade 8": {
       "Value": "Pataia",
-      "Trade 8 Value": "3,062.50"
+      "Trade 8 Value": ""
     },
     "Trade 9": {
       "Value": "",
@@ -17841,13 +17841,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "65,328.56",
+    "Raw Trade Income": "62,266.06",
     "Tariffs": "1.00",
-    "Trade Income": "65,328.56",
+    "Trade Income": "62,266.06",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "8"
+    "Trades": "7"
   },
   "Mach Republic": {
     "Nations": "Mach Republic",
@@ -19011,7 +19011,7 @@
     },
     "Trade 2": {
       "Value": "Maatada Istara",
-      "Trade 2 Value": "9,637.50"
+      "Trade 2 Value": "8,554.69"
     },
     "Trade 3": {
       "Value": "High City of Tirsil",
@@ -19065,9 +19065,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "132,642.61",
+    "Raw Trade Income": "131,559.80",
     "Tariffs": "0.75",
-    "Trade Income": "99,481.96",
+    "Trade Income": "98,669.85",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -21452,10 +21452,10 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "Unified Republic of Kaiarau",
     "Military Alliances 2": "",
-    "Limit": "8",
+    "Limit": "9",
     "Trade 1": {
       "Value": "Maatada Istara",
-      "Trade 1 Value": "9,637.50"
+      "Trade 1 Value": "8,554.69"
     },
     "Trade 2": {
       "Value": "",
@@ -21513,9 +21513,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "9,637.50",
+    "Raw Trade Income": "8,554.69",
     "Tariffs": "0.95",
-    "Trade Income": "9,155.63",
+    "Trade Income": "8,126.95",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -25331,7 +25331,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Maatada Istara",
-      "Trade 1 Value": "9,637.50"
+      "Trade 1 Value": "8,554.69"
     },
     "Trade 2": {
       "Value": "The Statute of Order",
@@ -25389,9 +25389,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "83,059.56",
+    "Raw Trade Income": "81,976.75",
     "Tariffs": "0.95",
-    "Trade Income": "78,906.58",
+    "Trade Income": "77,877.91",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -28003,7 +28003,7 @@
     },
     "Trade 6": {
       "Value": "Maatada Istara",
-      "Trade 6 Value": "9,637.50"
+      "Trade 6 Value": "8,554.69"
     },
     "Trade 7": {
       "Value": "Hui Kai",
@@ -28041,9 +28041,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "45,219.00",
+    "Raw Trade Income": "44,136.19",
     "Tariffs": "0.95",
-    "Trade Income": "42,958.05",
+    "Trade Income": "41,929.38",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
