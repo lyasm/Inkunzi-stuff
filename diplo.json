@@ -5099,108 +5099,6 @@
     "Mil. Pacts": "0",
     "Trades": "5"
   },
-  "Confederate of Caoilinn": {
-    "Nations": "Confederate of Caoilinn",
-    "Nation Check": "Confederate of Caoilinn",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
-    "Friend/Rival": "0.00%",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "10",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "0.75",
-    "Trade Income": "0.00",
-    "NAPs": "0",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
-  },
   "Council of Dehurkjols": {
     "Nations": "Council of Dehurkjols",
     "Nation Check": "Council of Dehurkjols",
@@ -9995,108 +9893,6 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  "": {
-    "Nations": "",
-    "Nation Check": "",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "",
-    "Individual": "",
-    "Friend/Rival": "",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "I'hamon",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "Rosefire Dynasty",
-    "Military Alliances 2": "",
-    "Limit": "",
-    "Trade 1": {
-      "Value": "I’Hamon",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "Rosefire Dynasty",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "Stratavia",
-      "Trade 3 Value": null
-    },
-    "Trade 4": {
-      "Value": null,
-      "Trade 4 Value": null
-    },
-    "Trade 5": {
-      "Value": null,
-      "Trade 5 Value": null
-    },
-    "Trade 6": {
-      "Value": null,
-      "Trade 6 Value": null
-    },
-    "Trade 7": {
-      "Value": null,
-      "Trade 7 Value": null
-    },
-    "Trade 8": {
-      "Value": null,
-      "Trade 8 Value": null
-    },
-    "Trade 9": {
-      "Value": null,
-      "Trade 9 Value": null
-    },
-    "Trade 10": {
-      "Value": null,
-      "Trade 10 Value": null
-    },
-    "Trade 11": {
-      "Value": null,
-      "Trade 11 Value": null
-    },
-    "Trade 12": {
-      "Value": null,
-      "Trade 12 Value": null
-    },
-    "Trade 13": {
-      "Value": null,
-      "Trade 13 Value": null
-    },
-    "Trade 14": {
-      "Value": null,
-      "Trade 14 Value": null
-    },
-    "Trade 15": {
-      "Value": null,
-      "Trade 15 Value": null
-    },
-    "Raw Trade Income": null,
-    "Tariffs": null,
-    "Trade Income": null,
-    "NAPs": null,
-    "Def. Pacts": null,
-    "Mil. Pacts": null,
-    "Trades": null
-  },
   "Hadastan Commenwealth": {
     "Nations": "Hadastan Commenwealth",
     "Nation Check": "Hadastan Commenwealth",
@@ -14074,108 +13870,6 @@
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
     "Trades": "6"
-  },
-  "Kilshandia": {
-    "Nations": "Kilshandia",
-    "Nation Check": "Kilshandia",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
-    "Friend/Rival": "0.00%",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "8",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "0.95",
-    "Trade Income": "0.00",
-    "NAPs": "0",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
   },
   "Kingdom of Aeornia": {
     "Nations": "Kingdom of Aeornia",
@@ -24224,8 +23918,8 @@
       "Trade 4 Value": "3,399.38"
     },
     "Trade 5": {
-      "Value": "Chernkov",
-      "Trade 5 Value": "3,877.37"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "Tuk Dynasty",
@@ -24267,13 +23961,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "37,740.68",
+    "Raw Trade Income": "33,863.31",
     "Tariffs": "1.05",
-    "Trade Income": "39,627.72",
+    "Trade Income": "35,556.48",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "7"
+    "Trades": "6"
   },
   "Saulka": {
     "Nations": "Saulka",
@@ -25221,7 +24915,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "The Despotate of Kaartiyek, Sancta Discordia",
+    "Non-aggression Pacts": "Sancta Discordia",
     "Defensive Pacts": "Maatada Istara",
     "Defensive Pacts 2": "Mercati Emporium",
     "Military Alliances": "",
@@ -25290,7 +24984,7 @@
     "Raw Trade Income": "75,011.25",
     "Tariffs": "0.95",
     "Trade Income": "71,260.69",
-    "NAPs": "2",
+    "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
     "Trades": "9"
@@ -27641,108 +27335,6 @@
     "Mil. Pacts": "0",
     "Trades": "2"
   },
-  "The Despotate of Kaartiyek": {
-    "Nations": "The Despotate of Kaartiyek",
-    "Nation Check": "The Despotate of Kaartiyek",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
-    "Friend/Rival": "0.00%",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "9",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "0.95",
-    "Trade Income": "0.00",
-    "NAPs": "0",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
-  },
   "The Dukedom of Sylicia": {
     "Nations": "The Dukedom of Sylicia",
     "Nation Check": "The Dukedom of Sylicia",
@@ -28456,108 +28048,6 @@
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
     "Trades": "1"
-  },
-  "The Great City of Kula": {
-    "Nations": "The Great City of Kula",
-    "Nation Check": "The Great City of Kula",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
-    "Friend/Rival": "0.00%",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "7",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "0.95",
-    "Trade Income": "0.00",
-    "NAPs": "0",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
   },
   "The High Dukedom of Duloque": {
     "Nations": "The High Dukedom of Duloque",
@@ -30394,6 +29884,108 @@
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
     "Trades": "4"
+  },
+  "": {
+    "Nations": "",
+    "Nation Check": "",
+    "Overlord": "",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "",
+    "": "",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "",
+    "Individual": "",
+    "Friend/Rival": "",
+    "Taxes": "",
+    "Indep War?": "",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
+    "Non-aggression Pacts": "I'hamon",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "Rosefire Dynasty",
+    "Military Alliances 2": "",
+    "Limit": "",
+    "Trade 1": {
+      "Value": "I’Hamon",
+      "Trade 1 Value": ""
+    },
+    "Trade 2": {
+      "Value": "Rosefire Dynasty",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "Stratavia",
+      "Trade 3 Value": null
+    },
+    "Trade 4": {
+      "Value": null,
+      "Trade 4 Value": null
+    },
+    "Trade 5": {
+      "Value": null,
+      "Trade 5 Value": null
+    },
+    "Trade 6": {
+      "Value": null,
+      "Trade 6 Value": null
+    },
+    "Trade 7": {
+      "Value": null,
+      "Trade 7 Value": null
+    },
+    "Trade 8": {
+      "Value": null,
+      "Trade 8 Value": null
+    },
+    "Trade 9": {
+      "Value": null,
+      "Trade 9 Value": null
+    },
+    "Trade 10": {
+      "Value": null,
+      "Trade 10 Value": null
+    },
+    "Trade 11": {
+      "Value": null,
+      "Trade 11 Value": null
+    },
+    "Trade 12": {
+      "Value": null,
+      "Trade 12 Value": null
+    },
+    "Trade 13": {
+      "Value": null,
+      "Trade 13 Value": null
+    },
+    "Trade 14": {
+      "Value": null,
+      "Trade 14 Value": null
+    },
+    "Trade 15": {
+      "Value": null,
+      "Trade 15 Value": null
+    },
+    "Raw Trade Income": null,
+    "Tariffs": null,
+    "Trade Income": null,
+    "NAPs": null,
+    "Def. Pacts": null,
+    "Mil. Pacts": null,
+    "Trades": null
   },
   "The State of Iskura": {
     "Nations": "The State of Iskura",
@@ -33148,108 +32740,6 @@
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
     "Trades": "5"
-  },
-  "Vorokov": {
-    "Nations": "Vorokov",
-    "Nation Check": "Vorokov",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
-    "Friend/Rival": "0.00%",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "Kaug-Põhja",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "8",
-    "Trade 1": {
-      "Value": "Kaug-Põhja",
-      "Trade 1 Value": "6,252.50"
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "6,252.50",
-    "Tariffs": "0.95",
-    "Trade Income": "5,939.88",
-    "NAPs": "0",
-    "Def. Pacts": "1",
-    "Mil. Pacts": "0",
-    "Trades": "1"
   },
   "Vyraisos": {
     "Nations": "Vyraisos",
