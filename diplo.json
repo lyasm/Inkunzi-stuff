@@ -34,8 +34,8 @@
     "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
-      "Value": "ADMIN NATION",
-      "Trade 1 Value": "238,250.75"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
       "Value": "",
@@ -93,13 +93,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "238,250.75",
+    "Raw Trade Income": "0.00",
     "Tariffs": "1.75",
-    "Trade Income": "416,938.81",
+    "Trade Income": "0.00",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "1"
+    "Trades": "0"
   },
   "Adelaar Legioen": {
     "Nations": "Adelaar Legioen",
@@ -20717,10 +20717,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "8.25%",
-    "Base": "8.25%",
-    "Comparison": "5.96%",
-    "Individual": "5.96%",
+    "L. Desire": "8.34%",
+    "Base": "8.34%",
+    "Comparison": "6.00%",
+    "Individual": "6.00%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -27442,11 +27442,11 @@
     "Nation Check": "Avaritian Dictatorship",
     "Overlord": "",
     "Eco Vassals": "82,385.02",
-    "Eco Over.": "565,664.06",
-    "Compare": "15.22%",
+    "Eco Over.": "560,437.00",
+    "Compare": "15.32%",
     "MP Vassals": "19,872.19",
-    "MP Over.": "130,537.69",
-    "20% Total": "5.96%",
+    "MP Over.": "129,696.19",
+    "20% Total": "6.00%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27516,8 +27516,8 @@
       "Trade 11 Value": "5,907.47"
     },
     "Trade 12": {
-      "Value": "Republic of Rostora",
-      "Trade 12 Value": "2,549.53"
+      "Value": "",
+      "Trade 12 Value": ""
     },
     "Trade 13": {
       "Value": "",
@@ -27531,13 +27531,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "92,497.69",
+    "Raw Trade Income": "89,948.16",
     "Tariffs": "0.95",
-    "Trade Income": "87,872.81",
+    "Trade Income": "85,450.75",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "12"
+    "Trades": "11"
   },
   "The Free City of the Getsa": {
     "Nations": "The Free City of the Getsa",
