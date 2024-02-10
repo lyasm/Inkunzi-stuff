@@ -3063,12 +3063,12 @@
     "Nations": "Candentis Jalin",
     "Nation Check": "Candentis Jalin",
     "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
+    "Eco Vassals": "78,637.06",
+    "Eco Over.": "349,272.97",
+    "Compare": "30.24%",
+    "MP Vassals": "39,130.44",
+    "MP Over.": "129,387.50",
+    "20% Total": "10.55%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -3130,8 +3130,8 @@
       "Trade 9 Value": "2,776.56"
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": "Tomen Ignus Lupi",
+      "Trade 10 Value": "3,887.50"
     },
     "Trade 11": {
       "Value": "",
@@ -3153,13 +3153,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "84,394.22",
+    "Raw Trade Income": "88,281.72",
     "Tariffs": "1.00",
-    "Trade Income": "84,394.22",
+    "Trade Income": "88,281.72",
     "NAPs": "5",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "9"
+    "Trades": "10"
   },
   "Caravan Republic of the Wonder-Oasis": {
     "Nations": "Caravan Republic of the Wonder-Oasis",
@@ -26722,6 +26722,108 @@
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
     "Trades": "3"
+  },
+  "Tomen Ignus Lupi": {
+    "Nations": "Tomen Ignus Lupi",
+    "Nation Check": "Tomen Ignus Lupi",
+    "Overlord": "Candentis Jalin",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "Standard",
+    "": "",
+    "L. Desire": "21.10%",
+    "Base": "21.10%",
+    "Comparison": "10.55%",
+    "Individual": "10.55%",
+    "Friend/Rival": "0.00%",
+    "Taxes": "-5.00%",
+    "Indep War?": "",
+    "Autonomy": "None",
+    "Threshold": "125.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
+    "Honor?": "TRUE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "Emberlore",
+    "Ov. Religion": "Drakonikaliq Plameni",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "6",
+    "Trade 1": {
+      "Value": "Candentis Jalin",
+      "Trade 1 Value": "10,637.50"
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "10,637.50",
+    "Tariffs": "1.05",
+    "Trade Income": "11,169.38",
+    "NAPs": "0",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
+    "Trades": "1"
   },
   "The Aislings": {
     "Nations": "The Aislings",
