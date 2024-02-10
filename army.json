@@ -2393,9 +2393,9 @@
     "Merc 3": "0",
     "Merc 4": null
   },
-  "Darzi Loyalists": {
-    "Nations": "Darzi Loyalists",
-    "Nation Check": "Darzi Loyalists",
+  "Rakaslalradif": {
+    "Nations": "Rakaslalradif",
+    "Nation Check": "Rakaslalradif",
     "Pow_Army": "2,722",
     "Pow_Navy": "0",
     "Manpower": "96,165",
@@ -7226,9 +7226,9 @@
   "Maatada Istara": {
     "Nations": "Maatada Istara",
     "Nation Check": "Maatada Istara",
-    "Pow_Army": "4,359",
+    "Pow_Army": "4,349",
     "Pow_Navy": "0",
-    "Manpower": "163,721",
+    "Manpower": "162,711",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "97,920.00",
@@ -8192,9 +8192,9 @@
   "Natałor": {
     "Nations": "Natałor",
     "Nation Check": "Natałor",
-    "Pow_Army": "1,318",
+    "Pow_Army": "1,317",
     "Pow_Navy": "0",
-    "Manpower": "48,840",
+    "Manpower": "48,675",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "103,950.00",
@@ -9155,9 +9155,9 @@
     "Merc 3": "0",
     "Merc 4": null
   },
-  "Queendom of Edithia": {
-    "Nations": "Queendom of Edithia",
-    "Nation Check": "Queendom of Edithia",
+  "Queendom of Edarosia": {
+    "Nations": "Queendom of Edarosia",
+    "Nation Check": "Queendom of Edarosia",
     "Pow_Army": "2,111",
     "Pow_Navy": "0",
     "Manpower": "30,124",
@@ -10964,13 +10964,13 @@
   "Terrum Aetheri": {
     "Nations": "Terrum Aetheri",
     "Nation Check": "Terrum Aetheri",
-    "Pow_Army": "872",
+    "Pow_Army": "810",
     "Pow_Navy": "0",
-    "Manpower": "12,918",
+    "Manpower": "6,713",
     "Manpower Avail.": "0",
     "Upkeep": "",
-    "Upkeep Army": "44,415.00",
-    "Upkeep Navy": "44,415.00",
+    "Upkeep Army": "35,532.00",
+    "Upkeep Navy": "35,532.00",
     "Upkeep Mercenary": "0.00",
     "Faction Troops": "",
     "Mob": "",
@@ -11846,9 +11846,9 @@
   "The Jokers": {
     "Nations": "The Jokers",
     "Nation Check": "The Jokers",
-    "Pow_Army": "826",
+    "Pow_Army": "823",
     "Pow_Navy": "0",
-    "Manpower": "28,606",
+    "Manpower": "28,276",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "42,000.00",

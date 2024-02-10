@@ -4311,7 +4311,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Darzi Dynasty, Jörðnar, Ironskin Kingdom, Aethyrrajyam, Empire of Psaracija, Gran Prismatia, Karak Drung, Karak Gazan, Lundrium, Gno’hdail Impireachd, Uqhuma Killa, Irs-Geshud, Kingdom of Geloía, Here be Dragons",
+    "Non-aggression Pacts": "Rakaslalradif, Jörðnar, Ironskin Kingdom, Aethyrrajyam, Empire of Psaracija, Gran Prismatia, Karak Drung, Karak Gazan, Lundrium, Gno’hdail Impireachd, Uqhuma Killa, Irs-Geshud, Kingdom of Geloía, Here be Dragons",
     "Defensive Pacts": "Ironskin Kingdom",
     "Defensive Pacts 2": "Uqhuma Killa",
     "Military Alliances": "Kingdom of Geloía",
@@ -4362,7 +4362,7 @@
       "Trade 11 Value": "41,689.31"
     },
     "Trade 12": {
-      "Value": "Darzi Loyalists",
+      "Value": "Rakaslalradif",
       "Trade 12 Value": ""
     },
     "Trade 13": {
@@ -5609,9 +5609,9 @@
     "Mil. Pacts": "1",
     "Trades": "5"
   },
-  "Darzi Loyalists": {
-    "Nations": "Darzi Loyalists",
-    "Nation Check": "Darzi Loyalists",
+  "Rakaslalradif": {
+    "Nations": "Rakaslalradif",
+    "Nation Check": "Rakaslalradif",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -10152,7 +10152,7 @@
       "Trade 5 Value": "16,373.44"
     },
     "Trade 6": {
-      "Value": "Darzi Loyalists",
+      "Value": "Rakaslalradif",
       "Trade 6 Value": "11,875.00"
     },
     "Trade 7": {
@@ -12694,7 +12694,7 @@
       "Trade 3 Value": "2,206.13"
     },
     "Trade 4": {
-      "Value": "Darzi Loyalists",
+      "Value": "Rakaslalradif",
       "Trade 4 Value": "11,875.00"
     },
     "Trade 5": {
@@ -14515,7 +14515,7 @@
     "Defensive Pacts": "The Awakened",
     "Defensive Pacts 2": "",
     "Military Alliances": "The Republic of Alyvosk",
-    "Military Alliances 2": "Queendom of Edithia",
+    "Military Alliances 2": "Queendom of Edarosia",
     "Limit": "10",
     "Trade 1": {
       "Value": "",
@@ -22031,9 +22031,9 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  "Queendom of Edithia": {
-    "Nations": "Queendom of Edithia",
-    "Nation Check": "Queendom of Edithia",
+  "Queendom of Edarosia": {
+    "Nations": "Queendom of Edarosia",
+    "Nation Check": "Queendom of Edarosia",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -26450,7 +26450,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "Neonian Kuningate",
     "Military Alliances 2": "Herzogtum Enzla",
-    "Limit": "6",
+    "Limit": "4",
     "Trade 1": {
       "Value": "Svetograd",
       "Trade 1 Value": "4,945.00"
@@ -26469,11 +26469,11 @@
     },
     "Trade 5": {
       "Value": "Holy Kingdom of Scripts",
-      "Trade 5 Value": "4,620.75"
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "The Aislings",
-      "Trade 6 Value": "3,220.73"
+      "Trade 6 Value": ""
     },
     "Trade 7": {
       "Value": "Free City of Zephon",
@@ -26511,13 +26511,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "24,949.76",
-    "Tariffs": "0.95",
-    "Trade Income": "23,702.27",
+    "Raw Trade Income": "17,108.28",
+    "Tariffs": "1.05",
+    "Trade Income": "17,963.69",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "5"
+    "Trades": "3"
   },
   "Tetóth Kegeth": {
     "Nations": "Tetóth Kegeth",
@@ -27264,7 +27264,7 @@
     "Non-aggression Pacts": "Republic of Alyvosk",
     "Defensive Pacts": "Kingdom of Jasper",
     "Defensive Pacts 2": "Stortingr Republik af Frystdömet",
-    "Military Alliances": "Queendom of Edithia",
+    "Military Alliances": "Queendom of Edarosia",
     "Military Alliances 2": "Lublinex",
     "Limit": "9",
     "Trade 1": {
@@ -27288,7 +27288,7 @@
       "Trade 5 Value": ""
     },
     "Trade 6": {
-      "Value": "Queendom of Edithia",
+      "Value": "Queendom of Edarosia",
       "Trade 6 Value": "1,987.50"
     },
     "Trade 7": {
@@ -27778,7 +27778,7 @@
     "Military Alliances 2": "",
     "Limit": "10",
     "Trade 1": {
-      "Value": "Darzi Loyalists",
+      "Value": "Rakaslalradif",
       "Trade 1 Value": "11,875.00"
     },
     "Trade 2": {
@@ -29434,7 +29434,7 @@
       "Trade 6 Value": "4,785.63"
     },
     "Trade 7": {
-      "Value": "Queendom of Edithia",
+      "Value": "Queendom of Edarosia",
       "Trade 7 Value": "1,987.50"
     },
     "Trade 8": {
@@ -32396,7 +32396,7 @@
       "Trade 7 Value": "20,955.00"
     },
     "Trade 8": {
-      "Value": "Darzi Loyalists",
+      "Value": "Rakaslalradif",
       "Trade 8 Value": "11,875.00"
     },
     "Trade 9": {
