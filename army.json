@@ -86,9 +86,9 @@
   "ADMIN NATION": {
     "Nations": "ADMIN NATION",
     "Nation Check": "ADMIN NATION",
-    "Pow_Army": "8,578",
+    "Pow_Army": "32,864",
     "Pow_Navy": "176,000",
-    "Manpower": "812,769",
+    "Manpower": "3,241,363",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "1,894,500.00",
@@ -122,7 +122,7 @@
     "Slots": "0",
     "Merc 1": "0",
     "Merc 2": "",
-    "Merc 3": "3",
+    "Merc 3": "0",
     "Merc 4": null
   },
   "Adelaar Legioen": {
@@ -248,7 +248,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Agair": {
@@ -584,7 +584,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Amaldim": {
@@ -674,9 +674,9 @@
   "Annakpolis": {
     "Nations": "Annakpolis",
     "Nation Check": "Annakpolis",
-    "Pow_Army": "411",
+    "Pow_Army": "540",
     "Pow_Navy": "0",
-    "Manpower": "24,234",
+    "Manpower": "37,125",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "10,260.00",
@@ -710,7 +710,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "1",
+    "Merc 3": "0",
     "Merc 4": null
   },
   "Araybattahya ": {
@@ -752,7 +752,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Arcadia": {
@@ -1256,7 +1256,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Cabyarszag": {
@@ -1886,7 +1886,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Clan Lepus": {
@@ -2306,7 +2306,7 @@
     "Slots": "200",
     "Merc 1": "",
     "Merc 2": "300",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Daemonic Inquisition": {
@@ -2348,7 +2348,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "-1",
+    "Merc 3": "0",
     "Merc 4": null
   },
   "Daoquia": {
@@ -2432,7 +2432,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "-1",
+    "Merc 3": "0",
     "Merc 4": null
   },
   "Denirar": {
@@ -2474,7 +2474,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "-1",
+    "Merc 3": "0",
     "Merc 4": null
   },
   "Despotate of Valedouro": {
@@ -2684,7 +2684,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Elphonsa": {
@@ -3188,7 +3188,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "500",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Followers of the Chosen": {
@@ -3230,7 +3230,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "-1",
+    "Merc 3": "0",
     "Merc 4": null
   },
   "Forge of Aarde": {
@@ -3398,7 +3398,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Free City of Hered": {
@@ -5792,7 +5792,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Kingdom of Aeornia": {
@@ -6134,9 +6134,9 @@
   "Kingdom of Lyroa": {
     "Nations": "Kingdom of Lyroa",
     "Nation Check": "Kingdom of Lyroa",
-    "Pow_Army": "1,363",
+    "Pow_Army": "1,226",
     "Pow_Navy": "0",
-    "Manpower": "26,531",
+    "Manpower": "12,781",
     "Manpower Avail.": "6,331",
     "Upkeep": "",
     "Upkeep Army": "100,350.00",
@@ -7052,7 +7052,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Lundrium": {
@@ -7262,7 +7262,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "-1",
+    "Merc 3": "0",
     "Merc 4": null
   },
   "Mach Republic": {
@@ -12050,7 +12050,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "The Kingdom of Zakheira": {
@@ -13058,7 +13058,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Tsûa Lâng": {
@@ -13394,7 +13394,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "150",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Vantira": {
