@@ -548,7 +548,7 @@
       "Trade 1 Value": "5,743.75"
     },
     "Trade 2": {
-      "Value": "Maatada Istara",
+      "Value": "Sri Shimbir",
       "Trade 2 Value": "8,554.69"
     },
     "Trade 3": {
@@ -4111,10 +4111,10 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "High City of Tirsil",
     "Military Alliances": "Nuanta",
-    "Military Alliances 2": "Maatada Istara",
+    "Military Alliances 2": "Sri Shimbir",
     "Limit": "10",
     "Trade 1": {
-      "Value": "Maatada Istara",
+      "Value": "Sri Shimbir",
       "Trade 1 Value": "8,554.69"
     },
     "Trade 2": {
@@ -8210,7 +8210,7 @@
       "Trade 4 Value": "9,342.84"
     },
     "Trade 5": {
-      "Value": "Maatada Istara",
+      "Value": "Sri Shimbir",
       "Trade 5 Value": "8,554.69"
     },
     "Trade 6": {
@@ -10964,7 +10964,7 @@
       "Trade 4 Value": "3,056.25"
     },
     "Trade 5": {
-      "Value": "Maatada Istara",
+      "Value": "Sri Shimbir",
       "Trade 5 Value": "8,554.69"
     },
     "Trade 6": {
@@ -11843,10 +11843,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "15.23%",
-    "Base": "15.23%",
-    "Comparison": "12.61%",
-    "Individual": "12.61%",
+    "L. Desire": "15.27%",
+    "Base": "15.27%",
+    "Comparison": "12.64%",
+    "Individual": "12.64%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -14699,12 +14699,12 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "18.58%",
-    "Base": "18.58%",
+    "L. Desire": "38.58%",
+    "Base": "38.58%",
     "Comparison": "15.54%",
     "Individual": "15.54%",
     "Friend/Rival": "0.00%",
-    "Taxes": "-5.00%",
+    "Taxes": "15.00%",
     "Indep War?": "",
     "Autonomy": "Both",
     "Threshold": "100.00%",
@@ -15026,7 +15026,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "9",
+    "Limit": "6",
     "Trade 1": {
       "Value": "Kingdom of Járnfjall",
       "Trade 1 Value": "5,137.50"
@@ -15088,8 +15088,8 @@
       "Trade 15 Value": ""
     },
     "Raw Trade Income": "24,488.63",
-    "Tariffs": "0.75",
-    "Trade Income": "18,366.47",
+    "Tariffs": "1.05",
+    "Trade Income": "25,713.06",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -17339,9 +17339,9 @@
     "Mil. Pacts": "0",
     "Trades": "8"
   },
-  "Maatada Istara": {
-    "Nations": "Maatada Istara",
-    "Nation Check": "Maatada Istara",
+  "Sri Shimbir": {
+    "Nations": "Sri Shimbir",
+    "Nation Check": "Sri Shimbir",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -18160,11 +18160,11 @@
     "Nation Check": "Mātrentwo",
     "Overlord": "",
     "Eco Vassals": "225,945.00",
-    "Eco Over.": "882,561.49",
+    "Eco Over.": "878,561.49",
     "Compare": "37.47%",
     "MP Vassals": "130,900.00",
     "MP Over.": "349,362.75",
-    "20% Total": "12.61%",
+    "20% Total": "12.64%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -18593,7 +18593,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "Avaritian Dictatorship",
     "Defensive Pacts": "Snow Dominion",
-    "Defensive Pacts 2": "Maatada Istara",
+    "Defensive Pacts 2": "Sri Shimbir",
     "Military Alliances": "The Kingdom of Lunar",
     "Military Alliances 2": "",
     "Limit": "11",
@@ -18602,7 +18602,7 @@
       "Trade 1 Value": "8,654.76"
     },
     "Trade 2": {
-      "Value": "Maatada Istara",
+      "Value": "Sri Shimbir",
       "Trade 2 Value": "8,554.69"
     },
     "Trade 3": {
@@ -21046,7 +21046,7 @@
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "Maatada Istara",
+      "Value": "Sri Shimbir",
       "Trade 1 Value": "8,554.69"
     },
     "Trade 2": {
@@ -24916,13 +24916,13 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "Sancta Discordia",
-    "Defensive Pacts": "Maatada Istara",
+    "Defensive Pacts": "Sri Shimbir",
     "Defensive Pacts 2": "Mercati Emporium",
     "Military Alliances": "",
     "Military Alliances 2": "Malo'Sami",
     "Limit": "9",
     "Trade 1": {
-      "Value": "Maatada Istara",
+      "Value": "Sri Shimbir",
       "Trade 1 Value": "8,554.69"
     },
     "Trade 2": {
@@ -27492,7 +27492,7 @@
       "Trade 5 Value": ""
     },
     "Trade 6": {
-      "Value": "Maatada Istara",
+      "Value": "Sri Shimbir",
       "Trade 6 Value": "8,554.69"
     },
     "Trade 7": {
@@ -28794,7 +28794,7 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Maatada Istara",
+    "Military Alliances": "Sri Shimbir",
     "Military Alliances 2": "Mercati Emporium",
     "Limit": "6",
     "Trade 1": {
