@@ -6256,48 +6256,48 @@
     "Military Alliances 2": "Skullantium",
     "Limit": "11",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "The Fasharids",
+      "Trade 1 Value": "22,862.50"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Aethyrrajyam",
+      "Trade 2 Value": "33,610.00"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Brotherhood of Pikpik",
+      "Trade 3 Value": "16,548.44"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Avaritian Dictatorship",
+      "Trade 4 Value": "23,613.44"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Onaokoku",
+      "Trade 5 Value": "27,487.50"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Council of the Alonissos Isles",
+      "Trade 6 Value": "14,974.38"
     },
     "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
+      "Value": "Wandon Council",
+      "Trade 7 Value": "15,943.13"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "Clan Karatillion",
+      "Trade 8 Value": "21,845.69"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Psaracija",
+      "Trade 9 Value": "46,022.50"
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": "Here Be Dragons",
+      "Trade 10 Value": "28,896.56"
     },
     "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
+      "Value": "Uqhuma Killa",
+      "Trade 11 Value": "28,018.75"
     },
     "Trade 12": {
       "Value": "",
@@ -6315,13 +6315,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "279,822.88",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "265,831.73",
     "NAPs": "7",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "0"
+    "Trades": "11"
   },
   "Federation of Tlo'tsaa": {
     "Nations": "Federation of Tlo'tsaa",
@@ -14720,7 +14720,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "Sancta Discordia",
     "Military Alliances 2": "Snow Dominion",
-    "Limit": "8",
+    "Limit": "9",
     "Trade 1": {
       "Value": "",
       "Trade 1 Value": ""
