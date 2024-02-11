@@ -844,7 +844,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Karak Helhein",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "Lună sângeroasă",
     "Military Alliances": "",
     "Military Alliances 2": "",
@@ -913,7 +913,7 @@
     "Tariffs": "0.95",
     "Trade Income": "0.00",
     "NAPs": "0",
-    "Def. Pacts": "2",
+    "Def. Pacts": "1",
     "Mil. Pacts": "0",
     "Trades": "0"
   },
@@ -3773,6 +3773,108 @@
     "Mil. Pacts": "1",
     "Trades": "0"
   },
+  "Lepus": {
+    "Nations": "Lepus",
+    "Nation Check": "Lepus",
+    "Overlord": "The Fasharids",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "Standard",
+    "": "",
+    "L. Desire": "25.51%",
+    "Base": "25.51%",
+    "Comparison": "9.44%",
+    "Individual": "3.58%",
+    "Friend/Rival": "0.00%",
+    "Taxes": "2.50%",
+    "Indep War?": "",
+    "Autonomy": "None",
+    "Threshold": "100.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "TRUE",
+    "Ov. Culture": "Erkentwe",
+    "Ov. Religion": "Tarkārkwi",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "7",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": ""
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "0.00",
+    "Tariffs": "0.95",
+    "Trade Income": "0.00",
+    "NAPs": "0",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
+    "Trades": "0"
+  },
   "Clan of Skye ": {
     "Nations": "Clan of Skye ",
     "Nation Check": "Clan of Skye ",
@@ -4491,12 +4593,12 @@
     "Nations": "Council of the Alonissos Isles",
     "Nation Check": "Council of the Alonissos Isles",
     "Overlord": "",
-    "Eco Vassals": "294,970.50",
+    "Eco Vassals": "58,676.00",
     "Eco Over.": "444,308.90",
-    "Compare": "107.82%",
-    "MP Vassals": "161,206.72",
+    "Compare": "7.91%",
+    "MP Vassals": "11,825.00",
     "MP Over.": "149,520.94",
-    "20% Total": "34.84%",
+    "20% Total": "4.22%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -4805,9 +4907,9 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "40.73%",
-    "Base": "40.73%",
-    "Comparison": "34.84%",
+    "L. Desire": "10.11%",
+    "Base": "10.11%",
+    "Comparison": "4.22%",
     "Individual": "4.22%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
@@ -8669,108 +8771,6 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  "Him Maliataki": {
-    "Nations": "Him Maliataki",
-    "Nation Check": "Him Maliataki",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
-    "Friend/Rival": "0.00%",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "10",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "0.75",
-    "Trade Income": "0.00",
-    "NAPs": "0",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
-  },
   "HlérHeim": {
     "Nations": "HlérHeim",
     "Nation Check": "HlérHeim",
@@ -9279,210 +9279,6 @@
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "0"
-  },
-  "I’Hamon": {
-    "Nations": "I’Hamon",
-    "Nation Check": "I’Hamon",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
-    "Friend/Rival": "0.00%",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "Kingdom of Zahar, Gavi' Kingdom",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "5",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "1.25",
-    "Trade Income": "0.00",
-    "NAPs": "2",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
-  },
-  "Iarthar Grove": {
-    "Nations": "Iarthar Grove",
-    "Nation Check": "Iarthar Grove",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
-    "Friend/Rival": "0.00%",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "None",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "ADMIN NATION",
-    "Limit": "9",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "1.00",
-    "Trade Income": "0.00",
-    "NAPs": "0",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "1",
     "Trades": "0"
   },
   "Iidunn": {
@@ -10007,10 +9803,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "0.00%",
-    "Base": "-2.19%",
-    "Comparison": "6.41%",
-    "Individual": "6.41%",
+    "L. Desire": "0.30%",
+    "Base": "0.30%",
+    "Comparison": "9.44%",
+    "Individual": "5.86%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -10403,9 +10199,9 @@
     "Mil. Pacts": "1",
     "Trades": "0"
   },
-  "Jelling": {
-    "Nations": "Jelling",
-    "Nation Check": "Jelling",
+  "Félagi Vargúlfr Dvergr": {
+    "Nations": "Félagi Vargúlfr Dvergr",
+    "Nation Check": "Félagi Vargúlfr Dvergr",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -10709,16 +10505,16 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  "Karak Drung": {
-    "Nations": "Karak Drung",
-    "Nation Check": "Karak Drung",
+  "Karak Angaz": {
+    "Nations": "Karak Angaz",
+    "Nation Check": "Karak Angaz",
     "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
+    "Eco Vassals": "62,312.50",
+    "Eco Over.": "182,083.91",
+    "Compare": "53.41%",
+    "MP Vassals": "31,762.50",
+    "MP Over.": "59,468.75",
+    "20% Total": "17.53%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -10814,31 +10610,31 @@
   "Karak Gazan": {
     "Nations": "Karak Gazan",
     "Nation Check": "Karak Gazan",
-    "Overlord": "",
+    "Overlord": "Karak Angaz",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
     "MP Vassals": "",
     "MP Over.": "",
     "20% Total": "",
-    "Vassal Type": "",
+    "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
+    "L. Desire": "40.05%",
+    "Base": "40.05%",
+    "Comparison": "17.53%",
+    "Individual": "17.53%",
     "Friend/Rival": "0.00%",
-    "Taxes": "",
+    "Taxes": "10.00%",
     "Indep War?": "",
-    "Autonomy": "None",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
+    "Autonomy": "Both",
+    "Threshold": "125.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
+    "Honor?": "TRUE",
+    "Indep.?": "FALSE",
+    "Unity?": "TRUE",
+    "Ov. Culture": "Làidirsyn",
+    "Ov. Religion": "Chàisg Durzit Faith",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
@@ -10910,108 +10706,6 @@
     "Trade Income": "0.00",
     "NAPs": "0",
     "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
-  },
-  "Karak Helhein": {
-    "Nations": "Karak Helhein",
-    "Nation Check": "Karak Helhein",
-    "Overlord": "Lună sângeroasă",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "Standard",
-    "": "",
-    "L. Desire": "6.21%",
-    "Base": "6.21%",
-    "Comparison": "5.35%",
-    "Individual": "5.35%",
-    "Friend/Rival": "0.00%",
-    "Taxes": "7.50%",
-    "Indep War?": "",
-    "Autonomy": "Both",
-    "Threshold": "100.00%",
-    "Chaotic?": "FALSE",
-    "Deceptive?": "FALSE",
-    "Honor?": "FALSE",
-    "Indep.?": "FALSE",
-    "Unity?": "FALSE",
-    "Ov. Culture": "Lumina",
-    "Ov. Religion": "Ulnar",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "Akalikania",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "10",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "0.75",
-    "Trade Income": "0.00",
-    "NAPs": "0",
-    "Def. Pacts": "1",
     "Mil. Pacts": "0",
     "Trades": "0"
   },
@@ -11321,108 +11015,6 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  "Katu-Lachei Aztarnak": {
-    "Nations": "Katu-Lachei Aztarnak",
-    "Nation Check": "Katu-Lachei Aztarnak",
-    "Overlord": "Terra Magicae",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "March",
-    "": "",
-    "L. Desire": "34.19%",
-    "Base": "34.19%",
-    "Comparison": "19.95%",
-    "Individual": "19.24%",
-    "Friend/Rival": "0.00%",
-    "Taxes": "-5.00%",
-    "Indep War?": "",
-    "Autonomy": "None",
-    "Threshold": "100.00%",
-    "Chaotic?": "FALSE",
-    "Deceptive?": "FALSE",
-    "Honor?": "FALSE",
-    "Indep.?": "FALSE",
-    "Unity?": "FALSE",
-    "Ov. Culture": "Domiczean",
-    "Ov. Religion": "Bederatzuan",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "9",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "0.75",
-    "Trade Income": "0.00",
-    "NAPs": "0",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
-  },
   "Kaug-Põhja": {
     "Nations": "Kaug-Põhja",
     "Nation Check": "Kaug-Põhja",
@@ -11525,9 +11117,9 @@
     "Mil. Pacts": "2",
     "Trades": "0"
   },
-  "Kawranti": {
-    "Nations": "Kawranti",
-    "Nation Check": "Kawranti",
+  "New Verlensk": {
+    "Nations": "New Verlensk",
+    "Nation Check": "New Verlensk",
     "Overlord": "Uqhuma Killa",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -11627,9 +11219,9 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  "Kh'nûll Diocese": {
-    "Nations": "Kh'nûll Diocese",
-    "Nation Check": "Kh'nûll Diocese",
+  "Krimpatul Diocese": {
+    "Nations": "Krimpatul Diocese",
+    "Nation Check": "Krimpatul Diocese",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -11729,34 +11321,34 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  "Kiith Gaalsien": {
-    "Nations": "Kiith Gaalsien",
-    "Nation Check": "Kiith Gaalsien",
-    "Overlord": "Council of the Alonissos Isles",
+  "Neo-Kargatan Empire": {
+    "Nations": "Neo-Kargatan Empire",
+    "Nation Check": "Neo-Kargatan Empire",
+    "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
     "MP Vassals": "",
     "MP Over.": "",
     "20% Total": "",
-    "Vassal Type": "March",
+    "Vassal Type": "",
     "": "",
-    "L. Desire": "22.96%",
-    "Base": "22.96%",
-    "Comparison": "34.84%",
-    "Individual": "30.62%",
-    "Friend/Rival": "-25.00%",
-    "Taxes": "-5.00%",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "0.00%",
+    "Individual": "",
+    "Friend/Rival": "0.00%",
+    "Taxes": "",
     "Indep War?": "",
-    "Autonomy": "Both",
-    "Threshold": "100.00%",
-    "Chaotic?": "FALSE",
-    "Deceptive?": "FALSE",
-    "Honor?": "FALSE",
-    "Indep.?": "FALSE",
-    "Unity?": "FALSE",
-    "Ov. Culture": "Marsingni",
-    "Ov. Religion": "Maraskanade",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
@@ -12778,7 +12370,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "Zalmoxia / Herkunft / Nournourlant",
-    "Defensive Pacts": "Kh'nûll Diocese",
+    "Defensive Pacts": "Krimpatul Diocese",
     "Defensive Pacts 2": "",
     "Military Alliances": "Diogen",
     "Military Alliances 2": "Iidunn",
@@ -13460,108 +13052,6 @@
     "Trade Income": "0.00",
     "NAPs": "0",
     "Def. Pacts": "1",
-    "Mil. Pacts": "0",
-    "Trades": "0"
-  },
-  "Korograt State": {
-    "Nations": "Korograt State",
-    "Nation Check": "Korograt State",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
-    "Friend/Rival": "0.00%",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "None",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "3",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "1.00",
-    "Trade Income": "0.00",
-    "NAPs": "0",
-    "Def. Pacts": "0",
     "Mil. Pacts": "0",
     "Trades": "0"
   },
@@ -14393,9 +13883,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "25.66%",
-    "Base": "25.66%",
-    "Comparison": "19.95%",
+    "L. Desire": "6.43%",
+    "Base": "6.43%",
+    "Comparison": "0.71%",
     "Individual": "0.71%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -14691,12 +14181,12 @@
     "Nations": "Lună sângeroasă",
     "Nation Check": "Lună sângeroasă",
     "Overlord": "",
-    "Eco Vassals": "26,815.91",
-    "Eco Over.": "100,163.00",
-    "Compare": "0.00%",
-    "MP Vassals": "0.00",
-    "MP Over.": "47,465.00",
-    "20% Total": "5.35%",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -15813,12 +15303,12 @@
     "Nations": "The Fasharids",
     "Nation Check": "The Fasharids",
     "Overlord": "",
-    "Eco Vassals": "109,860.63",
+    "Eco Vassals": "147,763.13",
     "Eco Over.": "591,580.83",
-    "Compare": "13.46%",
-    "MP Vassals": "46,148.44",
+    "Compare": "22.20%",
+    "MP Vassals": "76,106.25",
     "MP Over.": "342,804.00",
-    "20% Total": "6.41%",
+    "20% Total": "9.44%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -23157,12 +22647,12 @@
     "Nations": "Terra Magicae",
     "Nation Check": "Terra Magicae",
     "Overlord": "",
-    "Eco Vassals": "50,942.19",
+    "Eco Vassals": "8,000.00",
     "Eco Over.": "224,440.63",
-    "Compare": "77.06%",
-    "MP Vassals": "40,768.75",
+    "Compare": "0.00%",
+    "MP Vassals": "0.00",
     "MP Over.": "52,903.13",
-    "20% Total": "19.95%",
+    "20% Total": "0.71%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
