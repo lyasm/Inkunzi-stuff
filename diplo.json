@@ -6256,48 +6256,48 @@
     "Military Alliances 2": "Skullantium",
     "Limit": "11",
     "Trade 1": {
-      "Value": "The Fasharids",
-      "Trade 1 Value": "22,862.50"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
-      "Value": "Aethyrrajyam",
-      "Trade 2 Value": "49,450.00"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
-      "Value": "Brotherhood of Pikpik",
-      "Trade 3 Value": "16,548.44"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "Avaritian Dictatorship",
-      "Trade 4 Value": "23,613.44"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
-      "Value": "Onaokoku",
-      "Trade 5 Value": "27,487.50"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
-      "Value": "Council of the Alonissos Isles",
-      "Trade 6 Value": "24,626.88"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
-      "Value": "Wandon Council",
-      "Trade 7 Value": "15,943.13"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
-      "Value": "Clan Karatillion",
-      "Trade 8 Value": "17,528.88"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
-      "Value": "Psaracija",
-      "Trade 9 Value": "46,022.50"
+      "Value": "",
+      "Trade 9 Value": ""
     },
     "Trade 10": {
-      "Value": "Here Be Dragons",
-      "Trade 10 Value": "28,896.56"
+      "Value": "",
+      "Trade 10 Value": ""
     },
     "Trade 11": {
-      "Value": "Uqhuma Killa",
-      "Trade 11 Value": "28,018.75"
+      "Value": "",
+      "Trade 11 Value": ""
     },
     "Trade 12": {
       "Value": "",
@@ -6315,13 +6315,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "300,998.56",
+    "Raw Trade Income": "0.00",
     "Tariffs": "0.95",
-    "Trade Income": "285,948.63",
+    "Trade Income": "0.00",
     "NAPs": "7",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "11"
+    "Trades": "0"
   },
   "Federation of Tlo'tsaa": {
     "Nations": "Federation of Tlo'tsaa",
@@ -10538,7 +10538,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "10",
+    "Limit": "7",
     "Trade 1": {
       "Value": "",
       "Trade 1 Value": ""
@@ -10600,7 +10600,7 @@
       "Trade 15 Value": ""
     },
     "Raw Trade Income": "0.00",
-    "Tariffs": "0.95",
+    "Tariffs": "1.25",
     "Trade Income": "0.00",
     "NAPs": "0",
     "Def. Pacts": "0",
@@ -17351,10 +17351,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "13.17%",
-    "Base": "13.17%",
-    "Comparison": "8.42%",
-    "Individual": "8.42%",
+    "L. Desire": "11.40%",
+    "Base": "11.40%",
+    "Comparison": "7.53%",
+    "Individual": "7.53%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -23056,11 +23056,11 @@
     "Nation Check": "Avaritian Dictatorship",
     "Overlord": "",
     "Eco Vassals": "71,210.94",
-    "Eco Over.": "370,759.71",
-    "Compare": "22.89%",
+    "Eco Over.": "409,950.80",
+    "Compare": "20.29%",
     "MP Vassals": "19,748.44",
-    "MP Over.": "86,268.19",
-    "20% Total": "8.42%",
+    "MP Over.": "97,326.14",
+    "20% Total": "7.53%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
