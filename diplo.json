@@ -215,9 +215,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "11.14%",
-    "Base": "11.14%",
-    "Comparison": "25.67%",
+    "L. Desire": "9.16%",
+    "Base": "9.16%",
+    "Comparison": "23.69%",
     "Individual": "10.47%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -309,12 +309,12 @@
     "Nations": "Aethyrrajyam",
     "Nation Check": "Aethyrrajyam",
     "Overlord": "",
-    "Eco Vassals": "770,021.88",
+    "Eco Vassals": "702,239.88",
     "Eco Over.": "1,394,497.19",
-    "Compare": "73.11%",
-    "MP Vassals": "386,550.31",
+    "Compare": "68.09%",
+    "MP Vassals": "360,005.94",
     "MP Over.": "528,742.50",
-    "20% Total": "25.67%",
+    "20% Total": "23.69%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -1031,9 +1031,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "6.86%",
-    "Base": "6.86%",
-    "Comparison": "25.67%",
+    "L. Desire": "4.88%",
+    "Base": "4.88%",
+    "Comparison": "23.69%",
     "Individual": "6.19%",
     "Friend/Rival": "-25.00%",
     "Taxes": "-5.00%",
@@ -10334,7 +10334,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "WrestleMania",
-    "Limit": "6",
+    "Limit": "7",
     "Trade 1": {
       "Value": "",
       "Trade 1 Value": ""
@@ -10509,12 +10509,12 @@
     "Nations": "Karak Angaz",
     "Nation Check": "Karak Angaz",
     "Overlord": "",
-    "Eco Vassals": "62,312.50",
-    "Eco Over.": "182,083.91",
-    "Compare": "53.41%",
-    "MP Vassals": "31,762.50",
-    "MP Over.": "59,468.75",
-    "20% Total": "17.53%",
+    "Eco Vassals": "55,456.06",
+    "Eco Over.": "110,906.38",
+    "Compare": "69.54%",
+    "MP Vassals": "24,096.88",
+    "MP Over.": "34,650.00",
+    "20% Total": "23.91%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -10619,10 +10619,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "40.05%",
-    "Base": "40.05%",
-    "Comparison": "17.53%",
-    "Individual": "17.53%",
+    "L. Desire": "45.32%",
+    "Base": "45.32%",
+    "Comparison": "23.91%",
+    "Individual": "23.91%",
     "Friend/Rival": "0.00%",
     "Taxes": "10.00%",
     "Indep War?": "",
@@ -10640,7 +10640,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "8",
+    "Limit": "9",
     "Trade 1": {
       "Value": "",
       "Trade 1 Value": ""
@@ -10703,6 +10703,108 @@
     },
     "Raw Trade Income": "0.00",
     "Tariffs": "0.95",
+    "Trade Income": "0.00",
+    "NAPs": "0",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
+    "Trades": "0"
+  },
+  "Karak Kadrin": {
+    "Nations": "Karak Kadrin",
+    "Nation Check": "",
+    "Overlord": "",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "",
+    "": "",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "0.00%",
+    "Individual": "",
+    "Friend/Rival": "0.00%",
+    "Taxes": "",
+    "Indep War?": "",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "10",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": ""
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "0.00",
+    "Tariffs": "1.00",
     "Trade Income": "0.00",
     "NAPs": "0",
     "Def. Pacts": "0",
@@ -13067,10 +13169,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "47.16%",
-    "Base": "47.16%",
-    "Comparison": "25.67%",
-    "Individual": "9.00%",
+    "L. Desire": "43.21%",
+    "Base": "43.21%",
+    "Comparison": "23.69%",
+    "Individual": "7.02%",
     "Friend/Rival": "0.00%",
     "Taxes": "7.50%",
     "Indep War?": "",
@@ -14685,6 +14787,108 @@
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
+    "Trades": "0"
+  },
+  "Sange Lamatis": {
+    "Nations": "Sange Lamatis",
+    "Nation Check": "Sange Lamatis",
+    "Overlord": "Litovai Imperiu",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "Standard",
+    "": "",
+    "L. Desire": "13.54%",
+    "Base": "13.54%",
+    "Comparison": "8.54%",
+    "Individual": "0.00%",
+    "Friend/Rival": "0.00%",
+    "Taxes": "-5.00%",
+    "Indep War?": "",
+    "Autonomy": "None",
+    "Threshold": "75.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "TRUE",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "Litovoi",
+    "Ov. Religion": "Litov Faith",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "6",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": ""
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "0.00",
+    "Tariffs": "0.95",
+    "Trade Income": "0.00",
+    "NAPs": "0",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
     "Trades": "0"
   },
   "Malo'Sami": {
