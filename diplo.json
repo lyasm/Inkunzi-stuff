@@ -3370,11 +3370,11 @@
     "Nation Check": "Ceridwyn Teulu",
     "Overlord": "",
     "Eco Vassals": "176,020.00",
-    "Eco Over.": "130,729.44",
-    "Compare": "310.88%",
+    "Eco Over.": "95,762.50",
+    "Compare": "317.84%",
     "MP Vassals": "117,232.50",
-    "MP Over.": "37,709.38",
-    "20% Total": "89.11%",
+    "MP Over.": "36,884.38",
+    "20% Total": "100.33%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -3400,24 +3400,24 @@
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "The Teutā Erwā",
-      "Trade 1 Value": "8,007.31"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
-      "Value": "Svetograd",
-      "Trade 2 Value": "4,945.00"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
-      "Value": "Drionn Galith",
-      "Trade 3 Value": "7,198.75"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "Novae Aeseriae",
-      "Trade 4 Value": "8,012.50"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
-      "Value": "Etolian Dimokratia",
-      "Trade 5 Value": "5,893.75"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "",
@@ -3459,13 +3459,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "34,057.31",
+    "Raw Trade Income": "0.00",
     "Tariffs": "0.95",
-    "Trade Income": "32,354.44",
+    "Trade Income": "0.00",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "5"
+    "Trades": "0"
   },
   "Chernkov": {
     "Nations": "Chernkov",
@@ -25205,10 +25205,10 @@
     "20% Total": "",
     "Vassal Type": "Autonomous",
     "": "",
-    "L. Desire": "88.54%",
-    "Base": "88.54%",
-    "Comparison": "89.11%",
-    "Individual": "34.44%",
+    "L. Desire": "103.58%",
+    "Base": "103.58%",
+    "Comparison": "100.33%",
+    "Individual": "38.25%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -27755,10 +27755,10 @@
     "20% Total": "",
     "Vassal Type": "Autonomous",
     "": "",
-    "L. Desire": "113.77%",
-    "Base": "113.77%",
-    "Comparison": "89.11%",
-    "Individual": "54.67%",
+    "L. Desire": "132.41%",
+    "Base": "132.41%",
+    "Comparison": "100.33%",
+    "Individual": "62.08%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
