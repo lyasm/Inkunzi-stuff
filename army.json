@@ -1766,9 +1766,9 @@
   "Clan of Skye ": {
     "Nations": "Clan of Skye ",
     "Nation Check": "Clan of Skye ",
-    "Pow_Army": "902",
+    "Pow_Army": "1,014",
     "Pow_Navy": "0",
-    "Manpower": "62,219",
+    "Manpower": "73,425",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "93,600.00",
@@ -4118,9 +4118,9 @@
   "Ilioratica": {
     "Nations": "Ilioratica",
     "Nation Check": "Ilioratica",
-    "Pow_Army": "631",
+    "Pow_Army": "786",
     "Pow_Navy": "53",
-    "Manpower": "37,100",
+    "Manpower": "52,559",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "23,040.00",
@@ -12182,9 +12182,9 @@
   "Schizaria": {
     "Nations": "Schizaria",
     "Nation Check": "Schizaria",
-    "Pow_Army": "0",
+    "Pow_Army": "462",
     "Pow_Navy": "0",
-    "Manpower": "0",
+    "Manpower": "46,221",
     "Manpower Avail.": "",
     "Upkeep": "",
     "Upkeep Army": "0.00",
@@ -12218,7 +12218,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Viontes": {
@@ -12260,7 +12260,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   },
   "Draku-Pentru-Tine Federation": {
@@ -12344,7 +12344,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "",
-    "Merc 3": "0",
+    "Merc 3": "1",
     "Merc 4": null
   }
 }
