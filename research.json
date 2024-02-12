@@ -2429,7 +2429,7 @@
     "Banking Guilds": "Yes",
     "Iron Toolmaking": "Yes",
     "Bellows": "Yes",
-    "Advanced Siegecraft": "No",
+    "Advanced Siegecraft": "Yes",
     "Mining Camps": "Yes",
     "Arena Games": "No",
     "Guilds": "No",
@@ -6948,7 +6948,7 @@
     "Classical Storage": "No",
     "Standardized Coinage": "Yes",
     "Classic Siegecraft": "No",
-    "Mining Guilds": "No",
+    "Mining Guilds": "Yes",
     "Water Mining": "No"
   },
   "Herzogtum Enzla": {
