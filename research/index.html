@@ -4,7 +4,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	    <link rel="stylesheet" href="style.css">
+	<script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+	<script src="https://unpkg.com/cytoscape-dagre@2.5.0/cytoscape-dagre.js"></script>
+    <script src="https://unpkg.com/dagre@0.7.4/dist/dagre.js"></script>
+
+	    <link rel="stylesheet" href="styles.css">
 	<title>INKUNZI TECH STUFF</title>
 </head>
 
@@ -13,6 +17,8 @@
 	<input type="text" id="nationDropdown" oninput="filterNations()" list="nationList" onchange="DisplayNationDetails()">
 	<datalist id="nationList"></datalist>
 	<div id="nationDetails"></div>
+	<div id="cy"></div>
+
 
 <script src="script.js"></script>
 </body>
