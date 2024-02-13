@@ -11231,14 +11231,14 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "149.42%",
-    "Base": "149.42%",
+    "L. Desire": "139.42%",
+    "Base": "139.42%",
     "Comparison": "96.79%",
     "Individual": "45.13%",
     "Friend/Rival": "0.00%",
     "Taxes": "10.00%",
     "Indep War?": "",
-    "Autonomy": "None",
+    "Autonomy": "Both",
     "Threshold": "125.00%",
     "Chaotic?": "FALSE",
     "Deceptive?": "FALSE",
@@ -15107,14 +15107,14 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "120.95%",
-    "Base": "120.95%",
+    "L. Desire": "110.95%",
+    "Base": "110.95%",
     "Comparison": "96.79%",
     "Individual": "24.16%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
-    "Autonomy": "None",
+    "Autonomy": "Both",
     "Threshold": "130.00%",
     "Chaotic?": "FALSE",
     "Deceptive?": "FALSE",
@@ -20226,32 +20226,32 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "",
+    "Military Alliances": "Ascendant Regency of Newstar",
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Pataia",
+      "Trade 1 Value": "6,568.75"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Snow Dominion",
+      "Trade 2 Value": "14,216.88"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Sri Shimbir",
+      "Trade 3 Value": "12,343.75"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Ascendant Regency of Newstar",
+      "Trade 4 Value": "4,712.50"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Sancta Discordia",
+      "Trade 5 Value": "8,893.88"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "The Statute of Order",
+      "Trade 6 Value": "6,775.00"
     },
     "Trade 7": {
       "Value": "",
@@ -20289,13 +20289,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "53,510.75",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "50,835.21",
     "NAPs": "0",
     "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
+    "Mil. Pacts": "1",
+    "Trades": "6"
   },
   "Republyk Balresk": {
     "Nations": "Republyk Balresk",
