@@ -1568,8 +1568,8 @@
       "Trade 1 Value": "15,202.28"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Clankar Cog",
+      "Trade 2 Value": "7,806.25"
     },
     "Trade 3": {
       "Value": "",
@@ -1623,13 +1623,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "15,202.28",
+    "Raw Trade Income": "23,008.53",
     "Tariffs": "1.05",
-    "Trade Income": "15,962.40",
+    "Trade Income": "24,158.96",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "1"
+    "Trades": "2"
   },
   "Arcadia": {
     "Nations": "Arcadia",
@@ -4440,8 +4440,8 @@
       "Trade 5 Value": "3,450.00"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Araybattahya ",
+      "Trade 6 Value": "6,718.75"
     },
     "Trade 7": {
       "Value": "",
@@ -4479,13 +4479,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,419.38",
+    "Raw Trade Income": "47,138.13",
     "Tariffs": "0.95",
-    "Trade Income": "38,398.41",
+    "Trade Income": "44,781.22",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Cleannmor": {
     "Nations": "Cleannmor",
@@ -4829,7 +4829,7 @@
     "Limit": "11",
     "Trade 1": {
       "Value": "The Aislings",
-      "Trade 1 Value": "4,294.31"
+      "Trade 1 Value": "4,460.81"
     },
     "Trade 2": {
       "Value": "Second State of Los",
@@ -4887,9 +4887,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "72,561.97",
+    "Raw Trade Income": "72,728.47",
     "Tariffs": "0.95",
-    "Trade Income": "68,933.87",
+    "Trade Income": "69,092.05",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -9113,7 +9113,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "The Aislings",
-      "Trade 1 Value": "4,294.31"
+      "Trade 1 Value": "4,460.81"
     },
     "Trade 2": {
       "Value": "",
@@ -9171,9 +9171,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "4,294.31",
+    "Raw Trade Income": "4,460.81",
     "Tariffs": "0.75",
-    "Trade Income": "3,220.73",
+    "Trade Income": "3,345.61",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -13679,8 +13679,8 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "64.86%",
-    "Base": "64.86%",
+    "L. Desire": "64.87%",
+    "Base": "64.87%",
     "Comparison": "38.18%",
     "Individual": "20.02%",
     "Friend/Rival": "0.00%",
@@ -13703,7 +13703,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "The Aislings",
-      "Trade 1 Value": "4,294.31"
+      "Trade 1 Value": "4,460.81"
     },
     "Trade 2": {
       "Value": "Meadoia Dynasty",
@@ -13761,9 +13761,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "109,501.68",
+    "Raw Trade Income": "109,668.18",
     "Tariffs": "1.05",
-    "Trade Income": "114,976.76",
+    "Trade Income": "115,151.59",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -16629,7 +16629,7 @@
     "Nations": "Meadoia Dynasty",
     "Nation Check": "Meadoia Dynasty",
     "Overlord": "",
-    "Eco Vassals": "459,287.06",
+    "Eco Vassals": "459,461.89",
     "Eco Over.": "649,339.11",
     "Compare": "120.16%",
     "MP Vassals": "164,892.75",
@@ -18501,7 +18501,7 @@
     },
     "Trade 2": {
       "Value": "The Aislings",
-      "Trade 2 Value": "4,294.31"
+      "Trade 2 Value": "4,460.81"
     },
     "Trade 3": {
       "Value": "Terrum Aetheri",
@@ -18555,9 +18555,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "53,643.34",
+    "Raw Trade Income": "53,809.84",
     "Tariffs": "1.05",
-    "Trade Income": "56,325.51",
+    "Trade Income": "56,500.33",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -19925,7 +19925,7 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "The Aislings",
-      "Trade 1 Value": "4,294.31"
+      "Trade 1 Value": "4,460.81"
     },
     "Trade 2": {
       "Value": "Iidunn",
@@ -19983,9 +19983,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "15,625.56",
+    "Raw Trade Income": "15,792.06",
     "Tariffs": "1.00",
-    "Trade Income": "15,625.56",
+    "Trade Income": "15,792.06",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -23597,7 +23597,7 @@
     "Limit": "4",
     "Trade 1": {
       "Value": "The Aislings",
-      "Trade 1 Value": "4,294.31"
+      "Trade 1 Value": "4,460.81"
     },
     "Trade 2": {
       "Value": "",
@@ -23655,9 +23655,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "4,294.31",
+    "Raw Trade Income": "4,460.81",
     "Tariffs": "1.05",
-    "Trade Income": "4,509.03",
+    "Trade Income": "4,683.85",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -23973,12 +23973,12 @@
     "Nations": "The Aislings",
     "Nation Check": "The Aislings",
     "Overlord": "",
-    "Eco Vassals": "103,305.53",
+    "Eco Vassals": "103,463.71",
     "Eco Over.": "116,550.83",
     "Compare": "134.38%",
     "MP Vassals": "41,208.75",
     "MP Over.": "30,665.94",
-    "20% Total": "44.60%",
+    "20% Total": "44.63%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -29897,10 +29897,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "81.71%",
-    "Base": "81.71%",
-    "Comparison": "44.60%",
-    "Individual": "44.60%",
+    "L. Desire": "81.76%",
+    "Base": "81.76%",
+    "Comparison": "44.63%",
+    "Individual": "44.63%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
     "Indep War?": "",
@@ -29921,7 +29921,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "The Aislings",
-      "Trade 1 Value": "4,294.31"
+      "Trade 1 Value": "4,460.81"
     },
     "Trade 2": {
       "Value": "Raaspazzlivatl",
@@ -29979,9 +29979,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "16,413.06",
+    "Raw Trade Income": "16,579.56",
     "Tariffs": "0.95",
-    "Trade Income": "15,592.41",
+    "Trade Income": "15,750.58",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
