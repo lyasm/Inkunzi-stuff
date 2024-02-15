@@ -4601,10 +4601,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "7.74%",
-    "Base": "7.74%",
-    "Comparison": "8.87%",
-    "Individual": "8.87%",
+    "L. Desire": "8.30%",
+    "Base": "8.30%",
+    "Comparison": "9.15%",
+    "Individual": "9.15%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -4628,8 +4628,8 @@
       "Trade 1 Value": "3,982.13"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Lepnia",
+      "Trade 2 Value": "7,036.56"
     },
     "Trade 3": {
       "Value": "",
@@ -4683,13 +4683,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "3,982.13",
+    "Raw Trade Income": "11,018.69",
     "Tariffs": "1.00",
-    "Trade Income": "3,982.13",
+    "Trade Income": "11,018.69",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "1"
+    "Trades": "2"
   },
   "Colmea": {
     "Nations": "Colmea",
@@ -27135,12 +27135,12 @@
     "Nations": "Thys Alari",
     "Nation Check": "Thys Alari",
     "Overlord": "",
-    "Eco Vassals": "71,416.50",
+    "Eco Vassals": "77,538.69",
     "Eco Over.": "348,642.49",
-    "Compare": "23.87%",
-    "MP Vassals": "18,816.88",
+    "Compare": "23.51%",
+    "MP Vassals": "18,528.13",
     "MP Over.": "78,825.31",
-    "20% Total": "8.87%",
+    "20% Total": "9.15%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
