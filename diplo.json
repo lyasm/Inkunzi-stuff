@@ -4601,10 +4601,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "8.03%",
-    "Base": "8.03%",
-    "Comparison": "9.02%",
-    "Individual": "9.02%",
+    "L. Desire": "7.74%",
+    "Base": "7.74%",
+    "Comparison": "8.87%",
+    "Individual": "8.87%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -8112,8 +8112,8 @@
       "Trade 5 Value": "5,331.25"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Royal City of Gevero",
+      "Trade 6 Value": "9,038.71"
     },
     "Trade 7": {
       "Value": "",
@@ -8151,13 +8151,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "38,568.38",
+    "Raw Trade Income": "47,607.09",
     "Tariffs": "0.95",
-    "Trade Income": "36,639.96",
+    "Trade Income": "45,226.73",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Gramantinia": {
     "Nations": "Gramantinia",
@@ -20466,8 +20466,8 @@
       "Trade 8 Value": "7,187.50"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Thys Alari",
+      "Trade 9 Value": "10,993.75"
     },
     "Trade 10": {
       "Value": "",
@@ -20493,13 +20493,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "107,046.96",
+    "Raw Trade Income": "118,040.71",
     "Tariffs": "0.95",
-    "Trade Income": "101,694.61",
+    "Trade Income": "112,138.68",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "8"
+    "Trades": "9"
   },
   "Republic of Rostora": {
     "Nations": "Republic of Rostora",
@@ -27136,11 +27136,11 @@
     "Nation Check": "Thys Alari",
     "Overlord": "",
     "Eco Vassals": "71,416.50",
-    "Eco Over.": "336,764.36",
+    "Eco Over.": "348,642.49",
     "Compare": "23.87%",
     "MP Vassals": "18,816.88",
     "MP Over.": "78,825.31",
-    "20% Total": "9.02%",
+    "20% Total": "8.87%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27186,8 +27186,8 @@
       "Trade 5 Value": "3,982.13"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Republic of Nymaró",
+      "Trade 6 Value": "11,312.50"
     },
     "Trade 7": {
       "Value": "",
@@ -27225,13 +27225,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "144,624.54",
+    "Raw Trade Income": "155,937.04",
     "Tariffs": "1.05",
-    "Trade Income": "151,855.77",
+    "Trade Income": "163,733.89",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Tort Uli Xaliq": {
     "Nations": "Tort Uli Xaliq",
