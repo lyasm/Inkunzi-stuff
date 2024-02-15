@@ -3683,10 +3683,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "55.88%",
-    "Base": "55.88%",
-    "Comparison": "24.19%",
-    "Individual": "24.19%",
+    "L. Desire": "55.84%",
+    "Base": "55.84%",
+    "Comparison": "24.17%",
+    "Individual": "24.17%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -12793,7 +12793,7 @@
     },
     "Trade 3": {
       "Value": "Yeotang",
-      "Trade 3 Value": "10,038.56"
+      "Trade 3 Value": "11,033.38"
     },
     "Trade 4": {
       "Value": "Kinh Nam City-State",
@@ -12843,9 +12843,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "109,893.03",
+    "Raw Trade Income": "110,887.84",
     "Tariffs": "0.95",
-    "Trade Income": "104,398.38",
+    "Trade Income": "105,343.45",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -13467,12 +13467,12 @@
     "Nations": "Kingdom of Mimgrond",
     "Nation Check": "Kingdom of Mimgrond",
     "Overlord": "",
-    "Eco Vassals": "271,278.89",
-    "Eco Over.": "378,142.69",
+    "Eco Vassals": "272,522.40",
+    "Eco Over.": "379,087.76",
     "Compare": "21.58%",
     "MP Vassals": "28,482.78",
     "MP Over.": "132,000.00",
-    "20% Total": "18.66%",
+    "20% Total": "18.69%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -13531,7 +13531,7 @@
     },
     "Trade 9": {
       "Value": "Yeotang",
-      "Trade 9 Value": "10,038.56"
+      "Trade 9 Value": "11,033.38"
     },
     "Trade 10": {
       "Value": "Imperial City of Soria",
@@ -13557,9 +13557,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "140,487.04",
+    "Raw Trade Income": "141,481.85",
     "Tariffs": "0.95",
-    "Trade Income": "133,462.69",
+    "Trade Income": "134,407.76",
     "NAPs": "3",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -14045,7 +14045,7 @@
     },
     "Trade 10": {
       "Value": "Yeotang",
-      "Trade 10 Value": "10,038.56"
+      "Trade 10 Value": "11,033.38"
     },
     "Trade 11": {
       "Value": "",
@@ -14067,9 +14067,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "117,665.32",
+    "Raw Trade Income": "118,660.13",
     "Tariffs": "0.95",
-    "Trade Income": "111,782.05",
+    "Trade Income": "112,727.12",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -18364,11 +18364,11 @@
     "Nation Check": "Nournourlant",
     "Overlord": "",
     "Eco Vassals": "79,321.25",
-    "Eco Over.": "409,591.07",
+    "Eco Over.": "278,081.86",
     "Compare": "16.58%",
     "MP Vassals": "21,608.13",
     "MP Over.": "130,350.00",
-    "20% Total": "7.19%",
+    "20% Total": "9.02%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -18387,10 +18387,10 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "City of Soria, Mimgrond",
+    "Non-aggression Pacts": "Mimgrond ,Scientarium",
     "Defensive Pacts": "The Aislings",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Scientarium",
+    "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
@@ -18406,8 +18406,8 @@
       "Trade 3 Value": "23,172.50"
     },
     "Trade 4": {
-      "Value": "Meadoia Dynasty",
-      "Trade 4 Value": "105,207.37"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "Scientarium",
@@ -18453,13 +18453,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "144,312.85",
+    "Raw Trade Income": "39,105.48",
     "Tariffs": "1.25",
-    "Trade Income": "180,391.07",
+    "Trade Income": "48,881.86",
     "NAPs": "2",
     "Def. Pacts": "1",
-    "Mil. Pacts": "1",
-    "Trades": "3"
+    "Mil. Pacts": "0",
+    "Trades": "2"
   },
   "Novae Aeseriae": {
     "Nations": "Novae Aeseriae",
@@ -21153,7 +21153,7 @@
     },
     "Trade 2": {
       "Value": "Yeotang",
-      "Trade 2 Value": "10,038.56"
+      "Trade 2 Value": "11,033.38"
     },
     "Trade 3": {
       "Value": "Kingdom of Gallacia",
@@ -21207,9 +21207,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "65,714.58",
+    "Raw Trade Income": "66,709.40",
     "Tariffs": "1.25",
-    "Trade Income": "82,143.23",
+    "Trade Income": "83,386.74",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -21753,11 +21753,11 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Sarmatai Confederation, Tort Uli Xaliq, Dreikland, Imperial City of Soria, Kinh Nam City-State, Elphonsa, Kingdom of Mimgrond",
+    "Non-aggression Pacts": "Sarmatai Confederation, Tort Uli Xaliq, Dreikland, Imperial City of Soria, Kinh Nam City-State, Elphonsa, Kingdom of Mimgrond, Nournourlant",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Imperial City of Soria",
     "Military Alliances": "",
-    "Military Alliances 2": "Nournourlant",
+    "Military Alliances 2": "Dreikland",
     "Limit": "11",
     "Trade 1": {
       "Value": "Imperial City of Soria",
@@ -21822,7 +21822,7 @@
     "Raw Trade Income": "95,109.53",
     "Tariffs": "0.97",
     "Trade Income": "92,256.25",
-    "NAPs": "7",
+    "NAPs": "8",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
     "Trades": "9"
@@ -23213,7 +23213,7 @@
     },
     "Trade 7": {
       "Value": "Yeotang",
-      "Trade 7 Value": "10,038.56"
+      "Trade 7 Value": "11,033.38"
     },
     "Trade 8": {
       "Value": "",
@@ -23247,9 +23247,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "55,786.30",
+    "Raw Trade Income": "56,781.11",
     "Tariffs": "0.75",
-    "Trade Income": "41,839.73",
+    "Trade Income": "42,585.84",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -24287,10 +24287,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "16.99%",
-    "Base": "16.99%",
-    "Comparison": "18.66%",
-    "Individual": "18.66%",
+    "L. Desire": "17.05%",
+    "Base": "17.05%",
+    "Comparison": "18.69%",
+    "Individual": "18.69%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
@@ -24339,7 +24339,7 @@
     },
     "Trade 8": {
       "Value": "Yeotang",
-      "Trade 8 Value": "10,038.56"
+      "Trade 8 Value": "11,033.38"
     },
     "Trade 9": {
       "Value": "",
@@ -24369,9 +24369,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "92,630.83",
+    "Raw Trade Income": "93,625.65",
     "Tariffs": "1.25",
-    "Trade Income": "115,788.54",
+    "Trade Income": "117,032.06",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -25307,10 +25307,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "39.38%",
-    "Base": "39.38%",
-    "Comparison": "7.19%",
-    "Individual": "7.19%",
+    "L. Desire": "43.04%",
+    "Base": "43.04%",
+    "Comparison": "9.02%",
+    "Individual": "9.02%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -26626,11 +26626,11 @@
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
     "Eco Vassals": "94,955.45",
-    "Eco Over.": "274,339.04",
+    "Eco Over.": "275,085.15",
     "Compare": "86.34%",
     "MP Vassals": "72,189.91",
     "MP Over.": "83,614.78",
-    "20% Total": "24.19%",
+    "20% Total": "24.17%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -26681,7 +26681,7 @@
     },
     "Trade 7": {
       "Value": "Yeotang",
-      "Trade 7 Value": "10,038.56"
+      "Trade 7 Value": "11,033.38"
     },
     "Trade 8": {
       "Value": "Chernkov",
@@ -26715,9 +26715,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "110,601.42",
+    "Raw Trade Income": "111,596.24",
     "Tariffs": "0.75",
-    "Trade Income": "82,951.07",
+    "Trade Income": "83,697.18",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
