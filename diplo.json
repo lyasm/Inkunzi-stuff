@@ -4592,40 +4592,40 @@
   "Cóchua Kingdom": {
     "Nations": "Cóchua Kingdom",
     "Nation Check": "Cóchua Kingdom",
-    "Overlord": "",
+    "Overlord": "Thys Alari",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
     "MP Vassals": "",
     "MP Over.": "",
     "20% Total": "",
-    "Vassal Type": "",
+    "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
+    "L. Desire": "8.03%",
+    "Base": "8.03%",
+    "Comparison": "9.02%",
+    "Individual": "9.02%",
     "Friend/Rival": "0.00%",
-    "Taxes": "",
+    "Taxes": "5.00%",
     "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
+    "Autonomy": "Both",
+    "Threshold": "100.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "Umbranthal",
+    "Ov. Religion": "Faith of the True Dark",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "5",
+    "Limit": "7",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Mébian Confederation",
+      "Trade 1 Value": "3,982.13"
     },
     "Trade 2": {
       "Value": "",
@@ -4683,13 +4683,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "3,982.13",
     "Tariffs": "1.00",
-    "Trade Income": "0.00",
+    "Trade Income": "3,982.13",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "1"
   },
   "Colmea": {
     "Nations": "Colmea",
@@ -13373,10 +13373,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "36.53%",
-    "Base": "36.53%",
-    "Comparison": "14.51%",
-    "Individual": "14.51%",
+    "L. Desire": "38.64%",
+    "Base": "38.64%",
+    "Comparison": "15.57%",
+    "Individual": "15.57%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -13404,8 +13404,8 @@
       "Trade 2 Value": "2,650.00"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Luminus",
+      "Trade 3 Value": "10,411.45"
     },
     "Trade 4": {
       "Value": "",
@@ -13455,13 +13455,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "9,425.00",
+    "Raw Trade Income": "19,836.45",
     "Tariffs": "1.05",
-    "Trade Income": "9,896.25",
+    "Trade Income": "20,828.28",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "2"
+    "Trades": "3"
   },
   "Kingdom of Mimgrond": {
     "Nations": "Kingdom of Mimgrond",
@@ -26421,12 +26421,12 @@
     "Nations": "The Statute of Order",
     "Nation Check": "The Statute of Order",
     "Overlord": "",
-    "Eco Vassals": "98,984.14",
+    "Eco Vassals": "110,456.95",
     "Eco Over.": "226,295.81",
-    "Compare": "28.83%",
-    "MP Vassals": "27,023.56",
+    "Compare": "29.03%",
+    "MP Vassals": "27,213.31",
     "MP Over.": "93,747.50",
-    "20% Total": "14.51%",
+    "20% Total": "15.57%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27135,12 +27135,12 @@
     "Nations": "Thys Alari",
     "Nation Check": "Thys Alari",
     "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
+    "Eco Vassals": "71,416.50",
+    "Eco Over.": "336,764.36",
+    "Compare": "23.87%",
+    "MP Vassals": "18,816.88",
+    "MP Over.": "78,825.31",
+    "20% Total": "9.02%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27182,8 +27182,8 @@
       "Trade 4 Value": "20,445.68"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Mébian Confederation",
+      "Trade 5 Value": "3,982.13"
     },
     "Trade 6": {
       "Value": "",
@@ -27225,13 +27225,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "140,642.42",
+    "Raw Trade Income": "144,624.54",
     "Tariffs": "1.05",
-    "Trade Income": "147,674.54",
+    "Trade Income": "151,855.77",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "4"
+    "Trades": "5"
   },
   "Tort Uli Xaliq": {
     "Nations": "Tort Uli Xaliq",
