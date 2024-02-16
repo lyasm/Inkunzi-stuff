@@ -859,7 +859,7 @@
     },
     "Trade 3": {
       "Value": "Cleannmor",
-      "Trade 3 Value": "7,187.50"
+      "Trade 3 Value": "3,593.75"
     },
     "Trade 4": {
       "Value": "Tetóth Kegeth",
@@ -909,9 +909,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "32,865.07",
+    "Raw Trade Income": "29,271.32",
     "Tariffs": "0.95",
-    "Trade Income": "31,221.82",
+    "Trade Income": "27,807.75",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -10454,8 +10454,8 @@
       "Trade 4 Value": "10,163.13"
     },
     "Trade 5": {
-      "Value": "Kingdom of Mimgrond",
-      "Trade 5 Value": "14,925.00"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "The Animal Kingdom",
@@ -10497,13 +10497,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "91,471.70",
+    "Raw Trade Income": "76,546.70",
     "Tariffs": "1.05",
-    "Trade Income": "96,045.29",
+    "Trade Income": "80,374.04",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "7"
+    "Trades": "6"
   },
   "Qa'tqarra Datansalūl": {
     "Nations": "Qa'tqarra Datansalūl",
@@ -15241,7 +15241,7 @@
     },
     "Trade 3": {
       "Value": "Cleannmor",
-      "Trade 3 Value": "7,187.50"
+      "Trade 3 Value": "3,593.75"
     },
     "Trade 4": {
       "Value": "",
@@ -15291,9 +15291,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "13,667.13",
+    "Raw Trade Income": "10,073.38",
     "Tariffs": "0.95",
-    "Trade Income": "12,983.77",
+    "Trade Income": "9,569.71",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -17555,10 +17555,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "23.98%",
-    "Base": "23.98%",
-    "Comparison": "21.49%",
-    "Individual": "7.49%",
+    "L. Desire": "23.84%",
+    "Base": "23.84%",
+    "Comparison": "21.38%",
+    "Individual": "7.46%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -17657,10 +17657,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "44.12%",
-    "Base": "44.12%",
-    "Comparison": "21.49%",
-    "Individual": "5.13%",
+    "L. Desire": "43.98%",
+    "Base": "43.98%",
+    "Comparison": "21.38%",
+    "Individual": "5.10%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
     "Indep War?": "",
@@ -18262,11 +18262,11 @@
     "Nation Check": "Kranicvak Nixond",
     "Overlord": "",
     "Eco Vassals": "524,218.63",
-    "Eco Over.": "1,130,727.13",
+    "Eco Over.": "1,143,727.13",
     "Compare": "61.08%",
     "MP Vassals": "266,267.38",
     "MP Over.": "435,957.16",
-    "20% Total": "21.49%",
+    "20% Total": "21.38%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -20717,10 +20717,10 @@
     "20% Total": "38.45%",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "23.18%",
-    "Base": "23.18%",
-    "Comparison": "21.49%",
-    "Individual": "4.20%",
+    "L. Desire": "23.06%",
+    "Base": "23.06%",
+    "Comparison": "21.38%",
+    "Individual": "4.17%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
     "Indep War?": "",
@@ -29081,10 +29081,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "21.99%",
-    "Base": "21.99%",
-    "Comparison": "21.49%",
-    "Individual": "4.67%",
+    "L. Desire": "21.86%",
+    "Base": "21.86%",
+    "Comparison": "21.38%",
+    "Individual": "4.65%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
