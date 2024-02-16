@@ -3471,12 +3471,12 @@
     "Nations": "Ceavia",
     "Nation Check": "Ceavia",
     "Overlord": "",
-    "Eco Vassals": "156,408.44",
+    "Eco Vassals": "105,950.25",
     "Eco Over.": "189,472.43",
-    "Compare": "76.80%",
-    "MP Vassals": "56,739.38",
+    "Compare": "74.45%",
+    "MP Vassals": "55,006.88",
     "MP Over.": "73,883.91",
-    "20% Total": "31.87%",
+    "20% Total": "26.07%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -5562,8 +5562,8 @@
       "Trade 5 Value": "9,823.50"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "The Animal Kingdom",
+      "Trade 6 Value": "9,446.53"
     },
     "Trade 7": {
       "Value": "",
@@ -5601,13 +5601,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "51,419.61",
+    "Raw Trade Income": "60,866.14",
     "Tariffs": "0.75",
-    "Trade Income": "38,564.71",
+    "Trade Income": "45,649.61",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Drahacira": {
     "Nations": "Drahacira",
@@ -26735,10 +26735,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "56.74%",
-    "Base": "56.74%",
-    "Comparison": "31.87%",
-    "Individual": "31.87%",
+    "L. Desire": "45.15%",
+    "Base": "45.15%",
+    "Comparison": "26.07%",
+    "Individual": "26.07%",
     "Friend/Rival": "0.00%",
     "Taxes": "-2.00%",
     "Indep War?": "",
@@ -26758,16 +26758,16 @@
     "Military Alliances 2": "",
     "Limit": "5",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Lauzydos",
+      "Trade 1 Value": "4,773.00"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Ceavia",
+      "Trade 2 Value": "5,743.75"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "The Grand City of Smmeíaia",
+      "Trade 3 Value": "4,785.63"
     },
     "Trade 4": {
       "Value": "",
@@ -26817,13 +26817,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "15,302.38",
     "Tariffs": "1.00",
-    "Trade Income": "0.00",
+    "Trade Income": "15,302.38",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "3"
   },
   "The Wendel Witaner": {
     "Nations": "The Wendel Witaner",
