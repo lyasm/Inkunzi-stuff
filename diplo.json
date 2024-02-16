@@ -215,9 +215,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "9.18%",
-    "Base": "9.18%",
-    "Comparison": "23.41%",
+    "L. Desire": "9.24%",
+    "Base": "9.24%",
+    "Comparison": "23.47%",
     "Individual": "10.77%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -309,12 +309,12 @@
     "Nations": "Aethyrrajyam",
     "Nation Check": "Aethyrrajyam",
     "Overlord": "",
-    "Eco Vassals": "917,763.19",
+    "Eco Vassals": "923,632.69",
     "Eco Over.": "1,746,109.14",
     "Compare": "64.48%",
     "MP Vassals": "343,421.38",
     "MP Over.": "532,630.31",
-    "20% Total": "23.41%",
+    "20% Total": "23.47%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -549,7 +549,7 @@
     },
     "Trade 2": {
       "Value": "Mercati Emporium",
-      "Trade 2 Value": "13,837.88"
+      "Trade 2 Value": "14,307.21"
     },
     "Trade 3": {
       "Value": "Ascendant Regency of Newstar",
@@ -603,9 +603,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "35,386.96",
+    "Raw Trade Income": "35,856.28",
     "Tariffs": "0.95",
-    "Trade Income": "33,617.61",
+    "Trade Income": "34,063.47",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -1133,9 +1133,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "4.50%",
-    "Base": "4.50%",
-    "Comparison": "23.41%",
+    "L. Desire": "4.56%",
+    "Base": "4.56%",
+    "Comparison": "23.47%",
     "Individual": "6.09%",
     "Friend/Rival": "-25.00%",
     "Taxes": "-5.00%",
@@ -1977,7 +1977,7 @@
     },
     "Trade 2": {
       "Value": "Mercati Emporium",
-      "Trade 2 Value": "13,837.88"
+      "Trade 2 Value": "14,307.21"
     },
     "Trade 3": {
       "Value": "The Statute of Order",
@@ -2031,9 +2031,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "59,088.96",
+    "Raw Trade Income": "59,558.28",
     "Tariffs": "1.25",
-    "Trade Income": "73,861.20",
+    "Trade Income": "74,447.85",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -9733,7 +9733,7 @@
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
-      "Trade 3 Value": "13,837.88"
+      "Trade 3 Value": "14,307.21"
     },
     "Trade 4": {
       "Value": "Nummum",
@@ -9783,9 +9783,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "179,696.77",
+    "Raw Trade Income": "180,166.09",
     "Tariffs": "1.25",
-    "Trade Income": "224,620.97",
+    "Trade Income": "225,207.62",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -13373,10 +13373,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "35.90%",
-    "Base": "35.90%",
-    "Comparison": "14.20%",
-    "Individual": "14.20%",
+    "L. Desire": "35.86%",
+    "Base": "35.86%",
+    "Comparison": "14.18%",
+    "Individual": "14.18%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -14189,10 +14189,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "42.46%",
-    "Base": "42.46%",
-    "Comparison": "23.41%",
-    "Individual": "6.55%",
+    "L. Desire": "42.59%",
+    "Base": "42.59%",
+    "Comparison": "23.47%",
+    "Individual": "6.62%",
     "Friend/Rival": "0.00%",
     "Taxes": "7.50%",
     "Indep War?": "",
@@ -14220,8 +14220,8 @@
       "Trade 2 Value": "8,625.00"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "There Be Dwarves",
+      "Trade 3 Value": "5,590.00"
     },
     "Trade 4": {
       "Value": "",
@@ -14271,13 +14271,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "20,105.63",
+    "Raw Trade Income": "25,695.63",
     "Tariffs": "1.05",
-    "Trade Income": "21,110.91",
+    "Trade Income": "26,980.41",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "2"
+    "Trades": "3"
   },
   "Krosen Dynasty": {
     "Nations": "Krosen Dynasty",
@@ -14926,8 +14926,8 @@
     "Military Alliances 2": "Tetóth Kegeth",
     "Limit": "10",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Tetóth Kegeth",
+      "Trade 1 Value": "8,121.73"
     },
     "Trade 2": {
       "Value": "",
@@ -14985,13 +14985,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "8,121.73",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "7,715.64",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "0"
+    "Trades": "1"
   },
   "Lowy Combine": {
     "Nations": "Lowy Combine",
@@ -15711,12 +15711,12 @@
     "Nations": "Sri Shimbir",
     "Nation Check": "Sri Shimbir",
     "Overlord": "",
-    "Eco Vassals": "285,103.43",
-    "Eco Over.": "391,038.48",
+    "Eco Vassals": "285,711.41",
+    "Eco Over.": "391,646.47",
     "Compare": "17.59%",
     "MP Vassals": "27,602.44",
     "MP Over.": "156,921.88",
-    "20% Total": "18.10%",
+    "20% Total": "18.11%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -15747,7 +15747,7 @@
     },
     "Trade 2": {
       "Value": "Mercati Emporium",
-      "Trade 2 Value": "13,837.88"
+      "Trade 2 Value": "14,307.21"
     },
     "Trade 3": {
       "Value": "The Kingdom of Lunar",
@@ -15755,7 +15755,7 @@
     },
     "Trade 4": {
       "Value": "Sancta Discordia",
-      "Trade 4 Value": "8,893.88"
+      "Trade 4 Value": "9,064.54"
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -15801,9 +15801,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "80,172.08",
+    "Raw Trade Income": "80,812.07",
     "Tariffs": "0.95",
-    "Trade Income": "76,163.48",
+    "Trade Income": "76,771.47",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -16877,7 +16877,7 @@
     },
     "Trade 4": {
       "Value": "Sancta Discordia",
-      "Trade 4 Value": "8,893.88"
+      "Trade 4 Value": "9,064.54"
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -16923,9 +16923,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "144,024.53",
+    "Raw Trade Income": "144,195.19",
     "Tariffs": "0.75",
-    "Trade Income": "108,018.39",
+    "Trade Income": "108,146.39",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -17555,10 +17555,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "24.08%",
-    "Base": "24.08%",
-    "Comparison": "21.56%",
-    "Individual": "7.52%",
+    "L. Desire": "23.98%",
+    "Base": "23.98%",
+    "Comparison": "21.49%",
+    "Individual": "7.49%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -17657,10 +17657,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "44.20%",
-    "Base": "44.20%",
-    "Comparison": "21.56%",
-    "Individual": "5.15%",
+    "L. Desire": "44.12%",
+    "Base": "44.12%",
+    "Comparison": "21.49%",
+    "Individual": "5.13%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
     "Indep War?": "",
@@ -18262,11 +18262,11 @@
     "Nation Check": "Kranicvak Nixond",
     "Overlord": "",
     "Eco Vassals": "524,218.63",
-    "Eco Over.": "1,122,846.23",
-    "Compare": "61.11%",
+    "Eco Over.": "1,130,727.13",
+    "Compare": "61.08%",
     "MP Vassals": "266,267.38",
-    "MP Over.": "435,744.72",
-    "20% Total": "21.56%",
+    "MP Over.": "435,957.16",
+    "20% Total": "21.49%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -18328,8 +18328,8 @@
       "Trade 9 Value": "13,526.88"
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": "Theocratia Artania",
+      "Trade 10 Value": "7,393.75"
     },
     "Trade 11": {
       "Value": "",
@@ -18351,13 +18351,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "208,255.13",
+    "Raw Trade Income": "215,648.88",
     "Tariffs": "0.95",
-    "Trade Income": "197,842.37",
+    "Trade Income": "204,866.43",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "9"
+    "Trades": "10"
   },
   "Nournourlant": {
     "Nations": "Nournourlant",
@@ -19187,10 +19187,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "22.87%",
-    "Base": "22.87%",
-    "Comparison": "18.10%",
-    "Individual": "18.10%",
+    "L. Desire": "22.88%",
+    "Base": "22.88%",
+    "Comparison": "18.11%",
+    "Individual": "18.11%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -19219,7 +19219,7 @@
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
-      "Trade 3 Value": "13,837.88"
+      "Trade 3 Value": "14,307.21"
     },
     "Trade 4": {
       "Value": "The Kingdom of Lunar",
@@ -19227,7 +19227,7 @@
     },
     "Trade 5": {
       "Value": "Sancta Discordia",
-      "Trade 5 Value": "8,893.88"
+      "Trade 5 Value": "9,064.54"
     },
     "Trade 6": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -19269,9 +19269,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "88,578.33",
+    "Raw Trade Income": "89,218.32",
     "Tariffs": "0.95",
-    "Trade Income": "84,149.42",
+    "Trade Income": "84,757.40",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -20545,7 +20545,7 @@
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
-      "Trade 3 Value": "13,837.88"
+      "Trade 3 Value": "14,307.21"
     },
     "Trade 4": {
       "Value": "The Kingdom of Lunar",
@@ -20553,7 +20553,7 @@
     },
     "Trade 5": {
       "Value": "Sancta Discordia",
-      "Trade 5 Value": "8,893.88"
+      "Trade 5 Value": "9,064.54"
     },
     "Trade 6": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -20595,9 +20595,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "94,976.96",
+    "Raw Trade Income": "95,616.94",
     "Tariffs": "0.95",
-    "Trade Income": "90,228.11",
+    "Trade Income": "90,836.10",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -20717,10 +20717,10 @@
     "20% Total": "38.45%",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "23.27%",
-    "Base": "23.27%",
-    "Comparison": "21.56%",
-    "Individual": "4.21%",
+    "L. Desire": "23.18%",
+    "Base": "23.18%",
+    "Comparison": "21.49%",
+    "Individual": "4.20%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
     "Indep War?": "",
@@ -21039,7 +21039,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Tetoth Kegeth",
+    "Non-aggression Pacts": "",
     "Defensive Pacts": "Exodists of Tepetl",
     "Defensive Pacts 2": "",
     "Military Alliances": "Jýldar",
@@ -21108,7 +21108,7 @@
     "Raw Trade Income": "49,402.86",
     "Tariffs": "1.05",
     "Trade Income": "51,873.00",
-    "NAPs": "1",
+    "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
     "Trades": "6"
@@ -21361,7 +21361,7 @@
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
-      "Trade 3 Value": "13,837.88"
+      "Trade 3 Value": "14,307.21"
     },
     "Trade 4": {
       "Value": "The Kingdom of Lunar",
@@ -21411,9 +21411,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "74,971.96",
+    "Raw Trade Income": "75,441.28",
     "Tariffs": "1.05",
-    "Trade Income": "78,720.56",
+    "Trade Income": "79,213.35",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -22173,7 +22173,7 @@
     },
     "Trade 2": {
       "Value": "Mercati Emporium",
-      "Trade 2 Value": "13,837.88"
+      "Trade 2 Value": "14,307.21"
     },
     "Trade 3": {
       "Value": "The Kingdom of Lunar",
@@ -22181,7 +22181,7 @@
     },
     "Trade 4": {
       "Value": "Sancta Discordia",
-      "Trade 4 Value": "8,893.88"
+      "Trade 4 Value": "9,064.54"
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -22227,9 +22227,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "90,164.26",
+    "Raw Trade Income": "90,804.24",
     "Tariffs": "0.95",
-    "Trade Income": "85,656.05",
+    "Trade Income": "86,264.03",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -23589,7 +23589,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Brotherhood of Dwarves, Royal City of Gevero",
+    "Non-aggression Pacts": "Brotherhood of Dwarves",
     "Defensive Pacts": "Exodists of Tepetl",
     "Defensive Pacts 2": "",
     "Military Alliances": "Royal City of Gevero",
@@ -23658,7 +23658,7 @@
     "Raw Trade Income": "38,343.90",
     "Tariffs": "1.05",
     "Trade Income": "40,261.10",
-    "NAPs": "2",
+    "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
     "Trades": "5"
@@ -23873,10 +23873,10 @@
     "Overlord": "",
     "Eco Vassals": "103,463.71",
     "Eco Over.": "107,003.17",
-    "Compare": "155.91%",
+    "Compare": "136.40%",
     "MP Vassals": "41,208.75",
-    "MP Over.": "26,430.94",
-    "20% Total": "50.52%",
+    "MP Over.": "30,212.19",
+    "20% Total": "46.62%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -25339,11 +25339,11 @@
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
-      "Trade 3 Value": "13,837.88"
+      "Trade 3 Value": "14,307.21"
     },
     "Trade 4": {
       "Value": "Sancta Discordia",
-      "Trade 4 Value": "8,893.88"
+      "Trade 4 Value": "9,064.54"
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -25389,9 +25389,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "73,319.58",
+    "Raw Trade Income": "73,959.57",
     "Tariffs": "1.05",
-    "Trade Income": "76,985.56",
+    "Trade Income": "77,657.55",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -25441,7 +25441,7 @@
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
-      "Trade 3 Value": "13,837.88"
+      "Trade 3 Value": "14,307.21"
     },
     "Trade 4": {
       "Value": "The Kingdom of Lunar",
@@ -25449,7 +25449,7 @@
     },
     "Trade 5": {
       "Value": "Sancta Discordia",
-      "Trade 5 Value": "8,893.88"
+      "Trade 5 Value": "9,064.54"
     },
     "Trade 6": {
       "Value": "The Statute of Order",
@@ -25491,9 +25491,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "76,803.46",
+    "Raw Trade Income": "77,443.44",
     "Tariffs": "1.05",
-    "Trade Income": "80,643.63",
+    "Trade Income": "81,315.62",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -26320,11 +26320,11 @@
     "Nation Check": "The Statute of Order",
     "Overlord": "",
     "Eco Vassals": "106,900.08",
-    "Eco Over.": "246,612.53",
+    "Eco Over.": "247,220.52",
     "Compare": "27.66%",
     "MP Vassals": "27,213.31",
     "MP Over.": "98,367.50",
-    "20% Total": "14.20%",
+    "20% Total": "14.18%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -26359,7 +26359,7 @@
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
-      "Trade 3 Value": "13,837.88"
+      "Trade 3 Value": "14,307.21"
     },
     "Trade 4": {
       "Value": "The Kingdom of Lunar",
@@ -26367,7 +26367,7 @@
     },
     "Trade 5": {
       "Value": "Sancta Discordia",
-      "Trade 5 Value": "8,893.88"
+      "Trade 5 Value": "9,064.54"
     },
     "Trade 6": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -26409,9 +26409,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "98,194.77",
+    "Raw Trade Income": "98,834.76",
     "Tariffs": "0.95",
-    "Trade Income": "93,285.03",
+    "Trade Income": "93,893.02",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -29081,10 +29081,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "22.08%",
-    "Base": "22.08%",
-    "Comparison": "21.56%",
-    "Individual": "4.69%",
+    "L. Desire": "21.99%",
+    "Base": "21.99%",
+    "Comparison": "21.49%",
+    "Individual": "4.67%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -29795,10 +29795,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "93.54%",
-    "Base": "93.54%",
-    "Comparison": "50.52%",
-    "Individual": "50.52%",
+    "L. Desire": "85.74%",
+    "Base": "85.74%",
+    "Comparison": "46.62%",
+    "Individual": "46.62%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
     "Indep War?": "",
