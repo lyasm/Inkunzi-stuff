@@ -7167,7 +7167,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Kranicvak Nixond, Arissii, Balresk, Annakpolis",
+    "Non-aggression Pacts": "Kranicvak Nixond, Arissii, Annakpolis",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Restored Arisii Confederation",
     "Military Alliances": "Gno’hdail Impireachd",
@@ -7236,7 +7236,7 @@
     "Raw Trade Income": "158,929.51",
     "Tariffs": "1.25",
     "Trade Income": "198,661.89",
-    "NAPs": "4",
+    "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
     "Trades": "8"
@@ -13467,12 +13467,12 @@
     "Nations": "Kingdom of Mimgrond",
     "Nation Check": "Kingdom of Mimgrond",
     "Overlord": "",
-    "Eco Vassals": "272,522.40",
+    "Eco Vassals": "285,541.31",
     "Eco Over.": "494,584.62",
-    "Compare": "21.58%",
-    "MP Vassals": "28,482.78",
+    "Compare": "21.73%",
+    "MP Vassals": "28,678.72",
     "MP Over.": "132,000.00",
-    "20% Total": "15.34%",
+    "20% Total": "15.89%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -24185,10 +24185,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "10.34%",
-    "Base": "10.34%",
-    "Comparison": "15.34%",
-    "Individual": "15.34%",
+    "L. Desire": "11.45%",
+    "Base": "11.45%",
+    "Comparison": "15.89%",
+    "Individual": "15.89%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
@@ -24240,8 +24240,8 @@
       "Trade 8 Value": "11,033.38"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Diogen",
+      "Trade 9 Value": "9,918.75"
     },
     "Trade 10": {
       "Value": "",
@@ -24267,13 +24267,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "93,625.65",
+    "Raw Trade Income": "103,544.40",
     "Tariffs": "1.25",
-    "Trade Income": "117,032.06",
+    "Trade Income": "129,430.50",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "8"
+    "Trades": "9"
   },
   "The Awakened": {
     "Nations": "The Awakened",
@@ -26468,8 +26468,8 @@
       "Trade 4 Value": "10,993.75"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Cóchua Kingdom",
+      "Trade 5 Value": "3,887.50"
     },
     "Trade 6": {
       "Value": "",
@@ -26511,13 +26511,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "31,576.13",
+    "Raw Trade Income": "35,463.63",
     "Tariffs": "1.25",
-    "Trade Income": "39,470.16",
+    "Trade Income": "44,329.53",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "4"
+    "Trades": "5"
   },
   "The Teutā Erwā": {
     "Nations": "The Teutā Erwā",
