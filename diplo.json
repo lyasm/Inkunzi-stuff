@@ -3906,7 +3906,7 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "Nuanta",
     "Defensive Pacts 2": "High City of Tirsil",
-    "Military Alliances": "",
+    "Military Alliances": "M'Qili Confederacy",
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
@@ -3974,7 +3974,7 @@
     "Trade Income": "165,160.88",
     "NAPs": "0",
     "Def. Pacts": "2",
-    "Mil. Pacts": "0",
+    "Mil. Pacts": "1",
     "Trades": "6"
   },
   "Clan Karatillion": {
@@ -4601,10 +4601,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "8.06%",
-    "Base": "8.06%",
-    "Comparison": "9.03%",
-    "Individual": "9.03%",
+    "L. Desire": "8.45%",
+    "Base": "8.45%",
+    "Comparison": "9.22%",
+    "Individual": "9.22%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -4632,8 +4632,8 @@
       "Trade 2 Value": "7,381.56"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "The Tarmarches",
+      "Trade 3 Value": "5,688.75"
     },
     "Trade 4": {
       "Value": "",
@@ -4683,13 +4683,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "11,363.69",
+    "Raw Trade Income": "17,052.44",
     "Tariffs": "1.00",
-    "Trade Income": "11,363.69",
+    "Trade Income": "17,052.44",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "2"
+    "Trades": "3"
   },
   "Colmea": {
     "Nations": "Colmea",
@@ -27033,12 +27033,12 @@
     "Nations": "Thys Alari",
     "Nation Check": "Thys Alari",
     "Overlord": "",
-    "Eco Vassals": "77,883.69",
+    "Eco Vassals": "82,658.06",
     "Eco Over.": "359,668.70",
-    "Compare": "23.51%",
-    "MP Vassals": "18,528.13",
+    "Compare": "23.14%",
+    "MP Vassals": "18,239.38",
     "MP Over.": "78,825.31",
-    "20% Total": "9.03%",
+    "20% Total": "9.22%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27567,7 +27567,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Amethyst Clan",
+    "Non-aggression Pacts": "Amethyst Clan, Kingdom of Nymeria",
     "Defensive Pacts": "Audgunn",
     "Defensive Pacts 2": "",
     "Military Alliances": "Krosen Dynasty",
@@ -27636,7 +27636,7 @@
     "Raw Trade Income": "217,391.43",
     "Tariffs": "0.95",
     "Trade Income": "206,521.86",
-    "NAPs": "1",
+    "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
     "Trades": "11"
@@ -29418,8 +29418,8 @@
       "Trade 2 Value": "9,823.50"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Elphonsa",
+      "Trade 3 Value": "8,837.50"
     },
     "Trade 4": {
       "Value": "",
@@ -29469,13 +29469,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "15,567.75",
+    "Raw Trade Income": "24,405.25",
     "Tariffs": "1.25",
-    "Trade Income": "19,459.69",
+    "Trade Income": "30,506.56",
     "NAPs": "4",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
-    "Trades": "2"
+    "Trades": "3"
   },
   "Zarkone": {
     "Nations": "Zarkone",
