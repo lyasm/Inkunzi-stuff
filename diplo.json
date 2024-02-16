@@ -3683,10 +3683,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "55.84%",
-    "Base": "55.84%",
-    "Comparison": "24.17%",
-    "Individual": "24.17%",
+    "L. Desire": "56.45%",
+    "Base": "56.45%",
+    "Comparison": "24.47%",
+    "Individual": "24.47%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -3714,8 +3714,8 @@
       "Trade 2 Value": "6,368.13"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Order of The Radiance",
+      "Trade 3 Value": "3,399.38"
     },
     "Trade 4": {
       "Value": "",
@@ -3765,13 +3765,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "17,267.84",
+    "Raw Trade Income": "20,667.21",
     "Tariffs": "0.95",
-    "Trade Income": "16,404.45",
+    "Trade Income": "19,633.85",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "2"
+    "Trades": "3"
   },
   "Chitinara": {
     "Nations": "Chitinara",
@@ -9489,12 +9489,12 @@
     "Nations": "Holy Kingdom of Scripts",
     "Nation Check": "Holy Kingdom of Scripts",
     "Overlord": "",
-    "Eco Vassals": "172,592.68",
+    "Eco Vassals": "176,508.05",
     "Eco Over.": "342,980.06",
-    "Compare": "108.12%",
-    "MP Vassals": "79,392.50",
+    "Compare": "108.17%",
+    "MP Vassals": "79,433.75",
     "MP Over.": "73,431.88",
-    "20% Total": "31.69%",
+    "20% Total": "31.93%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -19085,10 +19085,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "60.56%",
-    "Base": "60.56%",
-    "Comparison": "31.69%",
-    "Individual": "10.54%",
+    "L. Desire": "61.04%",
+    "Base": "61.04%",
+    "Comparison": "31.93%",
+    "Individual": "10.78%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -19108,16 +19108,16 @@
     "Military Alliances 2": "",
     "Limit": "10",
     "Trade 1": {
-      "Value": "The Teutā Erwā",
-      "Trade 1 Value": "10,899.71"
+      "Value": "Chernkov",
+      "Trade 1 Value": "6,483.02"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Kingdom of Gloria",
+      "Trade 2 Value": "4,300.00"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Order of The Mist",
+      "Trade 3 Value": "4,093.75"
     },
     "Trade 4": {
       "Value": "",
@@ -19167,13 +19167,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "10,899.71",
+    "Raw Trade Income": "14,876.77",
     "Tariffs": "0.95",
-    "Trade Income": "10,354.73",
+    "Trade Income": "14,132.94",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "1"
+    "Trades": "3"
   },
   "Pataia": {
     "Nations": "Pataia",
@@ -26523,12 +26523,12 @@
     "Nations": "The Teutā Erwā",
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
-    "Eco Vassals": "94,955.45",
+    "Eco Vassals": "98,602.85",
     "Eco Over.": "275,085.15",
-    "Compare": "86.34%",
-    "MP Vassals": "72,189.91",
+    "Compare": "86.52%",
+    "MP Vassals": "72,346.66",
     "MP Over.": "83,614.78",
-    "20% Total": "24.17%",
+    "20% Total": "24.47%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -30101,9 +30101,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "47.83%",
-    "Base": "47.83%",
-    "Comparison": "31.69%",
+    "L. Desire": "48.07%",
+    "Base": "48.07%",
+    "Comparison": "31.93%",
     "Individual": "21.15%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
