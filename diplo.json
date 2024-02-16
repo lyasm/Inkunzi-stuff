@@ -6724,8 +6724,8 @@
       "Trade 15 Value": ""
     },
     "Raw Trade Income": "453,276.17",
-    "Tariffs": "0.95",
-    "Trade Income": "430,612.36",
+    "Tariffs": "1.45",
+    "Trade Income": "657,250.45",
     "NAPs": "7",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -14801,9 +14801,9 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "38.44%",
-    "Base": "38.44%",
-    "Comparison": "38.22%",
+    "L. Desire": "39.18%",
+    "Base": "39.18%",
+    "Comparison": "38.96%",
     "Individual": "4.72%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -15107,10 +15107,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "44.70%",
-    "Base": "44.70%",
-    "Comparison": "38.22%",
-    "Individual": "18.99%",
+    "L. Desire": "45.44%",
+    "Base": "45.44%",
+    "Comparison": "38.96%",
+    "Individual": "18.98%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -18983,10 +18983,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "41.77%",
-    "Base": "41.77%",
-    "Comparison": "38.22%",
-    "Individual": "7.22%",
+    "L. Desire": "43.27%",
+    "Base": "43.27%",
+    "Comparison": "38.96%",
+    "Individual": "7.97%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -24307,35 +24307,35 @@
     "Defensive Pacts": "Kingdom of Jasper",
     "Defensive Pacts 2": "Stortingr Republik af Frystdömet",
     "Military Alliances": "Queendom of Edarosia",
-    "Military Alliances 2": "Lublinex",
+    "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Snezhin",
+      "Trade 1 Value": "10,723.65"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Kingdom of Jasper",
+      "Trade 2 Value": "11,544.35"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Golden Refugee",
+      "Trade 3 Value": "4,384.95"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Kaug-Põhja",
+      "Trade 4 Value": "16,244.38"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "The Republic of Alyvosk",
+      "Trade 5 Value": "9,938.66"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Queendom of Edarosia",
+      "Trade 6 Value": "8,981.25"
     },
     "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
+      "Value": "Zastita",
+      "Trade 7 Value": "7,288.13"
     },
     "Trade 8": {
       "Value": "",
@@ -24369,13 +24369,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "69,105.36",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "65,650.09",
     "NAPs": "1",
     "Def. Pacts": "2",
-    "Mil. Pacts": "2",
-    "Trades": "0"
+    "Mil. Pacts": "1",
+    "Trades": "7"
   },
   "The Charter Territory of Riveria": {
     "Nations": "The Charter Territory of Riveria",
@@ -24585,12 +24585,12 @@
     "Nations": "Avaritian Dictatorship",
     "Nation Check": "Avaritian Dictatorship",
     "Overlord": "",
-    "Eco Vassals": "743,361.21",
-    "Eco Over.": "654,105.56",
-    "Compare": "77.44%",
-    "MP Vassals": "105,133.88",
+    "Eco Vassals": "749,069.53",
+    "Eco Over.": "654,430.03",
+    "Compare": "80.35%",
+    "MP Vassals": "109,091.81",
     "MP Over.": "135,762.69",
-    "20% Total": "38.22%",
+    "20% Total": "38.96%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -24633,7 +24633,7 @@
     },
     "Trade 5": {
       "Value": "Ophenadon",
-      "Trade 5 Value": "3,363.75"
+      "Trade 5 Value": "3,705.30"
     },
     "Trade 6": {
       "Value": "Luminus",
@@ -24675,9 +24675,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "128,464.14",
+    "Raw Trade Income": "128,805.69",
     "Tariffs": "0.95",
-    "Trade Income": "122,040.93",
+    "Trade Income": "122,365.40",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -29489,10 +29489,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "30.51%",
-    "Base": "30.51%",
-    "Comparison": "38.22%",
-    "Individual": "7.30%",
+    "L. Desire": "31.26%",
+    "Base": "31.26%",
+    "Comparison": "38.96%",
+    "Individual": "7.29%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
