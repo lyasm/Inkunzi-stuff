@@ -2969,9 +2969,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "59.45%",
-    "Base": "59.45%",
-    "Comparison": "48.81%",
+    "L. Desire": "59.44%",
+    "Base": "59.44%",
+    "Comparison": "48.80%",
     "Individual": "18.14%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -9616,7 +9616,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Meadoia Dynasty",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Thys Alari",
     "Military Alliances 2": "",
@@ -9685,7 +9685,7 @@
     "Tariffs": "1.05",
     "Trade Income": "0.00",
     "NAPs": "0",
-    "Def. Pacts": "1",
+    "Def. Pacts": "0",
     "Mil. Pacts": "1",
     "Trades": "0"
   },
@@ -9718,7 +9718,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
+    "Defensive Pacts": "Avaritian Dictatorship",
     "Defensive Pacts 2": "",
     "Military Alliances": "The Dukedom of Sylicia",
     "Military Alliances 2": "Nuanta",
@@ -9787,7 +9787,7 @@
     "Tariffs": "1.25",
     "Trade Income": "224,620.97",
     "NAPs": "0",
-    "Def. Pacts": "0",
+    "Def. Pacts": "1",
     "Mil. Pacts": "2",
     "Trades": "7"
   },
@@ -13681,7 +13681,7 @@
     "": "",
     "L. Desire": "76.89%",
     "Base": "76.89%",
-    "Comparison": "48.81%",
+    "Comparison": "48.80%",
     "Individual": "21.42%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
@@ -14314,8 +14314,8 @@
     "Military Alliances 2": "Meadoia Dynasty",
     "Limit": "9",
     "Trade 1": {
-      "Value": "Meadoia Dynasty",
-      "Trade 1 Value": "105,207.37"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
       "Value": "",
@@ -14373,13 +14373,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "105,207.37",
+    "Raw Trade Income": "0.00",
     "Tariffs": "1.05",
-    "Trade Income": "110,467.74",
+    "Trade Income": "0.00",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "1"
+    "Trades": "0"
   },
   "Kycerian Dominion": {
     "Nations": "Kycerian Dominion",
@@ -15534,12 +15534,12 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "",
+    "Military Alliances": "City State of Kido",
     "Military Alliances 2": "",
     "Limit": "11",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "City State of Kido",
+      "Trade 1 Value": "20,485.33"
     },
     "Trade 2": {
       "Value": "",
@@ -15597,13 +15597,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "20,485.33",
     "Tariffs": "0.75",
-    "Trade Income": "0.00",
+    "Trade Income": "15,363.99",
     "NAPs": "0",
     "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
+    "Mil. Pacts": "1",
+    "Trades": "1"
   },
   "Maa": {
     "Nations": "Maa",
@@ -16630,11 +16630,11 @@
     "Nation Check": "Meadoia Dynasty",
     "Overlord": "",
     "Eco Vassals": "708,454.11",
-    "Eco Over.": "651,286.03",
+    "Eco Over.": "651,435.24",
     "Compare": "135.26%",
     "MP Vassals": "185,618.81",
     "MP Over.": "137,231.19",
-    "20% Total": "48.81%",
+    "20% Total": "48.80%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -16655,7 +16655,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "Thys Alari",
-    "Defensive Pacts 2": "Hrvolan Qaris",
+    "Defensive Pacts 2": "",
     "Military Alliances": "Krosen Dynasty",
     "Military Alliances 2": "People's Trade Dynasty",
     "Limit": "13",
@@ -16672,8 +16672,8 @@
       "Trade 3 Value": "14,325.00"
     },
     "Trade 4": {
-      "Value": "Krosen Dynasty",
-      "Trade 4 Value": "6,819.80"
+      "Value": "Amethyst Clan",
+      "Trade 4 Value": "7,018.75"
     },
     "Trade 5": {
       "Value": "The Holy Realm of Herkunft",
@@ -16719,11 +16719,11 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "131,866.38",
+    "Raw Trade Income": "132,065.33",
     "Tariffs": "0.75",
-    "Trade Income": "98,899.78",
+    "Trade Income": "99,048.99",
     "NAPs": "0",
-    "Def. Pacts": "2",
+    "Def. Pacts": "1",
     "Mil. Pacts": "2",
     "Trades": "13"
   },
@@ -24611,7 +24611,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "City State of Kido",
-    "Defensive Pacts 2": "",
+    "Defensive Pacts 2": "Hui Kai",
     "Military Alliances": "The Dukedom of Sylicia",
     "Military Alliances 2": "Nuanta",
     "Limit": "12",
@@ -24679,7 +24679,7 @@
     "Tariffs": "0.95",
     "Trade Income": "122,040.93",
     "NAPs": "0",
-    "Def. Pacts": "1",
+    "Def. Pacts": "2",
     "Mil. Pacts": "2",
     "Trades": "8"
   },
@@ -27859,8 +27859,8 @@
     "": "",
     "L. Desire": "58.55%",
     "Base": "58.55%",
-    "Comparison": "48.81%",
-    "Individual": "9.25%",
+    "Comparison": "48.80%",
+    "Individual": "9.24%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
