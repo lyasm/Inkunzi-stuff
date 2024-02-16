@@ -1745,10 +1745,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "59.93%",
-    "Base": "59.93%",
-    "Comparison": "57.05%",
-    "Individual": "18.21%",
+    "L. Desire": "60.01%",
+    "Base": "60.01%",
+    "Comparison": "57.09%",
+    "Individual": "18.25%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -3276,9 +3276,9 @@
     "Vassal Type": "Mercantile",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-12.57%",
-    "Comparison": "10.57%",
-    "Individual": "4.36%",
+    "Base": "-12.77%",
+    "Comparison": "10.43%",
+    "Individual": "4.30%",
     "Friend/Rival": "-25.00%",
     "Taxes": "10.00%",
     "Indep War?": "",
@@ -6131,10 +6131,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "24.29%",
-    "Base": "24.29%",
-    "Comparison": "10.89%",
-    "Individual": "10.89%",
+    "L. Desire": "33.57%",
+    "Base": "33.57%",
+    "Comparison": "15.54%",
+    "Individual": "15.54%",
     "Friend/Rival": "0.00%",
     "Taxes": "12.50%",
     "Indep War?": "",
@@ -9293,10 +9293,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "25.08%",
-    "Base": "25.08%",
-    "Comparison": "39.79%",
-    "Individual": "10.29%",
+    "L. Desire": "24.42%",
+    "Base": "24.42%",
+    "Comparison": "39.27%",
+    "Individual": "10.15%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -11325,12 +11325,12 @@
     "Nations": "Karak Angaz",
     "Nation Check": "Karak Angaz",
     "Overlord": "",
-    "Eco Vassals": "199,451.23",
-    "Eco Over.": "133,922.11",
+    "Eco Vassals": "190,985.48",
+    "Eco Over.": "131,609.61",
     "Compare": "104.44%",
     "MP Vassals": "77,065.45",
     "MP Over.": "73,785.94",
-    "20% Total": "50.68%",
+    "20% Total": "49.91%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -11357,15 +11357,15 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Karak Gazan",
-      "Trade 1 Value": "6,210.00"
+      "Trade 1 Value": "5,635.00"
     },
     "Trade 2": {
       "Value": "Karak Klinka",
-      "Trade 2 Value": "3,859.69"
+      "Trade 2 Value": "3,284.69"
     },
     "Trade 3": {
       "Value": "Lundrium",
-      "Trade 3 Value": "3,350.00"
+      "Trade 3 Value": "2,650.00"
     },
     "Trade 4": {
       "Value": "",
@@ -11415,9 +11415,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "13,419.69",
+    "Raw Trade Income": "11,569.69",
     "Tariffs": "1.25",
-    "Trade Income": "16,774.61",
+    "Trade Income": "14,462.11",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -11435,10 +11435,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "72.99%",
-    "Base": "72.99%",
-    "Comparison": "50.68%",
-    "Individual": "24.81%",
+    "L. Desire": "72.01%",
+    "Base": "72.01%",
+    "Comparison": "49.91%",
+    "Individual": "24.60%",
     "Friend/Rival": "0.00%",
     "Taxes": "10.00%",
     "Indep War?": "",
@@ -11459,15 +11459,15 @@
     "Limit": "11",
     "Trade 1": {
       "Value": "Karak Angaz",
-      "Trade 1 Value": "11,119.06"
+      "Trade 1 Value": "9,164.06"
     },
     "Trade 2": {
       "Value": "Karak Klinka",
-      "Trade 2 Value": "3,859.69"
+      "Trade 2 Value": "3,284.69"
     },
     "Trade 3": {
       "Value": "Lundrium",
-      "Trade 3 Value": "3,350.00"
+      "Trade 3 Value": "2,650.00"
     },
     "Trade 4": {
       "Value": "",
@@ -11517,9 +11517,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "18,328.75",
+    "Raw Trade Income": "15,098.75",
     "Tariffs": "0.95",
-    "Trade Income": "17,412.31",
+    "Trade Income": "14,343.81",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -11537,10 +11537,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "38.23%",
-    "Base": "38.23%",
-    "Comparison": "39.79%",
-    "Individual": "8.44%",
+    "L. Desire": "37.60%",
+    "Base": "37.60%",
+    "Comparison": "39.27%",
+    "Individual": "8.33%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -11639,10 +11639,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "42.25%",
-    "Base": "42.25%",
-    "Comparison": "39.79%",
-    "Individual": "12.46%",
+    "L. Desire": "41.56%",
+    "Base": "41.56%",
+    "Comparison": "39.27%",
+    "Individual": "12.29%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -11741,10 +11741,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "38.40%",
-    "Base": "38.40%",
-    "Comparison": "39.79%",
-    "Individual": "8.61%",
+    "L. Desire": "37.76%",
+    "Base": "37.76%",
+    "Comparison": "39.27%",
+    "Individual": "8.50%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -11843,10 +11843,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "47.72%",
-    "Base": "47.72%",
-    "Comparison": "50.68%",
-    "Individual": "14.54%",
+    "L. Desire": "46.63%",
+    "Base": "46.63%",
+    "Comparison": "49.91%",
+    "Individual": "14.21%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -11867,15 +11867,15 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Karak Gazan",
-      "Trade 1 Value": "6,210.00"
+      "Trade 1 Value": "5,635.00"
     },
     "Trade 2": {
       "Value": "Karak Angaz",
-      "Trade 2 Value": "11,119.06"
+      "Trade 2 Value": "9,164.06"
     },
     "Trade 3": {
       "Value": "Lundrium",
-      "Trade 3 Value": "3,350.00"
+      "Trade 3 Value": "2,650.00"
     },
     "Trade 4": {
       "Value": "",
@@ -11925,9 +11925,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "20,679.06",
+    "Raw Trade Income": "17,449.06",
     "Tariffs": "0.95",
-    "Trade Income": "19,645.11",
+    "Trade Income": "16,576.61",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -13773,12 +13773,12 @@
     "Nations": "Kingdom of the Aurore",
     "Nation Check": "Kingdom of the Aurore",
     "Overlord": "",
-    "Eco Vassals": "691,440.86",
-    "Eco Over.": "370,961.57",
+    "Eco Vassals": "690,088.89",
+    "Eco Over.": "369,894.23",
     "Compare": "98.88%",
     "MP Vassals": "100,272.56",
     "MP Over.": "101,404.88",
-    "20% Total": "57.05%",
+    "20% Total": "57.09%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -13813,7 +13813,7 @@
     },
     "Trade 3": {
       "Value": "Stratavia",
-      "Trade 3 Value": "19,104.38"
+      "Trade 3 Value": "17,681.25"
     },
     "Trade 4": {
       "Value": "The Kingdom of Zahar",
@@ -13863,9 +13863,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "87,120.43",
+    "Raw Trade Income": "85,697.30",
     "Tariffs": "0.75",
-    "Trade Income": "65,340.32",
+    "Trade Income": "64,272.98",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -15311,10 +15311,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "51.99%",
-    "Base": "51.99%",
-    "Comparison": "50.68%",
-    "Individual": "11.32%",
+    "L. Desire": "51.01%",
+    "Base": "51.01%",
+    "Comparison": "49.91%",
+    "Individual": "11.10%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -15335,15 +15335,15 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Karak Gazan",
-      "Trade 1 Value": "6,210.00"
+      "Trade 1 Value": "5,635.00"
     },
     "Trade 2": {
       "Value": "Karak Angaz",
-      "Trade 2 Value": "11,119.06"
+      "Trade 2 Value": "9,164.06"
     },
     "Trade 3": {
       "Value": "Karak Klinka",
-      "Trade 3 Value": "3,859.69"
+      "Trade 3 Value": "3,284.69"
     },
     "Trade 4": {
       "Value": "",
@@ -15393,9 +15393,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "21,188.75",
+    "Raw Trade Income": "18,083.75",
     "Tariffs": "0.75",
-    "Trade Income": "15,891.56",
+    "Trade Income": "13,562.81",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -16129,8 +16129,8 @@
     "": "",
     "L. Desire": "85.56%",
     "Base": "85.56%",
-    "Comparison": "57.05%",
-    "Individual": "21.83%",
+    "Comparison": "57.09%",
+    "Individual": "21.80%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -16167,7 +16167,7 @@
     },
     "Trade 5": {
       "Value": "Stratavia",
-      "Trade 5 Value": "19,104.38"
+      "Trade 5 Value": "17,681.25"
     },
     "Trade 6": {
       "Value": "Arethousa",
@@ -16209,9 +16209,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "126,301.04",
+    "Raw Trade Income": "124,877.92",
     "Tariffs": "0.95",
-    "Trade Income": "119,985.99",
+    "Trade Income": "118,634.02",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -16943,10 +16943,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "22.10%",
-    "Base": "22.10%",
-    "Comparison": "23.30%",
-    "Individual": "23.30%",
+    "L. Desire": "21.74%",
+    "Base": "21.74%",
+    "Comparison": "23.12%",
+    "Individual": "23.12%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -16967,7 +16967,7 @@
     "Limit": "11",
     "Trade 1": {
       "Value": "Stratavia",
-      "Trade 1 Value": "19,104.38"
+      "Trade 1 Value": "17,681.25"
     },
     "Trade 2": {
       "Value": "Golden Refugee",
@@ -17025,9 +17025,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "23,489.33",
+    "Raw Trade Income": "22,066.20",
     "Tariffs": "0.95",
-    "Trade Income": "22,314.86",
+    "Trade Income": "20,962.89",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -18874,11 +18874,11 @@
     "Nation Check": "Onaokoku",
     "Overlord": "",
     "Eco Vassals": "291,789.38",
-    "Eco Over.": "1,278,189.98",
-    "Compare": "30.04%",
+    "Eco Over.": "1,293,466.23",
+    "Compare": "29.60%",
     "MP Vassals": "83,957.50",
-    "MP Over.": "279,485.94",
-    "20% Total": "10.57%",
+    "MP Over.": "283,652.19",
+    "20% Total": "10.43%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -21737,10 +21737,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "37.90%",
-    "Base": "37.90%",
-    "Comparison": "20.95%",
-    "Individual": "20.95%",
+    "L. Desire": "37.94%",
+    "Base": "37.94%",
+    "Comparison": "20.97%",
+    "Individual": "20.97%",
     "Friend/Rival": "0.00%",
     "Taxes": "-4.00%",
     "Indep War?": "No",
@@ -21832,11 +21832,11 @@
     "Nation Check": "Shakisu",
     "Overlord": "",
     "Eco Vassals": "587,055.63",
-    "Eco Over.": "517,717.03",
-    "Compare": "85.58%",
+    "Eco Over.": "525,430.78",
+    "Compare": "84.61%",
     "MP Vassals": "157,827.66",
-    "MP Over.": "184,428.75",
-    "20% Total": "39.79%",
+    "MP Over.": "186,532.50",
+    "20% Total": "39.27%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22797,7 +22797,7 @@
     },
     "Trade 5": {
       "Value": "Stratavia",
-      "Trade 5 Value": "19,104.38"
+      "Trade 5 Value": "17,681.25"
     },
     "Trade 6": {
       "Value": "Kingdom of Aeornia",
@@ -22839,9 +22839,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "89,904.63",
+    "Raw Trade Income": "88,481.50",
     "Tariffs": "0.95",
-    "Trade Income": "85,409.40",
+    "Trade Income": "84,057.43",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -22851,12 +22851,12 @@
     "Nations": "Stratavia",
     "Nation Check": "Stratavia",
     "Overlord": "",
-    "Eco Vassals": "91,071.75",
-    "Eco Over.": "454,129.35",
-    "Compare": "34.42%",
-    "MP Vassals": "53,487.50",
-    "MP Over.": "155,409.38",
-    "20% Total": "10.89%",
+    "Eco Vassals": "119,531.67",
+    "Eco Over.": "427,024.67",
+    "Compare": "49.69%",
+    "MP Vassals": "70,202.34",
+    "MP Over.": "141,281.25",
+    "20% Total": "15.54%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22954,11 +22954,11 @@
     "Nation Check": "Stryaxina",
     "Overlord": "",
     "Eco Vassals": "253,145.25",
-    "Eco Over.": "610,277.44",
+    "Eco Over.": "608,925.47",
     "Compare": "63.28%",
     "MP Vassals": "136,206.13",
     "MP Over.": "215,250.82",
-    "20% Total": "20.95%",
+    "20% Total": "20.97%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22993,7 +22993,7 @@
     },
     "Trade 3": {
       "Value": "Stratavia",
-      "Trade 3 Value": "19,104.38"
+      "Trade 3 Value": "17,681.25"
     },
     "Trade 4": {
       "Value": "Commonwealth of Gonaria",
@@ -23043,9 +23043,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "216,409.86",
+    "Raw Trade Income": "214,986.73",
     "Tariffs": "0.95",
-    "Trade Income": "205,589.36",
+    "Trade Income": "204,237.39",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -28257,12 +28257,12 @@
     "Nations": "Velken Bulwark",
     "Nation Check": "Velken Bulwark",
     "Overlord": "",
-    "Eco Vassals": "116,759.86",
+    "Eco Vassals": "115,407.89",
     "Eco Over.": "147,251.86",
     "Compare": "37.22%",
     "MP Vassals": "19,140.00",
     "MP Over.": "51,425.00",
-    "20% Total": "23.30%",
+    "20% Total": "23.12%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -29285,10 +29285,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "25.12%",
-    "Base": "25.12%",
-    "Comparison": "10.57%",
-    "Individual": "6.22%",
+    "L. Desire": "24.90%",
+    "Base": "24.90%",
+    "Comparison": "10.43%",
+    "Individual": "6.13%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -29639,7 +29639,7 @@
     },
     "Trade 7": {
       "Value": "Stratavia",
-      "Trade 7 Value": "19,104.38"
+      "Trade 7 Value": "17,681.25"
     },
     "Trade 8": {
       "Value": "",
@@ -29673,9 +29673,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "49,246.94",
+    "Raw Trade Income": "47,823.81",
     "Tariffs": "0.95",
-    "Trade Income": "46,784.59",
+    "Trade Income": "45,432.62",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -29693,10 +29693,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "61.73%",
-    "Base": "61.73%",
-    "Comparison": "57.05%",
-    "Individual": "17.01%",
+    "L. Desire": "61.79%",
+    "Base": "61.79%",
+    "Comparison": "57.09%",
+    "Individual": "17.04%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
