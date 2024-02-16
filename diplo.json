@@ -1050,7 +1050,7 @@
     "Non-aggression Pacts": "Imperial City of Soria, Scientarium, Elphonsa",
     "Defensive Pacts": "Imperial City of Soria",
     "Defensive Pacts 2": "Kinh Nam City-State",
-    "Military Alliances": "",
+    "Military Alliances": "Scientarium",
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
@@ -1074,8 +1074,8 @@
       "Trade 5 Value": "10,049.75"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Diogen",
+      "Trade 6 Value": "9,918.75"
     },
     "Trade 7": {
       "Value": "",
@@ -1113,13 +1113,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "63,730.55",
+    "Raw Trade Income": "73,649.30",
     "Tariffs": "1.05",
-    "Trade Income": "66,917.07",
+    "Trade Income": "77,331.76",
     "NAPs": "3",
     "Def. Pacts": "2",
-    "Mil. Pacts": "0",
-    "Trades": "5"
+    "Mil. Pacts": "1",
+    "Trades": "6"
   },
   "Alramia": {
     "Nations": "Alramia",
@@ -13883,10 +13883,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "168.98%",
-    "Base": "168.98%",
-    "Comparison": "113.92%",
-    "Individual": "60.05%",
+    "L. Desire": "171.76%",
+    "Base": "171.76%",
+    "Comparison": "115.32%",
+    "Individual": "61.44%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -13918,8 +13918,8 @@
       "Trade 3 Value": "4,300.00"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Kennelands",
+      "Trade 4 Value": "4,712.50"
     },
     "Trade 5": {
       "Value": "",
@@ -13965,13 +13965,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "20,569.58",
+    "Raw Trade Income": "25,282.08",
     "Tariffs": "0.95",
-    "Trade Income": "19,541.10",
+    "Trade Income": "24,017.97",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "3"
+    "Trades": "4"
   },
   "Kinh Nam City-State": {
     "Nations": "Kinh Nam City-State",
@@ -17249,9 +17249,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "166.96%",
-    "Base": "166.96%",
-    "Comparison": "113.92%",
+    "L. Desire": "168.36%",
+    "Base": "168.36%",
+    "Comparison": "115.32%",
     "Individual": "53.87%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
@@ -18567,12 +18567,12 @@
     "Nations": "Nuanta",
     "Nation Check": "Nuanta",
     "Overlord": "",
-    "Eco Vassals": "179,057.85",
+    "Eco Vassals": "183,534.72",
     "Eco Over.": "64,340.00",
     "Compare": "291.32%",
     "MP Vassals": "146,128.13",
     "MP Over.": "50,160.00",
-    "20% Total": "113.92%",
+    "20% Total": "115.32%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22270,8 +22270,8 @@
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Clan of Skye ",
+      "Trade 1 Value": "9,300.63"
     },
     "Trade 2": {
       "Value": "",
@@ -22329,13 +22329,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "9,300.63",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "8,835.59",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "1"
   },
   "Rosinelle": {
     "Nations": "Rosinelle",
