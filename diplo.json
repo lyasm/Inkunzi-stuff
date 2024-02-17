@@ -15542,8 +15542,8 @@
       "Trade 1 Value": "20,485.33"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Avaritian Dictatorship",
+      "Trade 2 Value": "73,979.75"
     },
     "Trade 3": {
       "Value": "",
@@ -15597,13 +15597,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "20,485.33",
+    "Raw Trade Income": "94,465.08",
     "Tariffs": "0.75",
-    "Trade Income": "15,363.99",
+    "Trade Income": "70,848.81",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "1"
+    "Trades": "2"
   },
   "Maa": {
     "Nations": "Maa",
@@ -21737,10 +21737,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "37.90%",
-    "Base": "37.90%",
-    "Comparison": "20.95%",
-    "Individual": "20.95%",
+    "L. Desire": "37.87%",
+    "Base": "37.87%",
+    "Comparison": "20.94%",
+    "Individual": "20.94%",
     "Friend/Rival": "0.00%",
     "Taxes": "-4.00%",
     "Indep War?": "No",
@@ -21753,7 +21753,7 @@
     "Unity?": "FALSE",
     "Ov. Culture": "Stryaxian",
     "Ov. Religion": "Ionism",
-    "Non-aggression Pacts": "Kingdom of Ardungual",
+    "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
@@ -21822,7 +21822,7 @@
     "Raw Trade Income": "37,475.79",
     "Tariffs": "0.95",
     "Trade Income": "35,602.00",
-    "NAPs": "1",
+    "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
     "Trades": "3"
@@ -22953,12 +22953,12 @@
     "Nations": "Stryaxina",
     "Nation Check": "Stryaxina",
     "Overlord": "",
-    "Eco Vassals": "253,145.25",
+    "Eco Vassals": "252,923.19",
     "Eco Over.": "610,357.12",
-    "Compare": "63.28%",
-    "MP Vassals": "136,206.13",
+    "Compare": "63.25%",
+    "MP Vassals": "136,136.00",
     "MP Over.": "215,250.82",
-    "20% Total": "20.95%",
+    "20% Total": "20.94%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
