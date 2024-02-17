@@ -5864,8 +5864,8 @@
       "Trade 4 Value": "15,932.98"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Zalmoxia",
+      "Trade 5 Value": "5,331.25"
     },
     "Trade 6": {
       "Value": "Diogen",
@@ -5907,13 +5907,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "64,925.17",
+    "Raw Trade Income": "70,256.42",
     "Tariffs": "0.95",
-    "Trade Income": "61,678.91",
+    "Trade Income": "66,743.60",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Elyen-Mev": {
     "Nations": "Elyen-Mev",
@@ -26445,7 +26445,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Kingdom of Aeornia",
+    "Non-aggression Pacts": "Kingdom of Aeornia, Mébian Confederation",
     "Defensive Pacts": "Clan of Skye ",
     "Defensive Pacts 2": "",
     "Military Alliances": "Grand Principality of Onica",
@@ -26472,8 +26472,8 @@
       "Trade 5 Value": "3,887.50"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Mébian Confederation",
+      "Trade 6 Value": "3,982.13"
     },
     "Trade 7": {
       "Value": "",
@@ -26511,13 +26511,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "35,463.63",
+    "Raw Trade Income": "39,445.75",
     "Tariffs": "1.25",
-    "Trade Income": "44,329.53",
-    "NAPs": "1",
+    "Trade Income": "49,307.19",
+    "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "5"
+    "Trades": "6"
   },
   "The Teutā Erwā": {
     "Nations": "The Teutā Erwā",
