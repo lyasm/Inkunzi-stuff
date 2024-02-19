@@ -6354,7 +6354,7 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "Nournourlant",
     "Defensive Pacts 2": "",
-    "Military Alliances": "",
+    "Military Alliances": "Zalmoxia",
     "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
@@ -6362,8 +6362,8 @@
       "Trade 1 Value": "9,250.00"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Zalmoxia",
+      "Trade 2 Value": "5,331.25"
     },
     "Trade 3": {
       "Value": "",
@@ -6417,13 +6417,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "9,250.00",
+    "Raw Trade Income": "14,581.25",
     "Tariffs": "1.05",
-    "Trade Income": "9,712.50",
+    "Trade Income": "15,310.31",
     "NAPs": "0",
     "Def. Pacts": "1",
-    "Mil. Pacts": "0",
-    "Trades": "1"
+    "Mil. Pacts": "1",
+    "Trades": "2"
   },
   "Exodists of Tepetl": {
     "Nations": "Exodists of Tepetl",
@@ -10204,11 +10204,11 @@
     "Nation Check": "Ilikiu'Foriris",
     "Overlord": "",
     "Eco Vassals": "675,051.44",
-    "Eco Over.": "547,407.52",
+    "Eco Over.": "551,566.90",
     "Compare": "6.56%",
     "MP Vassals": "11,360.25",
     "MP Over.": "173,181.25",
-    "20% Total": "25.98%",
+    "20% Total": "25.79%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -18677,10 +18677,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "37.78%",
-    "Base": "37.78%",
-    "Comparison": "25.98%",
-    "Individual": "25.98%",
+    "L. Desire": "37.41%",
+    "Base": "37.41%",
+    "Comparison": "25.79%",
+    "Individual": "25.79%",
     "Friend/Rival": "0.00%",
     "Taxes": "-1.67%",
     "Indep War?": "",
