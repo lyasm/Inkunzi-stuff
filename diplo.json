@@ -136,7 +136,7 @@
     "Military Alliances 2": "",
     "Limit": "11",
     "Trade 1": {
-      "Value": "Ceridwyn Teulu",
+      "Value": "Ceridwyn Conferderation",
       "Trade 1 Value": "15,381.25"
     },
     "Trade 2": {
@@ -3161,6 +3161,108 @@
     "Mil. Pacts": "1",
     "Trades": "5"
   },
+  "Bolger Dynasty": {
+    "Nations": "Bolger Dynasty",
+    "Nation Check": "Bolger Dynasty",
+    "Overlord": "People's Trade Dynasty",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "Mercantile",
+    "": "",
+    "L. Desire": "0.00%",
+    "Base": "-20.00%",
+    "Comparison": "0.00%",
+    "Individual": "0.00%",
+    "Friend/Rival": "0.00%",
+    "Taxes": "-5.00%",
+    "Indep War?": "",
+    "Autonomy": "Both",
+    "Threshold": "75.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "TRUE",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "Meadotukian",
+    "Ov. Religion": "Opulenian",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "12",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": ""
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "0.00",
+    "Tariffs": "0.95",
+    "Trade Income": "0.00",
+    "NAPs": "0",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
+    "Trades": "0"
+  },
   "Carcukhanate": {
     "Nations": "Carcukhanate",
     "Nation Check": "Carcukhanate",
@@ -3569,9 +3671,9 @@
     "Mil. Pacts": "1",
     "Trades": "6"
   },
-  "Ceridwyn Teulu": {
-    "Nations": "Ceridwyn Teulu",
-    "Nation Check": "Ceridwyn Teulu",
+  "Ceridwyn Conferderation": {
+    "Nations": "Ceridwyn Conferderation",
+    "Nation Check": "Ceridwyn Conferderation",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -3602,7 +3704,7 @@
     "Defensive Pacts 2": "Dinasygan",
     "Military Alliances": "Svetograd",
     "Military Alliances 2": "Drionn Galith",
-    "Limit": "10",
+    "Limit": "11",
     "Trade 1": {
       "Value": "Svetograd",
       "Trade 1 Value": "10,575.11"
@@ -5434,7 +5536,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "Glasrhaidd Republic",
-    "Defensive Pacts": "Ceridwyn Teulu",
+    "Defensive Pacts": "Ceridwyn Conferderation",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
@@ -5715,12 +5817,12 @@
     "Nations": "Drionn Galith",
     "Nation Check": "Drionn Galith",
     "Overlord": "",
-    "Eco Vassals": "261,048.02",
+    "Eco Vassals": "163,789.06",
     "Eco Over.": "300,234.65",
-    "Compare": "195.67%",
-    "MP Vassals": "136,283.13",
+    "Compare": "118.70%",
+    "MP Vassals": "82,671.88",
     "MP Over.": "69,650.63",
-    "20% Total": "56.52%",
+    "20% Total": "34.65%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -5742,7 +5844,7 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Ceridwyn Teulu",
+    "Military Alliances": "Ceridwyn Conferderation",
     "Military Alliances 2": "Svetograd",
     "Limit": "9",
     "Trade 1": {
@@ -5758,7 +5860,7 @@
       "Trade 3 Value": "10,575.11"
     },
     "Trade 4": {
-      "Value": "Ceridwyn Teulu",
+      "Value": "Ceridwyn Conferderation",
       "Trade 4 Value": "15,381.25"
     },
     "Trade 5": {
@@ -6224,31 +6326,31 @@
   "Etolian Dimokratia": {
     "Nations": "Etolian Dimokratia",
     "Nation Check": "Etolian Dimokratia",
-    "Overlord": "Drionn Galith",
+    "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
     "MP Vassals": "",
     "MP Over.": "",
     "20% Total": "",
-    "Vassal Type": "March",
+    "Vassal Type": "",
     "": "",
-    "L. Desire": "70.90%",
-    "Base": "70.90%",
-    "Comparison": "56.52%",
-    "Individual": "21.87%",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "0.00%",
+    "Individual": "",
     "Friend/Rival": "0.00%",
-    "Taxes": "-5.00%",
+    "Taxes": "",
     "Indep War?": "",
     "Autonomy": "",
-    "Threshold": "100.00%",
-    "Chaotic?": "FALSE",
-    "Deceptive?": "FALSE",
-    "Honor?": "FALSE",
-    "Indep.?": "FALSE",
-    "Unity?": "FALSE",
-    "Ov. Culture": "Diagrothnu",
-    "Ov. Religion": "Church of Hasgilaan",
+    "Threshold": "",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
@@ -6268,7 +6370,7 @@
       "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "Ceridwyn Teulu",
+      "Value": "Ceridwyn Conferderation",
       "Trade 4 Value": "15,381.25"
     },
     "Trade 5": {
@@ -7763,9 +7865,9 @@
     "20% Total": "",
     "Vassal Type": "Autonomous",
     "": "",
-    "L. Desire": "53.67%",
-    "Base": "53.67%",
-    "Comparison": "56.52%",
+    "L. Desire": "31.80%",
+    "Base": "31.80%",
+    "Comparison": "34.65%",
     "Individual": "34.65%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -9544,7 +9646,7 @@
       "Trade 6 Value": "6,130.94"
     },
     "Trade 7": {
-      "Value": "Ceridwyn Teulu",
+      "Value": "Ceridwyn Conferderation",
       "Trade 7 Value": "15,381.25"
     },
     "Trade 8": {
@@ -12816,7 +12918,7 @@
       "Trade 8 Value": "10,089.00"
     },
     "Trade 9": {
-      "Value": "Ceridwyn Teulu",
+      "Value": "Ceridwyn Conferderation",
       "Trade 9 Value": "15,381.25"
     },
     "Trade 10": {
@@ -18524,7 +18626,7 @@
       "Trade 7 Value": "6,130.94"
     },
     "Trade 8": {
-      "Value": "Ceridwyn Teulu",
+      "Value": "Ceridwyn Conferderation",
       "Trade 8 Value": "15,381.25"
     },
     "Trade 9": {
@@ -23083,10 +23185,10 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Drionn Galith",
-    "Military Alliances 2": "Ceridwyn Teulu",
+    "Military Alliances 2": "Ceridwyn Conferderation",
     "Limit": "11",
     "Trade 1": {
-      "Value": "Ceridwyn Teulu",
+      "Value": "Ceridwyn Conferderation",
       "Trade 1 Value": "15,381.25"
     },
     "Trade 2": {
@@ -23506,7 +23608,7 @@
       "Trade 3 Value": "8,108.75"
     },
     "Trade 4": {
-      "Value": "Ceridwyn Teulu",
+      "Value": "Ceridwyn Conferderation",
       "Trade 4 Value": "15,381.25"
     },
     "Trade 5": {
@@ -26590,7 +26692,7 @@
       "Trade 9 Value": "15,771.60"
     },
     "Trade 10": {
-      "Value": "Ceridwyn Teulu",
+      "Value": "Ceridwyn Conferderation",
       "Trade 10 Value": "15,381.25"
     },
     "Trade 11": {
@@ -27543,12 +27645,12 @@
     "Nations": "People's Trade Dynasty",
     "Nation Check": "People's Trade Dynasty",
     "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
+    "Eco Vassals": "0.00",
+    "Eco Over.": "471,059.02",
+    "Compare": "0.00%",
+    "MP Vassals": "0.00",
+    "MP Over.": "114,133.25",
+    "20% Total": "0.00%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
