@@ -12965,10 +12965,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "25.13%",
-    "Base": "25.13%",
-    "Comparison": "20.06%",
-    "Individual": "20.06%",
+    "L. Desire": "24.76%",
+    "Base": "24.76%",
+    "Comparison": "19.88%",
+    "Individual": "19.88%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -21628,11 +21628,11 @@
     "Nation Check": "Scientarium",
     "Overlord": "",
     "Eco Vassals": "99,970.00",
-    "Eco Over.": "365,962.46",
-    "Compare": "73.00%",
+    "Eco Over.": "372,595.67",
+    "Compare": "72.57%",
     "MP Vassals": "46,695.00",
-    "MP Over.": "63,961.56",
-    "20% Total": "20.06%",
+    "MP Over.": "64,341.06",
+    "20% Total": "19.88%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -21651,7 +21651,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Sarmatai Confederation, Tort Uli Xaliq, Dreikland, Imperial City of Soria, Kinh Nam City-State, Elphonsa, Kingdom of Mimgrond, Diogen",
+    "Non-aggression Pacts": "Sarmatai Confederation, Tort Uli Xaliq, Dreikland, Imperial City of Soria, Kinh Nam City-State, Elphonsa, Kingdom of Mimgrond, Diogen, Iidunn",
     "Defensive Pacts": "Diogen",
     "Defensive Pacts 2": "Imperial City of Soria",
     "Military Alliances": "",
@@ -21698,8 +21698,8 @@
       "Trade 10 Value": "19,091.38"
     },
     "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
+      "Value": "Iidunn",
+      "Trade 11 Value": "5,537.50"
     },
     "Trade 12": {
       "Value": "",
@@ -21717,13 +21717,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "122,606.66",
+    "Raw Trade Income": "128,144.16",
     "Tariffs": "0.97",
-    "Trade Income": "118,928.46",
-    "NAPs": "8",
+    "Trade Income": "124,299.84",
+    "NAPs": "9",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "10"
+    "Trades": "11"
   },
   "Second State of Los": {
     "Nations": "Second State of Los",
