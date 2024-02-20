@@ -6472,8 +6472,8 @@
       "Trade 3 Value": "10,163.13"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Maa",
+      "Trade 4 Value": "6,450.00"
     },
     "Trade 5": {
       "Value": "",
@@ -6519,13 +6519,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "24,744.38",
+    "Raw Trade Income": "31,194.38",
     "Tariffs": "1.05",
-    "Trade Income": "25,981.59",
+    "Trade Income": "32,754.09",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "3"
+    "Trades": "4"
   },
   "Exodists of Tepetl": {
     "Nations": "Exodists of Tepetl",
@@ -13475,10 +13475,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "42.15%",
-    "Base": "42.15%",
-    "Comparison": "17.33%",
-    "Individual": "17.33%",
+    "L. Desire": "42.08%",
+    "Base": "42.08%",
+    "Comparison": "17.29%",
+    "Individual": "17.29%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -13985,9 +13985,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "149.91%",
-    "Base": "149.91%",
-    "Comparison": "96.83%",
+    "L. Desire": "149.99%",
+    "Base": "149.99%",
+    "Comparison": "96.90%",
     "Individual": "58.08%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -15750,8 +15750,8 @@
       "Trade 2 Value": "5,331.25"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Ewig Republic",
+      "Trade 3 Value": "9,809.63"
     },
     "Trade 4": {
       "Value": "",
@@ -15801,24 +15801,24 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "9,091.38",
+    "Raw Trade Income": "18,901.00",
     "Tariffs": "0.95",
-    "Trade Income": "8,636.81",
+    "Trade Income": "17,955.95",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "2"
+    "Trades": "3"
   },
   "Sri Shimbir": {
     "Nations": "Sri Shimbir",
     "Nation Check": "Sri Shimbir",
     "Overlord": "",
-    "Eco Vassals": "279,135.83",
-    "Eco Over.": "479,911.84",
+    "Eco Vassals": "279,914.58",
+    "Eco Over.": "480,690.60",
     "Compare": "14.04%",
     "MP Vassals": "27,602.44",
     "MP Over.": "196,625.00",
-    "20% Total": "14.44%",
+    "20% Total": "14.45%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -15857,7 +15857,7 @@
     },
     "Trade 4": {
       "Value": "Sancta Discordia",
-      "Trade 4 Value": "8,271.93"
+      "Trade 4 Value": "9,091.67"
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -15903,9 +15903,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "85,780.56",
+    "Raw Trade Income": "86,600.30",
     "Tariffs": "0.95",
-    "Trade Income": "81,491.53",
+    "Trade Income": "82,270.29",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -16979,7 +16979,7 @@
     },
     "Trade 4": {
       "Value": "Sancta Discordia",
-      "Trade 4 Value": "8,271.93"
+      "Trade 4 Value": "9,091.67"
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -17025,9 +17025,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "147,142.04",
+    "Raw Trade Income": "147,961.79",
     "Tariffs": "0.75",
-    "Trade Income": "110,356.53",
+    "Trade Income": "110,971.34",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -17351,10 +17351,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "134.74%",
-    "Base": "134.74%",
-    "Comparison": "96.83%",
-    "Individual": "38.74%",
+    "L. Desire": "134.89%",
+    "Base": "134.89%",
+    "Comparison": "96.90%",
+    "Individual": "38.82%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
@@ -17375,7 +17375,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Sancta Discordia",
-      "Trade 1 Value": "8,271.93"
+      "Trade 1 Value": "9,091.67"
     },
     "Trade 2": {
       "Value": "The Al-Deni Dominion",
@@ -17433,9 +17433,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "14,221.93",
+    "Raw Trade Income": "15,041.67",
     "Tariffs": "0.95",
-    "Trade Income": "13,510.83",
+    "Trade Income": "14,289.59",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -18669,12 +18669,12 @@
     "Nations": "Nuanta",
     "Nation Check": "Nuanta",
     "Overlord": "",
-    "Eco Vassals": "249,885.36",
+    "Eco Vassals": "250,664.12",
     "Eco Over.": "198,582.20",
     "Compare": "358.29%",
     "MP Vassals": "189,178.69",
     "MP Over.": "52,800.00",
-    "20% Total": "96.83%",
+    "20% Total": "96.90%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -19289,10 +19289,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "15.55%",
-    "Base": "15.55%",
-    "Comparison": "14.44%",
-    "Individual": "14.44%",
+    "L. Desire": "15.57%",
+    "Base": "15.57%",
+    "Comparison": "14.45%",
+    "Individual": "14.45%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -19329,7 +19329,7 @@
     },
     "Trade 5": {
       "Value": "Sancta Discordia",
-      "Trade 5 Value": "8,271.93"
+      "Trade 5 Value": "9,091.67"
     },
     "Trade 6": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -19371,9 +19371,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "82,296.65",
+    "Raw Trade Income": "83,116.39",
     "Tariffs": "0.95",
-    "Trade Income": "78,181.82",
+    "Trade Income": "78,960.57",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -20655,7 +20655,7 @@
     },
     "Trade 5": {
       "Value": "Sancta Discordia",
-      "Trade 5 Value": "8,271.93"
+      "Trade 5 Value": "9,091.67"
     },
     "Trade 6": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -20697,9 +20697,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "87,152.38",
+    "Raw Trade Income": "87,972.12",
     "Tariffs": "0.95",
-    "Trade Income": "82,794.76",
+    "Trade Income": "83,573.51",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -22283,7 +22283,7 @@
     },
     "Trade 4": {
       "Value": "Sancta Discordia",
-      "Trade 4 Value": "8,271.93"
+      "Trade 4 Value": "9,091.67"
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -22329,9 +22329,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "83,617.78",
+    "Raw Trade Income": "84,437.52",
     "Tariffs": "0.95",
-    "Trade Income": "79,436.89",
+    "Trade Income": "80,215.64",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -25445,7 +25445,7 @@
     },
     "Trade 4": {
       "Value": "Sancta Discordia",
-      "Trade 4 Value": "8,271.93"
+      "Trade 4 Value": "9,091.67"
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -25491,9 +25491,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "65,754.90",
+    "Raw Trade Income": "66,574.64",
     "Tariffs": "1.05",
-    "Trade Income": "69,042.65",
+    "Trade Income": "69,903.38",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -25551,7 +25551,7 @@
     },
     "Trade 5": {
       "Value": "Sancta Discordia",
-      "Trade 5 Value": "8,271.93"
+      "Trade 5 Value": "9,091.67"
     },
     "Trade 6": {
       "Value": "The Statute of Order",
@@ -25593,9 +25593,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "69,321.78",
+    "Raw Trade Income": "70,141.52",
     "Tariffs": "1.05",
-    "Trade Income": "72,787.87",
+    "Trade Income": "73,648.59",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -26422,11 +26422,11 @@
     "Nation Check": "The Statute of Order",
     "Overlord": "",
     "Eco Vassals": "142,019.24",
-    "Eco Over.": "242,437.68",
+    "Eco Over.": "243,216.43",
     "Compare": "28.05%",
     "MP Vassals": "27,592.81",
     "MP Over.": "98,367.50",
-    "20% Total": "17.33%",
+    "20% Total": "17.29%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -26469,7 +26469,7 @@
     },
     "Trade 5": {
       "Value": "Sancta Discordia",
-      "Trade 5 Value": "8,271.93"
+      "Trade 5 Value": "9,091.67"
     },
     "Trade 6": {
       "Value": "The Kingdom of Sk'o'chapr",
@@ -26511,9 +26511,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "93,800.19",
+    "Raw Trade Income": "94,619.93",
     "Tariffs": "0.95",
-    "Trade Income": "89,110.18",
+    "Trade Income": "89,888.93",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
