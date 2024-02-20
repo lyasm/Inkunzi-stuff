@@ -1330,11 +1330,11 @@
     "Nation Check": "Amethyst Clan",
     "Overlord": "",
     "Eco Vassals": "90,006.56",
-    "Eco Over.": "329,706.66",
+    "Eco Over.": "327,673.75",
     "Compare": "80.34%",
     "MP Vassals": "71,730.31",
     "MP Over.": "89,285.63",
-    "20% Total": "21.53%",
+    "20% Total": "21.56%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -1373,7 +1373,7 @@
     },
     "Trade 4": {
       "Value": "Stryaxina",
-      "Trade 4 Value": "21,092.50"
+      "Trade 4 Value": "16,225.00"
     },
     "Trade 5": {
       "Value": "Kingdom of Nymeria ",
@@ -1381,7 +1381,7 @@
     },
     "Trade 6": {
       "Value": "Meadoia Dynasty",
-      "Trade 6 Value": "110,751.93"
+      "Trade 6 Value": "113,479.53"
     },
     "Trade 7": {
       "Value": "",
@@ -1419,9 +1419,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "177,144.84",
+    "Raw Trade Income": "175,004.94",
     "Tariffs": "0.95",
-    "Trade Income": "168,287.60",
+    "Trade Income": "166,254.69",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -1659,15 +1659,15 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Scientarium, Kinh Nam City State",
+    "Non-aggression Pacts": "Scientarium, Kinh Nam City State, Kingdom of Mimgrond",
     "Defensive Pacts": "Amethyst Clan",
-    "Defensive Pacts 2": "",
+    "Defensive Pacts 2": "Kingdom of Mimgrond",
     "Military Alliances": "Unigol",
     "Military Alliances 2": "",
     "Limit": "6",
     "Trade 1": {
       "Value": "Meadoia Dynasty",
-      "Trade 1 Value": "110,751.93"
+      "Trade 1 Value": "113,479.53"
     },
     "Trade 2": {
       "Value": "Unigol",
@@ -1725,11 +1725,11 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "188,095.75",
+    "Raw Trade Income": "190,823.35",
     "Tariffs": "1.25",
-    "Trade Income": "235,119.69",
-    "NAPs": "2",
-    "Def. Pacts": "1",
+    "Trade Income": "238,529.19",
+    "NAPs": "3",
+    "Def. Pacts": "2",
     "Mil. Pacts": "1",
     "Trades": "6"
   },
@@ -2969,10 +2969,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "49.64%",
-    "Base": "49.64%",
-    "Comparison": "41.60%",
-    "Individual": "15.54%",
+    "L. Desire": "50.11%",
+    "Base": "50.11%",
+    "Comparison": "41.94%",
+    "Individual": "15.67%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "Yes",
@@ -2993,7 +2993,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Meadoia Dynasty",
-      "Trade 1 Value": "110,751.93"
+      "Trade 1 Value": "113,479.53"
     },
     "Trade 2": {
       "Value": "The Holy Realm of Herkunft",
@@ -3051,9 +3051,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "130,491.93",
+    "Raw Trade Income": "133,219.53",
     "Tariffs": "1.25",
-    "Trade Income": "163,114.91",
+    "Trade Income": "166,524.41",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -3174,11 +3174,11 @@
     "Vassal Type": "Mercantile",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-20.00%",
-    "Comparison": "0.00%",
-    "Individual": "0.00%",
+    "Base": "-3.31%",
+    "Comparison": "6.68%",
+    "Individual": "6.68%",
     "Friend/Rival": "0.00%",
-    "Taxes": "-5.00%",
+    "Taxes": "-1.67%",
     "Indep War?": "",
     "Autonomy": "Both",
     "Threshold": "75.00%",
@@ -3194,7 +3194,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "12",
+    "Limit": "13",
     "Trade 1": {
       "Value": "",
       "Trade 1 Value": ""
@@ -3982,7 +3982,7 @@
     "Nation Check": "City State of Kido",
     "Overlord": "",
     "Eco Vassals": "202,024.46",
-    "Eco Over.": "489,384.10",
+    "Eco Over.": "489,634.10",
     "Compare": "33.53%",
     "MP Vassals": "38,506.19",
     "MP Over.": "114,845.50",
@@ -4021,7 +4021,7 @@
     },
     "Trade 3": {
       "Value": "M'Qili Confederacy",
-      "Trade 3 Value": "9,225.00"
+      "Trade 3 Value": "9,425.00"
     },
     "Trade 4": {
       "Value": "Jään Herruus",
@@ -4071,9 +4071,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "221,014.28",
+    "Raw Trade Income": "221,214.28",
     "Tariffs": "1.25",
-    "Trade Income": "276,267.85",
+    "Trade Income": "276,517.85",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -4437,7 +4437,7 @@
     },
     "Trade 5": {
       "Value": "Meadoia Dynasty",
-      "Trade 5 Value": "110,751.93"
+      "Trade 5 Value": "113,479.53"
     },
     "Trade 6": {
       "Value": "Republic of Nymaró",
@@ -4479,9 +4479,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "198,019.68",
+    "Raw Trade Income": "200,747.28",
     "Tariffs": "0.95",
-    "Trade Income": "188,118.69",
+    "Trade Income": "190,709.91",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -4703,10 +4703,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "9.76%",
-    "Base": "9.76%",
-    "Comparison": "9.88%",
-    "Individual": "9.88%",
+    "L. Desire": "9.67%",
+    "Base": "9.67%",
+    "Comparison": "9.84%",
+    "Individual": "9.84%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -4943,7 +4943,7 @@
     },
     "Trade 4": {
       "Value": "Stryaxina",
-      "Trade 4 Value": "21,092.50"
+      "Trade 4 Value": "16,225.00"
     },
     "Trade 5": {
       "Value": "The Animal Kingdom",
@@ -4989,9 +4989,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "80,961.03",
+    "Raw Trade Income": "76,093.53",
     "Tariffs": "0.95",
-    "Trade Income": "76,912.98",
+    "Trade Income": "72,288.85",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -6233,10 +6233,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "34.71%",
-    "Base": "34.71%",
-    "Comparison": "16.10%",
-    "Individual": "16.10%",
+    "L. Desire": "34.84%",
+    "Base": "34.84%",
+    "Comparison": "16.17%",
+    "Individual": "16.17%",
     "Friend/Rival": "0.00%",
     "Taxes": "12.50%",
     "Indep War?": "",
@@ -10823,8 +10823,8 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "16.28%",
-    "Base": "16.28%",
+    "L. Desire": "16.27%",
+    "Base": "16.27%",
     "Comparison": "14.96%",
     "Individual": "5.82%",
     "Friend/Rival": "0.00%",
@@ -12891,7 +12891,7 @@
     },
     "Trade 2": {
       "Value": "Kingdom of Mimgrond",
-      "Trade 2 Value": "16,197.75"
+      "Trade 2 Value": "16,611.75"
     },
     "Trade 3": {
       "Value": "Yeotang",
@@ -12945,9 +12945,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "124,790.69",
+    "Raw Trade Income": "125,204.69",
     "Tariffs": "0.95",
-    "Trade Income": "118,551.15",
+    "Trade Income": "118,944.45",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -13067,10 +13067,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "24.74%",
-    "Base": "24.74%",
-    "Comparison": "19.87%",
-    "Individual": "19.87%",
+    "L. Desire": "24.73%",
+    "Base": "24.73%",
+    "Comparison": "19.86%",
+    "Individual": "19.86%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -13169,10 +13169,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "34.64%",
-    "Base": "34.64%",
-    "Comparison": "12.32%",
-    "Individual": "12.32%",
+    "L. Desire": "34.61%",
+    "Base": "34.61%",
+    "Comparison": "12.30%",
+    "Individual": "12.30%",
     "Friend/Rival": "0.00%",
     "Taxes": "10.00%",
     "Indep War?": "",
@@ -13569,12 +13569,12 @@
     "Nations": "Kingdom of Mimgrond",
     "Nation Check": "Kingdom of Mimgrond",
     "Overlord": "",
-    "Eco Vassals": "302,992.96",
-    "Eco Over.": "560,192.19",
+    "Eco Vassals": "303,510.46",
+    "Eco Over.": "563,601.69",
     "Compare": "18.66%",
     "MP Vassals": "28,678.72",
     "MP Over.": "153,697.50",
-    "20% Total": "14.55%",
+    "20% Total": "14.50%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -13593,8 +13593,8 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "Zalmoxia, Herkunft, Scienterium",
-    "Defensive Pacts": "",
+    "Non-aggression Pacts": "Zalmoxia, Herkunft, Scienterium, Arcadia",
+    "Defensive Pacts": "Arcadia",
     "Defensive Pacts 2": "Iidunn",
     "Military Alliances": "Diogen",
     "Military Alliances 2": "Maa",
@@ -13605,7 +13605,7 @@
     },
     "Trade 2": {
       "Value": "Meadoia Dynasty",
-      "Trade 2 Value": "110,751.93"
+      "Trade 2 Value": "113,479.53"
     },
     "Trade 3": {
       "Value": "People's Trade Dynasty",
@@ -13659,11 +13659,11 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "217,630.55",
+    "Raw Trade Income": "220,358.15",
     "Tariffs": "1.25",
-    "Trade Income": "272,038.19",
-    "NAPs": "3",
-    "Def. Pacts": "1",
+    "Trade Income": "275,447.69",
+    "NAPs": "4",
+    "Def. Pacts": "2",
     "Mil. Pacts": "2",
     "Trades": "7"
   },
@@ -13781,10 +13781,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "65.94%",
-    "Base": "65.94%",
-    "Comparison": "41.60%",
-    "Individual": "17.68%",
+    "L. Desire": "66.40%",
+    "Base": "66.40%",
+    "Comparison": "41.94%",
+    "Individual": "17.80%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
@@ -13809,7 +13809,7 @@
     },
     "Trade 2": {
       "Value": "Meadoia Dynasty",
-      "Trade 2 Value": "110,751.93"
+      "Trade 2 Value": "113,479.53"
     },
     "Trade 3": {
       "Value": "Amethyst Clan",
@@ -13863,9 +13863,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "174,286.69",
+    "Raw Trade Income": "177,014.29",
     "Tariffs": "1.05",
-    "Trade Income": "183,001.03",
+    "Trade Income": "185,865.01",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -14131,7 +14131,7 @@
     },
     "Trade 6": {
       "Value": "Kingdom of Mimgrond",
-      "Trade 6 Value": "16,197.75"
+      "Trade 6 Value": "16,611.75"
     },
     "Trade 7": {
       "Value": "Republic o. Zuntirar",
@@ -14169,9 +14169,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "125,062.00",
+    "Raw Trade Income": "125,476.00",
     "Tariffs": "0.95",
-    "Trade Income": "118,808.90",
+    "Trade Income": "119,202.20",
     "NAPs": "3",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -14739,7 +14739,7 @@
     },
     "Trade 5": {
       "Value": "Meadoia Dynasty",
-      "Trade 5 Value": "110,751.93"
+      "Trade 5 Value": "113,479.53"
     },
     "Trade 6": {
       "Value": "Cóchua Kingdom",
@@ -14781,9 +14781,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "154,765.13",
+    "Raw Trade Income": "157,492.73",
     "Tariffs": "1.25",
-    "Trade Income": "193,456.41",
+    "Trade Income": "196,865.91",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -14905,7 +14905,7 @@
     "": "",
     "L. Desire": "40.15%",
     "Base": "40.15%",
-    "Comparison": "39.94%",
+    "Comparison": "39.93%",
     "Individual": "4.72%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -15209,9 +15209,9 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "47.02%",
-    "Base": "47.02%",
-    "Comparison": "39.94%",
+    "L. Desire": "47.01%",
+    "Base": "47.01%",
+    "Comparison": "39.93%",
     "Individual": "19.58%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -16731,12 +16731,12 @@
     "Nations": "Meadoia Dynasty",
     "Nation Check": "Meadoia Dynasty",
     "Overlord": "",
-    "Eco Vassals": "835,633.37",
-    "Eco Over.": "740,194.67",
+    "Eco Vassals": "844,498.07",
+    "Eco Over.": "736,854.55",
     "Compare": "95.09%",
     "MP Vassals": "185,837.44",
     "MP Over.": "195,430.13",
-    "20% Total": "41.60%",
+    "20% Total": "41.94%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -16771,7 +16771,7 @@
     },
     "Trade 3": {
       "Value": "Kingdom of Mimgrond",
-      "Trade 3 Value": "16,197.75"
+      "Trade 3 Value": "16,611.75"
     },
     "Trade 4": {
       "Value": "Amethyst Clan",
@@ -16787,7 +16787,7 @@
     },
     "Trade 7": {
       "Value": "Stryaxina",
-      "Trade 7 Value": "21,092.50"
+      "Trade 7 Value": "16,225.00"
     },
     "Trade 8": {
       "Value": "People's Trade Dynasty",
@@ -16821,9 +16821,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "150,029.56",
+    "Raw Trade Income": "145,576.06",
     "Tariffs": "0.75",
-    "Trade Income": "112,522.17",
+    "Trade Income": "109,182.05",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -16869,7 +16869,7 @@
     },
     "Trade 2": {
       "Value": "Meadoia Dynasty",
-      "Trade 2 Value": "110,751.93"
+      "Trade 2 Value": "113,479.53"
     },
     "Trade 3": {
       "Value": "Kingdom of Nymeria ",
@@ -16923,9 +16923,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "129,782.99",
+    "Raw Trade Income": "132,510.59",
     "Tariffs": "1.05",
-    "Trade Income": "136,272.14",
+    "Trade Income": "139,136.12",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -19087,8 +19087,8 @@
     "": "",
     "L. Desire": "44.50%",
     "Base": "44.50%",
-    "Comparison": "39.94%",
-    "Individual": "8.24%",
+    "Comparison": "39.93%",
+    "Individual": "8.23%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -20545,7 +20545,7 @@
     },
     "Trade 3": {
       "Value": "Stryaxina",
-      "Trade 3 Value": "21,092.50"
+      "Trade 3 Value": "16,225.00"
     },
     "Trade 4": {
       "Value": "Clan of Skye ",
@@ -20595,9 +20595,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "126,591.41",
+    "Raw Trade Income": "121,723.91",
     "Tariffs": "0.95",
-    "Trade Income": "120,261.84",
+    "Trade Income": "115,637.72",
     "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -20921,10 +20921,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "25%",
-    "L. Desire": "60.45%",
-    "Base": "60.45%",
-    "Comparison": "8.56%",
-    "Individual": "8.56%",
+    "L. Desire": "60.51%",
+    "Base": "60.51%",
+    "Comparison": "8.59%",
+    "Individual": "8.59%",
     "Friend/Rival": "0.00%",
     "Taxes": "18.33%",
     "Indep War?": "",
@@ -21730,11 +21730,11 @@
     "Nation Check": "Scientarium",
     "Overlord": "",
     "Eco Vassals": "99,970.00",
-    "Eco Over.": "373,421.14",
+    "Eco Over.": "373,822.72",
     "Compare": "72.57%",
     "MP Vassals": "46,695.00",
     "MP Over.": "64,341.06",
-    "20% Total": "19.87%",
+    "20% Total": "19.86%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -21765,7 +21765,7 @@
     },
     "Trade 2": {
       "Value": "Kingdom of Mimgrond",
-      "Trade 2 Value": "16,197.75"
+      "Trade 2 Value": "16,611.75"
     },
     "Trade 3": {
       "Value": "The Animal Kingdom",
@@ -21819,9 +21819,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "128,995.16",
+    "Raw Trade Income": "129,409.16",
     "Tariffs": "0.97",
-    "Trade Income": "125,125.31",
+    "Trade Income": "125,526.89",
     "NAPs": "9",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -21839,10 +21839,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "37.91%",
-    "Base": "37.91%",
-    "Comparison": "20.96%",
-    "Individual": "20.96%",
+    "L. Desire": "37.98%",
+    "Base": "37.98%",
+    "Comparison": "20.99%",
+    "Individual": "20.99%",
     "Friend/Rival": "0.00%",
     "Taxes": "-4.00%",
     "Indep War?": "No",
@@ -21867,7 +21867,7 @@
     },
     "Trade 2": {
       "Value": "Stryaxina",
-      "Trade 2 Value": "21,092.50"
+      "Trade 2 Value": "16,225.00"
     },
     "Trade 3": {
       "Value": "Kingdom of Ardungual",
@@ -21921,9 +21921,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "37,475.79",
+    "Raw Trade Income": "32,608.29",
     "Tariffs": "0.95",
-    "Trade Income": "35,602.00",
+    "Trade Income": "30,977.87",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -22954,11 +22954,11 @@
     "Nation Check": "Stratavia",
     "Overlord": "",
     "Eco Vassals": "136,853.26",
-    "Eco Over.": "443,990.91",
+    "Eco Over.": "439,366.79",
     "Compare": "49.69%",
     "MP Vassals": "70,202.34",
     "MP Over.": "141,281.25",
-    "20% Total": "16.10%",
+    "20% Total": "16.17%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22985,7 +22985,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Stryaxina",
-      "Trade 1 Value": "21,092.50"
+      "Trade 1 Value": "16,225.00"
     },
     "Trade 2": {
       "Value": "Stortingr Republik af Frystdömet",
@@ -23043,9 +23043,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "98,256.88",
+    "Raw Trade Income": "93,389.38",
     "Tariffs": "0.95",
-    "Trade Income": "93,344.04",
+    "Trade Income": "88,719.91",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -23055,12 +23055,12 @@
     "Nations": "Stryaxina",
     "Nation Check": "Stryaxina",
     "Overlord": "",
-    "Eco Vassals": "255,143.81",
-    "Eco Over.": "614,337.01",
+    "Eco Vassals": "250,519.69",
+    "Eco Over.": "600,608.23",
     "Compare": "63.25%",
     "MP Vassals": "136,136.00",
     "MP Over.": "215,250.82",
-    "20% Total": "20.96%",
+    "20% Total": "20.99%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -23111,7 +23111,7 @@
     },
     "Trade 7": {
       "Value": "Meadoia Dynasty",
-      "Trade 7 Value": "110,751.93"
+      "Trade 7 Value": "113,479.53"
     },
     "Trade 8": {
       "Value": "Republic of Nymaró",
@@ -23145,9 +23145,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "220,683.09",
+    "Raw Trade Income": "223,410.69",
     "Tariffs": "0.95",
-    "Trade Income": "209,648.93",
+    "Trade Income": "212,240.15",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -24287,12 +24287,12 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "8.77%",
-    "Base": "8.77%",
-    "Comparison": "14.55%",
-    "Individual": "14.55%",
+    "L. Desire": "12.00%",
+    "Base": "12.00%",
+    "Comparison": "14.50%",
+    "Individual": "14.50%",
     "Friend/Rival": "0.00%",
-    "Taxes": "1.67%",
+    "Taxes": "5.00%",
     "Indep War?": "",
     "Autonomy": "Both",
     "Threshold": "125.00%",
@@ -24315,7 +24315,7 @@
     },
     "Trade 2": {
       "Value": "Kingdom of Mimgrond",
-      "Trade 2 Value": "16,197.75"
+      "Trade 2 Value": "16,611.75"
     },
     "Trade 3": {
       "Value": "Scientarium",
@@ -24369,9 +24369,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "109,762.27",
+    "Raw Trade Income": "110,176.27",
     "Tariffs": "1.25",
-    "Trade Income": "137,202.84",
+    "Trade Income": "137,720.34",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -24688,11 +24688,11 @@
     "Nation Check": "Avaritian Dictatorship",
     "Overlord": "",
     "Eco Vassals": "770,966.59",
-    "Eco Over.": "698,509.48",
+    "Eco Over.": "698,699.48",
     "Compare": "89.30%",
     "MP Vassals": "109,215.56",
     "MP Over.": "122,295.94",
-    "20% Total": "39.94%",
+    "20% Total": "39.93%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -24751,7 +24751,7 @@
     },
     "Trade 9": {
       "Value": "M'Qili Confederacy",
-      "Trade 9 Value": "9,225.00"
+      "Trade 9 Value": "9,425.00"
     },
     "Trade 10": {
       "Value": "The Dukedom of Sylicia",
@@ -24777,9 +24777,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "153,685.64",
+    "Raw Trade Income": "153,885.64",
     "Tariffs": "0.95",
-    "Trade Income": "146,001.35",
+    "Trade Income": "146,191.35",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -24994,11 +24994,11 @@
     "Nation Check": "The Holy Realm of Herkunft",
     "Overlord": "",
     "Eco Vassals": "98,215.44",
-    "Eco Over.": "602,530.93",
+    "Eco Over.": "605,940.43",
     "Compare": "45.31%",
     "MP Vassals": "38,752.31",
     "MP Over.": "85,525.00",
-    "20% Total": "12.32%",
+    "20% Total": "12.30%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -25033,7 +25033,7 @@
     },
     "Trade 3": {
       "Value": "Meadoia Dynasty",
-      "Trade 3 Value": "110,751.93"
+      "Trade 3 Value": "113,479.53"
     },
     "Trade 4": {
       "Value": "Zalmoxia",
@@ -25083,9 +25083,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "173,098.75",
+    "Raw Trade Income": "175,826.35",
     "Tariffs": "1.25",
-    "Trade Income": "216,373.43",
+    "Trade Income": "219,782.93",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -25649,7 +25649,7 @@
     },
     "Trade 4": {
       "Value": "Stryaxina",
-      "Trade 4 Value": "21,092.50"
+      "Trade 4 Value": "16,225.00"
     },
     "Trade 5": {
       "Value": "Republic of Nymaró",
@@ -25695,9 +25695,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "87,642.13",
+    "Raw Trade Income": "82,774.63",
     "Tariffs": "1.25",
-    "Trade Income": "109,552.66",
+    "Trade Income": "103,468.29",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -25715,10 +25715,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "44.72%",
-    "Base": "44.72%",
-    "Comparison": "21.53%",
-    "Individual": "21.53%",
+    "L. Desire": "44.79%",
+    "Base": "44.79%",
+    "Comparison": "21.56%",
+    "Individual": "21.56%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
@@ -26116,11 +26116,11 @@
     "Nation Check": "First O'irstorian Republic",
     "Overlord": "",
     "Eco Vassals": "57,605.63",
-    "Eco Over.": "507,606.02",
+    "Eco Over.": "501,521.64",
     "Compare": "31.45%",
     "MP Vassals": "58,162.50",
     "MP Over.": "184,944.38",
-    "20% Total": "8.56%",
+    "20% Total": "8.59%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -26151,7 +26151,7 @@
     },
     "Trade 2": {
       "Value": "Stryaxina",
-      "Trade 2 Value": "21,092.50"
+      "Trade 2 Value": "16,225.00"
     },
     "Trade 3": {
       "Value": "Republic of Nymaró",
@@ -26205,9 +26205,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "70,019.31",
+    "Raw Trade Income": "65,151.81",
     "Tariffs": "1.25",
-    "Trade Income": "87,524.14",
+    "Trade Income": "81,439.77",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -27136,11 +27136,11 @@
     "Nation Check": "Thys Alari",
     "Overlord": "",
     "Eco Vassals": "84,656.81",
-    "Eco Over.": "325,823.78",
+    "Eco Over.": "328,687.76",
     "Compare": "23.42%",
     "MP Vassals": "18,239.38",
     "MP Over.": "77,876.56",
-    "20% Total": "9.88%",
+    "20% Total": "9.84%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27171,7 +27171,7 @@
     },
     "Trade 2": {
       "Value": "Meadoia Dynasty",
-      "Trade 2 Value": "110,751.93"
+      "Trade 2 Value": "113,479.53"
     },
     "Trade 3": {
       "Value": "The Tarmarches",
@@ -27225,9 +27225,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "175,161.49",
+    "Raw Trade Income": "177,889.09",
     "Tariffs": "1.05",
-    "Trade Income": "183,919.56",
+    "Trade Income": "186,783.54",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -27645,12 +27645,12 @@
     "Nations": "People's Trade Dynasty",
     "Nation Check": "People's Trade Dynasty",
     "Overlord": "",
-    "Eco Vassals": "0.00",
-    "Eco Over.": "471,837.92",
-    "Compare": "0.00%",
-    "MP Vassals": "0.00",
+    "Eco Vassals": "42,322.50",
+    "Eco Over.": "470,198.32",
+    "Compare": "24.40%",
+    "MP Vassals": "27,843.75",
     "MP Over.": "114,133.25",
-    "20% Total": "0.00%",
+    "20% Total": "6.68%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27677,7 +27677,7 @@
     "Limit": "11",
     "Trade 1": {
       "Value": "Kingdom of Mimgrond",
-      "Trade 1 Value": "16,197.75"
+      "Trade 1 Value": "16,611.75"
     },
     "Trade 2": {
       "Value": "Sarmatai Confederation",
@@ -27689,7 +27689,7 @@
     },
     "Trade 4": {
       "Value": "Meadoia Dynasty",
-      "Trade 4 Value": "110,751.93"
+      "Trade 4 Value": "113,479.53"
     },
     "Trade 5": {
       "Value": "Arcadia",
@@ -27709,7 +27709,7 @@
     },
     "Trade 9": {
       "Value": "Stryaxina",
-      "Trade 9 Value": "21,092.50"
+      "Trade 9 Value": "16,225.00"
     },
     "Trade 10": {
       "Value": "Republic of Nymaró",
@@ -27735,9 +27735,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "239,170.05",
+    "Raw Trade Income": "237,444.15",
     "Tariffs": "0.95",
-    "Trade Income": "227,211.55",
+    "Trade Income": "225,571.94",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -27857,10 +27857,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "19.11%",
-    "Base": "19.11%",
+    "L. Desire": "19.10%",
+    "Base": "19.10%",
     "Comparison": "14.96%",
-    "Individual": "9.15%",
+    "Individual": "9.14%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -27959,10 +27959,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "50.48%",
-    "Base": "50.48%",
-    "Comparison": "41.60%",
-    "Individual": "8.38%",
+    "L. Desire": "50.92%",
+    "Base": "50.92%",
+    "Comparison": "41.94%",
+    "Individual": "8.48%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -27983,7 +27983,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Meadoia Dynasty",
-      "Trade 1 Value": "110,751.93"
+      "Trade 1 Value": "113,479.53"
     },
     "Trade 2": {
       "Value": "Arcadia",
@@ -28041,9 +28041,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "153,462.86",
+    "Raw Trade Income": "156,190.46",
     "Tariffs": "0.95",
-    "Trade Income": "145,789.72",
+    "Trade Income": "148,380.94",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -29489,9 +29489,9 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "32.34%",
-    "Base": "32.34%",
-    "Comparison": "39.94%",
+    "L. Desire": "32.33%",
+    "Base": "32.33%",
+    "Comparison": "39.93%",
     "Individual": "7.40%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
