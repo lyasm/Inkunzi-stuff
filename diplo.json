@@ -1972,8 +1972,8 @@
     "Military Alliances 2": "Republic of Rostora",
     "Limit": "9",
     "Trade 1": {
-      "Value": "Snow Dominion",
-      "Trade 1 Value": "17,701.38"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
       "Value": "Mercati Emporium",
@@ -2031,13 +2031,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "75,521.69",
+    "Raw Trade Income": "57,820.32",
     "Tariffs": "0.95",
-    "Trade Income": "71,745.61",
+    "Trade Income": "54,929.30",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "7"
+    "Trades": "6"
   },
   "Ashdayn": {
     "Nations": "Ashdayn",
@@ -13475,10 +13475,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "42.08%",
-    "Base": "42.08%",
-    "Comparison": "17.29%",
-    "Individual": "17.29%",
+    "L. Desire": "42.47%",
+    "Base": "42.47%",
+    "Comparison": "17.48%",
+    "Individual": "17.48%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -15814,11 +15814,11 @@
     "Nation Check": "Sri Shimbir",
     "Overlord": "",
     "Eco Vassals": "279,914.58",
-    "Eco Over.": "480,690.60",
+    "Eco Over.": "477,234.97",
     "Compare": "14.04%",
     "MP Vassals": "27,602.44",
     "MP Over.": "196,625.00",
-    "20% Total": "14.45%",
+    "20% Total": "14.54%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -15864,8 +15864,8 @@
       "Trade 5 Value": "7,062.38"
     },
     "Trade 6": {
-      "Value": "The Statute of Order",
-      "Trade 6 Value": "3,637.50"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
       "Value": "Republic of Rostora",
@@ -15903,13 +15903,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "86,600.30",
+    "Raw Trade Income": "82,962.80",
     "Tariffs": "0.95",
-    "Trade Income": "82,270.29",
+    "Trade Income": "78,814.66",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "8"
+    "Trades": "7"
   },
   "Sange Lamatis": {
     "Nations": "Sange Lamatis",
@@ -19289,10 +19289,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "15.57%",
-    "Base": "15.57%",
-    "Comparison": "14.45%",
-    "Individual": "14.45%",
+    "L. Desire": "15.74%",
+    "Base": "15.74%",
+    "Comparison": "14.54%",
+    "Individual": "14.54%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -22302,8 +22302,8 @@
       "Trade 8 Value": "13,603.13"
     },
     "Trade 9": {
-      "Value": "Ascendant Regency of Newstar",
-      "Trade 9 Value": "5,912.50"
+      "Value": "",
+      "Trade 9 Value": ""
     },
     "Trade 10": {
       "Value": "Ahupau'a o Heiau",
@@ -22329,13 +22329,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "84,437.52",
+    "Raw Trade Income": "78,525.02",
     "Tariffs": "0.95",
-    "Trade Income": "80,215.64",
+    "Trade Income": "74,598.77",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "10"
+    "Trades": "9"
   },
   "Soroner": {
     "Nations": "Soroner",
@@ -26422,11 +26422,11 @@
     "Nation Check": "The Statute of Order",
     "Overlord": "",
     "Eco Vassals": "142,019.24",
-    "Eco Over.": "243,216.43",
+    "Eco Over.": "239,220.05",
     "Compare": "28.05%",
     "MP Vassals": "27,592.81",
     "MP Over.": "98,367.50",
-    "20% Total": "17.29%",
+    "20% Total": "17.48%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -26456,8 +26456,8 @@
       "Trade 1 Value": "17,701.38"
     },
     "Trade 2": {
-      "Value": "Sri Shimbir",
-      "Trade 2 Value": "4,206.72"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
@@ -26511,13 +26511,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "94,619.93",
+    "Raw Trade Income": "90,413.21",
     "Tariffs": "0.95",
-    "Trade Income": "89,888.93",
+    "Trade Income": "85,892.55",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "9"
+    "Trades": "8"
   },
   "The Tarmarches": {
     "Nations": "The Tarmarches",
