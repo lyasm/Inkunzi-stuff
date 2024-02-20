@@ -3785,10 +3785,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "57.25%",
-    "Base": "57.25%",
-    "Comparison": "24.88%",
-    "Individual": "24.88%",
+    "L. Desire": "60.54%",
+    "Base": "60.54%",
+    "Comparison": "26.52%",
+    "Individual": "26.52%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -3824,8 +3824,8 @@
       "Trade 4 Value": "8,637.22"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Ceridwyn Conferderation",
+      "Trade 5 Value": "24,610.00"
     },
     "Trade 6": {
       "Value": "",
@@ -3867,13 +3867,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "34,022.02",
+    "Raw Trade Income": "58,632.02",
     "Tariffs": "0.95",
-    "Trade Income": "32,320.92",
+    "Trade Income": "55,700.42",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "4"
+    "Trades": "5"
   },
   "Chitinara": {
     "Nations": "Chitinara",
@@ -26625,12 +26625,12 @@
     "Nations": "The Teutā Erwā",
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
-    "Eco Vassals": "111,707.92",
+    "Eco Vassals": "135,505.42",
     "Eco Over.": "296,512.32",
-    "Compare": "86.71%",
-    "MP Vassals": "72,503.41",
+    "Compare": "86.90%",
+    "MP Vassals": "72,660.16",
     "MP Over.": "83,614.78",
-    "20% Total": "24.88%",
+    "20% Total": "26.52%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
