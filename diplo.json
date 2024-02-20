@@ -3094,7 +3094,7 @@
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "Kingdom of Nexus",
+      "Value": "Nexus Vouno",
       "Trade 1 Value": "14,499.38"
     },
     "Trade 2": {
@@ -3785,10 +3785,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "56.35%",
-    "Base": "56.35%",
-    "Comparison": "24.42%",
-    "Individual": "24.42%",
+    "L. Desire": "57.61%",
+    "Base": "57.61%",
+    "Comparison": "25.06%",
+    "Individual": "25.06%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -3820,8 +3820,8 @@
       "Trade 3 Value": "3,399.38"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Glasrhaidd Republic",
+      "Trade 4 Value": "8,637.22"
     },
     "Trade 5": {
       "Value": "",
@@ -3867,13 +3867,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "25,384.80",
+    "Raw Trade Income": "34,022.02",
     "Tariffs": "0.95",
-    "Trade Income": "24,115.56",
+    "Trade Income": "32,320.92",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "3"
+    "Trades": "4"
   },
   "Chitinara": {
     "Nations": "Chitinara",
@@ -5456,7 +5456,7 @@
       "Trade 4 Value": "11,376.50"
     },
     "Trade 5": {
-      "Value": "Kingdom of Nexus",
+      "Value": "Nexus Vouno",
       "Trade 5 Value": "14,499.38"
     },
     "Trade 6": {
@@ -7304,7 +7304,7 @@
       "Trade 7 Value": "39,486.56"
     },
     "Trade 8": {
-      "Value": "Kingdom of Nexus",
+      "Value": "Nexus Vouno",
       "Trade 8 Value": "14,499.38"
     },
     "Trade 9": {
@@ -10356,7 +10356,7 @@
       "Trade 5 Value": "5,125.00"
     },
     "Trade 6": {
-      "Value": "Kingdom of Nexus",
+      "Value": "Nexus Vouno",
       "Trade 6 Value": "14,499.38"
     },
     "Trade 7": {
@@ -12584,7 +12584,7 @@
       "Trade 1 Value": "24,626.88"
     },
     "Trade 2": {
-      "Value": "Kingdom of Nexus",
+      "Value": "Nexus Vouno",
       "Trade 2 Value": "14,499.38"
     },
     "Trade 3": {
@@ -13667,9 +13667,9 @@
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  "Kingdom of Nexus": {
-    "Nations": "Kingdom of Nexus",
-    "Nation Check": "Kingdom of Nexus",
+  "Nexus Vouno": {
+    "Nations": "Nexus Vouno",
+    "Nation Check": "Nexus Vouno",
     "Overlord": "Lowy Combine",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -13679,10 +13679,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "29.29%",
-    "Base": "29.29%",
-    "Comparison": "19.23%",
-    "Individual": "19.23%",
+    "L. Desire": "30.15%",
+    "Base": "30.15%",
+    "Comparison": "19.66%",
+    "Individual": "19.66%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -15100,11 +15100,11 @@
     "Nation Check": "Lowy Combine",
     "Overlord": "",
     "Eco Vassals": "339,730.67",
-    "Eco Over.": "574,996.36",
+    "Eco Over.": "554,996.36",
     "Compare": "37.07%",
     "MP Vassals": "52,184.34",
     "MP Over.": "140,775.94",
-    "20% Total": "19.23%",
+    "20% Total": "19.66%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -15126,7 +15126,7 @@
     "Non-aggression Pacts": "Alonissos Isles, Gno’hdail Impireachd, Aethyrrajyam",
     "Defensive Pacts": "Gno’hdail Impireachd",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Litovai Imperiu",
+    "Military Alliances": "",
     "Military Alliances 2": "Aethyrrajyam",
     "Limit": "11",
     "Trade 1": {
@@ -15154,7 +15154,7 @@
       "Trade 6 Value": "11,823.44"
     },
     "Trade 7": {
-      "Value": "Kingdom of Nexus",
+      "Value": "Nexus Vouno",
       "Trade 7 Value": "14,499.38"
     },
     "Trade 8": {
@@ -15194,7 +15194,7 @@
     "Trade Income": "150,750.44",
     "NAPs": "3",
     "Def. Pacts": "1",
-    "Mil. Pacts": "2",
+    "Mil. Pacts": "1",
     "Trades": "10"
   },
   "Luminus": {
@@ -18842,7 +18842,7 @@
       "Trade 10 Value": "25,754.05"
     },
     "Trade 11": {
-      "Value": "Kingdom of Nexus",
+      "Value": "Nexus Vouno",
       "Trade 11 Value": "14,499.38"
     },
     "Trade 12": {
@@ -26625,12 +26625,12 @@
     "Nations": "The Teutā Erwā",
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
-    "Eco Vassals": "103,084.56",
+    "Eco Vassals": "111,707.92",
     "Eco Over.": "289,590.76",
-    "Compare": "86.52%",
-    "MP Vassals": "72,346.66",
+    "Compare": "86.71%",
+    "MP Vassals": "72,503.41",
     "MP Over.": "83,614.78",
-    "20% Total": "24.42%",
+    "20% Total": "25.06%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -28456,108 +28456,6 @@
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
     "Trades": "6"
-  },
-  "Vitten": {
-    "Nations": "Vitten",
-    "Nation Check": "Vitten",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
-    "Friend/Rival": "0.00%",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "5",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
-    },
-    "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
-    },
-    "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "0.00",
-    "Tariffs": "1.25",
-    "Trade Income": "0.00",
-    "NAPs": "0",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "0"
   },
   "Xriotir": {
     "Nations": "Xriotir",
