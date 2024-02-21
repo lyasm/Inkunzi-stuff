@@ -419,10 +419,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "7.17%",
-    "Base": "7.17%",
-    "Comparison": "2.65%",
-    "Individual": "2.86%",
+    "L. Desire": "7.10%",
+    "Base": "7.10%",
+    "Comparison": "2.61%",
+    "Individual": "2.82%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -447,7 +447,7 @@
     },
     "Trade 2": {
       "Value": "Zastita",
-      "Trade 2 Value": "7,938.13"
+      "Trade 2 Value": "7,449.63"
     },
     "Trade 3": {
       "Value": "Clankar Cog",
@@ -501,9 +501,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "33,252.75",
+    "Raw Trade Income": "32,764.25",
     "Tariffs": "1.00",
-    "Trade Income": "33,252.75",
+    "Trade Income": "32,764.25",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -615,12 +615,12 @@
     "Nations": "Akaḣpetoƞ",
     "Nation Check": "Akaḣpetoƞ",
     "Overlord": "",
-    "Eco Vassals": "30,761.39",
-    "Eco Over.": "232,539.74",
+    "Eco Vassals": "30,272.89",
+    "Eco Over.": "232,173.37",
     "Compare": "0.00%",
     "MP Vassals": "0.00",
     "MP Over.": "106,780.78",
-    "20% Total": "2.65%",
+    "20% Total": "2.61%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -671,7 +671,7 @@
     },
     "Trade 7": {
       "Value": "Zastita",
-      "Trade 7 Value": "7,938.13"
+      "Trade 7 Value": "7,449.63"
     },
     "Trade 8": {
       "Value": "",
@@ -705,9 +705,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "76,229.66",
+    "Raw Trade Income": "75,741.16",
     "Tariffs": "0.75",
-    "Trade Income": "57,172.24",
+    "Trade Income": "56,805.87",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -1848,8 +1848,8 @@
     "Vassal Type": "Mercantile",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-0.40%",
-    "Comparison": "2.65%",
+    "Base": "-0.44%",
+    "Comparison": "2.61%",
     "Individual": "-0.21%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
@@ -4241,7 +4241,7 @@
     },
     "Trade 7": {
       "Value": "Zastita",
-      "Trade 7 Value": "7,938.13"
+      "Trade 7 Value": "7,449.63"
     },
     "Trade 8": {
       "Value": "",
@@ -4275,9 +4275,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "83,480.76",
+    "Raw Trade Income": "82,992.26",
     "Tariffs": "1.05",
-    "Trade Income": "87,654.80",
+    "Trade Income": "87,141.87",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -6233,10 +6233,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "35.00%",
-    "Base": "35.00%",
-    "Comparison": "16.25%",
-    "Individual": "16.25%",
+    "L. Desire": "35.02%",
+    "Base": "35.02%",
+    "Comparison": "16.26%",
+    "Individual": "16.26%",
     "Friend/Rival": "0.00%",
     "Taxes": "12.50%",
     "Indep War?": "",
@@ -12719,7 +12719,7 @@
     },
     "Trade 10": {
       "Value": "Zastita",
-      "Trade 10 Value": "7,938.13"
+      "Trade 10 Value": "7,449.63"
     },
     "Trade 11": {
       "Value": "",
@@ -12741,9 +12741,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "99,837.17",
+    "Raw Trade Income": "99,348.67",
     "Tariffs": "0.95",
-    "Trade Income": "94,845.31",
+    "Trade Income": "94,381.24",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -14731,7 +14731,7 @@
     },
     "Trade 3": {
       "Value": "Zastita",
-      "Trade 3 Value": "7,938.13"
+      "Trade 3 Value": "7,449.63"
     },
     "Trade 4": {
       "Value": "Kingdom of Aeornia",
@@ -14781,9 +14781,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "130,687.25",
+    "Raw Trade Income": "130,198.75",
     "Tariffs": "1.25",
-    "Trade Income": "163,359.06",
+    "Trade Income": "162,748.44",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -22954,11 +22954,11 @@
     "Nation Check": "Stratavia",
     "Overlord": "",
     "Eco Vassals": "136,853.26",
-    "Eco Over.": "433,518.97",
+    "Eco Over.": "433,054.89",
     "Compare": "49.69%",
     "MP Vassals": "70,202.34",
     "MP Over.": "141,281.25",
-    "20% Total": "16.25%",
+    "20% Total": "16.26%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -23009,7 +23009,7 @@
     },
     "Trade 7": {
       "Value": "Zastita",
-      "Trade 7 Value": "7,938.13"
+      "Trade 7 Value": "7,449.63"
     },
     "Trade 8": {
       "Value": "Enushkan Ur Kaash'shum",
@@ -23043,9 +23043,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "87,233.78",
+    "Raw Trade Income": "86,745.28",
     "Tariffs": "0.95",
-    "Trade Income": "82,872.09",
+    "Trade Income": "82,408.02",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -24437,7 +24437,7 @@
     },
     "Trade 7": {
       "Value": "Zastita",
-      "Trade 7 Value": "7,938.13"
+      "Trade 7 Value": "7,449.63"
     },
     "Trade 8": {
       "Value": "Maldune",
@@ -24471,9 +24471,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "98,674.22",
+    "Raw Trade Income": "98,185.72",
     "Tariffs": "0.95",
-    "Trade Income": "93,740.51",
+    "Trade Income": "93,276.44",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -25869,7 +25869,7 @@
     },
     "Trade 8": {
       "Value": "Zastita",
-      "Trade 8 Value": "7,938.13"
+      "Trade 8 Value": "7,449.63"
     },
     "Trade 9": {
       "Value": "",
@@ -25899,9 +25899,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "55,368.08",
+    "Raw Trade Income": "54,879.58",
     "Tariffs": "0.95",
-    "Trade Income": "52,599.68",
+    "Trade Income": "52,135.61",
     "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
