@@ -2969,10 +2969,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "46.97%",
-    "Base": "46.97%",
-    "Comparison": "39.69%",
-    "Individual": "14.78%",
+    "L. Desire": "47.03%",
+    "Base": "47.03%",
+    "Comparison": "39.74%",
+    "Individual": "14.79%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "Yes",
@@ -3174,9 +3174,9 @@
     "Vassal Type": "Mercantile",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-3.07%",
-    "Comparison": "6.80%",
-    "Individual": "6.80%",
+    "Base": "-3.05%",
+    "Comparison": "6.81%",
+    "Individual": "6.81%",
     "Friend/Rival": "0.00%",
     "Taxes": "-1.67%",
     "Indep War?": "",
@@ -4703,10 +4703,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "10.60%",
-    "Base": "10.60%",
-    "Comparison": "10.30%",
-    "Individual": "10.30%",
+    "L. Desire": "10.69%",
+    "Base": "10.69%",
+    "Comparison": "10.34%",
+    "Individual": "10.34%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -8501,7 +8501,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Clan of Skye ",
-      "Trade 1 Value": "10,112.81"
+      "Trade 1 Value": "7,914.38"
     },
     "Trade 2": {
       "Value": "The Tarmarches",
@@ -8559,9 +8559,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "17,800.31",
+    "Raw Trade Income": "15,601.88",
     "Tariffs": "0.95",
-    "Trade Income": "16,910.30",
+    "Trade Income": "14,821.78",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -12711,7 +12711,7 @@
     },
     "Trade 8": {
       "Value": "Clan of Skye ",
-      "Trade 8 Value": "10,112.81"
+      "Trade 8 Value": "7,914.38"
     },
     "Trade 9": {
       "Value": "The Republic of Alyvosk",
@@ -12741,9 +12741,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "102,035.61",
+    "Raw Trade Income": "99,837.17",
     "Tariffs": "0.95",
-    "Trade Income": "96,933.83",
+    "Trade Income": "94,845.31",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -13781,10 +13781,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "63.44%",
-    "Base": "63.44%",
-    "Comparison": "39.69%",
-    "Individual": "17.08%",
+    "L. Desire": "63.51%",
+    "Base": "63.51%",
+    "Comparison": "39.74%",
+    "Individual": "17.10%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
@@ -16732,11 +16732,11 @@
     "Nation Check": "Meadoia Dynasty",
     "Overlord": "",
     "Eco Vassals": "757,613.85",
-    "Eco Over.": "732,903.17",
+    "Eco Over.": "731,254.34",
     "Compare": "95.09%",
     "MP Vassals": "185,837.44",
     "MP Over.": "195,430.13",
-    "20% Total": "39.69%",
+    "20% Total": "39.74%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -16795,7 +16795,7 @@
     },
     "Trade 9": {
       "Value": "Clan of Skye ",
-      "Trade 9 Value": "10,112.81"
+      "Trade 9 Value": "7,914.38"
     },
     "Trade 10": {
       "Value": "Kingdom of Nymeria ",
@@ -16821,9 +16821,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "140,307.56",
+    "Raw Trade Income": "138,109.13",
     "Tariffs": "0.75",
-    "Trade Income": "105,230.67",
+    "Trade Income": "103,581.84",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -16865,7 +16865,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Clan of Skye ",
-      "Trade 1 Value": "10,112.81"
+      "Trade 1 Value": "7,914.38"
     },
     "Trade 2": {
       "Value": "Meadoia Dynasty",
@@ -16923,9 +16923,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "105,420.49",
+    "Raw Trade Income": "103,222.05",
     "Tariffs": "1.05",
-    "Trade Income": "110,691.51",
+    "Trade Income": "108,383.15",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -20549,7 +20549,7 @@
     },
     "Trade 4": {
       "Value": "Clan of Skye ",
-      "Trade 4 Value": "10,112.81"
+      "Trade 4 Value": "7,914.38"
     },
     "Trade 5": {
       "Value": "Sarmatai Confederation",
@@ -20595,9 +20595,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "106,258.60",
+    "Raw Trade Income": "104,060.16",
     "Tariffs": "0.95",
-    "Trade Income": "100,945.67",
+    "Trade Income": "98,857.15",
     "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -22373,7 +22373,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Clan of Skye ",
-      "Trade 1 Value": "10,112.81"
+      "Trade 1 Value": "7,914.38"
     },
     "Trade 2": {
       "Value": "",
@@ -22431,9 +22431,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "10,112.81",
+    "Raw Trade Income": "7,914.38",
     "Tariffs": "0.95",
-    "Trade Income": "9,607.17",
+    "Trade Income": "7,518.66",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -26555,7 +26555,7 @@
     "Limit": "6",
     "Trade 1": {
       "Value": "Clan of Skye ",
-      "Trade 1 Value": "10,112.81"
+      "Trade 1 Value": "7,914.38"
     },
     "Trade 2": {
       "Value": "Kingdom of Aeornia",
@@ -26613,9 +26613,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "42,158.19",
+    "Raw Trade Income": "39,959.75",
     "Tariffs": "1.25",
-    "Trade Income": "52,697.73",
+    "Trade Income": "49,949.69",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -27136,11 +27136,11 @@
     "Nation Check": "Thys Alari",
     "Overlord": "",
     "Eco Vassals": "84,656.81",
-    "Eco Over.": "301,503.16",
+    "Eco Over.": "299,194.80",
     "Compare": "23.42%",
     "MP Vassals": "18,239.38",
     "MP Over.": "77,876.56",
-    "20% Total": "10.30%",
+    "20% Total": "10.34%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27167,7 +27167,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Clan of Skye ",
-      "Trade 1 Value": "10,112.81"
+      "Trade 1 Value": "7,914.38"
     },
     "Trade 2": {
       "Value": "Meadoia Dynasty",
@@ -27225,9 +27225,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "151,998.99",
+    "Raw Trade Income": "149,800.55",
     "Tariffs": "1.05",
-    "Trade Income": "159,598.94",
+    "Trade Income": "157,290.58",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -27646,11 +27646,11 @@
     "Nation Check": "People's Trade Dynasty",
     "Overlord": "",
     "Eco Vassals": "42,322.50",
-    "Eco Over.": "440,597.65",
+    "Eco Over.": "438,509.13",
     "Compare": "24.40%",
     "MP Vassals": "27,843.75",
     "MP Over.": "114,133.25",
-    "20% Total": "6.80%",
+    "20% Total": "6.81%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27685,7 +27685,7 @@
     },
     "Trade 3": {
       "Value": "Clan of Skye ",
-      "Trade 3 Value": "10,112.81"
+      "Trade 3 Value": "7,914.38"
     },
     "Trade 4": {
       "Value": "Meadoia Dynasty",
@@ -27735,9 +27735,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "206,285.55",
+    "Raw Trade Income": "204,087.11",
     "Tariffs": "0.95",
-    "Trade Income": "195,971.27",
+    "Trade Income": "193,882.76",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -27959,10 +27959,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "48.02%",
-    "Base": "48.02%",
-    "Comparison": "39.69%",
-    "Individual": "7.83%",
+    "L. Desire": "48.08%",
+    "Base": "48.08%",
+    "Comparison": "39.74%",
+    "Individual": "7.85%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
