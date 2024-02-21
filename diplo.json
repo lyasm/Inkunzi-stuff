@@ -3700,7 +3700,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "The Teutā Erwā",
-    "Defensive Pacts": "",
+    "Defensive Pacts": "United Federation of Malam States",
     "Defensive Pacts 2": "Dinasygan",
     "Military Alliances": "Svetograd",
     "Military Alliances 2": "Drionn Galith",
@@ -3769,7 +3769,7 @@
     "Tariffs": "0.95",
     "Trade Income": "109,585.99",
     "NAPs": "1",
-    "Def. Pacts": "1",
+    "Def. Pacts": "2",
     "Mil. Pacts": "2",
     "Trades": "11"
   },
@@ -4966,8 +4966,8 @@
       "Trade 9 Value": "4,773.00"
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": "Zalmoxia",
+      "Trade 10 Value": "5,331.25"
     },
     "Trade 11": {
       "Value": "",
@@ -4989,13 +4989,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "74,702.53",
+    "Raw Trade Income": "80,033.78",
     "Tariffs": "0.95",
-    "Trade Income": "70,967.40",
+    "Trade Income": "76,032.09",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
-    "Trades": "9"
+    "Trades": "10"
   },
   "Council of Otvori": {
     "Nations": "Council of Otvori",
@@ -14134,8 +14134,8 @@
       "Trade 6 Value": "18,267.75"
     },
     "Trade 7": {
-      "Value": "Republic o. Zuntirar",
-      "Trade 7 Value": "12,835.93"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "The Animal Kingdom",
@@ -14169,13 +14169,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "123,779.33",
+    "Raw Trade Income": "110,943.41",
     "Tariffs": "0.95",
-    "Trade Income": "117,590.36",
+    "Trade Income": "105,396.24",
     "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "10"
+    "Trades": "9"
   },
   "Ko'ch Q'ash": {
     "Nations": "Ko'ch Q'ash",
