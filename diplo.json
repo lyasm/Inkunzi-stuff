@@ -2969,10 +2969,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "47.46%",
-    "Base": "47.46%",
-    "Comparison": "40.27%",
-    "Individual": "14.68%",
+    "L. Desire": "48.22%",
+    "Base": "48.22%",
+    "Comparison": "40.75%",
+    "Individual": "14.97%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "Yes",
@@ -3004,8 +3004,8 @@
       "Trade 3 Value": "9,037.50"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Unigol",
+      "Trade 4 Value": "7,322.63"
     },
     "Trade 5": {
       "Value": "",
@@ -3051,13 +3051,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "117,858.53",
+    "Raw Trade Income": "125,181.15",
     "Tariffs": "1.25",
-    "Trade Income": "147,323.16",
+    "Trade Income": "156,476.44",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "3"
+    "Trades": "4"
   },
   "Candentis Jalin": {
     "Nations": "Candentis Jalin",
@@ -5103,12 +5103,12 @@
     "Nations": "Alonissos Isles",
     "Nation Check": "Alonissos Isles",
     "Overlord": "",
-    "Eco Vassals": "187,198.77",
+    "Eco Vassals": "198,107.74",
     "Eco Over.": "1,273,290.19",
-    "Compare": "6.07%",
-    "MP Vassals": "21,309.75",
+    "Compare": "6.02%",
+    "MP Vassals": "21,136.50",
     "MP Over.": "351,143.38",
-    "20% Total": "4.15%",
+    "20% Total": "4.32%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -5417,10 +5417,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "7.47%",
-    "Base": "7.47%",
-    "Comparison": "4.15%",
-    "Individual": "4.15%",
+    "L. Desire": "7.80%",
+    "Base": "7.80%",
+    "Comparison": "4.32%",
+    "Individual": "4.32%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
@@ -5468,8 +5468,8 @@
       "Trade 7 Value": "4,093.75"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "Neo-Kargatan Empire",
+      "Trade 8 Value": "12,060.63"
     },
     "Trade 9": {
       "Value": "",
@@ -5499,13 +5499,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "106,590.88",
+    "Raw Trade Income": "118,651.50",
     "Tariffs": "0.95",
-    "Trade Income": "101,261.33",
+    "Trade Income": "112,718.93",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "7"
+    "Trades": "8"
   },
   "Dinasygan": {
     "Nations": "Dinasygan",
@@ -5642,7 +5642,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "Iidunn",
     "Military Alliances 2": "Kingdom of Mimgrond",
-    "Limit": "11",
+    "Limit": "7",
     "Trade 1": {
       "Value": "Scientarium",
       "Trade 1 Value": "29,991.50"
@@ -5673,7 +5673,7 @@
     },
     "Trade 8": {
       "Value": "Unigol",
-      "Trade 8 Value": "7,322.63"
+      "Trade 8 Value": ""
     },
     "Trade 9": {
       "Value": "",
@@ -5703,13 +5703,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "88,759.03",
-    "Tariffs": "0.75",
-    "Trade Income": "66,569.27",
+    "Raw Trade Income": "81,436.41",
+    "Tariffs": "1.25",
+    "Trade Income": "101,795.51",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "8"
+    "Trades": "7"
   },
   "Drahacira": {
     "Nations": "Drahacira",
@@ -12596,8 +12596,8 @@
       "Trade 4 Value": "17,119.38"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Denirar",
+      "Trade 5 Value": "8,198.74"
     },
     "Trade 6": {
       "Value": "",
@@ -12639,13 +12639,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "69,741.56",
+    "Raw Trade Income": "77,940.30",
     "Tariffs": "0.95",
-    "Trade Income": "66,254.48",
+    "Trade Income": "74,043.29",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "4"
+    "Trades": "5"
   },
   "Kingdom of Aeornia": {
     "Nations": "Kingdom of Aeornia",
@@ -13781,9 +13781,9 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "64.28%",
-    "Base": "64.28%",
-    "Comparison": "40.27%",
+    "L. Desire": "64.76%",
+    "Base": "64.76%",
+    "Comparison": "40.75%",
     "Individual": "17.34%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
@@ -16731,12 +16731,12 @@
     "Nations": "Meadoia Dynasty",
     "Nation Check": "Meadoia Dynasty",
     "Overlord": "",
-    "Eco Vassals": "792,858.47",
+    "Eco Vassals": "809,553.57",
     "Eco Over.": "726,538.53",
-    "Compare": "92.24%",
-    "MP Vassals": "180,266.44",
+    "Compare": "92.33%",
+    "MP Vassals": "180,431.44",
     "MP Over.": "195,430.13",
-    "20% Total": "40.27%",
+    "20% Total": "40.75%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27959,10 +27959,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "49.02%",
-    "Base": "49.02%",
-    "Comparison": "40.27%",
-    "Individual": "8.25%",
+    "L. Desire": "49.69%",
+    "Base": "49.69%",
+    "Comparison": "40.75%",
+    "Individual": "8.44%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -28002,8 +28002,8 @@
       "Trade 5 Value": "6,450.00"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Caesnauka Empire",
+      "Trade 6 Value": "7,388.75"
     },
     "Trade 7": {
       "Value": "",
@@ -28041,13 +28041,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "133,175.34",
+    "Raw Trade Income": "140,564.09",
     "Tariffs": "0.95",
-    "Trade Income": "126,516.57",
+    "Trade Income": "133,535.88",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "5"
+    "Trades": "6"
   },
   "United Federation of Malam States": {
     "Nations": "United Federation of Malam States",
