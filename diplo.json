@@ -953,11 +953,11 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Jörðnar",
-      "Trade 1 Value": "7,621.25"
+      "Trade 1 Value": "7,718.75"
     },
     "Trade 2": {
       "Value": "Lialikidus",
-      "Trade 2 Value": "2,929.06"
+      "Trade 2 Value": "3,189.06"
     },
     "Trade 3": {
       "Value": "Schizaria",
@@ -1011,9 +1011,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "41,934.97",
+    "Raw Trade Income": "42,292.47",
     "Tariffs": "1.25",
-    "Trade Income": "52,418.71",
+    "Trade Income": "52,865.59",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -1745,9 +1745,9 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "61.07%",
-    "Base": "61.07%",
-    "Comparison": "60.20%",
+    "L. Desire": "60.60%",
+    "Base": "60.60%",
+    "Comparison": "59.73%",
     "Individual": "16.21%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
@@ -10925,10 +10925,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "37.40%",
-    "Base": "37.40%",
-    "Comparison": "30.72%",
-    "Individual": "11.69%",
+    "L. Desire": "37.61%",
+    "Base": "37.61%",
+    "Comparison": "30.86%",
+    "Individual": "11.75%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -10949,15 +10949,15 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Jörðnar",
-      "Trade 1 Value": "7,621.25"
+      "Trade 1 Value": "7,718.75"
     },
     "Trade 2": {
       "Value": "Lialikidus",
-      "Trade 2 Value": "2,929.06"
+      "Trade 2 Value": "3,189.06"
     },
     "Trade 3": {
       "Value": "Sólstafir",
-      "Trade 3 Value": "2,660.94"
+      "Trade 3 Value": "2,855.94"
     },
     "Trade 4": {
       "Value": "",
@@ -11007,9 +11007,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "13,211.25",
+    "Raw Trade Income": "13,763.75",
     "Tariffs": "1.05",
-    "Trade Income": "13,871.81",
+    "Trade Income": "14,451.94",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -11223,12 +11223,12 @@
     "Nations": "Jörðnar",
     "Nation Check": "Jörðnar",
     "Overlord": "",
-    "Eco Vassals": "253,193.80",
-    "Eco Over.": "388,473.01",
+    "Eco Vassals": "254,406.05",
+    "Eco Over.": "386,090.76",
     "Compare": "88.40%",
     "MP Vassals": "110,454.88",
     "MP Over.": "124,946.25",
-    "20% Total": "30.72%",
+    "20% Total": "30.86%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -11267,11 +11267,11 @@
     },
     "Trade 4": {
       "Value": "Sólstafir",
-      "Trade 4 Value": "2,660.94"
+      "Trade 4 Value": "2,855.94"
     },
     "Trade 5": {
       "Value": "Lialikidus",
-      "Trade 5 Value": "2,929.06"
+      "Trade 5 Value": "3,189.06"
     },
     "Trade 6": {
       "Value": "Viontes",
@@ -11313,9 +11313,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "41,517.16",
+    "Raw Trade Income": "41,972.16",
     "Tariffs": "1.05",
-    "Trade Income": "43,593.01",
+    "Trade Income": "44,070.76",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -12455,10 +12455,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "35.54%",
-    "Base": "35.54%",
-    "Comparison": "30.72%",
-    "Individual": "9.83%",
+    "L. Desire": "35.73%",
+    "Base": "35.73%",
+    "Comparison": "30.86%",
+    "Individual": "9.87%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -12479,11 +12479,11 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Lialikidus",
-      "Trade 1 Value": "2,929.06"
+      "Trade 1 Value": "3,189.06"
     },
     "Trade 2": {
       "Value": "Jörðnar",
-      "Trade 2 Value": "7,621.25"
+      "Trade 2 Value": "7,718.75"
     },
     "Trade 3": {
       "Value": "Vancassia",
@@ -12537,9 +12537,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "16,570.31",
+    "Raw Trade Income": "16,927.81",
     "Tariffs": "0.95",
-    "Trade Income": "15,741.80",
+    "Trade Income": "16,081.42",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -13875,12 +13875,12 @@
     "Nations": "Kingdom of the Aurore",
     "Nation Check": "Kingdom of the Aurore",
     "Overlord": "",
-    "Eco Vassals": "789,539.73",
+    "Eco Vassals": "780,814.73",
     "Eco Over.": "374,934.18",
     "Compare": "90.40%",
     "MP Vassals": "91,674.69",
     "MP Over.": "101,404.88",
-    "20% Total": "60.20%",
+    "20% Total": "59.73%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -14801,10 +14801,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "35.42%",
-    "Base": "35.42%",
-    "Comparison": "30.72%",
-    "Individual": "9.20%",
+    "L. Desire": "35.59%",
+    "Base": "35.59%",
+    "Comparison": "30.86%",
+    "Individual": "9.24%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -14825,11 +14825,11 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Jörðnar",
-      "Trade 1 Value": "7,621.25"
+      "Trade 1 Value": "7,718.75"
     },
     "Trade 2": {
       "Value": "Sólstafir",
-      "Trade 2 Value": "2,660.94"
+      "Trade 2 Value": "2,855.94"
     },
     "Trade 3": {
       "Value": "Vancassia",
@@ -14883,9 +14883,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "16,302.19",
+    "Raw Trade Income": "16,594.69",
     "Tariffs": "1.00",
-    "Trade Income": "16,302.19",
+    "Trade Income": "16,594.69",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -16229,10 +16229,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "80.80%",
-    "Base": "80.80%",
-    "Comparison": "60.20%",
-    "Individual": "26.44%",
+    "L. Desire": "79.87%",
+    "Base": "79.87%",
+    "Comparison": "59.73%",
+    "Individual": "25.97%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -29693,9 +29693,9 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "65.42%",
-    "Base": "65.42%",
-    "Comparison": "60.20%",
+    "L. Desire": "64.95%",
+    "Base": "64.95%",
+    "Comparison": "59.73%",
     "Individual": "17.55%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
@@ -30195,12 +30195,12 @@
     "Nations": "Schizaria",
     "Nation Check": "Schizaria",
     "Overlord": "",
-    "Eco Vassals": "271,883.39",
-    "Eco Over.": "138,354.26",
+    "Eco Vassals": "272,005.27",
+    "Eco Over.": "138,476.13",
     "Compare": "186.56%",
     "MP Vassals": "103,546.44",
     "MP Over.": "55,501.88",
-    "20% Total": "76.62%",
+    "20% Total": "76.60%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -30239,7 +30239,7 @@
     },
     "Trade 4": {
       "Value": "Jörðnar",
-      "Trade 4 Value": "7,621.25"
+      "Trade 4 Value": "7,718.75"
     },
     "Trade 5": {
       "Value": "",
@@ -30285,9 +30285,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "36,435.41",
+    "Raw Trade Income": "36,532.91",
     "Tariffs": "1.25",
-    "Trade Income": "45,544.26",
+    "Trade Income": "45,666.13",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -30305,9 +30305,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "69.74%",
-    "Base": "69.74%",
-    "Comparison": "76.62%",
+    "L. Desire": "69.71%",
+    "Base": "69.71%",
+    "Comparison": "76.60%",
     "Individual": "45.62%",
     "Friend/Rival": "-25.00%",
     "Taxes": "-5.00%",
@@ -30337,7 +30337,7 @@
     },
     "Trade 3": {
       "Value": "Jörðnar",
-      "Trade 3 Value": "7,621.25"
+      "Trade 3 Value": "7,718.75"
     },
     "Trade 4": {
       "Value": "",
@@ -30387,9 +30387,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,174.88",
+    "Raw Trade Income": "30,272.38",
     "Tariffs": "1.25",
-    "Trade Income": "37,718.59",
+    "Trade Income": "37,840.47",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -30509,10 +30509,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "90.11%",
-    "Base": "90.11%",
-    "Comparison": "76.62%",
-    "Individual": "30.99%",
+    "L. Desire": "90.08%",
+    "Base": "90.08%",
+    "Comparison": "76.60%",
+    "Individual": "30.98%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
