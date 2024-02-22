@@ -1075,7 +1075,7 @@
     },
     "Trade 6": {
       "Value": "Diogen",
-      "Trade 6 Value": "10,781.25"
+      "Trade 6 Value": "5,390.63"
     },
     "Trade 7": {
       "Value": "Ewig Republic",
@@ -1113,9 +1113,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "89,244.00",
+    "Raw Trade Income": "83,853.38",
     "Tariffs": "1.05",
-    "Trade Income": "93,706.20",
+    "Trade Income": "88,046.04",
     "NAPs": "3",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -1236,9 +1236,9 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-6.87%",
-    "Comparison": "4.07%",
-    "Individual": "4.07%",
+    "Base": "-6.89%",
+    "Comparison": "4.06%",
+    "Individual": "4.06%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -2969,9 +2969,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "47.60%",
-    "Base": "47.60%",
-    "Comparison": "40.41%",
+    "L. Desire": "47.46%",
+    "Base": "47.46%",
+    "Comparison": "40.27%",
     "Individual": "14.68%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -5971,7 +5971,7 @@
     },
     "Trade 6": {
       "Value": "Diogen",
-      "Trade 6 Value": "10,781.25"
+      "Trade 6 Value": "5,390.63"
     },
     "Trade 7": {
       "Value": "Ewig Republic",
@@ -6009,9 +6009,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "96,397.44",
+    "Raw Trade Income": "91,006.81",
     "Tariffs": "0.95",
-    "Trade Income": "91,577.57",
+    "Trade Income": "86,456.47",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -10565,7 +10565,7 @@
     },
     "Trade 7": {
       "Value": "Diogen",
-      "Trade 7 Value": "10,781.25"
+      "Trade 7 Value": "5,390.63"
     },
     "Trade 8": {
       "Value": "",
@@ -10599,9 +10599,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "93,772.22",
+    "Raw Trade Income": "88,381.59",
     "Tariffs": "1.05",
-    "Trade Income": "98,460.83",
+    "Trade Income": "92,800.67",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -13067,10 +13067,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "24.64%",
-    "Base": "24.64%",
-    "Comparison": "19.82%",
-    "Individual": "19.82%",
+    "L. Desire": "24.79%",
+    "Base": "24.79%",
+    "Comparison": "19.89%",
+    "Individual": "19.89%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -13569,12 +13569,12 @@
     "Nations": "Kingdom of Mimgrond",
     "Nation Check": "Kingdom of Mimgrond",
     "Overlord": "",
-    "Eco Vassals": "310,338.50",
+    "Eco Vassals": "303,600.22",
     "Eco Over.": "562,850.09",
     "Compare": "16.28%",
     "MP Vassals": "28,678.72",
     "MP Over.": "176,164.50",
-    "20% Total": "14.28%",
+    "20% Total": "14.04%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -13781,9 +13781,9 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "64.42%",
-    "Base": "64.42%",
-    "Comparison": "40.41%",
+    "L. Desire": "64.28%",
+    "Base": "64.28%",
+    "Comparison": "40.27%",
     "Individual": "17.34%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
@@ -14135,7 +14135,7 @@
     },
     "Trade 7": {
       "Value": "Diogen",
-      "Trade 7 Value": "10,781.25"
+      "Trade 7 Value": "5,390.63"
     },
     "Trade 8": {
       "Value": "The Animal Kingdom",
@@ -14169,9 +14169,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "102,515.28",
+    "Raw Trade Income": "97,124.66",
     "Tariffs": "0.95",
-    "Trade Income": "97,389.52",
+    "Trade Income": "92,268.42",
     "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -14488,11 +14488,11 @@
     "Nation Check": "Kycerian Dominion",
     "Overlord": "",
     "Eco Vassals": "41,617.13",
-    "Eco Over.": "696,807.36",
+    "Eco Over.": "702,851.74",
     "Compare": "14.36%",
     "MP Vassals": "42,240.00",
     "MP Over.": "294,109.06",
-    "20% Total": "4.07%",
+    "20% Total": "4.06%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -14526,8 +14526,8 @@
       "Trade 2 Value": "21,856.83"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Grand Tetalay",
+      "Trade 3 Value": "6,362.50"
     },
     "Trade 4": {
       "Value": "",
@@ -14577,13 +14577,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "47,131.83",
+    "Raw Trade Income": "53,494.33",
     "Tariffs": "0.95",
-    "Trade Income": "44,775.24",
+    "Trade Income": "50,819.61",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "2"
+    "Trades": "3"
   },
   "Lauzydos": {
     "Nations": "Lauzydos",
@@ -15767,7 +15767,7 @@
     },
     "Trade 7": {
       "Value": "Diogen",
-      "Trade 7 Value": "10,781.25"
+      "Trade 7 Value": "5,390.63"
     },
     "Trade 8": {
       "Value": "Unigol",
@@ -15801,9 +15801,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "49,789.63",
+    "Raw Trade Income": "44,399.00",
     "Tariffs": "0.95",
-    "Trade Income": "47,300.14",
+    "Trade Income": "42,179.05",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -16731,12 +16731,12 @@
     "Nations": "Meadoia Dynasty",
     "Nation Check": "Meadoia Dynasty",
     "Overlord": "",
-    "Eco Vassals": "797,979.57",
+    "Eco Vassals": "792,858.47",
     "Eco Over.": "726,538.53",
     "Compare": "92.24%",
     "MP Vassals": "180,266.44",
     "MP Over.": "195,430.13",
-    "20% Total": "40.41%",
+    "20% Total": "40.27%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -21730,11 +21730,11 @@
     "Nation Check": "Scientarium",
     "Overlord": "",
     "Eco Vassals": "99,970.00",
-    "Eco Over.": "377,016.36",
+    "Eco Over.": "371,787.46",
     "Compare": "72.57%",
     "MP Vassals": "46,695.00",
     "MP Over.": "64,341.06",
-    "20% Total": "19.82%",
+    "20% Total": "19.89%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -21793,7 +21793,7 @@
     },
     "Trade 9": {
       "Value": "Diogen",
-      "Trade 9 Value": "10,781.25"
+      "Trade 9 Value": "5,390.63"
     },
     "Trade 10": {
       "Value": "Maldune",
@@ -21819,9 +21819,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "113,861.79",
+    "Raw Trade Income": "108,471.16",
     "Tariffs": "0.97",
-    "Trade Income": "110,445.93",
+    "Trade Income": "105,217.03",
     "NAPs": "9",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -24287,10 +24287,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "11.57%",
-    "Base": "11.57%",
-    "Comparison": "14.28%",
-    "Individual": "14.28%",
+    "L. Desire": "11.09%",
+    "Base": "11.09%",
+    "Comparison": "14.04%",
+    "Individual": "14.04%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -24343,7 +24343,7 @@
     },
     "Trade 9": {
       "Value": "Diogen",
-      "Trade 9 Value": "10,781.25"
+      "Trade 9 Value": "5,390.63"
     },
     "Trade 10": {
       "Value": "",
@@ -24369,9 +24369,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "115,638.70",
+    "Raw Trade Income": "110,248.08",
     "Tariffs": "1.25",
-    "Trade Income": "144,548.38",
+    "Trade Income": "137,810.09",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -25049,7 +25049,7 @@
     },
     "Trade 7": {
       "Value": "Diogen",
-      "Trade 7 Value": "10,781.25"
+      "Trade 7 Value": "5,390.63"
     },
     "Trade 8": {
       "Value": "Maldune",
@@ -25083,9 +25083,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "174,336.73",
+    "Raw Trade Income": "168,946.10",
     "Tariffs": "1.05",
-    "Trade Income": "183,053.56",
+    "Trade Income": "177,393.41",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -27959,10 +27959,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "49.31%",
-    "Base": "49.31%",
-    "Comparison": "40.41%",
-    "Individual": "8.39%",
+    "L. Desire": "49.02%",
+    "Base": "49.02%",
+    "Comparison": "40.27%",
+    "Individual": "8.25%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -27995,7 +27995,7 @@
     },
     "Trade 4": {
       "Value": "Diogen",
-      "Trade 4 Value": "10,781.25"
+      "Trade 4 Value": "5,390.63"
     },
     "Trade 5": {
       "Value": "Maa",
@@ -28041,9 +28041,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "138,565.96",
+    "Raw Trade Income": "133,175.34",
     "Tariffs": "0.95",
-    "Trade Income": "131,637.66",
+    "Trade Income": "126,516.57",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -29423,7 +29423,7 @@
     },
     "Trade 4": {
       "Value": "Diogen",
-      "Trade 4 Value": "10,781.25"
+      "Trade 4 Value": "5,390.63"
     },
     "Trade 5": {
       "Value": "Ewig Republic",
@@ -29469,9 +29469,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "45,402.50",
+    "Raw Trade Income": "40,011.88",
     "Tariffs": "1.25",
-    "Trade Income": "56,753.13",
+    "Trade Income": "50,014.84",
     "NAPs": "4",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
