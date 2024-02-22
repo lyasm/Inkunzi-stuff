@@ -961,11 +961,11 @@
     },
     "Trade 3": {
       "Value": "Schizaria",
-      "Trade 3 Value": "4,712.50"
+      "Trade 3 Value": "5,749.25"
     },
     "Trade 4": {
       "Value": "Viontes",
-      "Trade 4 Value": "5,656.56"
+      "Trade 4 Value": "7,353.53"
     },
     "Trade 5": {
       "Value": "Goldridge",
@@ -1011,9 +1011,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "46,387.19",
+    "Raw Trade Income": "49,120.91",
     "Tariffs": "1.25",
-    "Trade Income": "57,983.98",
+    "Trade Income": "61,401.13",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -10925,10 +10925,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "38.79%",
-    "Base": "38.79%",
-    "Comparison": "31.75%",
-    "Individual": "12.05%",
+    "L. Desire": "38.65%",
+    "Base": "38.65%",
+    "Comparison": "31.64%",
+    "Individual": "12.01%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -11224,11 +11224,11 @@
     "Nation Check": "Jörðnar",
     "Overlord": "",
     "Eco Vassals": "274,531.44",
-    "Eco Over.": "390,343.36",
+    "Eco Over.": "393,213.76",
     "Compare": "88.40%",
     "MP Vassals": "110,454.88",
     "MP Over.": "124,946.25",
-    "20% Total": "31.75%",
+    "20% Total": "31.64%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -11259,7 +11259,7 @@
     },
     "Trade 2": {
       "Value": "Schizaria",
-      "Trade 2 Value": "4,712.50"
+      "Trade 2 Value": "5,749.25"
     },
     "Trade 3": {
       "Value": "Vancassia",
@@ -11275,7 +11275,7 @@
     },
     "Trade 6": {
       "Value": "Viontes",
-      "Trade 6 Value": "5,656.56"
+      "Trade 6 Value": "7,353.53"
     },
     "Trade 7": {
       "Value": "",
@@ -11313,9 +11313,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "43,298.44",
+    "Raw Trade Income": "46,032.16",
     "Tariffs": "1.05",
-    "Trade Income": "45,463.36",
+    "Trade Income": "48,333.76",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -12455,10 +12455,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "36.90%",
-    "Base": "36.90%",
-    "Comparison": "31.75%",
-    "Individual": "10.16%",
+    "L. Desire": "36.77%",
+    "Base": "36.77%",
+    "Comparison": "31.64%",
+    "Individual": "10.12%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -14801,10 +14801,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "36.79%",
-    "Base": "36.79%",
-    "Comparison": "31.75%",
-    "Individual": "9.54%",
+    "L. Desire": "36.66%",
+    "Base": "36.66%",
+    "Comparison": "31.64%",
+    "Individual": "9.52%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -30195,12 +30195,12 @@
     "Nations": "Schizaria",
     "Nation Check": "Schizaria",
     "Overlord": "",
-    "Eco Vassals": "212,319.28",
-    "Eco Over.": "123,613.81",
-    "Compare": "175.08%",
-    "MP Vassals": "97,171.94",
+    "Eco Vassals": "277,013.08",
+    "Eco Over.": "143,483.95",
+    "Compare": "186.56%",
+    "MP Vassals": "103,546.44",
     "MP Over.": "55,501.88",
-    "20% Total": "69.37%",
+    "20% Total": "75.93%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -30224,7 +30224,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "9",
+    "Limit": "6",
     "Trade 1": {
       "Value": "WrestleMania",
       "Trade 1 Value": "4,656.25"
@@ -30235,109 +30235,7 @@
     },
     "Trade 3": {
       "Value": "Viontes",
-      "Trade 3 Value": "5,656.56"
-    },
-    "Trade 4": {
-      "Value": "Goldridge",
-      "Trade 4 Value": "5,656.56"
-    },
-    "Trade 5": {
-      "Value": "Jörðnar",
-      "Trade 5 Value": "11,725.00"
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "44,498.75",
-    "Tariffs": "0.95",
-    "Trade Income": "42,273.81",
-    "NAPs": "0",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "5"
-  },
-  "Viontes": {
-    "Nations": "Viontes",
-    "Nation Check": "Viontes",
-    "Overlord": "Schizaria",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "Standard",
-    "": "",
-    "L. Desire": "54.05%",
-    "Base": "54.05%",
-    "Comparison": "69.37%",
-    "Individual": "37.18%",
-    "Friend/Rival": "-25.00%",
-    "Taxes": "-5.00%",
-    "Indep War?": "",
-    "Autonomy": "Both",
-    "Threshold": "100.00%",
-    "Chaotic?": "FALSE",
-    "Deceptive?": "FALSE",
-    "Honor?": "FALSE",
-    "Indep.?": "FALSE",
-    "Unity?": "FALSE",
-    "Ov. Culture": "Schizari",
-    "Ov. Religion": "Schizar Faith",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "10",
-    "Trade 1": {
-      "Value": "Schizaria",
-      "Trade 1 Value": "4,712.50"
-    },
-    "Trade 2": {
-      "Value": "Karak Kadrin",
-      "Trade 2 Value": "16,804.38"
-    },
-    "Trade 3": {
-      "Value": "Goldridge",
-      "Trade 3 Value": "5,656.56"
+      "Trade 3 Value": "7,353.53"
     },
     "Trade 4": {
       "Value": "Jörðnar",
@@ -30387,13 +30285,115 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "38,898.44",
-    "Tariffs": "0.95",
-    "Trade Income": "36,953.52",
+    "Raw Trade Income": "40,539.16",
+    "Tariffs": "1.25",
+    "Trade Income": "50,673.95",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
     "Trades": "4"
+  },
+  "Viontes": {
+    "Nations": "Viontes",
+    "Nation Check": "Viontes",
+    "Overlord": "Schizaria",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "Standard",
+    "": "",
+    "L. Desire": "68.84%",
+    "Base": "68.84%",
+    "Comparison": "75.93%",
+    "Individual": "45.41%",
+    "Friend/Rival": "-25.00%",
+    "Taxes": "-5.00%",
+    "Indep War?": "",
+    "Autonomy": "Both",
+    "Threshold": "100.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "Schizari",
+    "Ov. Religion": "Schizar Faith",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "7",
+    "Trade 1": {
+      "Value": "Schizaria",
+      "Trade 1 Value": "5,749.25"
+    },
+    "Trade 2": {
+      "Value": "Karak Kadrin",
+      "Trade 2 Value": "16,804.38"
+    },
+    "Trade 3": {
+      "Value": "Jörðnar",
+      "Trade 3 Value": "11,725.00"
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "34,278.63",
+    "Tariffs": "1.25",
+    "Trade Income": "42,848.28",
+    "NAPs": "0",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
+    "Trades": "3"
   },
   "Draku-Pentru-Tine Federation": {
     "Nations": "Draku-Pentru-Tine Federation",
@@ -30509,10 +30509,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "84.05%",
-    "Base": "84.05%",
-    "Comparison": "69.37%",
-    "Individual": "32.18%",
+    "L. Desire": "88.94%",
+    "Base": "88.94%",
+    "Comparison": "75.93%",
+    "Individual": "30.51%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -30533,7 +30533,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Schizaria",
-      "Trade 1 Value": "4,712.50"
+      "Trade 1 Value": "5,749.25"
     },
     "Trade 2": {
       "Value": "Karak Kadrin",
@@ -30541,7 +30541,7 @@
     },
     "Trade 3": {
       "Value": "Viontes",
-      "Trade 3 Value": "5,656.56"
+      "Trade 3 Value": "7,353.53"
     },
     "Trade 4": {
       "Value": "",
@@ -30591,9 +30591,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "27,173.44",
+    "Raw Trade Income": "29,907.16",
     "Tariffs": "0.95",
-    "Trade Income": "25,814.77",
+    "Trade Income": "28,411.80",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
