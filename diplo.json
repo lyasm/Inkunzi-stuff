@@ -859,7 +859,7 @@
     },
     "Trade 3": {
       "Value": "Cleannmor",
-      "Trade 3 Value": "4,268.75"
+      "Trade 3 Value": "3,593.75"
     },
     "Trade 4": {
       "Value": "Tetóth Kegeth",
@@ -909,9 +909,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "33,008.82",
+    "Raw Trade Income": "32,333.82",
     "Tariffs": "0.95",
-    "Trade Income": "31,358.38",
+    "Trade Income": "30,717.13",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -18465,12 +18465,12 @@
     "Nations": "Nournourlant",
     "Nation Check": "Nournourlant",
     "Overlord": "",
-    "Eco Vassals": "79,321.25",
+    "Eco Vassals": "95,102.50",
     "Eco Over.": "344,076.72",
     "Compare": "13.15%",
     "MP Vassals": "21,608.13",
     "MP Over.": "164,312.50",
-    "20% Total": "7.24%",
+    "20% Total": "8.16%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -25307,10 +25307,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "39.48%",
-    "Base": "39.48%",
-    "Comparison": "7.24%",
-    "Individual": "7.24%",
+    "L. Desire": "41.32%",
+    "Base": "41.32%",
+    "Comparison": "8.16%",
+    "Individual": "8.16%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -25330,8 +25330,8 @@
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Nournourlant",
+      "Trade 1 Value": "4,625.00"
     },
     "Trade 2": {
       "Value": "",
@@ -25389,13 +25389,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "4,625.00",
     "Tariffs": "1.25",
-    "Trade Income": "0.00",
+    "Trade Income": "5,781.25",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "1"
   },
   "The Kingdom of Lunar": {
     "Nations": "The Kingdom of Lunar",
