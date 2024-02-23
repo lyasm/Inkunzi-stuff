@@ -2145,12 +2145,12 @@
     "Nations": "Atlas'ii",
     "Nation Check": "Atlas'ii",
     "Overlord": "",
-    "Eco Vassals": "872,359.02",
+    "Eco Vassals": "903,952.77",
     "Eco Over.": "307,602.50",
     "Compare": "332.91%",
     "MP Vassals": "451,154.69",
     "MP Over.": "135,520.00",
-    "20% Total": "123.30%",
+    "20% Total": "125.36%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -2765,10 +2765,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "197.02%",
-    "Base": "197.02%",
-    "Comparison": "123.30%",
-    "Individual": "65.39%",
+    "L. Desire": "200.00%",
+    "Base": "201.13%",
+    "Comparison": "125.36%",
+    "Individual": "67.44%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -2781,7 +2781,7 @@
     "Unity?": "TRUE",
     "Ov. Culture": "Den’glaic",
     "Ov. Religion": "Faigh’denic",
-    "Non-aggression Pacts": "Rosinelle, Shakisu",
+    "Non-aggression Pacts": "Rosinelle, Shakisu, Netsanet Republic",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
@@ -2800,8 +2800,8 @@
       "Trade 3 Value": "27,923.44"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Netsanet Republic",
+      "Trade 4 Value": "25,275.00"
     },
     "Trade 5": {
       "Value": "",
@@ -2847,13 +2847,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "56,670.89",
+    "Raw Trade Income": "81,945.89",
     "Tariffs": "1.25",
-    "Trade Income": "70,838.61",
-    "NAPs": "2",
+    "Trade Income": "102,432.36",
+    "NAPs": "3",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "3"
+    "Trades": "4"
   },
   "Cabyar Birodalom": {
     "Nations": "Cabyar Birodalom",
@@ -3064,11 +3064,11 @@
     "Nation Check": "Candentis Jalin",
     "Overlord": "",
     "Eco Vassals": "67,376.25",
-    "Eco Over.": "457,783.04",
-    "Compare": "22.03%",
+    "Eco Over.": "474,413.53",
+    "Compare": "21.97%",
     "MP Vassals": "39,101.56",
-    "MP Over.": "177,531.75",
-    "20% Total": "7.35%",
+    "MP Over.": "177,977.25",
+    "20% Total": "7.23%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -3118,8 +3118,8 @@
       "Trade 6 Value": "17,293.75"
     },
     "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
+      "Value": "Neo-Kargatan Empire",
+      "Trade 7 Value": "14,360.63"
     },
     "Trade 8": {
       "Value": "",
@@ -3153,13 +3153,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "77,250.94",
+    "Raw Trade Income": "91,611.56",
     "Tariffs": "1.05",
-    "Trade Income": "81,113.48",
+    "Trade Income": "96,192.14",
     "NAPs": "5",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "6"
+    "Trades": "7"
   },
   "Bolger Dynasty": {
     "Nations": "Bolger Dynasty",
@@ -4907,10 +4907,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "23.78%",
-    "Base": "23.78%",
-    "Comparison": "23.80%",
-    "Individual": "9.81%",
+    "L. Desire": "26.53%",
+    "Base": "26.53%",
+    "Comparison": "25.76%",
+    "Individual": "10.60%",
     "Friend/Rival": "0.00%",
     "Taxes": "-2.33%",
     "Indep War?": "No",
@@ -5009,9 +5009,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "140.41%",
-    "Base": "140.41%",
-    "Comparison": "123.30%",
+    "L. Desire": "142.46%",
+    "Base": "142.46%",
+    "Comparison": "125.36%",
     "Individual": "7.11%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -5103,12 +5103,12 @@
     "Nations": "Alonissos Isles",
     "Nation Check": "Alonissos Isles",
     "Overlord": "",
-    "Eco Vassals": "205,166.24",
-    "Eco Over.": "1,346,089.37",
+    "Eco Vassals": "205,603.24",
+    "Eco Over.": "1,346,526.37",
     "Compare": "5.98%",
     "MP Vassals": "21,136.50",
     "MP Over.": "353,626.63",
-    "20% Total": "4.24%",
+    "20% Total": "4.25%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -5159,7 +5159,7 @@
     },
     "Trade 7": {
       "Value": "Neo-Kargatan Empire",
-      "Trade 7 Value": "13,900.63"
+      "Trade 7 Value": "14,360.63"
     },
     "Trade 8": {
       "Value": "Fray Ventos",
@@ -5193,9 +5193,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "356,674.91",
+    "Raw Trade Income": "357,134.91",
     "Tariffs": "0.95",
-    "Trade Income": "338,841.16",
+    "Trade Income": "339,278.16",
     "NAPs": "6",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -5245,7 +5245,7 @@
     },
     "Trade 3": {
       "Value": "Neo-Kargatan Empire",
-      "Trade 3 Value": "13,900.63"
+      "Trade 3 Value": "14,360.63"
     },
     "Trade 4": {
       "Value": "Nexus Vouno",
@@ -5295,9 +5295,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "52,739.06",
+    "Raw Trade Income": "53,199.06",
     "Tariffs": "0.95",
-    "Trade Income": "50,102.11",
+    "Trade Income": "50,539.11",
     "NAPs": "4",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -5363,7 +5363,7 @@
     },
     "Trade 7": {
       "Value": "Neo-Kargatan Empire",
-      "Trade 7 Value": "13,900.63"
+      "Trade 7 Value": "14,360.63"
     },
     "Trade 8": {
       "Value": "Restored Arisii Confederation",
@@ -5397,9 +5397,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "155,138.13",
+    "Raw Trade Income": "155,598.13",
     "Tariffs": "0.95",
-    "Trade Income": "147,381.22",
+    "Trade Income": "147,818.22",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -5417,10 +5417,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "7.65%",
-    "Base": "7.65%",
-    "Comparison": "4.24%",
-    "Individual": "4.24%",
+    "L. Desire": "7.67%",
+    "Base": "7.67%",
+    "Comparison": "4.25%",
+    "Individual": "4.25%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
@@ -5469,7 +5469,7 @@
     },
     "Trade 8": {
       "Value": "Neo-Kargatan Empire",
-      "Trade 8 Value": "13,900.63"
+      "Trade 8 Value": "14,360.63"
     },
     "Trade 9": {
       "Value": "",
@@ -5499,9 +5499,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "126,081.50",
+    "Raw Trade Income": "126,541.50",
     "Tariffs": "0.95",
-    "Trade Income": "119,777.43",
+    "Trade Income": "120,214.43",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -8579,10 +8579,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "43.67%",
-    "Base": "43.67%",
-    "Comparison": "22.03%",
-    "Individual": "6.65%",
+    "L. Desire": "43.42%",
+    "Base": "43.42%",
+    "Comparison": "21.84%",
+    "Individual": "6.58%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -10305,12 +10305,12 @@
     "Nations": "Ilikiu'Foriris",
     "Nation Check": "Ilikiu'Foriris",
     "Overlord": "",
-    "Eco Vassals": "641,060.37",
+    "Eco Vassals": "641,497.37",
     "Eco Over.": "583,906.97",
     "Compare": "6.73%",
     "MP Vassals": "11,657.25",
     "MP Over.": "173,181.25",
-    "20% Total": "23.30%",
+    "20% Total": "23.32%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -10455,7 +10455,7 @@
     },
     "Trade 5": {
       "Value": "Neo-Kargatan Empire",
-      "Trade 5 Value": "13,900.63"
+      "Trade 5 Value": "14,360.63"
     },
     "Trade 6": {
       "Value": "",
@@ -10497,9 +10497,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "136,363.86",
+    "Raw Trade Income": "136,823.86",
     "Tariffs": "0.95",
-    "Trade Income": "129,545.67",
+    "Trade Income": "129,982.67",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -10721,10 +10721,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "25.77%",
-    "Base": "25.77%",
-    "Comparison": "22.03%",
-    "Individual": "8.75%",
+    "L. Desire": "25.51%",
+    "Base": "25.51%",
+    "Comparison": "21.84%",
+    "Individual": "8.67%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -12608,12 +12608,12 @@
       "Trade 7 Value": "5,125.00"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "Candentis Jalin",
+      "Trade 8 Value": "13,958.13"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Nummum",
+      "Trade 9 Value": "81,936.36"
     },
     "Trade 10": {
       "Value": "",
@@ -12639,13 +12639,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "105,949.05",
+    "Raw Trade Income": "201,843.54",
     "Tariffs": "0.95",
-    "Trade Income": "100,651.60",
+    "Trade Income": "191,751.36",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "7"
+    "Trades": "9"
   },
   "Kingdom of Aeornia": {
     "Nations": "Kingdom of Aeornia",
@@ -13679,10 +13679,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "31.91%",
-    "Base": "31.91%",
-    "Comparison": "20.54%",
-    "Individual": "20.54%",
+    "L. Desire": "31.93%",
+    "Base": "31.93%",
+    "Comparison": "20.55%",
+    "Individual": "20.55%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -13711,7 +13711,7 @@
     },
     "Trade 3": {
       "Value": "Neo-Kargatan Empire",
-      "Trade 3 Value": "13,900.63"
+      "Trade 3 Value": "14,360.63"
     },
     "Trade 4": {
       "Value": "Candentis Jalin",
@@ -13761,9 +13761,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "159,846.97",
+    "Raw Trade Income": "160,306.97",
     "Tariffs": "1.25",
-    "Trade Income": "199,808.72",
+    "Trade Income": "200,383.72",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -15099,12 +15099,12 @@
     "Nations": "Lowy Combine",
     "Nation Check": "Lowy Combine",
     "Overlord": "",
-    "Eco Vassals": "392,988.06",
-    "Eco Over.": "562,351.55",
+    "Eco Vassals": "393,563.06",
+    "Eco Over.": "562,788.55",
     "Compare": "32.80%",
     "MP Vassals": "51,924.47",
     "MP Over.": "158,307.19",
-    "20% Total": "20.54%",
+    "20% Total": "20.55%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -15151,7 +15151,7 @@
     },
     "Trade 6": {
       "Value": "Neo-Kargatan Empire",
-      "Trade 6 Value": "13,900.63"
+      "Trade 6 Value": "14,360.63"
     },
     "Trade 7": {
       "Value": "Nexus Vouno",
@@ -15189,9 +15189,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "154,324.36",
+    "Raw Trade Income": "154,784.36",
     "Tariffs": "0.95",
-    "Trade Income": "146,608.14",
+    "Trade Income": "147,045.14",
     "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -16433,9 +16433,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "135.28%",
-    "Base": "135.28%",
-    "Comparison": "123.30%",
+    "L. Desire": "137.34%",
+    "Base": "137.34%",
+    "Comparison": "125.36%",
     "Individual": "19.48%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -17861,9 +17861,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "140.30%",
-    "Base": "140.30%",
-    "Comparison": "123.30%",
+    "L. Desire": "142.36%",
+    "Base": "142.36%",
+    "Comparison": "125.36%",
     "Individual": "7.00%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -18262,11 +18262,11 @@
     "Nation Check": "Netsanet Republic",
     "Overlord": "",
     "Eco Vassals": "524,552.34",
-    "Eco Over.": "1,044,046.01",
+    "Eco Over.": "1,064,224.60",
     "Compare": "59.89%",
     "MP Vassals": "232,380.67",
     "MP Over.": "387,983.75",
-    "20% Total": "22.03%",
+    "20% Total": "21.84%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -18285,10 +18285,10 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
+    "Non-aggression Pacts": "Brotherhood of Pikpik",
+    "Defensive Pacts": "Azharid Caliphate",
     "Defensive Pacts 2": "Kycerian Dominion",
-    "Military Alliances": "Azharid Caliphate",
+    "Military Alliances": "K'och Qa'sh",
     "Military Alliances 2": "Shakisu",
     "Limit": "12",
     "Trade 1": {
@@ -18324,8 +18324,8 @@
       "Trade 8 Value": "5,331.25"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Brotherhood of Pikpik",
+      "Trade 9 Value": "21,240.63"
     },
     "Trade 10": {
       "Value": "",
@@ -18351,13 +18351,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "125,382.64",
+    "Raw Trade Income": "146,623.27",
     "Tariffs": "0.95",
-    "Trade Income": "119,113.51",
-    "NAPs": "0",
-    "Def. Pacts": "1",
+    "Trade Income": "139,292.10",
+    "NAPs": "1",
+    "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "8"
+    "Trades": "9"
   },
   "Kranicvak Nixond": {
     "Nations": "Kranicvak Nixond",
@@ -18779,10 +18779,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "32.44%",
-    "Base": "32.44%",
-    "Comparison": "23.30%",
-    "Individual": "23.30%",
+    "L. Desire": "32.47%",
+    "Base": "32.47%",
+    "Comparison": "23.32%",
+    "Individual": "23.32%",
     "Friend/Rival": "0.00%",
     "Taxes": "-1.67%",
     "Indep War?": "",
@@ -18843,7 +18843,7 @@
     },
     "Trade 11": {
       "Value": "Neo-Kargatan Empire",
-      "Trade 11 Value": "13,900.63"
+      "Trade 11 Value": "14,360.63"
     },
     "Trade 12": {
       "Value": "Here Be Dragons",
@@ -18861,9 +18861,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "352,113.97",
+    "Raw Trade Income": "352,573.97",
     "Tariffs": "0.95",
-    "Trade Income": "334,508.27",
+    "Trade Income": "334,945.27",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -21839,10 +21839,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "33.79%",
-    "Base": "33.79%",
-    "Comparison": "23.80%",
-    "Individual": "13.99%",
+    "L. Desire": "36.93%",
+    "Base": "36.93%",
+    "Comparison": "25.76%",
+    "Individual": "15.16%",
     "Friend/Rival": "0.00%",
     "Taxes": "-4.00%",
     "Indep War?": "No",
@@ -23056,11 +23056,11 @@
     "Nation Check": "Stryaxina",
     "Overlord": "",
     "Eco Vassals": "581,063.27",
-    "Eco Over.": "847,673.70",
-    "Compare": "50.45%",
+    "Eco Over.": "786,869.27",
+    "Compare": "54.97%",
     "MP Vassals": "161,956.50",
-    "MP Over.": "321,046.07",
-    "20% Total": "23.80%",
+    "MP Over.": "294,632.32",
+    "20% Total": "25.76%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -23879,10 +23879,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "14.70%",
-    "Base": "14.70%",
-    "Comparison": "7.35%",
-    "Individual": "7.35%",
+    "L. Desire": "14.47%",
+    "Base": "14.47%",
+    "Comparison": "7.23%",
+    "Individual": "7.23%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -27449,9 +27449,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "147.63%",
-    "Base": "147.63%",
-    "Comparison": "123.30%",
+    "L. Desire": "149.68%",
+    "Base": "149.68%",
+    "Comparison": "125.36%",
     "Individual": "24.33%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -27755,10 +27755,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "33.66%",
-    "Base": "33.66%",
-    "Comparison": "22.03%",
-    "Individual": "6.64%",
+    "L. Desire": "33.42%",
+    "Base": "33.42%",
+    "Comparison": "21.84%",
+    "Individual": "6.59%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
