@@ -11427,12 +11427,12 @@
     "Nations": "Karak Angaz",
     "Nation Check": "Karak Angaz",
     "Overlord": "",
-    "Eco Vassals": "209,628.23",
-    "Eco Over.": "116,365.61",
-    "Compare": "130.80%",
-    "MP Vassals": "88,986.56",
-    "MP Over.": "68,031.56",
-    "20% Total": "62.19%",
+    "Eco Vassals": "223,145.66",
+    "Eco Over.": "134,518.80",
+    "Compare": "130.47%",
+    "MP Vassals": "89,852.81",
+    "MP Over.": "68,866.88",
+    "20% Total": "59.27%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -11470,16 +11470,16 @@
       "Trade 3 Value": "1,325.00"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "WrestleMania",
+      "Trade 4 Value": "4,656.25"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Undertakers",
+      "Trade 5 Value": "5,631.25"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Asahi Dareh",
+      "Trade 6 Value": "2,631.25"
     },
     "Trade 7": {
       "Value": "",
@@ -11517,13 +11517,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "10,244.69",
+    "Raw Trade Income": "23,163.44",
     "Tariffs": "1.25",
-    "Trade Income": "12,805.86",
+    "Trade Income": "28,954.30",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "3"
+    "Trades": "6"
   },
   "Karak Gazan": {
     "Nations": "Karak Gazan",
@@ -11537,10 +11537,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "86.80%",
-    "Base": "86.80%",
-    "Comparison": "62.19%",
-    "Individual": "27.11%",
+    "L. Desire": "82.95%",
+    "Base": "82.95%",
+    "Comparison": "59.27%",
+    "Individual": "26.18%",
     "Friend/Rival": "0.00%",
     "Taxes": "10.00%",
     "Indep War?": "",
@@ -11561,7 +11561,7 @@
     "Limit": "11",
     "Trade 1": {
       "Value": "Karak Angaz",
-      "Trade 1 Value": "9,164.06"
+      "Trade 1 Value": "3,187.50"
     },
     "Trade 2": {
       "Value": "Karak Klinka",
@@ -11572,16 +11572,16 @@
       "Trade 3 Value": "1,325.00"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "WrestleMania",
+      "Trade 4 Value": "4,656.25"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Undertakers",
+      "Trade 5 Value": "5,631.25"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Asahi Dareh",
+      "Trade 6 Value": "2,631.25"
     },
     "Trade 7": {
       "Value": "",
@@ -11619,13 +11619,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "13,773.75",
+    "Raw Trade Income": "20,715.94",
     "Tariffs": "0.95",
-    "Trade Income": "13,085.06",
+    "Trade Income": "19,680.14",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "3"
+    "Trades": "6"
   },
   "Kashin Aquanorix": {
     "Nations": "Kashin Aquanorix",
@@ -11945,10 +11945,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "60.23%",
-    "Base": "60.23%",
-    "Comparison": "62.19%",
-    "Individual": "15.54%",
+    "L. Desire": "57.73%",
+    "Base": "57.73%",
+    "Comparison": "59.27%",
+    "Individual": "15.96%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -11973,27 +11973,27 @@
     },
     "Trade 2": {
       "Value": "Karak Angaz",
-      "Trade 2 Value": "9,164.06"
+      "Trade 2 Value": "3,187.50"
     },
     "Trade 3": {
       "Value": "Lundrium",
       "Trade 3 Value": "1,325.00"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "WrestleMania",
+      "Trade 4 Value": "4,656.25"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Undertakers",
+      "Trade 5 Value": "5,631.25"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Asahi Dareh",
+      "Trade 6 Value": "2,631.25"
     },
     "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
+      "Value": "Asahi Dareh",
+      "Trade 7 Value": "2,631.25"
     },
     "Trade 8": {
       "Value": "",
@@ -12027,13 +12027,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "16,124.06",
+    "Raw Trade Income": "25,697.50",
     "Tariffs": "0.95",
-    "Trade Income": "15,317.86",
+    "Trade Income": "24,412.63",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "3"
+    "Trades": "7"
   },
   "Kaug-Põhja": {
     "Nations": "Kaug-Põhja",
@@ -15413,10 +15413,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "71.72%",
-    "Base": "71.72%",
-    "Comparison": "62.19%",
-    "Individual": "19.53%",
+    "L. Desire": "66.41%",
+    "Base": "66.41%",
+    "Comparison": "59.27%",
+    "Individual": "17.13%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -15441,7 +15441,7 @@
     },
     "Trade 2": {
       "Value": "Karak Angaz",
-      "Trade 2 Value": "9,164.06"
+      "Trade 2 Value": "3,187.50"
     },
     "Trade 3": {
       "Value": "Karak Klinka",
@@ -15495,9 +15495,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "18,083.75",
+    "Raw Trade Income": "12,107.19",
     "Tariffs": "0.75",
-    "Trade Income": "13,562.81",
+    "Trade Income": "9,080.39",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -28767,12 +28767,12 @@
     "Nations": "WrestleMania",
     "Nation Check": "WrestleMania",
     "Overlord": "",
-    "Eco Vassals": "45,683.95",
-    "Eco Over.": "133,993.88",
-    "Compare": "83.76%",
-    "MP Vassals": "41,329.15",
-    "MP Over.": "49,345.15",
-    "20% Total": "23.57%",
+    "Eco Vassals": "58,825.22",
+    "Eco Over.": "147,135.39",
+    "Compare": "83.87%",
+    "MP Vassals": "41,502.40",
+    "MP Over.": "49,485.40",
+    "20% Total": "24.77%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -28798,20 +28798,20 @@
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Karak Angaz",
+      "Trade 1 Value": "3,187.50"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Karak Gazan",
+      "Trade 2 Value": "5,635.00"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Lundrium",
+      "Trade 3 Value": "1,325.00"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Karak Klinka",
+      "Trade 4 Value": "3,284.69"
     },
     "Trade 5": {
       "Value": "",
@@ -28857,13 +28857,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "13,432.19",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "12,760.58",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "4"
   },
   "Xiboda": {
     "Nations": "Xiboda",
@@ -28979,10 +28979,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "42.14%",
-    "Base": "42.14%",
-    "Comparison": "23.57%",
-    "Individual": "23.57%",
+    "L. Desire": "44.54%",
+    "Base": "44.54%",
+    "Comparison": "24.77%",
+    "Individual": "24.77%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -29002,20 +29002,20 @@
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Karak Angaz",
+      "Trade 1 Value": "3,187.50"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Karak Gazan",
+      "Trade 2 Value": "5,635.00"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Lundrium",
+      "Trade 3 Value": "1,325.00"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Karak Klinka",
+      "Trade 4 Value": "3,284.69"
     },
     "Trade 5": {
       "Value": "",
@@ -29061,13 +29061,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "13,432.19",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "12,760.58",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "4"
   },
   "Picos Argent": {
     "Nations": "Picos Argent",
