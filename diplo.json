@@ -3785,10 +3785,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "49.51%",
-    "Base": "49.51%",
-    "Comparison": "21.00%",
-    "Individual": "21.00%",
+    "L. Desire": "48.58%",
+    "Base": "48.58%",
+    "Comparison": "20.54%",
+    "Individual": "20.54%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -9591,12 +9591,12 @@
     "Nations": "Holy Kingdom of Scripts",
     "Nation Check": "Holy Kingdom of Scripts",
     "Overlord": "",
-    "Eco Vassals": "220,284.91",
+    "Eco Vassals": "213,503.69",
     "Eco Over.": "437,857.43",
     "Compare": "106.97%",
     "MP Vassals": "100,595.00",
     "MP Over.": "94,036.25",
-    "20% Total": "31.46%",
+    "20% Total": "31.15%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -10133,7 +10133,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Vedebbi Stellar Domain",
-      "Trade 1 Value": "10,636.88"
+      "Trade 1 Value": "3,498.75"
     },
     "Trade 2": {
       "Value": "Scientarium",
@@ -10191,9 +10191,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "48,315.88",
+    "Raw Trade Income": "41,177.75",
     "Tariffs": "0.95",
-    "Trade Income": "45,900.08",
+    "Trade Income": "39,118.86",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -19289,9 +19289,9 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "58.38%",
-    "Base": "58.38%",
-    "Comparison": "31.46%",
+    "L. Desire": "58.07%",
+    "Base": "58.07%",
+    "Comparison": "31.15%",
     "Individual": "8.59%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
@@ -20126,7 +20126,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "The Aislings",
     "Military Alliances 2": "",
-    "Limit": "8",
+    "Limit": "7",
     "Trade 1": {
       "Value": "The Aislings",
       "Trade 1 Value": "2,650.13"
@@ -20136,8 +20136,8 @@
       "Trade 2 Value": "5,537.50"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Order of The Mist",
+      "Trade 3 Value": "5,125.00"
     },
     "Trade 4": {
       "Value": "",
@@ -20187,13 +20187,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "8,187.63",
+    "Raw Trade Income": "13,312.63",
     "Tariffs": "1.00",
-    "Trade Income": "8,187.63",
+    "Trade Income": "13,312.63",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "2"
+    "Trades": "3"
   },
   "Rampart Republic": {
     "Nations": "Rampart Republic",
@@ -24075,12 +24075,12 @@
     "Nations": "The Aislings",
     "Nation Check": "The Aislings",
     "Overlord": "",
-    "Eco Vassals": "12,622.65",
-    "Eco Over.": "98,428.14",
+    "Eco Vassals": "5,841.43",
+    "Eco Over.": "89,505.48",
     "Compare": "0.00%",
     "MP Vassals": "0.00",
     "MP Over.": "16,974.38",
-    "20% Total": "2.56%",
+    "20% Total": "1.31%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -24107,7 +24107,7 @@
     "Limit": "5",
     "Trade 1": {
       "Value": "Vedebbi Stellar Domain",
-      "Trade 1 Value": "10,636.88"
+      "Trade 1 Value": "3,498.75"
     },
     "Trade 2": {
       "Value": "Novae Aeseriae",
@@ -24165,9 +24165,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "50,759.76",
+    "Raw Trade Income": "43,621.64",
     "Tariffs": "1.25",
-    "Trade Income": "63,449.70",
+    "Trade Income": "54,527.05",
     "NAPs": "4",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -26728,11 +26728,11 @@
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
     "Eco Vassals": "146,230.27",
-    "Eco Over.": "391,744.20",
+    "Eco Over.": "417,607.95",
     "Compare": "67.69%",
     "MP Vassals": "75,795.16",
     "MP Over.": "111,981.38",
-    "20% Total": "21.00%",
+    "20% Total": "20.54%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -29898,9 +29898,9 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-2.37%",
-    "Comparison": "2.56%",
-    "Individual": "2.56%",
+    "Base": "-4.89%",
+    "Comparison": "1.31%",
+    "Individual": "1.31%",
     "Friend/Rival": "0.00%",
     "Taxes": "2.50%",
     "Indep War?": "",
@@ -29925,7 +29925,7 @@
     },
     "Trade 2": {
       "Value": "Vedebbi Stellar Domain",
-      "Trade 2 Value": "10,636.88"
+      "Trade 2 Value": "3,498.75"
     },
     "Trade 3": {
       "Value": "",
@@ -29979,9 +29979,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "13,287.00",
+    "Raw Trade Income": "6,148.88",
     "Tariffs": "0.95",
-    "Trade Income": "12,622.65",
+    "Trade Income": "5,841.43",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -30203,10 +30203,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "49.32%",
-    "Base": "49.32%",
-    "Comparison": "31.46%",
-    "Individual": "22.86%",
+    "L. Desire": "48.70%",
+    "Base": "48.70%",
+    "Comparison": "31.15%",
+    "Individual": "22.56%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -30235,7 +30235,7 @@
     },
     "Trade 3": {
       "Value": "Vedebbi Stellar Domain",
-      "Trade 3 Value": "10,636.88"
+      "Trade 3 Value": "3,498.75"
     },
     "Trade 4": {
       "Value": "",
@@ -30285,9 +30285,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "18,037.44",
+    "Raw Trade Income": "10,899.32",
     "Tariffs": "0.95",
-    "Trade Income": "17,135.57",
+    "Trade Income": "10,354.35",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
