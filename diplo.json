@@ -23488,10 +23488,10 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
+    "Defensive Pacts": "Nāšā Qaḏmāyā",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Nāšā Qaḏmāyā",
-    "Military Alliances 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "Félagi Vargúlfr Dvergr",
     "Limit": "9",
     "Trade 1": {
       "Value": "",
@@ -23510,8 +23510,8 @@
       "Trade 4 Value": "4,712.50"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Félagi Vargúlfr Dvergr",
+      "Trade 5 Value": "6,775.00"
     },
     "Trade 6": {
       "Value": "",
@@ -23553,13 +23553,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "23,576.00",
+    "Raw Trade Income": "30,351.00",
     "Tariffs": "0.95",
-    "Trade Income": "22,397.20",
+    "Trade Income": "28,833.45",
     "NAPs": "0",
-    "Def. Pacts": "0",
+    "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "3"
+    "Trades": "4"
   },
   "": {
     "Nations": "",
