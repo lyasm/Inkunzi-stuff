@@ -8579,10 +8579,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "42.41%",
-    "Base": "42.41%",
-    "Comparison": "21.49%",
-    "Individual": "5.92%",
+    "L. Desire": "45.86%",
+    "Base": "45.86%",
+    "Comparison": "23.21%",
+    "Individual": "7.65%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -10721,9 +10721,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "25.45%",
-    "Base": "25.45%",
-    "Comparison": "21.49%",
+    "L. Desire": "27.18%",
+    "Base": "27.18%",
+    "Comparison": "23.21%",
     "Individual": "8.97%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -15915,12 +15915,12 @@
     "Nations": "Sri Shimbir",
     "Nation Check": "Sri Shimbir",
     "Overlord": "",
-    "Eco Vassals": "277,061.65",
+    "Eco Vassals": "276,876.40",
     "Eco Over.": "474,486.45",
     "Compare": "14.04%",
     "MP Vassals": "27,602.44",
     "MP Over.": "196,625.00",
-    "20% Total": "14.49%",
+    "20% Total": "14.48%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -16229,8 +16229,8 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "31.67%",
-    "Base": "31.67%",
+    "L. Desire": "31.68%",
+    "Base": "31.68%",
     "Comparison": "19.17%",
     "Individual": "19.17%",
     "Friend/Rival": "0.00%",
@@ -17062,9 +17062,9 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "Avaritian Dictatorship",
-    "Defensive Pacts": "Snow Dominion",
+    "Defensive Pacts": "The Kingdom of Lunar",
     "Defensive Pacts 2": "Sri Shimbir",
-    "Military Alliances": "The Kingdom of Lunar",
+    "Military Alliances": "Snow Dominion",
     "Military Alliances 2": "",
     "Limit": "12",
     "Trade 1": {
@@ -17073,7 +17073,7 @@
     },
     "Trade 2": {
       "Value": "Sri Shimbir",
-      "Trade 2 Value": "4,401.72"
+      "Trade 2 Value": "4,206.72"
     },
     "Trade 3": {
       "Value": "The Kingdom of Lunar",
@@ -17127,9 +17127,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "135,309.38",
+    "Raw Trade Income": "135,114.38",
     "Tariffs": "0.75",
-    "Trade Income": "101,482.04",
+    "Trade Income": "101,335.79",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -18363,12 +18363,12 @@
     "Nations": "Netsanet Republic",
     "Nation Check": "Netsanet Republic",
     "Overlord": "",
-    "Eco Vassals": "529,984.45",
+    "Eco Vassals": "567,445.25",
     "Eco Over.": "1,063,595.23",
-    "Compare": "57.61%",
-    "MP Vassals": "223,525.50",
+    "Compare": "62.71%",
+    "MP Vassals": "243,291.13",
     "MP Over.": "387,983.75",
-    "20% Total": "21.49%",
+    "20% Total": "23.21%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -19391,10 +19391,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "15.64%",
-    "Base": "15.64%",
-    "Comparison": "14.49%",
-    "Individual": "14.49%",
+    "L. Desire": "15.62%",
+    "Base": "15.62%",
+    "Comparison": "14.48%",
+    "Individual": "14.48%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -19419,7 +19419,7 @@
     },
     "Trade 2": {
       "Value": "Sri Shimbir",
-      "Trade 2 Value": "4,401.72"
+      "Trade 2 Value": "4,206.72"
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
@@ -19473,9 +19473,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "80,113.31",
+    "Raw Trade Income": "79,918.31",
     "Tariffs": "0.95",
-    "Trade Income": "76,107.64",
+    "Trade Income": "75,922.39",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -20745,7 +20745,7 @@
     },
     "Trade 2": {
       "Value": "Sri Shimbir",
-      "Trade 2 Value": "4,401.72"
+      "Trade 2 Value": "4,206.72"
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
@@ -20799,9 +20799,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "84,533.60",
+    "Raw Trade Income": "84,338.60",
     "Tariffs": "0.95",
-    "Trade Income": "80,306.92",
+    "Trade Income": "80,121.67",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -21561,7 +21561,7 @@
     },
     "Trade 2": {
       "Value": "Sri Shimbir",
-      "Trade 2 Value": "4,401.72"
+      "Trade 2 Value": "4,206.72"
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
@@ -21615,9 +21615,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "64,390.08",
+    "Raw Trade Income": "64,195.08",
     "Tariffs": "1.05",
-    "Trade Income": "67,609.59",
+    "Trade Income": "67,404.84",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -22342,7 +22342,7 @@
     "Nation Check": "Snow Dominion",
     "Overlord": "",
     "Eco Vassals": "216,308.64",
-    "Eco Over.": "339,323.78",
+    "Eco Over.": "339,138.53",
     "Compare": "32.09%",
     "MP Vassals": "33,389.63",
     "MP Over.": "104,053.13",
@@ -22373,7 +22373,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "Sri Shimbir",
-      "Trade 1 Value": "4,401.72"
+      "Trade 1 Value": "4,206.72"
     },
     "Trade 2": {
       "Value": "Mercati Emporium",
@@ -22431,9 +22431,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "98,205.30",
+    "Raw Trade Income": "98,010.30",
     "Tariffs": "0.95",
-    "Trade Income": "93,295.03",
+    "Trade Income": "93,109.78",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -25539,7 +25539,7 @@
     },
     "Trade 2": {
       "Value": "Sri Shimbir",
-      "Trade 2 Value": "4,401.72"
+      "Trade 2 Value": "4,206.72"
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
@@ -25593,9 +25593,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "66,283.81",
+    "Raw Trade Income": "66,088.81",
     "Tariffs": "1.05",
-    "Trade Income": "69,598.00",
+    "Trade Income": "69,393.25",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -27857,9 +27857,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "33.09%",
-    "Base": "33.09%",
-    "Comparison": "21.49%",
+    "L. Desire": "34.81%",
+    "Base": "34.81%",
+    "Comparison": "23.21%",
     "Individual": "6.60%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
