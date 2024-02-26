@@ -1981,7 +1981,7 @@
     },
     "Trade 3": {
       "Value": "The Statute of Order",
-      "Trade 3 Value": "6,344.34"
+      "Trade 3 Value": "6,288.84"
     },
     "Trade 4": {
       "Value": "Republic of Rostora",
@@ -1997,7 +1997,7 @@
     },
     "Trade 7": {
       "Value": "Kingdom of Lyroa",
-      "Trade 7 Value": "9,075.94"
+      "Trade 7 Value": "8,445.94"
     },
     "Trade 8": {
       "Value": "",
@@ -2031,9 +2031,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "65,312.85",
+    "Raw Trade Income": "64,627.35",
     "Tariffs": "0.95",
-    "Trade Income": "62,047.21",
+    "Trade Income": "61,395.98",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -13577,10 +13577,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "33.35%",
-    "Base": "33.35%",
-    "Comparison": "12.92%",
-    "Individual": "12.92%",
+    "L. Desire": "32.79%",
+    "Base": "32.79%",
+    "Comparison": "12.64%",
+    "Individual": "12.64%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -13601,7 +13601,7 @@
     "Limit": "10",
     "Trade 1": {
       "Value": "The Statute of Order",
-      "Trade 1 Value": "6,344.34"
+      "Trade 1 Value": "6,288.84"
     },
     "Trade 2": {
       "Value": "Lisanos",
@@ -13632,8 +13632,8 @@
       "Trade 8 Value": "7,173.38"
     },
     "Trade 9": {
-      "Value": "Sri Shimbir",
-      "Trade 9 Value": "4,401.72"
+      "Value": "",
+      "Trade 9 Value": ""
     },
     "Trade 10": {
       "Value": "",
@@ -13659,13 +13659,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "66,471.77",
+    "Raw Trade Income": "62,014.55",
     "Tariffs": "1.05",
-    "Trade Income": "69,795.36",
+    "Trade Income": "65,115.28",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "9"
+    "Trades": "8"
   },
   "Kingdom of Mimgrond": {
     "Nations": "Kingdom of Mimgrond",
@@ -15915,7 +15915,7 @@
     "Nations": "Sri Shimbir",
     "Nation Check": "Sri Shimbir",
     "Overlord": "",
-    "Eco Vassals": "277,114.38",
+    "Eco Vassals": "277,061.65",
     "Eco Over.": "474,486.45",
     "Compare": "14.04%",
     "MP Vassals": "27,602.44",
@@ -16229,10 +16229,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "31.69%",
-    "Base": "31.69%",
-    "Comparison": "19.18%",
-    "Individual": "19.18%",
+    "L. Desire": "31.67%",
+    "Base": "31.67%",
+    "Comparison": "19.17%",
+    "Individual": "19.17%",
     "Friend/Rival": "0.00%",
     "Taxes": "-1.67%",
     "Indep War?": "",
@@ -16253,7 +16253,7 @@
     "Limit": "11",
     "Trade 1": {
       "Value": "Kingdom of Lyroa",
-      "Trade 1 Value": "9,075.94"
+      "Trade 1 Value": "8,445.94"
     },
     "Trade 2": {
       "Value": "",
@@ -16311,9 +16311,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "9,075.94",
+    "Raw Trade Income": "8,445.94",
     "Tariffs": "0.95",
-    "Trade Income": "8,622.14",
+    "Trade Income": "8,023.64",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -17089,7 +17089,7 @@
     },
     "Trade 6": {
       "Value": "The Statute of Order",
-      "Trade 6 Value": "6,344.34"
+      "Trade 6 Value": "6,288.84"
     },
     "Trade 7": {
       "Value": "Republic of Rostora",
@@ -17127,9 +17127,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "135,364.88",
+    "Raw Trade Income": "135,309.38",
     "Tariffs": "0.75",
-    "Trade Income": "101,523.66",
+    "Trade Income": "101,482.04",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -19439,7 +19439,7 @@
     },
     "Trade 7": {
       "Value": "The Statute of Order",
-      "Trade 7 Value": "6,344.34"
+      "Trade 7 Value": "6,288.84"
     },
     "Trade 8": {
       "Value": "Republic of Rostora",
@@ -19473,9 +19473,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "80,168.81",
+    "Raw Trade Income": "80,113.31",
     "Tariffs": "0.95",
-    "Trade Income": "76,160.37",
+    "Trade Income": "76,107.64",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -20428,10 +20428,10 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Lauzydos",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "Kingdom of the Aurore",
     "Military Alliances": "",
-    "Military Alliances 2": "Velken Bulwark",
+    "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
       "Value": "Kingdom of the Aurore",
@@ -20497,8 +20497,8 @@
     "Tariffs": "1.25",
     "Trade Income": "132,514.75",
     "NAPs": "0",
-    "Def. Pacts": "2",
-    "Mil. Pacts": "1",
+    "Def. Pacts": "1",
+    "Mil. Pacts": "0",
     "Trades": "7"
   },
   "Republic o. Zuntirar": {
@@ -20761,11 +20761,11 @@
     },
     "Trade 6": {
       "Value": "Kingdom of Lyroa",
-      "Trade 6 Value": "9,075.94"
+      "Trade 6 Value": "8,445.94"
     },
     "Trade 7": {
       "Value": "The Statute of Order",
-      "Trade 7 Value": "6,344.34"
+      "Trade 7 Value": "6,288.84"
     },
     "Trade 8": {
       "Value": "Pataia",
@@ -20799,9 +20799,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "85,219.10",
+    "Raw Trade Income": "84,533.60",
     "Tariffs": "0.95",
-    "Trade Income": "80,958.14",
+    "Trade Income": "80,306.92",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -21577,7 +21577,7 @@
     },
     "Trade 6": {
       "Value": "The Statute of Order",
-      "Trade 6 Value": "6,344.34"
+      "Trade 6 Value": "6,288.84"
     },
     "Trade 7": {
       "Value": "Republic of Rostora",
@@ -21615,9 +21615,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "64,445.58",
+    "Raw Trade Income": "64,390.08",
     "Tariffs": "1.05",
-    "Trade Income": "67,667.86",
+    "Trade Income": "67,609.59",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -22341,12 +22341,12 @@
     "Nations": "Snow Dominion",
     "Nation Check": "Snow Dominion",
     "Overlord": "",
-    "Eco Vassals": "216,907.14",
-    "Eco Over.": "339,975.01",
+    "Eco Vassals": "216,308.64",
+    "Eco Over.": "339,323.78",
     "Compare": "32.09%",
     "MP Vassals": "33,389.63",
     "MP Over.": "104,053.13",
-    "20% Total": "19.18%",
+    "20% Total": "19.17%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22393,7 +22393,7 @@
     },
     "Trade 6": {
       "Value": "The Statute of Order",
-      "Trade 6 Value": "6,344.34"
+      "Trade 6 Value": "6,288.84"
     },
     "Trade 7": {
       "Value": "Republic of Rostora",
@@ -22405,7 +22405,7 @@
     },
     "Trade 9": {
       "Value": "Kingdom of Lyroa",
-      "Trade 9 Value": "9,075.94"
+      "Trade 9 Value": "8,445.94"
     },
     "Trade 10": {
       "Value": "Ahupau'a o Heiau",
@@ -22431,9 +22431,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "98,890.80",
+    "Raw Trade Income": "98,205.30",
     "Tariffs": "0.95",
-    "Trade Income": "93,946.26",
+    "Trade Income": "93,295.03",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -25529,9 +25529,9 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "Snow Dominion",
+    "Defensive Pacts 2": "Mercati Emporium",
     "Military Alliances": "Sri Shimbir",
-    "Military Alliances 2": "Mercati Emporium",
+    "Military Alliances 2": "Snow Dominion",
     "Limit": "7",
     "Trade 1": {
       "Value": "Snow Dominion",
@@ -25555,7 +25555,7 @@
     },
     "Trade 6": {
       "Value": "The Statute of Order",
-      "Trade 6 Value": "6,344.34"
+      "Trade 6 Value": "6,288.84"
     },
     "Trade 7": {
       "Value": "Republic of Rostora",
@@ -25593,9 +25593,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "66,339.31",
+    "Raw Trade Income": "66,283.81",
     "Tariffs": "1.05",
-    "Trade Income": "69,656.27",
+    "Trade Income": "69,598.00",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -25657,7 +25657,7 @@
     },
     "Trade 6": {
       "Value": "The Statute of Order",
-      "Trade 6 Value": "6,344.34"
+      "Trade 6 Value": "6,288.84"
     },
     "Trade 7": {
       "Value": "Republic of Rostora",
@@ -25695,9 +25695,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "65,637.47",
+    "Raw Trade Income": "65,581.97",
     "Tariffs": "1.05",
-    "Trade Income": "68,919.34",
+    "Trade Income": "68,861.06",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -26523,12 +26523,12 @@
     "Nations": "The Statute of Order",
     "Nation Check": "The Statute of Order",
     "Overlord": "",
-    "Eco Vassals": "186,666.20",
-    "Eco Over.": "378,346.72",
-    "Compare": "15.29%",
-    "MP Vassals": "27,664.06",
+    "Eco Vassals": "181,445.34",
+    "Eco Over.": "377,748.22",
+    "Compare": "15.18%",
+    "MP Vassals": "27,474.31",
     "MP Over.": "180,984.38",
-    "20% Total": "12.92%",
+    "20% Total": "12.64%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -26579,7 +26579,7 @@
     },
     "Trade 7": {
       "Value": "Kingdom of Lyroa",
-      "Trade 7 Value": "9,075.94"
+      "Trade 7 Value": "8,445.94"
     },
     "Trade 8": {
       "Value": "Pataia",
@@ -26613,9 +26613,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "92,101.81",
+    "Raw Trade Income": "91,471.81",
     "Tariffs": "0.95",
-    "Trade Income": "87,496.72",
+    "Trade Income": "86,898.22",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
