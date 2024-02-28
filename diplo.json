@@ -713,108 +713,6 @@
     "Mil. Pacts": "2",
     "Trades": "8"
   },
-  "Akali": {
-    "Nations": "Akali",
-    "Nation Check": "Akali",
-    "Overlord": "",
-    "Eco Vassals": "20,310.00",
-    "Eco Over.": "49,041.50",
-    "Compare": "100.00%",
-    "MP Vassals": "0.00",
-    "MP Over.": "0.00",
-    "20% Total": "28.28%",
-    "Vassal Type": "",
-    "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
-    "Friend/Rival": "0.00%",
-    "Taxes": "",
-    "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "5",
-    "Trade 1": {
-      "Value": "Kingdom of Gallacia",
-      "Trade 1 Value": "10,478.00"
-    },
-    "Trade 2": {
-      "Value": "Goldmongers",
-      "Trade 2 Value": "8,963.50"
-    },
-    "Trade 3": {
-      "Value": "New Steelern",
-      "Trade 3 Value": "1,600.00"
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "21,041.50",
-    "Tariffs": "1.00",
-    "Trade Income": "21,041.50",
-    "NAPs": "0",
-    "Def. Pacts": "0",
-    "Mil. Pacts": "0",
-    "Trades": "3"
-  },
   "Akalikania": {
     "Nations": "Akalikania",
     "Nation Check": "Akalikania",
@@ -1745,10 +1643,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "51.29%",
-    "Base": "51.29%",
-    "Comparison": "53.91%",
-    "Individual": "12.72%",
+    "L. Desire": "50.05%",
+    "Base": "50.05%",
+    "Comparison": "52.92%",
+    "Individual": "12.46%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -2357,10 +2255,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "24.95%",
-    "Base": "24.95%",
-    "Comparison": "12.47%",
-    "Individual": "12.47%",
+    "L. Desire": "24.91%",
+    "Base": "24.91%",
+    "Comparison": "12.46%",
+    "Individual": "12.46%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -2562,9 +2460,9 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-2.06%",
-    "Comparison": "22.25%",
-    "Individual": "0.69%",
+    "Base": "-2.15%",
+    "Comparison": "22.09%",
+    "Individual": "0.75%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -2584,8 +2482,8 @@
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "There Be Dwarves",
+      "Trade 1 Value": "5,590.00"
     },
     "Trade 2": {
       "Value": "",
@@ -2643,13 +2541,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "5,590.00",
     "Tariffs": "0.75",
-    "Trade Income": "0.00",
+    "Trade Income": "4,192.50",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "1"
   },
   "Brotherhood of Dwarves": {
     "Nations": "Brotherhood of Dwarves",
@@ -2969,10 +2867,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "62.49%",
-    "Base": "62.49%",
-    "Comparison": "57.91%",
-    "Individual": "12.08%",
+    "L. Desire": "61.95%",
+    "Base": "61.95%",
+    "Comparison": "57.47%",
+    "Individual": "11.98%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -3785,10 +3683,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "46.48%",
-    "Base": "46.48%",
-    "Comparison": "19.49%",
-    "Individual": "19.49%",
+    "L. Desire": "46.63%",
+    "Base": "46.63%",
+    "Comparison": "19.57%",
+    "Individual": "19.57%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -3981,12 +3879,12 @@
     "Nations": "City State of Kido",
     "Nation Check": "City State of Kido",
     "Overlord": "",
-    "Eco Vassals": "404,571.86",
-    "Eco Over.": "529,223.38",
+    "Eco Vassals": "408,136.15",
+    "Eco Over.": "528,794.33",
     "Compare": "87.38%",
     "MP Vassals": "99,798.88",
     "MP Over.": "114,218.50",
-    "20% Total": "32.76%",
+    "20% Total": "32.91%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -4017,7 +3915,7 @@
     },
     "Trade 2": {
       "Value": "Avaritian Dictatorship",
-      "Trade 2 Value": "71,839.03"
+      "Trade 2 Value": "72,540.79"
     },
     "Trade 3": {
       "Value": "M'Qili Confederacy",
@@ -4071,9 +3969,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "254,557.71",
+    "Raw Trade Income": "255,259.47",
     "Tariffs": "1.25",
-    "Trade Income": "318,197.13",
+    "Trade Income": "319,074.33",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -4397,10 +4295,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "65.80%",
-    "Base": "65.80%",
-    "Comparison": "57.91%",
-    "Individual": "15.38%",
+    "L. Desire": "65.23%",
+    "Base": "65.23%",
+    "Comparison": "57.47%",
+    "Individual": "15.26%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -6787,7 +6685,7 @@
     },
     "Trade 6": {
       "Value": "Avaritian Dictatorship",
-      "Trade 6 Value": "71,839.03"
+      "Trade 6 Value": "72,540.79"
     },
     "Trade 7": {
       "Value": "Nummum",
@@ -6825,9 +6723,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "542,083.81",
+    "Raw Trade Income": "542,785.57",
     "Tariffs": "1.45",
-    "Trade Income": "786,021.53",
+    "Trade Income": "787,039.08",
     "NAPs": "7",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -7764,9 +7662,9 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-1.14%",
-    "Comparison": "22.25%",
-    "Individual": "4.11%",
+    "Base": "-1.20%",
+    "Comparison": "22.09%",
+    "Individual": "4.21%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -7786,8 +7684,8 @@
     "Military Alliances 2": "",
     "Limit": "10",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "There Be Dwarves",
+      "Trade 1 Value": "5,590.00"
     },
     "Trade 2": {
       "Value": "",
@@ -7845,13 +7743,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "5,590.00",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "5,310.50",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "1"
   },
   "Glasrhaidd Republic": {
     "Nations": "Glasrhaidd Republic",
@@ -8194,8 +8092,8 @@
     "Military Alliances 2": "",
     "Limit": "10",
     "Trade 1": {
-      "Value": "Akali",
-      "Trade 1 Value": "2,200.00"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
       "Value": "Jýldar",
@@ -8253,13 +8151,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "67,207.58",
+    "Raw Trade Income": "65,007.58",
     "Tariffs": "0.95",
-    "Trade Income": "63,847.20",
+    "Trade Income": "61,757.20",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "8"
+    "Trades": "7"
   },
   "Gramantinia": {
     "Nations": "Gramantinia",
@@ -9081,12 +8979,12 @@
     "Nations": "Here Be Dragons",
     "Nation Check": "Here Be Dragons",
     "Overlord": "",
-    "Eco Vassals": "619,965.67",
+    "Eco Vassals": "611,802.37",
     "Eco Over.": "1,307,798.22",
-    "Compare": "63.83%",
-    "MP Vassals": "213,311.66",
+    "Compare": "63.69%",
+    "MP Vassals": "212,851.72",
     "MP Over.": "334,213.00",
-    "20% Total": "22.25%",
+    "20% Total": "22.09%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -9796,11 +9694,11 @@
     "Nation Check": "Hui Kai",
     "Overlord": "",
     "Eco Vassals": "137,859.06",
-    "Eco Over.": "551,592.87",
+    "Eco Over.": "553,375.02",
     "Compare": "37.37%",
     "MP Vassals": "33,103.13",
     "MP Over.": "88,574.75",
-    "20% Total": "12.47%",
+    "20% Total": "12.46%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -9827,11 +9725,11 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Avaritian Dictatorship",
-      "Trade 1 Value": "71,839.03"
+      "Trade 1 Value": "72,540.79"
     },
     "Trade 2": {
       "Value": "City State of Kido",
-      "Trade 2 Value": "24,550.98"
+      "Trade 2 Value": "25,546.50"
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
@@ -9885,9 +9783,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "251,768.45",
+    "Raw Trade Income": "253,465.73",
     "Tariffs": "1.05",
-    "Trade Income": "264,356.87",
+    "Trade Income": "266,139.02",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -9905,10 +9803,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "23.47%",
-    "Base": "23.47%",
-    "Comparison": "22.25%",
-    "Individual": "11.23%",
+    "L. Desire": "23.33%",
+    "Base": "23.33%",
+    "Comparison": "22.09%",
+    "Individual": "11.24%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -9956,8 +9854,8 @@
       "Trade 7 Value": "5,331.25"
     },
     "Trade 8": {
-      "Value": "Sange Lamatis",
-      "Trade 8 Value": "4,712.50"
+      "Value": "There Be Dwarves",
+      "Trade 8 Value": "5,590.00"
     },
     "Trade 9": {
       "Value": "Cabyar Birodalom",
@@ -9987,9 +9885,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "150,935.60",
+    "Raw Trade Income": "151,813.10",
     "Tariffs": "0.95",
-    "Trade Income": "143,388.82",
+    "Trade Income": "144,222.45",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -10007,10 +9905,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "18.46%",
-    "Base": "18.46%",
-    "Comparison": "22.25%",
-    "Individual": "6.22%",
+    "L. Desire": "17.98%",
+    "Base": "17.98%",
+    "Comparison": "22.09%",
+    "Individual": "5.89%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -10030,40 +9928,40 @@
     "Military Alliances 2": "",
     "Limit": "11",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Asahi Dareh",
+      "Trade 1 Value": "2,831.25"
     },
     "Trade 2": {
-      "Value": "Qa'tqarra Lepus",
-      "Trade 2 Value": "3,762.50"
+      "Value": "There Be Gnomes",
+      "Trade 2 Value": "21,576.25"
     },
     "Trade 3": {
-      "Value": "Qa'tqarra Datansalūl",
-      "Trade 3 Value": "6,525.00"
+      "Value": "Gerak",
+      "Trade 3 Value": "5,503.47"
     },
     "Trade 4": {
-      "Value": "Sange Teren",
-      "Trade 4 Value": "5,950.00"
+      "Value": "Bork",
+      "Trade 4 Value": "1,723.25"
     },
     "Trade 5": {
-      "Value": "Sange Okean",
-      "Trade 5 Value": "5,331.25"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "Sange Lamatis",
       "Trade 6 Value": "4,712.50"
     },
     "Trade 7": {
-      "Value": "Cabyar Birodalom",
-      "Trade 7 Value": "16,218.75"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "Here Be Dragons",
       "Trade 8 Value": "34,059.35"
     },
     "Trade 9": {
-      "Value": "Aethyrygarstam",
-      "Trade 9 Value": "12,146.88"
+      "Value": "",
+      "Trade 9 Value": ""
     },
     "Trade 10": {
       "Value": "",
@@ -10089,13 +9987,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "88,706.23",
+    "Raw Trade Income": "70,406.07",
     "Tariffs": "0.95",
-    "Trade Income": "84,270.91",
+    "Trade Income": "66,885.77",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "8"
+    "Trades": "6"
   },
   "Iidunn": {
     "Nations": "Iidunn",
@@ -10305,12 +10203,12 @@
     "Nations": "Ilikiu'Foriris",
     "Nation Check": "Ilikiu'Foriris",
     "Overlord": "",
-    "Eco Vassals": "732,459.07",
+    "Eco Vassals": "734,132.59",
     "Eco Over.": "633,470.86",
     "Compare": "29.79%",
     "MP Vassals": "51,590.00",
     "MP Over.": "173,181.25",
-    "20% Total": "29.08%",
+    "20% Total": "29.14%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -10823,10 +10721,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "50.08%",
-    "Base": "50.08%",
-    "Comparison": "32.76%",
-    "Individual": "15.15%",
+    "L. Desire": "50.30%",
+    "Base": "50.30%",
+    "Comparison": "32.91%",
+    "Individual": "15.22%",
     "Friend/Rival": "0.00%",
     "Taxes": "11.67%",
     "Indep War?": "",
@@ -10847,7 +10745,7 @@
     "Limit": "6",
     "Trade 1": {
       "Value": "City State of Kido",
-      "Trade 1 Value": "24,550.98"
+      "Trade 1 Value": "25,546.50"
     },
     "Trade 2": {
       "Value": "Unified Republic of Kaiarau",
@@ -10867,7 +10765,7 @@
     },
     "Trade 6": {
       "Value": "Avaritian Dictatorship",
-      "Trade 6 Value": "71,839.03"
+      "Trade 6 Value": "72,540.79"
     },
     "Trade 7": {
       "Value": "",
@@ -10905,9 +10803,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "117,755.06",
+    "Raw Trade Income": "119,452.34",
     "Tariffs": "1.05",
-    "Trade Income": "123,642.82",
+    "Trade Income": "125,424.96",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -11150,7 +11048,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "Tavir",
     "Military Alliances 2": "",
-    "Limit": "7",
+    "Limit": "10",
     "Trade 1": {
       "Value": "Nāšā Qaḏmāyā",
       "Trade 1 Value": "14,496.90"
@@ -11212,8 +11110,8 @@
       "Trade 15 Value": ""
     },
     "Raw Trade Income": "27,715.65",
-    "Tariffs": "1.25",
-    "Trade Income": "34,644.56",
+    "Tariffs": "0.95",
+    "Trade Income": "26,329.87",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -12884,7 +12782,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "10",
+    "Limit": "9",
     "Trade 1": {
       "Value": "",
       "Trade 1 Value": ""
@@ -13024,8 +12922,8 @@
       "Trade 9 Value": "28,177.30"
     },
     "Trade 10": {
-      "Value": "Akali",
-      "Trade 10 Value": "2,200.00"
+      "Value": "",
+      "Trade 10 Value": ""
     },
     "Trade 11": {
       "Value": "",
@@ -13047,13 +12945,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "146,677.22",
+    "Raw Trade Income": "144,477.22",
     "Tariffs": "0.95",
-    "Trade Income": "139,343.36",
+    "Trade Income": "137,253.36",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "10"
+    "Trades": "9"
   },
   "Kingdom of Geloía": {
     "Nations": "Kingdom of Geloía",
@@ -13883,10 +13781,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "83.92%",
-    "Base": "83.92%",
-    "Comparison": "57.91%",
-    "Individual": "19.34%",
+    "L. Desire": "83.34%",
+    "Base": "83.34%",
+    "Comparison": "57.47%",
+    "Individual": "19.20%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
@@ -13978,11 +13876,11 @@
     "Nation Check": "Kingdom of the Aurore",
     "Overlord": "",
     "Eco Vassals": "1,045,746.60",
-    "Eco Over.": "533,518.15",
-    "Compare": "73.52%",
+    "Eco Over.": "548,255.95",
+    "Compare": "73.87%",
     "MP Vassals": "121,010.31",
-    "MP Over.": "164,587.50",
-    "20% Total": "53.91%",
+    "MP Over.": "163,807.88",
+    "20% Total": "52.92%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -14028,8 +13926,8 @@
       "Trade 5 Value": "6,146.56"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Xiboda",
+      "Trade 6 Value": "23,115.40"
     },
     "Trade 7": {
       "Value": "Remid Republic",
@@ -14067,13 +13965,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "110,580.87",
+    "Raw Trade Income": "133,696.27",
     "Tariffs": "0.75",
-    "Trade Income": "82,935.65",
+    "Trade Income": "100,272.20",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "7"
+    "Trades": "8"
   },
   "Kingdom of the Kettlelands": {
     "Nations": "Kingdom of the Kettlelands",
@@ -14087,10 +13985,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "95.93%",
-    "Base": "95.93%",
-    "Comparison": "66.38%",
-    "Individual": "34.55%",
+    "L. Desire": "95.82%",
+    "Base": "95.82%",
+    "Comparison": "66.31%",
+    "Individual": "34.51%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -15029,7 +14927,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Avaritian Dictatorship",
-      "Trade 1 Value": "71,839.03"
+      "Trade 1 Value": "72,540.79"
     },
     "Trade 2": {
       "Value": "",
@@ -15087,9 +14985,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "71,839.03",
+    "Raw Trade Income": "72,540.79",
     "Tariffs": "0.95",
-    "Trade Income": "68,247.07",
+    "Trade Income": "68,913.75",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -15335,7 +15233,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "City State of Kido",
-      "Trade 1 Value": "24,550.98"
+      "Trade 1 Value": "25,546.50"
     },
     "Trade 2": {
       "Value": "Kingdom of the Kettlelands",
@@ -15359,7 +15257,7 @@
     },
     "Trade 7": {
       "Value": "Avaritian Dictatorship",
-      "Trade 7 Value": "71,839.03"
+      "Trade 7 Value": "72,540.79"
     },
     "Trade 8": {
       "Value": "Ophenadon",
@@ -15393,9 +15291,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "148,810.13",
+    "Raw Trade Income": "150,507.41",
     "Tariffs": "1.25",
-    "Trade Income": "186,012.66",
+    "Trade Income": "188,134.26",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -15743,11 +15641,11 @@
     "Limit": "11",
     "Trade 1": {
       "Value": "City State of Kido",
-      "Trade 1 Value": "24,550.98"
+      "Trade 1 Value": "25,546.50"
     },
     "Trade 2": {
       "Value": "Avaritian Dictatorship",
-      "Trade 2 Value": "71,839.03"
+      "Trade 2 Value": "72,540.79"
     },
     "Trade 3": {
       "Value": "Hui Kai",
@@ -15801,9 +15699,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "147,762.71",
+    "Raw Trade Income": "149,459.99",
     "Tariffs": "0.75",
-    "Trade Income": "110,822.03",
+    "Trade Income": "112,094.99",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -16331,10 +16229,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "65.80%",
-    "Base": "65.80%",
-    "Comparison": "53.91%",
-    "Individual": "30.23%",
+    "L. Desire": "64.23%",
+    "Base": "64.23%",
+    "Comparison": "52.92%",
+    "Individual": "29.64%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -16834,11 +16732,11 @@
     "Nation Check": "Meadoia Dynasty",
     "Overlord": "",
     "Eco Vassals": "1,712,012.16",
-    "Eco Over.": "813,672.16",
-    "Compare": "79.17%",
+    "Eco Over.": "820,733.41",
+    "Compare": "78.75%",
     "MP Vassals": "160,159.81",
-    "MP Over.": "202,300.31",
-    "20% Total": "57.91%",
+    "MP Over.": "203,372.81",
+    "20% Total": "57.47%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -16896,8 +16794,8 @@
       "Trade 8 Value": "22,824.38"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Nournourlant",
+      "Trade 9 Value": "5,125.00"
     },
     "Trade 10": {
       "Value": "",
@@ -16923,13 +16821,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "148,441.22",
+    "Raw Trade Income": "153,566.22",
     "Tariffs": "0.75",
-    "Trade Income": "111,330.91",
+    "Trade Income": "115,174.66",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "8"
+    "Trades": "9"
   },
   "Mébian Confederation": {
     "Nations": "Mébian Confederation",
@@ -17105,7 +17003,7 @@
     },
     "Trade 10": {
       "Value": "City State of Kido",
-      "Trade 10 Value": "24,550.98"
+      "Trade 10 Value": "25,546.50"
     },
     "Trade 11": {
       "Value": "Ahupau'a o Heiau",
@@ -17127,9 +17025,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "129,217.09",
+    "Raw Trade Income": "130,212.61",
     "Tariffs": "0.75",
-    "Trade Income": "96,912.82",
+    "Trade Income": "97,659.46",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -17453,10 +17351,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "97.39%",
-    "Base": "97.39%",
-    "Comparison": "66.38%",
-    "Individual": "31.84%",
+    "L. Desire": "97.28%",
+    "Base": "97.28%",
+    "Comparison": "66.31%",
+    "Individual": "31.80%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
@@ -18085,7 +17983,7 @@
     "Defensive Pacts": "Félagi Vargúlfr Dvergr",
     "Defensive Pacts 2": "",
     "Military Alliances": "Tavir",
-    "Military Alliances 2": "",
+    "Military Alliances 2": "First O'irstorian Republic",
     "Limit": "6",
     "Trade 1": {
       "Value": "Tavir",
@@ -18152,7 +18050,7 @@
     "Trade Income": "62,190.27",
     "NAPs": "0",
     "Def. Pacts": "1",
-    "Mil. Pacts": "1",
+    "Mil. Pacts": "2",
     "Trades": "5"
   },
   "Natałor": {
@@ -18772,11 +18670,11 @@
     "Nation Check": "Nuanta",
     "Overlord": "",
     "Eco Vassals": "225,374.10",
-    "Eco Over.": "204,188.97",
+    "Eco Over.": "204,855.64",
     "Compare": "221.54%",
     "MP Vassals": "144,390.13",
     "MP Over.": "65,175.00",
-    "20% Total": "66.38%",
+    "20% Total": "66.31%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -18807,7 +18705,7 @@
     },
     "Trade 2": {
       "Value": "Avaritian Dictatorship",
-      "Trade 2 Value": "71,839.03"
+      "Trade 2 Value": "72,540.79"
     },
     "Trade 3": {
       "Value": "Luminus",
@@ -18861,9 +18759,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "138,409.44",
+    "Raw Trade Income": "139,111.20",
     "Tariffs": "0.95",
-    "Trade Income": "131,488.97",
+    "Trade Income": "132,155.64",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -18881,10 +18779,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "44.00%",
-    "Base": "44.00%",
-    "Comparison": "29.08%",
-    "Individual": "29.08%",
+    "L. Desire": "44.11%",
+    "Base": "44.11%",
+    "Comparison": "29.14%",
+    "Individual": "29.14%",
     "Friend/Rival": "0.00%",
     "Taxes": "-1.67%",
     "Indep War?": "",
@@ -18913,7 +18811,7 @@
     },
     "Trade 3": {
       "Value": "Avaritian Dictatorship",
-      "Trade 3 Value": "71,839.03"
+      "Trade 3 Value": "72,540.79"
     },
     "Trade 4": {
       "Value": "Kingdom of Geloía",
@@ -18933,7 +18831,7 @@
     },
     "Trade 8": {
       "Value": "City State of Kido",
-      "Trade 8 Value": "24,550.98"
+      "Trade 8 Value": "25,546.50"
     },
     "Trade 9": {
       "Value": "Nexus Vouno",
@@ -18963,9 +18861,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "334,196.00",
+    "Raw Trade Income": "335,893.28",
     "Tariffs": "0.99",
-    "Trade Income": "329,517.26",
+    "Trade Income": "331,190.77",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -19187,10 +19085,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "21.92%",
-    "Base": "21.92%",
-    "Comparison": "17.43%",
-    "Individual": "8.15%",
+    "L. Desire": "21.96%",
+    "Base": "21.96%",
+    "Comparison": "17.46%",
+    "Individual": "8.16%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -19211,7 +19109,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Avaritian Dictatorship",
-      "Trade 1 Value": "71,839.03"
+      "Trade 1 Value": "72,540.79"
     },
     "Trade 2": {
       "Value": "Lisanos",
@@ -19269,9 +19167,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "86,391.44",
+    "Raw Trade Income": "87,093.20",
     "Tariffs": "0.95",
-    "Trade Income": "82,071.87",
+    "Trade Income": "82,738.54",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -24225,7 +24123,7 @@
     },
     "Trade 5": {
       "Value": "Avaritian Dictatorship",
-      "Trade 5 Value": "71,839.03"
+      "Trade 5 Value": "72,540.79"
     },
     "Trade 6": {
       "Value": "",
@@ -24267,9 +24165,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "89,018.80",
+    "Raw Trade Income": "89,720.56",
     "Tariffs": "0.95",
-    "Trade Income": "84,567.86",
+    "Trade Income": "85,234.53",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -24735,7 +24633,7 @@
     },
     "Trade 5": {
       "Value": "Avaritian Dictatorship",
-      "Trade 5 Value": "71,839.03"
+      "Trade 5 Value": "72,540.79"
     },
     "Trade 6": {
       "Value": "Unified Republic of Kaiarau",
@@ -24777,9 +24675,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "108,842.09",
+    "Raw Trade Income": "109,543.85",
     "Tariffs": "0.95",
-    "Trade Income": "103,399.99",
+    "Trade Income": "104,066.66",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -24789,12 +24687,12 @@
     "Nations": "Avaritian Dictatorship",
     "Nation Check": "Avaritian Dictatorship",
     "Overlord": "",
-    "Eco Vassals": "327,982.37",
-    "Eco Over.": "757,510.16",
+    "Eco Vassals": "329,350.80",
+    "Eco Over.": "758,455.90",
     "Compare": "43.88%",
     "MP Vassals": "54,621.19",
     "MP Over.": "124,486.31",
-    "20% Total": "17.43%",
+    "20% Total": "17.46%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -24833,7 +24731,7 @@
     },
     "Trade 4": {
       "Value": "City State of Kido",
-      "Trade 4 Value": "24,550.98"
+      "Trade 4 Value": "25,546.50"
     },
     "Trade 5": {
       "Value": "Ophenadon",
@@ -24879,9 +24777,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "211,664.77",
+    "Raw Trade Income": "212,660.29",
     "Tariffs": "0.95",
-    "Trade Income": "201,081.53",
+    "Trade Income": "202,027.27",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -25641,7 +25539,7 @@
     },
     "Trade 2": {
       "Value": "Avaritian Dictatorship",
-      "Trade 2 Value": "71,839.03"
+      "Trade 2 Value": "72,540.79"
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
@@ -25695,9 +25593,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "120,184.37",
+    "Raw Trade Income": "120,886.13",
     "Tariffs": "1.05",
-    "Trade Income": "126,193.58",
+    "Trade Income": "126,930.43",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -26245,7 +26143,7 @@
     "Defensive Pacts": "Amethyst Clan",
     "Defensive Pacts 2": "",
     "Military Alliances": "Stryaxina",
-    "Military Alliances 2": "",
+    "Military Alliances 2": "Nāšā Qaḏmāyā",
     "Limit": "7",
     "Trade 1": {
       "Value": "Nāšā Qaḏmāyā",
@@ -26312,46 +26210,46 @@
     "Trade Income": "129,938.88",
     "NAPs": "1",
     "Def. Pacts": "1",
-    "Mil. Pacts": "1",
+    "Mil. Pacts": "2",
     "Trades": "7"
   },
   "New Steelern": {
     "Nations": "New Steelern",
     "Nation Check": "New Steelern",
-    "Overlord": "Akali",
+    "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
     "MP Vassals": "",
     "MP Over.": "",
     "20% Total": "",
-    "Vassal Type": "Standard",
+    "Vassal Type": "",
     "": "",
-    "L. Desire": "51.57%",
-    "Base": "51.57%",
-    "Comparison": "28.28%",
-    "Individual": "8.28%",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "0.00%",
+    "Individual": "",
     "Friend/Rival": "0.00%",
-    "Taxes": "5.00%",
+    "Taxes": "",
     "Indep War?": "",
-    "Autonomy": "None",
-    "Threshold": "75.00%",
-    "Chaotic?": "FALSE",
-    "Deceptive?": "TRUE",
-    "Honor?": "FALSE",
-    "Indep.?": "FALSE",
-    "Unity?": "FALSE",
-    "Ov. Culture": "Akalite",
-    "Ov. Religion": "Lonism",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Drionn Galith",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "6",
     "Trade 1": {
-      "Value": "Akali",
-      "Trade 1 Value": "2,200.00"
+      "Value": "",
+      "Trade 1 Value": ""
     },
     "Trade 2": {
       "Value": "",
@@ -26409,13 +26307,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "2,200.00",
+    "Raw Trade Income": "0.00",
     "Tariffs": "1.05",
-    "Trade Income": "2,310.00",
+    "Trade Income": "0.00",
     "NAPs": "0",
-    "Def. Pacts": "1",
+    "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "1"
+    "Trades": "0"
   },
   "The State of Iskura": {
     "Nations": "The State of Iskura",
@@ -26728,11 +26626,11 @@
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
     "Eco Vassals": "142,407.36",
-    "Eco Over.": "425,735.92",
-    "Compare": "64.01%",
+    "Eco Over.": "423,051.37",
+    "Compare": "64.17%",
     "MP Vassals": "75,638.41",
-    "MP Over.": "118,168.88",
-    "20% Total": "19.49%",
+    "MP Over.": "117,871.88",
+    "20% Total": "19.57%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -26774,8 +26672,8 @@
       "Trade 4 Value": "21,385.00"
     },
     "Trade 5": {
-      "Value": "Akali",
-      "Trade 5 Value": "2,200.00"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "Aishokae Kiryaxolne",
@@ -26817,13 +26715,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "147,582.16",
+    "Raw Trade Income": "145,382.16",
     "Tariffs": "0.75",
-    "Trade Income": "110,686.62",
+    "Trade Income": "109,036.62",
     "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "11"
+    "Trades": "10"
   },
   "The Trade Families of Kemakmura": {
     "Nations": "The Trade Families of Kemakmura",
@@ -27959,10 +27857,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "52.04%",
-    "Base": "52.04%",
-    "Comparison": "32.76%",
-    "Individual": "17.61%",
+    "L. Desire": "52.27%",
+    "Base": "52.27%",
+    "Comparison": "32.91%",
+    "Individual": "17.69%",
     "Friend/Rival": "0.00%",
     "Taxes": "11.67%",
     "Indep War?": "",
@@ -27983,11 +27881,11 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "City State of Kido",
-      "Trade 1 Value": "24,550.98"
+      "Trade 1 Value": "25,546.50"
     },
     "Trade 2": {
       "Value": "Avaritian Dictatorship",
-      "Trade 2 Value": "71,839.03"
+      "Trade 2 Value": "72,540.79"
     },
     "Trade 3": {
       "Value": "Jään Herruus",
@@ -28041,9 +27939,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "122,403.21",
+    "Raw Trade Income": "124,100.49",
     "Tariffs": "1.05",
-    "Trade Income": "128,523.37",
+    "Trade Income": "130,305.52",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -28061,10 +27959,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "69.53%",
-    "Base": "69.53%",
-    "Comparison": "57.91%",
-    "Individual": "11.11%",
+    "L. Desire": "68.99%",
+    "Base": "68.99%",
+    "Comparison": "57.47%",
+    "Individual": "11.02%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -29591,10 +29489,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "11.72%",
-    "Base": "11.72%",
-    "Comparison": "17.43%",
-    "Individual": "9.28%",
+    "L. Desire": "11.76%",
+    "Base": "11.76%",
+    "Comparison": "17.46%",
+    "Individual": "9.30%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -29615,7 +29513,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Avaritian Dictatorship",
-      "Trade 1 Value": "71,839.03"
+      "Trade 1 Value": "72,540.79"
     },
     "Trade 2": {
       "Value": "",
@@ -29673,9 +29571,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "71,839.03",
+    "Raw Trade Income": "72,540.79",
     "Tariffs": "1.00",
-    "Trade Income": "71,839.03",
+    "Trade Income": "72,540.79",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -29795,10 +29693,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "52.53%",
-    "Base": "52.53%",
-    "Comparison": "53.91%",
-    "Individual": "10.96%",
+    "L. Desire": "51.41%",
+    "Base": "51.41%",
+    "Comparison": "52.92%",
+    "Individual": "10.82%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
