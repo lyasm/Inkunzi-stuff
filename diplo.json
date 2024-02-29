@@ -1745,10 +1745,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "50.01%",
-    "Base": "50.01%",
-    "Comparison": "52.67%",
-    "Individual": "12.67%",
+    "L. Desire": "52.36%",
+    "Base": "52.36%",
+    "Comparison": "54.40%",
+    "Individual": "13.29%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -1769,7 +1769,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Kingdom of the Aurore",
-      "Trade 1 Value": "13,412.50"
+      "Trade 1 Value": "26,825.00"
     },
     "Trade 2": {
       "Value": "The Kingdom of Zahar",
@@ -1827,9 +1827,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "109,816.23",
+    "Raw Trade Income": "123,228.73",
     "Tariffs": "1.25",
-    "Trade Income": "137,270.28",
+    "Trade Income": "154,035.91",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -3574,11 +3574,11 @@
     "Nation Check": "Ceavia",
     "Overlord": "",
     "Eco Vassals": "153,928.46",
-    "Eco Over.": "477,460.57",
+    "Eco Over.": "494,226.19",
     "Compare": "94.72%",
     "MP Vassals": "69,980.63",
     "MP Over.": "73,883.91",
-    "20% Total": "25.39%",
+    "20% Total": "25.17%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -3617,7 +3617,7 @@
     },
     "Trade 4": {
       "Value": "Kingdom of the Aurore",
-      "Trade 4 Value": "13,412.50"
+      "Trade 4 Value": "26,825.00"
     },
     "Trade 5": {
       "Value": "Elyen-Mev",
@@ -3663,9 +3663,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "277,707.94",
+    "Raw Trade Income": "291,120.44",
     "Tariffs": "1.25",
-    "Trade Income": "347,134.92",
+    "Trade Income": "363,900.55",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -5963,7 +5963,7 @@
     },
     "Trade 4": {
       "Value": "Kingdom of the Aurore",
-      "Trade 4 Value": "13,412.50"
+      "Trade 4 Value": "26,825.00"
     },
     "Trade 5": {
       "Value": "",
@@ -6009,9 +6009,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "38,666.30",
+    "Raw Trade Income": "52,078.80",
     "Tariffs": "1.25",
-    "Trade Income": "48,332.88",
+    "Trade Income": "65,098.50",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -6131,10 +6131,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "33.76%",
-    "Base": "33.76%",
-    "Comparison": "15.63%",
-    "Individual": "15.63%",
+    "L. Desire": "33.47%",
+    "Base": "33.47%",
+    "Comparison": "15.48%",
+    "Individual": "15.48%",
     "Friend/Rival": "0.00%",
     "Taxes": "12.50%",
     "Indep War?": "",
@@ -13569,12 +13569,12 @@
     "Nations": "Kingdom of the Aurore",
     "Nation Check": "Kingdom of the Aurore",
     "Overlord": "",
-    "Eco Vassals": "1,024,350.57",
+    "Eco Vassals": "1,070,891.94",
     "Eco Over.": "538,396.45",
     "Compare": "73.10%",
     "MP Vassals": "121,010.31",
     "MP Over.": "165,540.38",
-    "20% Total": "52.67%",
+    "20% Total": "54.40%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -15923,10 +15923,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "64.07%",
-    "Base": "64.07%",
-    "Comparison": "52.67%",
-    "Individual": "29.73%",
+    "L. Desire": "66.28%",
+    "Base": "66.28%",
+    "Comparison": "54.40%",
+    "Individual": "30.21%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -15947,7 +15947,7 @@
     "Limit": "13",
     "Trade 1": {
       "Value": "Kingdom of the Aurore",
-      "Trade 1 Value": "13,412.50"
+      "Trade 1 Value": "26,825.00"
     },
     "Trade 2": {
       "Value": "Tautaspils",
@@ -16005,9 +16005,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "224,920.65",
+    "Raw Trade Income": "238,333.15",
     "Tariffs": "0.97",
-    "Trade Income": "218,173.03",
+    "Trade Income": "231,183.16",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -16654,10 +16654,10 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "Avaritian Dictatorship",
-    "Defensive Pacts": "The Kingdom of Lunar",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "Sri Shimbir",
     "Military Alliances": "Snow Dominion",
-    "Military Alliances 2": "",
+    "Military Alliances 2": "The Kingdom of Lunar",
     "Limit": "12",
     "Trade 1": {
       "Value": "Snow Dominion",
@@ -16723,8 +16723,8 @@
     "Tariffs": "0.75",
     "Trade Income": "103,332.46",
     "NAPs": "1",
-    "Def. Pacts": "2",
-    "Mil. Pacts": "1",
+    "Def. Pacts": "1",
+    "Mil. Pacts": "2",
     "Trades": "12"
   },
   "Meridomus Kalleprii": {
@@ -20027,7 +20027,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Kingdom of the Aurore",
-      "Trade 1 Value": "13,412.50"
+      "Trade 1 Value": "26,825.00"
     },
     "Trade 2": {
       "Value": "Akaḣpetoƞ",
@@ -20085,9 +20085,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "99,156.21",
+    "Raw Trade Income": "112,568.71",
     "Tariffs": "1.25",
-    "Trade Income": "123,945.26",
+    "Trade Income": "140,710.88",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -20717,10 +20717,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "19.45%",
-    "Base": "19.45%",
-    "Comparison": "5.97%",
-    "Individual": "5.97%",
+    "L. Desire": "19.30%",
+    "Base": "19.30%",
+    "Comparison": "5.90%",
+    "Individual": "5.90%",
     "Friend/Rival": "0.00%",
     "Taxes": "12.50%",
     "Indep War?": "",
@@ -22648,11 +22648,11 @@
     "Nation Check": "Stratavia",
     "Overlord": "",
     "Eco Vassals": "137,115.46",
-    "Eco Over.": "481,689.88",
+    "Eco Over.": "494,431.75",
     "Compare": "49.69%",
     "MP Vassals": "70,202.34",
     "MP Over.": "141,281.25",
-    "20% Total": "15.63%",
+    "20% Total": "15.48%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22691,7 +22691,7 @@
     },
     "Trade 4": {
       "Value": "Kingdom of the Aurore",
-      "Trade 4 Value": "13,412.50"
+      "Trade 4 Value": "26,825.00"
     },
     "Trade 5": {
       "Value": "Maldune",
@@ -22737,9 +22737,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "137,940.00",
+    "Raw Trade Income": "151,352.50",
     "Tariffs": "0.95",
-    "Trade Income": "131,043.00",
+    "Trade Income": "143,784.88",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -24818,7 +24818,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "The Jokers",
-    "Limit": "7",
+    "Limit": "8",
     "Trade 1": {
       "Value": "Remid Republic",
       "Trade 1 Value": "11,696.88"
@@ -24927,7 +24927,7 @@
     },
     "Trade 2": {
       "Value": "The House",
-      "Trade 2 Value": "9,214.38"
+      "Trade 2 Value": "16,330.00"
     },
     "Trade 3": {
       "Value": "",
@@ -24981,9 +24981,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "9,214.38",
+    "Raw Trade Income": "16,330.00",
     "Tariffs": "1.25",
-    "Trade Income": "11,517.97",
+    "Trade Income": "20,412.50",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -25300,11 +25300,11 @@
     "Nation Check": "The Kingdom of Zahar",
     "Overlord": "",
     "Eco Vassals": "75,256.38",
-    "Eco Over.": "587,855.20",
+    "Eco Over.": "604,620.82",
     "Compare": "17.06%",
     "MP Vassals": "31,680.00",
     "MP Over.": "185,649.75",
-    "20% Total": "5.97%",
+    "20% Total": "5.90%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -25331,7 +25331,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Kingdom of the Aurore",
-      "Trade 1 Value": "13,412.50"
+      "Trade 1 Value": "26,825.00"
     },
     "Trade 2": {
       "Value": "Sarmatai Confederation",
@@ -25389,9 +25389,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "130,288.16",
+    "Raw Trade Income": "143,700.66",
     "Tariffs": "1.25",
-    "Trade Income": "162,860.20",
+    "Trade Income": "179,625.82",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -26327,10 +26327,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "43.78%",
-    "Base": "43.78%",
-    "Comparison": "25.39%",
-    "Individual": "25.39%",
+    "L. Desire": "43.34%",
+    "Base": "43.34%",
+    "Comparison": "25.17%",
+    "Individual": "25.17%",
     "Friend/Rival": "0.00%",
     "Taxes": "-2.00%",
     "Indep War?": "",
@@ -28411,7 +28411,7 @@
     },
     "Trade 6": {
       "Value": "Kingdom of the Aurore",
-      "Trade 6 Value": "13,412.50"
+      "Trade 6 Value": "26,825.00"
     },
     "Trade 7": {
       "Value": "",
@@ -28449,9 +28449,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "81,874.70",
+    "Raw Trade Income": "95,287.20",
     "Tariffs": "1.05",
-    "Trade Income": "85,968.44",
+    "Trade Income": "100,051.56",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -29183,10 +29183,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "50.61%",
-    "Base": "50.61%",
-    "Comparison": "52.67%",
-    "Individual": "10.27%",
+    "L. Desire": "52.96%",
+    "Base": "52.96%",
+    "Comparison": "54.40%",
+    "Individual": "10.89%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -29215,7 +29215,7 @@
     },
     "Trade 3": {
       "Value": "Kingdom of the Aurore",
-      "Trade 3 Value": "13,412.50"
+      "Trade 3 Value": "26,825.00"
     },
     "Trade 4": {
       "Value": "",
@@ -29265,9 +29265,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "27,090.46",
+    "Raw Trade Income": "40,502.96",
     "Tariffs": "1.25",
-    "Trade Income": "33,863.07",
+    "Trade Income": "50,628.70",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
