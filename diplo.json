@@ -6131,10 +6131,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "33.67%",
-    "Base": "33.67%",
-    "Comparison": "15.59%",
-    "Individual": "15.59%",
+    "L. Desire": "33.47%",
+    "Base": "33.47%",
+    "Comparison": "15.48%",
+    "Individual": "15.48%",
     "Friend/Rival": "0.00%",
     "Taxes": "12.50%",
     "Indep War?": "",
@@ -20226,7 +20226,7 @@
     "Non-aggression Pacts": "Meadoia Trade Dynasty, Unigol, Cochua, Kingdom of Zahar",
     "Defensive Pacts": "Pavellion",
     "Defensive Pacts 2": "The Kingdom of Zahar",
-    "Military Alliances": "",
+    "Military Alliances": "Audgunn",
     "Military Alliances 2": "Sarmatai Confederation",
     "Limit": "10",
     "Trade 1": {
@@ -20294,7 +20294,7 @@
     "Trade Income": "189,176.13",
     "NAPs": "4",
     "Def. Pacts": "2",
-    "Mil. Pacts": "1",
+    "Mil. Pacts": "2",
     "Trades": "9"
   },
   "Republic of Rostora": {
@@ -22648,11 +22648,11 @@
     "Nation Check": "Stratavia",
     "Overlord": "",
     "Eco Vassals": "137,115.46",
-    "Eco Over.": "485,578.94",
+    "Eco Over.": "494,431.75",
     "Compare": "49.69%",
     "MP Vassals": "70,202.34",
     "MP Over.": "141,281.25",
-    "20% Total": "15.59%",
+    "20% Total": "15.48%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22672,7 +22672,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
+    "Defensive Pacts": "Akaḣpetoƞ",
     "Defensive Pacts 2": "",
     "Military Alliances": "Jubal'on",
     "Military Alliances 2": "",
@@ -22702,16 +22702,16 @@
       "Trade 6 Value": "5,452.88"
     },
     "Trade 7": {
-      "Value": "Zastita",
-      "Trade 7 Value": "750.00"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "Enushkan Ur Kaash'shum",
       "Trade 8 Value": "7,131.25"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Akaḣpetoƞ",
+      "Trade 9 Value": "10,068.75"
     },
     "Trade 10": {
       "Value": "",
@@ -22737,11 +22737,11 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "142,033.75",
+    "Raw Trade Income": "151,352.50",
     "Tariffs": "0.95",
-    "Trade Income": "134,932.06",
+    "Trade Income": "143,784.88",
     "NAPs": "0",
-    "Def. Pacts": "0",
+    "Def. Pacts": "1",
     "Mil. Pacts": "1",
     "Trades": "8"
   },
