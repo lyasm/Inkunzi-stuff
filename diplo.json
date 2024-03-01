@@ -2969,10 +2969,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "61.02%",
-    "Base": "61.02%",
-    "Comparison": "53.97%",
-    "Individual": "14.56%",
+    "L. Desire": "61.37%",
+    "Base": "61.37%",
+    "Comparison": "54.14%",
+    "Individual": "14.73%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -3008,8 +3008,8 @@
       "Trade 4 Value": "8,150.63"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Ewig Republic",
+      "Trade 5 Value": "5,744.38"
     },
     "Trade 6": {
       "Value": "",
@@ -3051,13 +3051,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "278,880.55",
+    "Raw Trade Income": "284,624.93",
     "Tariffs": "1.25",
-    "Trade Income": "348,600.69",
+    "Trade Income": "355,781.16",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "4"
+    "Trades": "5"
   },
   "Candentis Jalin": {
     "Nations": "Candentis Jalin",
@@ -4499,9 +4499,9 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "59.59%",
-    "Base": "59.59%",
-    "Comparison": "53.97%",
+    "L. Desire": "59.77%",
+    "Base": "59.77%",
+    "Comparison": "54.14%",
     "Individual": "13.13%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -6366,8 +6366,8 @@
       "Trade 2 Value": "9,962.50"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Caesnauka Empire",
+      "Trade 3 Value": "16,675.07"
     },
     "Trade 4": {
       "Value": "",
@@ -6417,13 +6417,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "28,218.75",
+    "Raw Trade Income": "44,893.82",
     "Tariffs": "1.05",
-    "Trade Income": "29,629.69",
+    "Trade Income": "47,138.51",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "3"
+    "Trades": "4"
   },
   "Exodists of Tepetl": {
     "Nations": "Exodists of Tepetl",
@@ -11734,11 +11734,11 @@
     "Nation Check": "Kaug-Põhja",
     "Overlord": "",
     "Eco Vassals": "220,994.66",
-    "Eco Over.": "573,229.73",
+    "Eco Over.": "569,326.74",
     "Compare": "39.63%",
     "MP Vassals": "85,191.56",
     "MP Over.": "214,953.75",
-    "20% Total": "15.64%",
+    "20% Total": "15.69%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -11764,8 +11764,8 @@
     "Military Alliances 2": "Stortingr Republik af Frystdömet",
     "Limit": "10",
     "Trade 1": {
-      "Value": "Kingdom of Jasper",
-      "Trade 1 Value": "10,333.41"
+      "Value": "Velken Bulwark",
+      "Trade 1 Value": "6,225.00"
     },
     "Trade 2": {
       "Value": "Stortingr Republik af Frystdömet",
@@ -11823,9 +11823,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "113,977.34",
+    "Raw Trade Income": "109,868.94",
     "Tariffs": "0.95",
-    "Trade Income": "108,278.48",
+    "Trade Income": "104,375.49",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -12983,7 +12983,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "The Awakened",
-    "Defensive Pacts 2": "Akaḣpetoƞ",
+    "Defensive Pacts 2": "",
     "Military Alliances": "The Republic of Alyvosk",
     "Military Alliances 2": "",
     "Limit": "10",
@@ -13051,7 +13051,7 @@
     "Tariffs": "0.95",
     "Trade Income": "165,018.69",
     "NAPs": "0",
-    "Def. Pacts": "2",
+    "Def. Pacts": "1",
     "Mil. Pacts": "1",
     "Trades": "10"
   },
@@ -13475,9 +13475,9 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "77.96%",
-    "Base": "77.96%",
-    "Comparison": "53.97%",
+    "L. Desire": "78.13%",
+    "Base": "78.13%",
+    "Comparison": "54.14%",
     "Individual": "17.33%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
@@ -16425,12 +16425,12 @@
     "Nations": "Meadoia Dynasty",
     "Nation Check": "Meadoia Dynasty",
     "Overlord": "",
-    "Eco Vassals": "1,983,403.09",
+    "Eco Vassals": "1,991,445.69",
     "Eco Over.": "1,072,161.22",
-    "Compare": "84.83%",
-    "MP Vassals": "179,581.00",
+    "Compare": "84.96%",
+    "MP Vassals": "179,853.25",
     "MP Over.": "211,684.69",
-    "20% Total": "53.97%",
+    "20% Total": "54.14%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -19391,10 +19391,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "23.77%",
-    "Base": "23.77%",
-    "Comparison": "15.64%",
-    "Individual": "15.64%",
+    "L. Desire": "23.88%",
+    "Base": "23.88%",
+    "Comparison": "15.69%",
+    "Individual": "15.69%",
     "Friend/Rival": "0.00%",
     "Taxes": "-2.50%",
     "Indep War?": "",
@@ -27449,9 +27449,9 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "63.42%",
-    "Base": "63.42%",
-    "Comparison": "53.97%",
+    "L. Desire": "63.60%",
+    "Base": "63.60%",
+    "Comparison": "54.14%",
     "Individual": "8.96%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
