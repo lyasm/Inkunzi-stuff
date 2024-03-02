@@ -3676,7 +3676,7 @@
     "Nation Check": "Ceridwyn Confederation",
     "Overlord": "",
     "Eco Vassals": "92,160.98",
-    "Eco Over.": "572,106.27",
+    "Eco Over.": "572,615.70",
     "Compare": "28.34%",
     "MP Vassals": "46,827.00",
     "MP Over.": "165,215.53",
@@ -3731,7 +3731,7 @@
     },
     "Trade 7": {
       "Value": "Terrum Aetheri",
-      "Trade 7 Value": "4,249.38"
+      "Trade 7 Value": "4,785.63"
     },
     "Trade 8": {
       "Value": "Etolian Dimokratia",
@@ -3765,9 +3765,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "143,080.67",
+    "Raw Trade Income": "143,616.92",
     "Tariffs": "0.95",
-    "Trade Income": "135,926.64",
+    "Trade Income": "136,436.08",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -5876,8 +5876,8 @@
       "Trade 7 Value": "5,744.38"
     },
     "Trade 8": {
-      "Value": "Maa",
-      "Trade 8 Value": "13,312.50"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
       "Value": "",
@@ -5907,13 +5907,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "146,906.61",
+    "Raw Trade Income": "133,594.11",
     "Tariffs": "0.95",
-    "Trade Income": "139,561.28",
+    "Trade Income": "126,914.41",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "8"
+    "Trades": "7"
   },
   "Elyen-Mev": {
     "Nations": "Elyen-Mev",
@@ -18261,12 +18261,12 @@
     "Nations": "Novae Aeseriae",
     "Nation Check": "Novae Aeseriae",
     "Overlord": "",
-    "Eco Vassals": "112,648.16",
-    "Eco Over.": "258,968.56",
-    "Compare": "46.03%",
-    "MP Vassals": "44,429.69",
+    "Eco Vassals": "121,791.91",
+    "Eco Over.": "259,531.63",
+    "Compare": "54.39%",
+    "MP Vassals": "52,507.81",
     "MP Over.": "96,531.88",
-    "20% Total": "17.90%",
+    "20% Total": "20.26%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -18301,7 +18301,7 @@
     },
     "Trade 3": {
       "Value": "Terrum Aetheri",
-      "Trade 3 Value": "4,249.38"
+      "Trade 3 Value": "4,785.63"
     },
     "Trade 4": {
       "Value": "The Teutā Erwā",
@@ -18351,9 +18351,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "84,748.16",
+    "Raw Trade Income": "85,284.41",
     "Tariffs": "1.05",
-    "Trade Income": "88,985.56",
+    "Trade Income": "89,548.63",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -23267,10 +23267,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "30.81%",
-    "Base": "30.81%",
-    "Comparison": "17.90%",
-    "Individual": "17.90%",
+    "L. Desire": "35.53%",
+    "Base": "35.53%",
+    "Comparison": "20.26%",
+    "Individual": "20.26%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
