@@ -2075,7 +2075,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Goldmongers",
-      "Trade 1 Value": "8,963.50"
+      "Trade 1 Value": "8,547.50"
     },
     "Trade 2": {
       "Value": "Jýldar",
@@ -2133,9 +2133,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "41,036.59",
+    "Raw Trade Income": "40,620.59",
     "Tariffs": "1.05",
-    "Trade Income": "43,088.42",
+    "Trade Income": "42,651.62",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -4739,7 +4739,7 @@
     },
     "Trade 4": {
       "Value": "Goldmongers",
-      "Trade 4 Value": "8,963.50"
+      "Trade 4 Value": "8,547.50"
     },
     "Trade 5": {
       "Value": "Lohiida Dathinaal",
@@ -4785,9 +4785,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "52,073.92",
+    "Raw Trade Income": "51,657.92",
     "Tariffs": "1.25",
-    "Trade Income": "65,092.40",
+    "Trade Income": "64,572.40",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -10753,7 +10753,7 @@
     },
     "Trade 3": {
       "Value": "Goldmongers",
-      "Trade 3 Value": "8,963.50"
+      "Trade 3 Value": "8,547.50"
     },
     "Trade 4": {
       "Value": "Akalikania",
@@ -10803,9 +10803,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "43,351.24",
+    "Raw Trade Income": "42,935.24",
     "Tariffs": "0.95",
-    "Trade Income": "41,183.68",
+    "Trade Income": "40,788.48",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -20961,7 +20961,7 @@
     },
     "Trade 5": {
       "Value": "Goldmongers",
-      "Trade 5 Value": "8,963.50"
+      "Trade 5 Value": "8,547.50"
     },
     "Trade 6": {
       "Value": "Lohiida Dathinaal",
@@ -21003,9 +21003,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "39,732.34",
+    "Raw Trade Income": "39,316.34",
     "Tariffs": "1.05",
-    "Trade Income": "41,718.96",
+    "Trade Income": "41,282.16",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -22993,7 +22993,7 @@
     },
     "Trade 3": {
       "Value": "Goldmongers",
-      "Trade 3 Value": "8,963.50"
+      "Trade 3 Value": "8,547.50"
     },
     "Trade 4": {
       "Value": "Herzogtum Enzla",
@@ -23043,9 +23043,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "89,056.00",
+    "Raw Trade Income": "88,640.00",
     "Tariffs": "0.75",
-    "Trade Income": "66,792.00",
+    "Trade Income": "66,480.00",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -23515,7 +23515,7 @@
     },
     "Trade 6": {
       "Value": "Goldmongers",
-      "Trade 6 Value": "8,963.50"
+      "Trade 6 Value": "8,547.50"
     },
     "Trade 7": {
       "Value": "Zilvrenskegga",
@@ -23553,9 +23553,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "61,374.59",
+    "Raw Trade Income": "60,958.59",
     "Tariffs": "1.25",
-    "Trade Income": "76,718.23",
+    "Trade Income": "76,198.23",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -24004,16 +24004,16 @@
     "Military Alliances 2": "",
     "Limit": "10",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "City State of Kido",
+      "Trade 1 Value": "24,302.10"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Sri Shimbir",
+      "Trade 2 Value": "4,499.22"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Pataia",
+      "Trade 3 Value": "13,603.13"
     },
     "Trade 4": {
       "Value": "",
@@ -24063,13 +24063,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "42,404.44",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "40,284.22",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "3"
   },
   "The Animal Kingdom": {
     "Nations": "The Animal Kingdom",
