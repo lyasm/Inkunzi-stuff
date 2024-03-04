@@ -152,8 +152,8 @@
       "Trade 4 Value": "12,425.00"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Holy Kingdom of Scripts",
+      "Trade 5 Value": "9,847.50"
     },
     "Trade 6": {
       "Value": "",
@@ -195,13 +195,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "57,763.28",
+    "Raw Trade Income": "67,610.78",
     "Tariffs": "0.95",
-    "Trade Income": "54,875.12",
+    "Trade Income": "64,230.24",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "4"
+    "Trades": "5"
   },
   "Aethyllion Pradesh": {
     "Nations": "Aethyllion Pradesh",
@@ -9286,11 +9286,11 @@
     "Nation Check": "Holy Kingdom of Scripts",
     "Overlord": "",
     "Eco Vassals": "216,421.44",
-    "Eco Over.": "435,516.54",
+    "Eco Over.": "450,499.56",
     "Compare": "136.22%",
     "MP Vassals": "128,095.00",
     "MP Over.": "94,036.25",
-    "20% Total": "37.18%",
+    "20% Total": "36.85%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -9316,8 +9316,8 @@
     "Military Alliances 2": "The Teutā Erwā",
     "Limit": "9",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Frijkland",
+      "Trade 1 Value": "15,771.60"
     },
     "Trade 2": {
       "Value": "Novae Aeseriae",
@@ -9375,13 +9375,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "94,554.25",
+    "Raw Trade Income": "110,325.85",
     "Tariffs": "0.95",
-    "Trade Income": "89,826.54",
+    "Trade Income": "104,809.56",
     "NAPs": "3",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "7"
+    "Trades": "8"
   },
   "Hrvolan Qaris": {
     "Nations": "Hrvolan Qaris",
@@ -18983,10 +18983,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "68.32%",
-    "Base": "68.32%",
-    "Comparison": "37.18%",
-    "Individual": "14.47%",
+    "L. Desire": "67.81%",
+    "Base": "67.81%",
+    "Comparison": "36.85%",
+    "Individual": "14.30%",
     "Friend/Rival": "0.00%",
     "Taxes": "6.67%",
     "Indep War?": "",
@@ -29591,10 +29591,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "54.90%",
-    "Base": "54.90%",
-    "Comparison": "37.18%",
-    "Individual": "22.72%",
+    "L. Desire": "54.41%",
+    "Base": "54.41%",
+    "Comparison": "36.85%",
+    "Individual": "22.56%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
