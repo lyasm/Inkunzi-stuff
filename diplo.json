@@ -13271,10 +13271,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "39.66%",
-    "Base": "39.66%",
-    "Comparison": "16.08%",
-    "Individual": "16.08%",
+    "L. Desire": "39.36%",
+    "Base": "39.36%",
+    "Comparison": "15.93%",
+    "Individual": "15.93%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -13323,7 +13323,7 @@
     },
     "Trade 8": {
       "Value": "The Kingdom of Sk'o'chapr",
-      "Trade 8 Value": "7,173.38"
+      "Trade 8 Value": "5,000.00"
     },
     "Trade 9": {
       "Value": "The Amerian Republic",
@@ -13353,9 +13353,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "69,387.09",
+    "Raw Trade Income": "67,213.71",
     "Tariffs": "1.05",
-    "Trade Income": "72,856.44",
+    "Trade Income": "70,574.40",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -15609,12 +15609,12 @@
     "Nations": "Sri Shimbir",
     "Nation Check": "Sri Shimbir",
     "Overlord": "",
-    "Eco Vassals": "273,000.42",
-    "Eco Over.": "476,307.00",
+    "Eco Vassals": "270,935.71",
+    "Eco Over.": "474,242.29",
     "Compare": "14.04%",
     "MP Vassals": "27,602.44",
     "MP Over.": "196,625.00",
-    "20% Total": "14.27%",
+    "20% Total": "14.23%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -15657,7 +15657,7 @@
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
-      "Trade 5 Value": "7,173.38"
+      "Trade 5 Value": "5,000.00"
     },
     "Trade 6": {
       "Value": "The Statute of Order",
@@ -15699,9 +15699,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "81,985.98",
+    "Raw Trade Income": "79,812.61",
     "Tariffs": "0.95",
-    "Trade Income": "77,886.68",
+    "Trade Income": "75,821.98",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -16779,7 +16779,7 @@
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
-      "Trade 5 Value": "7,173.38"
+      "Trade 5 Value": "5,000.00"
     },
     "Trade 6": {
       "Value": "The Statute of Order",
@@ -16821,9 +16821,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "136,272.51",
+    "Raw Trade Income": "134,099.14",
     "Tariffs": "0.75",
-    "Trade Income": "102,204.38",
+    "Trade Income": "100,574.35",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -19085,10 +19085,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "15.21%",
-    "Base": "15.21%",
-    "Comparison": "14.27%",
-    "Individual": "14.27%",
+    "L. Desire": "15.13%",
+    "Base": "15.13%",
+    "Comparison": "14.23%",
+    "Individual": "14.23%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -19129,7 +19129,7 @@
     },
     "Trade 6": {
       "Value": "The Kingdom of Sk'o'chapr",
-      "Trade 6 Value": "7,173.38"
+      "Trade 6 Value": "5,000.00"
     },
     "Trade 7": {
       "Value": "The Statute of Order",
@@ -19167,9 +19167,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "75,838.33",
+    "Raw Trade Income": "73,664.95",
     "Tariffs": "0.95",
-    "Trade Income": "72,046.41",
+    "Trade Income": "69,981.70",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -24429,7 +24429,7 @@
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
-      "Trade 5 Value": "7,173.38"
+      "Trade 5 Value": "5,000.00"
     },
     "Trade 6": {
       "Value": "Unified Republic of Kaiarau",
@@ -24471,9 +24471,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "43,948.94",
+    "Raw Trade Income": "41,775.57",
     "Tariffs": "0.95",
-    "Trade Income": "41,751.50",
+    "Trade Income": "39,686.79",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -25143,7 +25143,7 @@
     },
     "Trade 5": {
       "Value": "The Kingdom of Sk'o'chapr",
-      "Trade 5 Value": "7,173.38"
+      "Trade 5 Value": "5,000.00"
     },
     "Trade 6": {
       "Value": "The Statute of Order",
@@ -25185,17 +25185,17 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "63,969.58",
+    "Raw Trade Income": "61,796.20",
     "Tariffs": "1.05",
-    "Trade Income": "67,168.06",
+    "Trade Income": "64,886.01",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
     "Trades": "7"
   },
-  "The Kingdom of Sk'o'chapr": {
-    "Nations": "The Kingdom of Sk'o'chapr",
-    "Nation Check": "The Kingdom of Sk'o'chapr",
+  "Te Kohatu Totohu": {
+    "Nations": "Te Kohatu Totohu",
+    "Nation Check": "Te Kohatu Totohu",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -25911,12 +25911,12 @@
     "Nations": "The Statute of Order",
     "Nation Check": "The Statute of Order",
     "Overlord": "",
-    "Eco Vassals": "192,972.01",
+    "Eco Vassals": "190,689.97",
     "Eco Over.": "296,803.91",
     "Compare": "15.39%",
     "MP Vassals": "27,853.81",
     "MP Over.": "180,984.38",
-    "20% Total": "16.08%",
+    "20% Total": "15.93%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
