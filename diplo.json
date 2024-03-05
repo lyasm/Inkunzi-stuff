@@ -3479,10 +3479,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "61.33%",
-    "Base": "61.33%",
-    "Comparison": "29.19%",
-    "Individual": "7.14%",
+    "L. Desire": "61.46%",
+    "Base": "61.46%",
+    "Comparison": "29.29%",
+    "Individual": "7.17%",
     "Friend/Rival": "0.00%",
     "Taxes": "20.00%",
     "Indep War?": "",
@@ -3676,7 +3676,7 @@
     "Nation Check": "Ceridwyn Confederation",
     "Overlord": "",
     "Eco Vassals": "92,160.98",
-    "Eco Over.": "591,653.81",
+    "Eco Over.": "592,082.45",
     "Compare": "28.34%",
     "MP Vassals": "46,827.00",
     "MP Over.": "165,215.53",
@@ -3711,7 +3711,7 @@
     },
     "Trade 2": {
       "Value": "Drionn Galith",
-      "Trade 2 Value": "20,445.00"
+      "Trade 2 Value": "20,896.20"
     },
     "Trade 3": {
       "Value": "The Teutā Erwā",
@@ -3765,9 +3765,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "163,657.04",
+    "Raw Trade Income": "164,108.24",
     "Tariffs": "0.95",
-    "Trade Income": "155,474.19",
+    "Trade Income": "155,902.83",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -3785,10 +3785,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "64.66%",
-    "Base": "64.66%",
-    "Comparison": "29.19%",
-    "Individual": "5.47%",
+    "L. Desire": "64.77%",
+    "Base": "64.77%",
+    "Comparison": "29.29%",
+    "Individual": "5.49%",
     "Friend/Rival": "0.00%",
     "Taxes": "20.00%",
     "Indep War?": "",
@@ -5621,8 +5621,8 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "22.57%",
-    "Base": "22.57%",
+    "L. Desire": "22.56%",
+    "Base": "22.56%",
     "Comparison": "8.78%",
     "Individual": "8.78%",
     "Friend/Rival": "0.00%",
@@ -5818,11 +5818,11 @@
     "Nation Check": "Drionn Galith",
     "Overlord": "",
     "Eco Vassals": "272,331.88",
-    "Eco Over.": "562,883.40",
+    "Eco Over.": "557,135.90",
     "Compare": "97.56%",
     "MP Vassals": "145,711.31",
     "MP Over.": "149,362.25",
-    "20% Total": "29.19%",
+    "20% Total": "29.29%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -6374,8 +6374,8 @@
       "Trade 4 Value": "16,083.90"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "The Teutā Erwā",
+      "Trade 5 Value": "11,415.03"
     },
     "Trade 6": {
       "Value": "",
@@ -6417,13 +6417,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "64,332.80",
+    "Raw Trade Income": "75,747.83",
     "Tariffs": "0.95",
-    "Trade Income": "61,116.16",
+    "Trade Income": "71,960.44",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "4"
+    "Trades": "5"
   },
   "Ewig Republic": {
     "Nations": "Ewig Republic",
@@ -7559,10 +7559,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "63.26%",
-    "Base": "63.26%",
-    "Comparison": "29.19%",
-    "Individual": "16.58%",
+    "L. Desire": "63.42%",
+    "Base": "63.42%",
+    "Comparison": "29.29%",
+    "Individual": "16.63%",
     "Friend/Rival": "0.00%",
     "Taxes": "20.00%",
     "Indep War?": "",
@@ -9286,11 +9286,11 @@
     "Nation Check": "Holy Kingdom of Scripts",
     "Overlord": "",
     "Eco Vassals": "210,776.48",
-    "Eco Over.": "456,631.15",
+    "Eco Over.": "457,059.79",
     "Compare": "136.22%",
     "MP Vassals": "128,095.00",
     "MP Over.": "94,036.25",
-    "20% Total": "36.48%",
+    "20% Total": "36.47%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -9333,7 +9333,7 @@
     },
     "Trade 5": {
       "Value": "Drionn Galith",
-      "Trade 5 Value": "20,445.00"
+      "Trade 5 Value": "20,896.20"
     },
     "Trade 6": {
       "Value": "Neonian Kuningate",
@@ -9375,9 +9375,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "116,780.16",
+    "Raw Trade Income": "117,231.36",
     "Tariffs": "0.95",
-    "Trade Income": "110,941.15",
+    "Trade Income": "111,369.79",
     "NAPs": "3",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -10251,7 +10251,7 @@
     },
     "Trade 5": {
       "Value": "Drionn Galith",
-      "Trade 5 Value": "20,445.00"
+      "Trade 5 Value": "20,896.20"
     },
     "Trade 6": {
       "Value": "",
@@ -10293,9 +10293,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "187,859.64",
+    "Raw Trade Income": "188,310.84",
     "Tariffs": "1.05",
-    "Trade Income": "197,252.62",
+    "Trade Income": "197,726.38",
     "NAPs": "2",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -12711,7 +12711,7 @@
     },
     "Trade 8": {
       "Value": "Drionn Galith",
-      "Trade 8 Value": "20,445.00"
+      "Trade 8 Value": "20,896.20"
     },
     "Trade 9": {
       "Value": "Ceridwyn Confederation",
@@ -12741,9 +12741,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "173,715.06",
+    "Raw Trade Income": "174,166.26",
     "Tariffs": "0.95",
-    "Trade Income": "165,029.30",
+    "Trade Income": "165,457.94",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -13923,7 +13923,7 @@
     },
     "Trade 5": {
       "Value": "Drionn Galith",
-      "Trade 5 Value": "20,445.00"
+      "Trade 5 Value": "20,896.20"
     },
     "Trade 6": {
       "Value": "The Holy Realm of Herkunft",
@@ -13965,9 +13965,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "253,452.99",
+    "Raw Trade Income": "253,904.19",
     "Tariffs": "0.75",
-    "Trade Income": "190,089.75",
+    "Trade Income": "190,428.15",
     "NAPs": "3",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -18364,11 +18364,11 @@
     "Nation Check": "Novae Aeseriae",
     "Overlord": "",
     "Eco Vassals": "121,408.96",
-    "Eco Over.": "276,658.65",
+    "Eco Over.": "277,132.41",
     "Compare": "54.17%",
     "MP Vassals": "52,507.81",
     "MP Over.": "96,923.75",
-    "20% Total": "19.61%",
+    "20% Total": "19.60%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -18415,7 +18415,7 @@
     },
     "Trade 6": {
       "Value": "Drionn Galith",
-      "Trade 6 Value": "20,445.00"
+      "Trade 6 Value": "20,896.20"
     },
     "Trade 7": {
       "Value": "Neonian Kuningate",
@@ -18453,9 +18453,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "100,700.14",
+    "Raw Trade Income": "101,151.34",
     "Tariffs": "1.05",
-    "Trade Income": "105,735.15",
+    "Trade Income": "106,208.91",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -18983,9 +18983,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "67.25%",
-    "Base": "67.25%",
-    "Comparison": "36.48%",
+    "L. Desire": "67.23%",
+    "Base": "67.23%",
+    "Comparison": "36.47%",
     "Individual": "14.10%",
     "Friend/Rival": "0.00%",
     "Taxes": "6.67%",
@@ -22989,7 +22989,7 @@
     },
     "Trade 2": {
       "Value": "Drionn Galith",
-      "Trade 2 Value": "20,445.00"
+      "Trade 2 Value": "20,896.20"
     },
     "Trade 3": {
       "Value": "Goldmongers",
@@ -23043,9 +23043,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "100,809.34",
+    "Raw Trade Income": "101,260.54",
     "Tariffs": "0.75",
-    "Trade Income": "75,607.00",
+    "Trade Income": "75,945.40",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -23369,10 +23369,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "47.56%",
-    "Base": "47.56%",
-    "Comparison": "19.61%",
-    "Individual": "19.61%",
+    "L. Desire": "47.53%",
+    "Base": "47.53%",
+    "Comparison": "19.60%",
+    "Individual": "19.60%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -26116,7 +26116,7 @@
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
     "Eco Vassals": "24,631.37",
-    "Eco Over.": "581,510.22",
+    "Eco Over.": "581,848.62",
     "Compare": "8.23%",
     "MP Vassals": "15,202.34",
     "MP Over.": "184,829.22",
@@ -26159,7 +26159,7 @@
     },
     "Trade 4": {
       "Value": "Drionn Galith",
-      "Trade 4 Value": "20,445.00"
+      "Trade 4 Value": "20,896.20"
     },
     "Trade 5": {
       "Value": "March of Malaqara",
@@ -26205,9 +26205,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "142,674.46",
+    "Raw Trade Income": "143,125.66",
     "Tariffs": "0.75",
-    "Trade Income": "107,005.85",
+    "Trade Income": "107,344.25",
     "NAPs": "3",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -27575,7 +27575,7 @@
     "Limit": "6",
     "Trade 1": {
       "Value": "Drionn Galith",
-      "Trade 1 Value": "20,445.00"
+      "Trade 1 Value": "20,896.20"
     },
     "Trade 2": {
       "Value": "",
@@ -27633,9 +27633,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "20,445.00",
+    "Raw Trade Income": "20,896.20",
     "Tariffs": "1.05",
-    "Trade Income": "21,467.25",
+    "Trade Income": "21,941.01",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -28258,11 +28258,11 @@
     "Nation Check": "WrestleMania",
     "Overlord": "",
     "Eco Vassals": "60,481.19",
-    "Eco Over.": "164,992.39",
-    "Compare": "72.47%",
+    "Eco Over.": "166,642.61",
+    "Compare": "71.81%",
     "MP Vassals": "41,502.40",
-    "MP Over.": "57,265.38",
-    "20% Total": "21.83%",
+    "MP Over.": "57,791.31",
+    "20% Total": "21.62%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -28469,10 +28469,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "38.65%",
-    "Base": "38.65%",
-    "Comparison": "21.83%",
-    "Individual": "21.83%",
+    "L. Desire": "38.24%",
+    "Base": "38.24%",
+    "Comparison": "21.62%",
+    "Individual": "21.62%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -28701,7 +28701,7 @@
     },
     "Trade 2": {
       "Value": "Drionn Galith",
-      "Trade 2 Value": "20,445.00"
+      "Trade 2 Value": "20,896.20"
     },
     "Trade 3": {
       "Value": "Kinh Nam City-State",
@@ -28755,9 +28755,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "136,942.79",
+    "Raw Trade Income": "137,393.99",
     "Tariffs": "1.25",
-    "Trade Income": "171,178.49",
+    "Trade Income": "171,742.49",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -29591,9 +29591,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "53.85%",
-    "Base": "53.85%",
-    "Comparison": "36.48%",
+    "L. Desire": "53.83%",
+    "Base": "53.83%",
+    "Comparison": "36.47%",
     "Individual": "22.37%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
