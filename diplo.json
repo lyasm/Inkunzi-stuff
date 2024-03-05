@@ -5635,7 +5635,7 @@
     "Honor?": "TRUE",
     "Indep.?": "FALSE",
     "Unity?": "FALSE",
-    "Ov. Culture": "Ceridwyn",
+    "Ov. Culture": "Ceridwyn Citizen",
     "Ov. Religion": "Credydd Arianrhodol",
     "Non-aggression Pacts": "Glasrhaidd Republic",
     "Defensive Pacts": "",
@@ -6390,12 +6390,12 @@
       "Trade 8 Value": "3,857.25"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Dinasygan",
+      "Trade 9 Value": "4,300.00"
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": "Herzogtum Enzla",
+      "Trade 10 Value": "10,038.56"
     },
     "Trade 11": {
       "Value": "",
@@ -6417,13 +6417,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "93,450.26",
+    "Raw Trade Income": "107,788.82",
     "Tariffs": "0.95",
-    "Trade Income": "88,777.74",
+    "Trade Income": "102,399.38",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "8"
+    "Trades": "10"
   },
   "Ewig Republic": {
     "Nations": "Ewig Republic",
