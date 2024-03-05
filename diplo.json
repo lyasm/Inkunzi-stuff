@@ -3700,7 +3700,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "The Teutā Erwā",
-    "Defensive Pacts": "Novae Aeseriae",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Svetograd",
     "Military Alliances 2": "Drionn Galith",
@@ -3769,7 +3769,7 @@
     "Tariffs": "0.95",
     "Trade Income": "153,003.11",
     "NAPs": "1",
-    "Def. Pacts": "1",
+    "Def. Pacts": "0",
     "Mil. Pacts": "2",
     "Trades": "11"
   },
@@ -24621,7 +24621,7 @@
     },
     "Trade 2": {
       "Value": "Xriotir",
-      "Trade 2 Value": "2,086.80"
+      "Trade 2 Value": "2,175.60"
     },
     "Trade 3": {
       "Value": "Hanza Trade Republic",
@@ -24644,8 +24644,8 @@
       "Trade 7 Value": "14,159.30"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "Saengba",
+      "Trade 8 Value": "1,642.19"
     },
     "Trade 9": {
       "Value": "",
@@ -24675,13 +24675,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "59,487.66",
+    "Raw Trade Income": "61,218.65",
     "Tariffs": "0.95",
-    "Trade Income": "56,513.28",
+    "Trade Income": "58,157.72",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "7"
+    "Trades": "8"
   },
   "The Grand City of Smmeíaia": {
     "Nations": "The Grand City of Smmeíaia",
@@ -28403,7 +28403,7 @@
     },
     "Trade 4": {
       "Value": "Xriotir",
-      "Trade 4 Value": "2,086.80"
+      "Trade 4 Value": "2,175.60"
     },
     "Trade 5": {
       "Value": "Velken Bulwark",
@@ -28449,9 +28449,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "101,423.99",
+    "Raw Trade Income": "101,512.79",
     "Tariffs": "1.05",
-    "Trade Income": "106,495.19",
+    "Trade Income": "106,588.43",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
