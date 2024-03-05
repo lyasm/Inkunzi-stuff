@@ -859,7 +859,7 @@
     },
     "Trade 3": {
       "Value": "Cleannmor",
-      "Trade 3 Value": "6,171.88"
+      "Trade 3 Value": "6,068.75"
     },
     "Trade 4": {
       "Value": "Tetóth Kegeth",
@@ -871,7 +871,7 @@
     },
     "Trade 6": {
       "Value": "Zilvrenskegga",
-      "Trade 6 Value": "9,624.06"
+      "Trade 6 Value": "10,098.44"
     },
     "Trade 7": {
       "Value": "Scaroasa",
@@ -909,9 +909,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "68,567.32",
+    "Raw Trade Income": "68,938.57",
     "Tariffs": "0.95",
-    "Trade Income": "65,138.95",
+    "Trade Income": "65,491.64",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -1330,11 +1330,11 @@
     "Nation Check": "Amethyst Clan",
     "Overlord": "",
     "Eco Vassals": "160,660.64",
-    "Eco Over.": "314,795.05",
+    "Eco Over.": "280,767.24",
     "Compare": "62.21%",
     "MP Vassals": "92,866.75",
     "MP Over.": "149,290.63",
-    "20% Total": "22.65%",
+    "20% Total": "23.89%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -1372,8 +1372,8 @@
       "Trade 3 Value": "11,839.54"
     },
     "Trade 4": {
-      "Value": "Stryaxina",
-      "Trade 4 Value": "35,818.75"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "Kingdom of Nymeria ",
@@ -1419,13 +1419,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "80,529.66",
+    "Raw Trade Income": "44,710.91",
     "Tariffs": "0.95",
-    "Trade Income": "76,503.18",
+    "Trade Income": "42,475.37",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "7"
+    "Trades": "6"
   },
   "Annakpolis": {
     "Nations": "Annakpolis",
@@ -2087,7 +2087,7 @@
     },
     "Trade 4": {
       "Value": "Cleannmor",
-      "Trade 4 Value": "6,171.88"
+      "Trade 4 Value": "6,068.75"
     },
     "Trade 5": {
       "Value": "Akalikania",
@@ -2095,7 +2095,7 @@
     },
     "Trade 6": {
       "Value": "Zilvrenskegga",
-      "Trade 6 Value": "9,624.06"
+      "Trade 6 Value": "10,098.44"
     },
     "Trade 7": {
       "Value": "",
@@ -2133,9 +2133,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "44,815.43",
+    "Raw Trade Income": "45,186.68",
     "Tariffs": "1.05",
-    "Trade Income": "47,056.21",
+    "Trade Income": "47,446.02",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -2287,7 +2287,7 @@
     },
     "Trade 3": {
       "Value": "Cleannmor",
-      "Trade 3 Value": "6,171.88"
+      "Trade 3 Value": "6,068.75"
     },
     "Trade 4": {
       "Value": "Ashdayn",
@@ -2337,9 +2337,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "31,784.18",
+    "Raw Trade Income": "31,681.06",
     "Tariffs": "1.05",
-    "Trade Income": "33,373.39",
+    "Trade Income": "33,265.11",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -3989,10 +3989,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "28.26%",
-    "Base": "28.26%",
-    "Comparison": "22.65%",
-    "Individual": "7.28%",
+    "L. Desire": "30.03%",
+    "Base": "30.03%",
+    "Comparison": "23.89%",
+    "Individual": "7.82%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -4735,7 +4735,7 @@
     },
     "Trade 3": {
       "Value": "Zilvrenskegga",
-      "Trade 3 Value": "9,624.06"
+      "Trade 3 Value": "10,098.44"
     },
     "Trade 4": {
       "Value": "Goldmongers",
@@ -4785,9 +4785,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "51,657.92",
+    "Raw Trade Income": "52,132.30",
     "Tariffs": "1.25",
-    "Trade Income": "64,572.40",
+    "Trade Income": "65,165.37",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -5009,10 +5009,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "15.04%",
-    "Base": "15.04%",
-    "Comparison": "16.99%",
-    "Individual": "7.88%",
+    "L. Desire": "15.36%",
+    "Base": "15.36%",
+    "Comparison": "17.21%",
+    "Individual": "7.99%",
     "Friend/Rival": "0.00%",
     "Taxes": "-2.33%",
     "Indep War?": "No",
@@ -7917,7 +7917,7 @@
     },
     "Trade 8": {
       "Value": "Cleannmor",
-      "Trade 8 Value": "6,171.88"
+      "Trade 8 Value": "6,068.75"
     },
     "Trade 9": {
       "Value": "",
@@ -7947,9 +7947,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "60,191.48",
+    "Raw Trade Income": "60,088.36",
     "Tariffs": "0.95",
-    "Trade Income": "57,181.91",
+    "Trade Income": "57,083.94",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -14837,7 +14837,7 @@
     },
     "Trade 4": {
       "Value": "Cleannmor",
-      "Trade 4 Value": "6,171.88"
+      "Trade 4 Value": "6,068.75"
     },
     "Trade 5": {
       "Value": "Royal City of Gevero",
@@ -14883,9 +14883,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "49,538.13",
+    "Raw Trade Income": "49,435.01",
     "Tariffs": "0.95",
-    "Trade Income": "47,061.22",
+    "Trade Income": "46,963.26",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -15139,7 +15139,7 @@
     },
     "Trade 3": {
       "Value": "Cleannmor",
-      "Trade 3 Value": "6,171.88"
+      "Trade 3 Value": "6,068.75"
     },
     "Trade 4": {
       "Value": "",
@@ -15189,9 +15189,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "22,518.00",
+    "Raw Trade Income": "22,414.88",
     "Tariffs": "0.95",
-    "Trade Income": "21,392.10",
+    "Trade Income": "21,294.13",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -20340,8 +20340,8 @@
       "Trade 2 Value": "22,621.65"
     },
     "Trade 3": {
-      "Value": "Stryaxina",
-      "Trade 3 Value": "35,818.75"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "Maa",
@@ -20391,13 +20391,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "205,489.28",
+    "Raw Trade Income": "169,670.53",
     "Tariffs": "0.95",
-    "Trade Income": "195,214.82",
+    "Trade Income": "161,187.00",
     "NAPs": "4",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "10"
+    "Trades": "9"
   },
   "Republic of Rostora": {
     "Nations": "Republic of Rostora",
@@ -21635,10 +21635,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "22.11%",
-    "Base": "22.11%",
-    "Comparison": "16.99%",
-    "Individual": "9.12%",
+    "L. Desire": "22.42%",
+    "Base": "22.42%",
+    "Comparison": "17.21%",
+    "Individual": "9.21%",
     "Friend/Rival": "0.00%",
     "Taxes": "-4.00%",
     "Indep War?": "No",
@@ -22852,11 +22852,11 @@
     "Nation Check": "Stryaxina",
     "Overlord": "",
     "Eco Vassals": "645,207.09",
-    "Eco Over.": "1,038,339.46",
+    "Eco Over.": "1,020,906.96",
     "Compare": "22.83%",
     "MP Vassals": "161,667.75",
     "MP Over.": "708,107.81",
-    "20% Total": "16.99%",
+    "20% Total": "17.21%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22910,8 +22910,8 @@
       "Trade 7 Value": ""
     },
     "Trade 8": {
-      "Value": "Republic of Nymaró",
-      "Trade 8 Value": "18,350.00"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
       "Value": "Tort Uli Xaliq",
@@ -22941,13 +22941,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "101,590.88",
+    "Raw Trade Income": "83,240.88",
     "Tariffs": "0.95",
-    "Trade Income": "96,511.33",
+    "Trade Income": "79,078.83",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "9"
+    "Trades": "8"
   },
   "Svetograd": {
     "Nations": "Svetograd",
@@ -23519,7 +23519,7 @@
     },
     "Trade 7": {
       "Value": "Zilvrenskegga",
-      "Trade 7 Value": "9,624.06"
+      "Trade 7 Value": "10,098.44"
     },
     "Trade 8": {
       "Value": "",
@@ -23553,9 +23553,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "55,266.09",
+    "Raw Trade Income": "55,740.46",
     "Tariffs": "1.25",
-    "Trade Income": "69,082.61",
+    "Trade Income": "69,675.58",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -25409,10 +25409,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "39.69%",
-    "Base": "39.69%",
-    "Comparison": "22.65%",
-    "Individual": "15.37%",
+    "L. Desire": "41.62%",
+    "Base": "41.62%",
+    "Comparison": "23.89%",
+    "Individual": "16.07%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
