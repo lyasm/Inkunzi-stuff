@@ -2969,10 +2969,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "61.79%",
-    "Base": "61.79%",
-    "Comparison": "57.12%",
-    "Individual": "12.18%",
+    "L. Desire": "61.87%",
+    "Base": "61.87%",
+    "Comparison": "57.18%",
+    "Individual": "12.19%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -3275,10 +3275,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "15.08%",
-    "Base": "15.08%",
-    "Comparison": "2.54%",
-    "Individual": "2.54%",
+    "L. Desire": "14.91%",
+    "Base": "14.91%",
+    "Comparison": "2.46%",
+    "Individual": "2.46%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -3676,11 +3676,11 @@
     "Nation Check": "Ceridwyn Confederation",
     "Overlord": "",
     "Eco Vassals": "133,168.40",
-    "Eco Over.": "637,331.77",
-    "Compare": "28.58%",
+    "Eco Over.": "595,197.37",
+    "Compare": "31.11%",
     "MP Vassals": "47,223.00",
-    "MP Over.": "165,215.53",
-    "20% Total": "9.90%",
+    "MP Over.": "151,788.66",
+    "20% Total": "10.70%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -3726,7 +3726,7 @@
       "Trade 5 Value": "10,950.94"
     },
     "Trade 6": {
-      "Value": "Novae Aeseriae",
+      "Value": "Imperium Novae Aeseriae",
       "Trade 6 Value": "12,399.01"
     },
     "Trade 7": {
@@ -3887,9 +3887,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "10.04%",
-    "Base": "10.04%",
-    "Comparison": "2.54%",
+    "L. Desire": "9.96%",
+    "Base": "9.96%",
+    "Comparison": "2.46%",
     "Individual": "0.00%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -4499,10 +4499,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "67.01%",
-    "Base": "67.01%",
-    "Comparison": "57.12%",
-    "Individual": "17.39%",
+    "L. Desire": "67.09%",
+    "Base": "67.09%",
+    "Comparison": "57.18%",
+    "Individual": "17.41%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -5009,10 +5009,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "15.44%",
-    "Base": "15.44%",
-    "Comparison": "17.26%",
-    "Individual": "8.02%",
+    "L. Desire": "15.48%",
+    "Base": "15.48%",
+    "Comparison": "17.28%",
+    "Individual": "8.03%",
     "Friend/Rival": "0.00%",
     "Taxes": "-2.33%",
     "Indep War?": "No",
@@ -5621,10 +5621,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "24.79%",
-    "Base": "24.79%",
-    "Comparison": "9.90%",
-    "Individual": "9.90%",
+    "L. Desire": "26.39%",
+    "Base": "26.39%",
+    "Comparison": "10.70%",
+    "Individual": "10.70%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -5767,7 +5767,7 @@
     },
     "Trade 6": {
       "Value": "Nournourlant",
-      "Trade 6 Value": "7,575.00"
+      "Trade 6 Value": "5,681.25"
     },
     "Trade 7": {
       "Value": "Kingdom of Mimgrond",
@@ -5805,9 +5805,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "208,121.01",
+    "Raw Trade Income": "206,227.26",
     "Tariffs": "0.95",
-    "Trade Income": "197,714.96",
+    "Trade Income": "195,915.89",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -5872,7 +5872,7 @@
       "Trade 6 Value": "10,038.56"
     },
     "Trade 7": {
-      "Value": "Novae Aeseriae",
+      "Value": "Imperium Novae Aeseriae",
       "Trade 7 Value": "12,399.01"
     },
     "Trade 8": {
@@ -6461,7 +6461,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Nournourlant",
-      "Trade 1 Value": "7,575.00"
+      "Trade 1 Value": "5,681.25"
     },
     "Trade 2": {
       "Value": "Zalmoxia",
@@ -6480,7 +6480,7 @@
       "Trade 5 Value": "5,440.63"
     },
     "Trade 6": {
-      "Value": "Novae Aeseriae",
+      "Value": "Imperium Novae Aeseriae",
       "Trade 6 Value": "12,399.01"
     },
     "Trade 7": {
@@ -6519,9 +6519,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "64,280.90",
+    "Raw Trade Income": "62,387.15",
     "Tariffs": "1.05",
-    "Trade Income": "67,494.94",
+    "Trade Income": "65,506.50",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -8928,7 +8928,7 @@
       "Trade 5 Value": "21,554.20"
     },
     "Trade 6": {
-      "Value": "Novae Aeseriae",
+      "Value": "Imperium Novae Aeseriae",
       "Trade 6 Value": "12,399.01"
     },
     "Trade 7": {
@@ -12698,7 +12698,7 @@
       "Trade 4 Value": "48,396.56"
     },
     "Trade 5": {
-      "Value": "Novae Aeseriae",
+      "Value": "Imperium Novae Aeseriae",
       "Trade 5 Value": "12,399.01"
     },
     "Trade 6": {
@@ -13365,12 +13365,12 @@
     "Nations": "Kingdom of Mimgrond",
     "Nation Check": "Kingdom of Mimgrond",
     "Overlord": "",
-    "Eco Vassals": "2,146,261.71",
-    "Eco Over.": "864,876.29",
-    "Compare": "139.99%",
-    "MP Vassals": "313,035.59",
+    "Eco Vassals": "2,154,867.02",
+    "Eco Over.": "862,509.10",
+    "Compare": "141.47%",
+    "MP Vassals": "316,335.59",
     "MP Over.": "223,612.31",
-    "20% Total": "77.63%",
+    "20% Total": "78.26%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -13417,7 +13417,7 @@
     },
     "Trade 6": {
       "Value": "Nournourlant",
-      "Trade 6 Value": "7,575.00"
+      "Trade 6 Value": "5,681.25"
     },
     "Trade 7": {
       "Value": "The Animal Kingdom",
@@ -13455,9 +13455,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "383,459.39",
+    "Raw Trade Income": "381,565.64",
     "Tariffs": "1.25",
-    "Trade Income": "479,324.24",
+    "Trade Income": "476,957.05",
     "NAPs": "8",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -13577,10 +13577,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "81.52%",
-    "Base": "81.52%",
-    "Comparison": "57.12%",
-    "Individual": "17.73%",
+    "L. Desire": "81.60%",
+    "Base": "81.60%",
+    "Comparison": "57.18%",
+    "Individual": "17.75%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
@@ -16146,7 +16146,7 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Novae Aeseriae",
+    "Military Alliances": "Imperium Novae Aeseriae",
     "Military Alliances 2": "",
     "Limit": "11",
     "Trade 1": {
@@ -16528,11 +16528,11 @@
     "Nation Check": "Meadoia Dynasty",
     "Overlord": "",
     "Eco Vassals": "1,885,056.61",
-    "Eco Over.": "937,183.04",
+    "Eco Over.": "935,762.73",
     "Compare": "84.45%",
     "MP Vassals": "184,573.63",
     "MP Over.": "218,566.56",
-    "20% Total": "57.12%",
+    "20% Total": "57.18%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -16591,7 +16591,7 @@
     },
     "Trade 9": {
       "Value": "Nournourlant",
-      "Trade 9 Value": "7,575.00"
+      "Trade 9 Value": "5,681.25"
     },
     "Trade 10": {
       "Value": "",
@@ -16617,9 +16617,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "137,604.72",
+    "Raw Trade Income": "135,710.97",
     "Tariffs": "0.75",
-    "Trade Income": "103,203.54",
+    "Trade Income": "101,783.23",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -17983,10 +17983,10 @@
     "Defensive Pacts": "Terrum Aetheri",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
-    "Military Alliances 2": "Novae Aeseriae",
+    "Military Alliances 2": "Imperium Novae Aeseriae",
     "Limit": "11",
     "Trade 1": {
-      "Value": "Novae Aeseriae",
+      "Value": "Imperium Novae Aeseriae",
       "Trade 1 Value": "12,399.01"
     },
     "Trade 2": {
@@ -18269,10 +18269,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "97.55%",
-    "Base": "97.55%",
-    "Comparison": "77.63%",
-    "Individual": "21.59%",
+    "L. Desire": "98.77%",
+    "Base": "98.77%",
+    "Comparison": "78.26%",
+    "Individual": "22.18%",
     "Friend/Rival": "0.00%",
     "Taxes": "-1.67%",
     "Indep War?": "",
@@ -18359,9 +18359,9 @@
     "Mil. Pacts": "0",
     "Trades": "6"
   },
-  "Novae Aeseriae": {
-    "Nations": "Novae Aeseriae",
-    "Nation Check": "Novae Aeseriae",
+  "Imperium Novae Aeseriae": {
+    "Nations": "Imperium Novae Aeseriae",
+    "Nation Check": "Imperium Novae Aeseriae",
     "Overlord": "",
     "Eco Vassals": "121,093.29",
     "Eco Over.": "255,166.69",
@@ -21635,10 +21635,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "22.50%",
-    "Base": "22.50%",
-    "Comparison": "17.26%",
-    "Individual": "9.24%",
+    "L. Desire": "22.54%",
+    "Base": "22.54%",
+    "Comparison": "17.28%",
+    "Individual": "9.25%",
     "Friend/Rival": "0.00%",
     "Taxes": "-4.00%",
     "Indep War?": "No",
@@ -22852,11 +22852,11 @@
     "Nation Check": "Stryaxina",
     "Overlord": "",
     "Eco Vassals": "644,602.98",
-    "Eco Over.": "1,015,641.31",
+    "Eco Over.": "1,013,842.25",
     "Compare": "22.83%",
     "MP Vassals": "161,667.75",
     "MP Over.": "708,107.81",
-    "20% Total": "17.26%",
+    "20% Total": "17.28%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22923,7 +22923,7 @@
     },
     "Trade 11": {
       "Value": "Nournourlant",
-      "Trade 11 Value": "7,575.00"
+      "Trade 11 Value": "5,681.25"
     },
     "Trade 12": {
       "Value": "",
@@ -22941,9 +22941,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "77,698.09",
+    "Raw Trade Income": "75,804.34",
     "Tariffs": "0.95",
-    "Trade Income": "73,813.19",
+    "Trade Income": "72,014.13",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -23360,7 +23360,7 @@
   "Terrum Aetheri": {
     "Nations": "Terrum Aetheri",
     "Nation Check": "Terrum Aetheri",
-    "Overlord": "Novae Aeseriae",
+    "Overlord": "Imperium Novae Aeseriae",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
@@ -23396,7 +23396,7 @@
       "Trade 1 Value": ""
     },
     "Trade 2": {
-      "Value": "Novae Aeseriae",
+      "Value": "Imperium Novae Aeseriae",
       "Trade 2 Value": "12,399.01"
     },
     "Trade 3": {
@@ -23797,14 +23797,14 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Commonwealth of Gonaria",
     "Military Alliances": "",
-    "Military Alliances 2": "Novae Aeseriae",
+    "Military Alliances 2": "Imperium Novae Aeseriae",
     "Limit": "5",
     "Trade 1": {
       "Value": "Vedebbi Stellar Domain",
       "Trade 1 Value": "3,498.75"
     },
     "Trade 2": {
-      "Value": "Novae Aeseriae",
+      "Value": "Imperium Novae Aeseriae",
       "Trade 2 Value": "12,399.01"
     },
     "Trade 3": {
@@ -24083,10 +24083,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "79.58%",
-    "Base": "79.58%",
-    "Comparison": "77.63%",
-    "Individual": "18.95%",
+    "L. Desire": "80.25%",
+    "Base": "80.25%",
+    "Comparison": "78.26%",
+    "Individual": "18.99%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -25001,10 +25001,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "110.65%",
-    "Base": "110.65%",
-    "Comparison": "77.63%",
-    "Individual": "18.02%",
+    "L. Desire": "111.27%",
+    "Base": "111.27%",
+    "Comparison": "78.26%",
+    "Individual": "18.01%",
     "Friend/Rival": "0.00%",
     "Taxes": "10.00%",
     "Indep War?": "",
@@ -25025,7 +25025,7 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Nournourlant",
-      "Trade 1 Value": "7,575.00"
+      "Trade 1 Value": "5,681.25"
     },
     "Trade 2": {
       "Value": "Kingdom of Mimgrond",
@@ -25083,9 +25083,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "254,016.79",
+    "Raw Trade Income": "252,123.04",
     "Tariffs": "1.25",
-    "Trade Income": "317,520.98",
+    "Trade Income": "315,153.80",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -26116,11 +26116,11 @@
     "Nation Check": "The Teutā Erwā",
     "Overlord": "",
     "Eco Vassals": "31,149.91",
-    "Eco Over.": "589,324.47",
-    "Compare": "7.42%",
+    "Eco Over.": "629,405.72",
+    "Compare": "7.33%",
     "MP Vassals": "13,744.84",
-    "MP Over.": "185,266.47",
-    "20% Total": "2.54%",
+    "MP Over.": "187,543.81",
+    "20% Total": "2.46%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -26154,7 +26154,7 @@
       "Trade 2 Value": "10,478.00"
     },
     "Trade 3": {
-      "Value": "Novae Aeseriae",
+      "Value": "Imperium Novae Aeseriae",
       "Trade 3 Value": "12,399.01"
     },
     "Trade 4": {
@@ -27449,10 +27449,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "67.44%",
-    "Base": "67.44%",
-    "Comparison": "57.12%",
-    "Individual": "9.82%",
+    "L. Desire": "67.51%",
+    "Base": "67.51%",
+    "Comparison": "57.18%",
+    "Individual": "9.83%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -28877,10 +28877,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "108.36%",
-    "Base": "108.36%",
-    "Comparison": "77.63%",
-    "Individual": "19.07%",
+    "L. Desire": "109.02%",
+    "Base": "109.02%",
+    "Comparison": "78.26%",
+    "Individual": "19.09%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
