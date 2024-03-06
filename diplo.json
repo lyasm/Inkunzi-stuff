@@ -172,8 +172,8 @@
       "Trade 9 Value": ""
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": "Goldmongers",
+      "Trade 10 Value": "8,547.50"
     },
     "Trade 11": {
       "Value": "",
@@ -195,13 +195,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "58,366.42",
+    "Raw Trade Income": "66,913.92",
     "Tariffs": "0.95",
-    "Trade Income": "55,448.10",
+    "Trade Income": "63,568.22",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "7"
+    "Trades": "8"
   },
   "Aethyllion Pradesh": {
     "Nations": "Aethyllion Pradesh",
@@ -7888,8 +7888,8 @@
     "Military Alliances 2": "",
     "Limit": "10",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Frijkland",
+      "Trade 1 Value": "16,647.80"
     },
     "Trade 2": {
       "Value": "Jýldar",
@@ -7947,13 +7947,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "60,088.36",
+    "Raw Trade Income": "76,736.16",
     "Tariffs": "0.95",
-    "Trade Income": "57,083.94",
+    "Trade Income": "72,899.35",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "7"
+    "Trades": "8"
   },
   "Gramantinia": {
     "Nations": "Gramantinia",
@@ -12780,7 +12780,7 @@
     "Non-aggression Pacts": "Alonissos, Daoquia, Ilikiou, Skullantium, FOW, Cadentis ",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Atlas'ii",
-    "Military Alliances": "Uqhuma Killa",
+    "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "11",
     "Trade 1": {
@@ -12848,7 +12848,7 @@
     "Trade Income": "449,793.70",
     "NAPs": "6",
     "Def. Pacts": "1",
-    "Mil. Pacts": "1",
+    "Mil. Pacts": "0",
     "Trades": "10"
   },
   "Kingdom of Gloria": {
@@ -27672,7 +27672,7 @@
     "Non-aggression Pacts": "Jörðnar, Geshud, Galdukatu, Rausūn Cayharama, skullantium, Alonissos isles, Daoquia, Jalin, Federation of the winds, Ilikiu'foriris, Holy Kingdom of Duloque, Aethyrrajyam, Litovai Imperiu",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Kingdom of Geloía",
+    "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "13",
     "Trade 1": {
@@ -27740,7 +27740,7 @@
     "Trade Income": "540,859.90",
     "NAPs": "13",
     "Def. Pacts": "0",
-    "Mil. Pacts": "1",
+    "Mil. Pacts": "0",
     "Trades": "13"
   },
   "Vantiran Dual Monarchy": {
