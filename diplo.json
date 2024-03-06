@@ -144,7 +144,7 @@
       "Trade 2 Value": "8,537.26"
     },
     "Trade 3": {
-      "Value": "The Teutā Erwā",
+      "Value": "Hrēgdom of the Erwā",
       "Trade 3 Value": "11,645.91"
     },
     "Trade 4": {
@@ -2145,12 +2145,12 @@
     "Nations": "Atlas'ii",
     "Nation Check": "Atlas'ii",
     "Overlord": "",
-    "Eco Vassals": "1,191,224.55",
+    "Eco Vassals": "1,163,009.55",
     "Eco Over.": "401,755.63",
-    "Compare": "249.99%",
-    "MP Vassals": "451,349.11",
+    "Compare": "239.71%",
+    "MP Vassals": "432,786.61",
     "MP Over.": "180,547.81",
-    "20% Total": "109.30%",
+    "20% Total": "105.84%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -2765,10 +2765,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "177.94%",
-    "Base": "177.94%",
-    "Comparison": "109.30%",
-    "Individual": "60.31%",
+    "L. Desire": "171.02%",
+    "Base": "171.02%",
+    "Comparison": "105.84%",
+    "Individual": "56.85%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -3266,7 +3266,7 @@
   "March of Malaqara": {
     "Nations": "March of Malaqara",
     "Nation Check": "March of Malaqara",
-    "Overlord": "The Teutā Erwā",
+    "Overlord": "Hrēgdom of the Erwā",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
@@ -3275,8 +3275,8 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "14.91%",
-    "Base": "14.91%",
+    "L. Desire": "14.92%",
+    "Base": "14.92%",
     "Comparison": "2.46%",
     "Individual": "2.46%",
     "Friend/Rival": "0.00%",
@@ -3298,7 +3298,7 @@
     "Military Alliances 2": "",
     "Limit": "4",
     "Trade 1": {
-      "Value": "The Teutā Erwā",
+      "Value": "Hrēgdom of the Erwā",
       "Trade 1 Value": "11,645.91"
     },
     "Trade 2": {
@@ -3699,7 +3699,7 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "The Teutā Erwā",
+    "Non-aggression Pacts": "Hrēgdom of the Erwā",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Svetograd",
@@ -3714,7 +3714,7 @@
       "Trade 2 Value": "21,554.20"
     },
     "Trade 3": {
-      "Value": "The Teutā Erwā",
+      "Value": "Hrēgdom of the Erwā",
       "Trade 3 Value": "11,645.91"
     },
     "Trade 4": {
@@ -3878,7 +3878,7 @@
   "Chernkov": {
     "Nations": "Chernkov",
     "Nation Check": "Chernkov",
-    "Overlord": "The Teutā Erwā",
+    "Overlord": "Hrēgdom of the Erwā",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
@@ -5864,7 +5864,7 @@
       "Trade 4 Value": "28,177.30"
     },
     "Trade 5": {
-      "Value": "The Teutā Erwā",
+      "Value": "Hrēgdom of the Erwā",
       "Trade 5 Value": "11,645.91"
     },
     "Trade 6": {
@@ -6233,9 +6233,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "24.85%",
-    "Base": "24.85%",
-    "Comparison": "11.17%",
+    "L. Desire": "29.64%",
+    "Base": "29.64%",
+    "Comparison": "15.97%",
     "Individual": "11.17%",
     "Friend/Rival": "0.00%",
     "Taxes": "12.50%",
@@ -6374,7 +6374,7 @@
       "Trade 4 Value": "16,083.90"
     },
     "Trade 5": {
-      "Value": "The Teutā Erwā",
+      "Value": "Hrēgdom of the Erwā",
       "Trade 5 Value": "11,645.91"
     },
     "Trade 6": {
@@ -8932,8 +8932,8 @@
       "Trade 6 Value": "12,399.01"
     },
     "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
+      "Value": "Hrēgdom of the Erwā",
+      "Trade 7 Value": "11,645.91"
     },
     "Trade 8": {
       "Value": "",
@@ -8967,13 +8967,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "81,739.27",
+    "Raw Trade Income": "93,385.18",
     "Tariffs": "0.75",
-    "Trade Income": "61,304.45",
+    "Trade Income": "70,038.89",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
-    "Trades": "6"
+    "Trades": "7"
   },
   "High City of Tirsil": {
     "Nations": "High City of Tirsil",
@@ -9313,7 +9313,7 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Herzogtum Enzla",
     "Military Alliances": "Neonian Kuningate",
-    "Military Alliances 2": "The Teutā Erwā",
+    "Military Alliances 2": "Hrēgdom of the Erwā",
     "Limit": "9",
     "Trade 1": {
       "Value": "Frijkland",
@@ -9328,7 +9328,7 @@
       "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "The Teutā Erwā",
+      "Value": "Hrēgdom of the Erwā",
       "Trade 4 Value": "11,645.91"
     },
     "Trade 5": {
@@ -11018,31 +11018,31 @@
   "Jubal'on": {
     "Nations": "Jubal'on",
     "Nation Check": "Jubal'on",
-    "Overlord": "",
+    "Overlord": "Stratavia",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
     "MP Vassals": "",
     "MP Over.": "",
     "20% Total": "",
-    "Vassal Type": "",
+    "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "0.00%",
-    "Individual": "",
+    "L. Desire": "15.76%",
+    "Base": "15.76%",
+    "Comparison": "15.97%",
+    "Individual": "4.79%",
     "Friend/Rival": "0.00%",
-    "Taxes": "",
+    "Taxes": "-5.00%",
     "Indep War?": "",
-    "Autonomy": "",
-    "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
+    "Autonomy": "Both",
+    "Threshold": "100.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "Gave’",
+    "Ov. Religion": "Followers of Our Blessed Lady",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
@@ -12702,7 +12702,7 @@
       "Trade 5 Value": "12,399.01"
     },
     "Trade 6": {
-      "Value": "The Teutā Erwā",
+      "Value": "Hrēgdom of the Erwā",
       "Trade 6 Value": "11,645.91"
     },
     "Trade 7": {
@@ -16229,9 +16229,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "120.01%",
-    "Base": "120.01%",
-    "Comparison": "109.30%",
+    "L. Desire": "116.55%",
+    "Base": "116.55%",
+    "Comparison": "105.84%",
     "Individual": "18.21%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -17657,9 +17657,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "125.01%",
-    "Base": "125.01%",
-    "Comparison": "109.30%",
+    "L. Desire": "121.55%",
+    "Base": "121.55%",
+    "Comparison": "105.84%",
     "Individual": "5.71%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -21043,10 +21043,10 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Yeotang",
-    "Military Alliances 2": "The Teutā Erwā",
+    "Military Alliances 2": "Hrēgdom of the Erwā",
     "Limit": "6",
     "Trade 1": {
-      "Value": "The Teutā Erwā",
+      "Value": "Hrēgdom of the Erwā",
       "Trade 1 Value": "11,645.91"
     },
     "Trade 2": {
@@ -22749,12 +22749,12 @@
     "Nations": "Stratavia",
     "Nation Check": "Stratavia",
     "Overlord": "",
-    "Eco Vassals": "150,231.58",
+    "Eco Vassals": "211,004.39",
     "Eco Over.": "815,707.83",
-    "Compare": "37.45%",
-    "MP Vassals": "65,202.34",
+    "Compare": "53.97%",
+    "MP Vassals": "93,974.22",
     "MP Over.": "174,126.56",
-    "20% Total": "11.17%",
+    "20% Total": "15.97%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -23000,7 +23000,7 @@
       "Trade 4 Value": "10,038.56"
     },
     "Trade 5": {
-      "Value": "The Teutā Erwā",
+      "Value": "Hrēgdom of the Erwā",
       "Trade 5 Value": "11,645.91"
     },
     "Trade 6": {
@@ -26111,12 +26111,12 @@
     "Mil. Pacts": "1",
     "Trades": "6"
   },
-  "The Teutā Erwā": {
-    "Nations": "The Teutā Erwā",
-    "Nation Check": "The Teutā Erwā",
+  "Hrēgdom of the Erwā": {
+    "Nations": "Hrēgdom of the Erwā",
+    "Nation Check": "Hrēgdom of the Erwā",
     "Overlord": "",
     "Eco Vassals": "31,149.91",
-    "Eco Over.": "629,405.72",
+    "Eco Over.": "627,635.39",
     "Compare": "7.33%",
     "MP Vassals": "13,744.84",
     "MP Over.": "187,543.81",
@@ -26141,7 +26141,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "Yeotang, Ceridwyn Seneth, Unconquered Suns",
     "Defensive Pacts": "Yeotang",
-    "Defensive Pacts 2": "",
+    "Defensive Pacts 2": "Ceridwyn Confederation",
     "Military Alliances": "Holy Kingdom of Scripts",
     "Military Alliances 2": "Aishokae Kiryaxolne",
     "Limit": "11",
@@ -26154,8 +26154,8 @@
       "Trade 2 Value": "10,478.00"
     },
     "Trade 3": {
-      "Value": "Imperium Novae Aeseriae",
-      "Trade 3 Value": "12,399.01"
+      "Value": "Herzogtum Enzla",
+      "Trade 3 Value": "10,038.56"
     },
     "Trade 4": {
       "Value": "Drionn Galith",
@@ -26205,11 +26205,11 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "145,611.63",
+    "Raw Trade Income": "143,251.18",
     "Tariffs": "0.75",
-    "Trade Income": "109,208.72",
+    "Trade Income": "107,438.39",
     "NAPs": "3",
-    "Def. Pacts": "1",
+    "Def. Pacts": "2",
     "Mil. Pacts": "2",
     "Trades": "11"
   },
@@ -26939,9 +26939,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "134.37%",
-    "Base": "134.37%",
-    "Comparison": "109.30%",
+    "L. Desire": "130.91%",
+    "Base": "130.91%",
+    "Comparison": "105.84%",
     "Individual": "25.07%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -28690,7 +28690,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "The Teutā Erwā",
+    "Defensive Pacts": "Hrēgdom of the Erwā",
     "Defensive Pacts 2": "Drionn Galith",
     "Military Alliances": "Aishokae Kiryaxolne",
     "Military Alliances 2": "",
@@ -28716,7 +28716,7 @@
       "Trade 5 Value": "12,425.00"
     },
     "Trade 6": {
-      "Value": "The Teutā Erwā",
+      "Value": "Hrēgdom of the Erwā",
       "Trade 6 Value": "11,645.91"
     },
     "Trade 7": {
