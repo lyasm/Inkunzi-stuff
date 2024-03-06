@@ -17982,7 +17982,7 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "Terrum Aetheri",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Holy Kingdom of Scripts",
+    "Military Alliances": "",
     "Military Alliances 2": "Novae Aeseriae",
     "Limit": "11",
     "Trade 1": {
@@ -17990,8 +17990,8 @@
       "Trade 1 Value": "12,399.01"
     },
     "Trade 2": {
-      "Value": "Holy Kingdom of Scripts",
-      "Trade 2 Value": "4,981.13"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
       "Value": "",
@@ -18045,13 +18045,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "17,380.14",
+    "Raw Trade Income": "12,399.01",
     "Tariffs": "0.75",
-    "Trade Income": "13,035.10",
+    "Trade Income": "9,299.26",
     "NAPs": "0",
     "Def. Pacts": "1",
-    "Mil. Pacts": "2",
-    "Trades": "2"
+    "Mil. Pacts": "1",
+    "Trades": "1"
   },
   "Netsanet Republic": {
     "Nations": "Netsanet Republic",
