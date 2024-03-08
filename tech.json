@@ -854,7 +854,7 @@
     "Age": "Fall of the Crown",
     "Type": "Agriculture",
     "Difficulty": "Easy",
-    "Req 1": "Watermill",
+    "Req 1": "Colonate System",
     "Req 2": null,
     "Req 3": null,
     "Req 4": null
@@ -1014,7 +1014,7 @@
     "Age": "Fall of the Crown",
     "Type": "Infrastructure",
     "Difficulty": "Easy",
-    "Req 1": "Merchant Guilds",
+    "Req 1": "Public Warehouses",
     "Req 2": null,
     "Req 3": null,
     "Req 4": null
