@@ -748,5 +748,365 @@
     "Req 2": "Standardized Coinage",
     "Req 3": null,
     "Req 4": null
+  },
+  "Common Weights & Measures": {
+    "Technology": "Common Weights & Measures",
+    "Age": "Fall of the Crown",
+    "Type": "Cultural",
+    "Difficulty": "Easy",
+    "Req 1": "Paper and Ink Records",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Common Currency": {
+    "Technology": "Common Currency",
+    "Age": "Fall of the Crown",
+    "Type": "Cultural",
+    "Difficulty": "Easy",
+    "Req 1": "Paper and Ink Records",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Denominational System": {
+    "Technology": "Denominational System",
+    "Age": "Fall of the Crown",
+    "Type": "Cultural",
+    "Difficulty": "Easy",
+    "Req 1": "Paper and Ink Records",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Census": {
+    "Technology": "Census",
+    "Age": "Fall of the Crown",
+    "Type": "Cultural",
+    "Difficulty": "Challenging",
+    "Req 1": "Common Weights & Measures",
+    "Req 2": "Common Currency",
+    "Req 3": "Denominational System",
+    "Req 4": null
+  },
+  "Pronoia": {
+    "Technology": "Pronoia",
+    "Age": "Fall of the Crown",
+    "Type": "Cultural",
+    "Difficulty": "Challenging",
+    "Req 1": "Census",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Ague Publicus": {
+    "Technology": "Ague Publicus",
+    "Age": "Fall of the Crown",
+    "Type": "Cultural",
+    "Difficulty": "Basic",
+    "Req 1": "Census",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Watermill": {
+    "Technology": "Watermill",
+    "Age": "Fall of the Crown",
+    "Type": "Agriculture",
+    "Difficulty": "Easy",
+    "Req 1": "Estate Farming",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Lumber Sawmill": {
+    "Technology": "Lumber Sawmill",
+    "Age": "Fall of the Crown",
+    "Type": "Agriculture",
+    "Difficulty": "Easy",
+    "Req 1": "Watermill",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Colonate System": {
+    "Technology": "Colonate System",
+    "Age": "Fall of the Crown",
+    "Type": "Agriculture",
+    "Difficulty": "Easy",
+    "Req 1": "Watermill",
+    "Req 2": "Ague Publicus",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Stone Sawmill": {
+    "Technology": "Stone Sawmill",
+    "Age": "Fall of the Crown",
+    "Type": "Agriculture",
+    "Difficulty": "Easy",
+    "Req 1": "Watermill",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Latifunium": {
+    "Technology": "Latifunium",
+    "Age": "Fall of the Crown",
+    "Type": "Agriculture",
+    "Difficulty": "Challenging",
+    "Req 1": "Watermill",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Standing Retinue": {
+    "Technology": "Standing Retinue",
+    "Age": "Fall of the Crown",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "War Horses",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Multi-Decked Ships": {
+    "Technology": "Multi-Decked Ships",
+    "Age": "Fall of the Crown",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "Specialized Ship Design",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Naval Bombardment": {
+    "Technology": "Naval Bombardment",
+    "Age": "Fall of the Crown",
+    "Type": "Warfare",
+    "Difficulty": "Easy",
+    "Req 1": "Multi-Decked Ships",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Lateen Sails": {
+    "Technology": "Lateen Sails",
+    "Age": "Fall of the Crown",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "Multi-Decked Ships",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Magister Miltum": {
+    "Technology": "Magister Miltum",
+    "Age": "Fall of the Crown",
+    "Type": "Warfare",
+    "Difficulty": "Easy",
+    "Req 1": "Standing Retinue",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Lorica Hamata": {
+    "Technology": "Lorica Hamata",
+    "Age": "Fall of the Crown",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "Standing Retinue",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Quarter Rudder": {
+    "Technology": "Quarter Rudder",
+    "Age": "Fall of the Crown",
+    "Type": "Warfare",
+    "Difficulty": "Easy",
+    "Req 1": "Lateen Sails",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Palatine Schools": {
+    "Technology": "Palatine Schools",
+    "Age": "Fall of the Crown",
+    "Type": "Warfare",
+    "Difficulty": "Challenging",
+    "Req 1": "Magister Miltum",
+    "Req 2": "Lorica Hamata",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Lamellar Armor": {
+    "Technology": "Lamellar Armor",
+    "Age": "Fall of the Crown",
+    "Type": "Warfare",
+    "Difficulty": "Difficult",
+    "Req 1": "Lorica Hamata",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Cheiroballistra": {
+    "Technology": "Cheiroballistra",
+    "Age": "Fall of the Crown",
+    "Type": "Warfare",
+    "Difficulty": "Basic",
+    "Req 1": "Lorica Hamata",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Harpax Hook": {
+    "Technology": "Harpax Hook",
+    "Age": "Fall of the Crown",
+    "Type": "Warfare",
+    "Difficulty": "Challenging",
+    "Req 1": "Quarter Rudder",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Volcanic Cement": {
+    "Technology": "Volcanic Cement",
+    "Age": "Fall of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Easy",
+    "Req 1": "City Planning",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Dioptra": {
+    "Technology": "Dioptra",
+    "Age": "Fall of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Easy",
+    "Req 1": "City Planning",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Public Warehouses": {
+    "Technology": "Public Warehouses",
+    "Age": "Fall of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Basic",
+    "Req 1": "Classical Storage",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Paved Roads": {
+    "Technology": "Paved Roads",
+    "Age": "Fall of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Easy",
+    "Req 1": "Dioptra",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Production Lines": {
+    "Technology": "Production Lines",
+    "Age": "Fall of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Challenging",
+    "Req 1": "Merchant Guilds",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Moulded Architecture": {
+    "Technology": "Moulded Architecture",
+    "Age": "Fall of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Easy",
+    "Req 1": "Volcanic Cement",
+    "Req 2": "Paved Roads",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Taberna Shops": {
+    "Technology": "Taberna Shops",
+    "Age": "Fall of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Challenging",
+    "Req 1": "Volcanic Cement",
+    "Req 2": "Paved Roads",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Hypocausta": {
+    "Technology": "Hypocausta",
+    "Age": "Fall of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Challenging",
+    "Req 1": "Moulded Architecture",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Coffered Dome": {
+    "Technology": "Coffered Dome",
+    "Age": "Fall of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Challenging",
+    "Req 1": "Moulded Architecture",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Qanats": {
+    "Technology": "Qanats",
+    "Age": "Fall of the Crown",
+    "Type": "Infrastructure",
+    "Difficulty": "Challenging",
+    "Req 1": "Paved Roads",
+    "Req 2": "Water Sluicing",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Hushing Mining": {
+    "Technology": "Hushing Mining",
+    "Age": "Fall of the Crown",
+    "Type": "Industrial",
+    "Difficulty": "Easy",
+    "Req 1": "Water Mining",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Screw Pump": {
+    "Technology": "Screw Pump",
+    "Age": "Fall of the Crown",
+    "Type": "Industrial",
+    "Difficulty": "Easy",
+    "Req 1": "Water Mining",
+    "Req 2": "Watermill",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Water Sluicing": {
+    "Technology": "Water Sluicing",
+    "Age": "Fall of the Crown",
+    "Type": "Industrial",
+    "Difficulty": "Challenging",
+    "Req 1": "Hushing Mining",
+    "Req 2": "Screw Pump",
+    "Req 3": null,
+    "Req 4": null
+  },
+  "Amalgamation": {
+    "Technology": "Amalgamation",
+    "Age": "Fall of the Crown",
+    "Type": "Industrial",
+    "Difficulty": "Difficult",
+    "Req 1": "Screw Pump",
+    "Req 2": null,
+    "Req 3": null,
+    "Req 4": null
   }
 }
