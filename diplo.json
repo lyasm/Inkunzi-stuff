@@ -5134,8 +5134,8 @@
     "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Trade Republic of Ameria",
+      "Trade 1 Value": "14,726.43"
     },
     "Trade 2": {
       "Value": "",
@@ -5193,13 +5193,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "14,726.43",
     "Tariffs": "1.05",
-    "Trade Income": "0.00",
+    "Trade Income": "15,462.75",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "1"
   },
   "Alonissos Isles": {
     "Nations": "Alonissos Isles",
@@ -24036,8 +24036,8 @@
       "Trade 8 Value": "78,593.47"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Drahacira ",
+      "Trade 9 Value": "6,156.25"
     },
     "Trade 10": {
       "Value": "",
@@ -24063,13 +24063,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "163,096.64",
+    "Raw Trade Income": "169,252.89",
     "Tariffs": "0.96",
-    "Trade Income": "156,572.78",
+    "Trade Income": "162,482.78",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "8"
+    "Trades": "9"
   },
   "The Banana Republic": {
     "Nations": "The Banana Republic",
