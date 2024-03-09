@@ -13271,10 +13271,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "37.82%",
-    "Base": "37.82%",
-    "Comparison": "15.16%",
-    "Individual": "15.16%",
+    "L. Desire": "40.18%",
+    "Base": "40.18%",
+    "Comparison": "16.34%",
+    "Individual": "16.34%",
     "Friend/Rival": "0.00%",
     "Taxes": "15.00%",
     "Indep War?": "",
@@ -13781,10 +13781,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "93.37%",
-    "Base": "93.37%",
-    "Comparison": "64.86%",
-    "Individual": "33.50%",
+    "L. Desire": "89.57%",
+    "Base": "89.57%",
+    "Comparison": "62.37%",
+    "Individual": "32.20%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -15842,7 +15842,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "9",
+    "Limit": "10",
     "Trade 1": {
       "Value": "Here Be Dragons",
       "Trade 1 Value": "35,179.46"
@@ -17147,10 +17147,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "95.39%",
-    "Base": "95.39%",
-    "Comparison": "64.86%",
-    "Individual": "31.36%",
+    "L. Desire": "91.71%",
+    "Base": "91.71%",
+    "Comparison": "62.37%",
+    "Individual": "30.17%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
@@ -18466,11 +18466,11 @@
     "Nation Check": "Nuanta",
     "Overlord": "",
     "Eco Vassals": "220,825.02",
-    "Eco Over.": "227,295.97",
-    "Compare": "227.15%",
+    "Eco Over.": "229,385.97",
+    "Compare": "215.59%",
     "MP Vassals": "144,390.13",
-    "MP Over.": "63,565.00",
-    "20% Total": "64.86%",
+    "MP Over.": "66,975.00",
+    "20% Total": "62.37%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -18494,7 +18494,7 @@
     "Defensive Pacts 2": "City State of Kido",
     "Military Alliances": "Avaritian Dictatorship",
     "Military Alliances 2": "Hui Kai",
-    "Limit": "9",
+    "Limit": "10",
     "Trade 1": {
       "Value": "Hui Kai",
       "Trade 1 Value": "36,250.63"
@@ -23114,20 +23114,20 @@
       "Trade 7 Value": "11,696.88"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "Stratavia",
+      "Trade 8 Value": "21,809.18"
     },
     "Trade 9": {
       "Value": "Xiboda",
       "Trade 9 Value": "23,115.40"
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": "Zudrye Sisterhood",
+      "Trade 10 Value": "11,031.38"
     },
     "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
+      "Value": "Arethousa",
+      "Trade 11 Value": "13,677.96"
     },
     "Trade 12": {
       "Value": "",
@@ -23145,13 +23145,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "167,773.65",
+    "Raw Trade Income": "214,292.16",
     "Tariffs": "0.75",
-    "Trade Income": "125,830.24",
+    "Trade Income": "160,719.12",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "8"
+    "Trades": "11"
   },
   "Tavir": {
     "Nations": "Tavir",
@@ -25911,12 +25911,12 @@
     "Nations": "The Statute of Order",
     "Nation Check": "The Statute of Order",
     "Overlord": "",
-    "Eco Vassals": "198,869.10",
+    "Eco Vassals": "212,388.79",
     "Eco Over.": "345,256.47",
-    "Compare": "18.19%",
-    "MP Vassals": "36,068.31",
+    "Compare": "20.18%",
+    "MP Vassals": "40,021.44",
     "MP Over.": "198,309.38",
-    "20% Total": "15.16%",
+    "20% Total": "16.34%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
