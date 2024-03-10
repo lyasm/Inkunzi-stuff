@@ -15124,9 +15124,9 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Akalikania",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "",
+    "Military Alliances": "Akalikania",
     "Military Alliances 2": "Cleannmor",
     "Limit": "9",
     "Trade 1": {
@@ -15193,8 +15193,8 @@
     "Tariffs": "0.95",
     "Trade Income": "21,294.13",
     "NAPs": "0",
-    "Def. Pacts": "1",
-    "Mil. Pacts": "1",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "2",
     "Trades": "3"
   },
   "Lundrium": {
