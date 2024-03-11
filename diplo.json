@@ -1745,10 +1745,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "62.80%",
-    "Base": "62.80%",
-    "Comparison": "58.06%",
-    "Individual": "13.41%",
+    "L. Desire": "62.52%",
+    "Base": "62.52%",
+    "Comparison": "57.83%",
+    "Individual": "13.35%",
     "Friend/Rival": "0.00%",
     "Taxes": "3.33%",
     "Indep War?": "",
@@ -2357,8 +2357,8 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "23.49%",
-    "Base": "23.49%",
+    "L. Desire": "23.48%",
+    "Base": "23.48%",
     "Comparison": "11.74%",
     "Individual": "11.74%",
     "Friend/Rival": "0.00%",
@@ -3275,10 +3275,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "15.05%",
-    "Base": "15.05%",
-    "Comparison": "2.53%",
-    "Individual": "2.53%",
+    "L. Desire": "15.12%",
+    "Base": "15.12%",
+    "Comparison": "2.56%",
+    "Individual": "2.56%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -3887,9 +3887,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "10.03%",
-    "Base": "10.03%",
-    "Comparison": "2.53%",
+    "L. Desire": "10.06%",
+    "Base": "10.06%",
+    "Comparison": "2.56%",
     "Individual": "0.00%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -4079,16 +4079,16 @@
     "Mil. Pacts": "0",
     "Trades": "1"
   },
-  "City State of Kido": {
-    "Nations": "City State of Kido",
-    "Nation Check": "City State of Kido",
+  "The Twin Cities": {
+    "Nations": "The Twin Cities",
+    "Nation Check": "The Twin Cities",
     "Overlord": "",
-    "Eco Vassals": "394,793.00",
+    "Eco Vassals": "394,997.75",
     "Eco Over.": "646,983.54",
     "Compare": "76.13%",
     "MP Vassals": "94,793.88",
     "MP Over.": "124,511.75",
-    "20% Total": "27.43%",
+    "20% Total": "27.44%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -5138,12 +5138,12 @@
       "Trade 1 Value": "14,726.43"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "The Twin Cities",
+      "Trade 2 Value": "23,887.30"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Nuanta",
+      "Trade 3 Value": "3,770.00"
     },
     "Trade 4": {
       "Value": "",
@@ -5193,13 +5193,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "14,726.43",
+    "Raw Trade Income": "42,383.72",
     "Tariffs": "1.05",
-    "Trade Income": "15,462.75",
+    "Trade Income": "44,502.91",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "1"
+    "Trades": "3"
   },
   "Alonissos Isles": {
     "Nations": "Alonissos Isles",
@@ -5621,12 +5621,12 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "24.99%",
-    "Base": "24.99%",
+    "L. Desire": "34.99%",
+    "Base": "34.99%",
     "Comparison": "9.99%",
     "Individual": "9.99%",
     "Friend/Rival": "0.00%",
-    "Taxes": "-5.00%",
+    "Taxes": "5.00%",
     "Indep War?": "",
     "Autonomy": "None",
     "Threshold": "125.00%",
@@ -9005,7 +9005,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "Unified Republic of Kaiarau",
-    "Defensive Pacts 2": "City State of Kido",
+    "Defensive Pacts 2": "The Twin Cities",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "12",
@@ -9490,7 +9490,7 @@
     "Nation Check": "Hui Kai",
     "Overlord": "",
     "Eco Vassals": "160,876.56",
-    "Eco Over.": "582,340.25",
+    "Eco Over.": "582,545.00",
     "Compare": "31.09%",
     "MP Vassals": "33,103.13",
     "MP Over.": "106,477.25",
@@ -9524,7 +9524,7 @@
       "Trade 1 Value": "78,593.47"
     },
     "Trade 2": {
-      "Value": "City State of Kido",
+      "Value": "The Twin Cities",
       "Trade 2 Value": "23,887.30"
     },
     "Trade 3": {
@@ -9541,7 +9541,7 @@
     },
     "Trade 6": {
       "Value": "Nuanta",
-      "Trade 6 Value": "3,575.00"
+      "Trade 6 Value": "3,770.00"
     },
     "Trade 7": {
       "Value": "Kennelands",
@@ -9579,9 +9579,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "295,566.90",
+    "Raw Trade Income": "295,761.90",
     "Tariffs": "1.05",
-    "Trade Income": "310,345.25",
+    "Trade Income": "310,550.00",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -10508,7 +10508,7 @@
   "Jään Herruus": {
     "Nations": "Jään Herruus",
     "Nation Check": "Jään Herruus",
-    "Overlord": "City State of Kido",
+    "Overlord": "The Twin Cities",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
@@ -10517,9 +10517,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "42.81%",
-    "Base": "42.81%",
-    "Comparison": "27.43%",
+    "L. Desire": "42.82%",
+    "Base": "42.82%",
+    "Comparison": "27.44%",
     "Individual": "13.22%",
     "Friend/Rival": "0.00%",
     "Taxes": "11.67%",
@@ -10540,7 +10540,7 @@
     "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
-      "Value": "City State of Kido",
+      "Value": "The Twin Cities",
       "Trade 1 Value": "23,887.30"
     },
     "Trade 2": {
@@ -13672,11 +13672,11 @@
     "Nation Check": "Kingdom of the Aurore",
     "Overlord": "",
     "Eco Vassals": "1,177,236.23",
-    "Eco Over.": "546,199.77",
+    "Eco Over.": "549,087.27",
     "Compare": "74.76%",
     "MP Vassals": "123,757.56",
     "MP Over.": "165,540.38",
-    "20% Total": "58.06%",
+    "20% Total": "57.83%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -13781,9 +13781,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "88.33%",
-    "Base": "88.33%",
-    "Comparison": "61.54%",
+    "L. Desire": "88.16%",
+    "Base": "88.16%",
+    "Comparison": "61.37%",
     "Individual": "31.79%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -13813,7 +13813,7 @@
     },
     "Trade 3": {
       "Value": "Nuanta",
-      "Trade 3 Value": "3,575.00"
+      "Trade 3 Value": "3,770.00"
     },
     "Trade 4": {
       "Value": "Kennelands",
@@ -13863,9 +13863,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "23,018.19",
+    "Raw Trade Income": "23,213.19",
     "Tariffs": "0.95",
-    "Trade Income": "21,867.28",
+    "Trade Income": "22,052.53",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -15028,7 +15028,7 @@
     "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
-      "Value": "City State of Kido",
+      "Value": "The Twin Cities",
       "Trade 1 Value": "23,887.30"
     },
     "Trade 2": {
@@ -15432,11 +15432,11 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "City State of Kido",
+    "Military Alliances": "The Twin Cities",
     "Military Alliances 2": "The Al-Deni Dominion",
     "Limit": "11",
     "Trade 1": {
-      "Value": "City State of Kido",
+      "Value": "The Twin Cities",
       "Trade 1 Value": "23,887.30"
     },
     "Trade 2": {
@@ -15449,7 +15449,7 @@
     },
     "Trade 4": {
       "Value": "Nuanta",
-      "Trade 4 Value": "3,575.00"
+      "Trade 4 Value": "3,770.00"
     },
     "Trade 5": {
       "Value": "Môr Oer",
@@ -15495,9 +15495,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "167,030.16",
+    "Raw Trade Income": "167,225.16",
     "Tariffs": "0.75",
-    "Trade Income": "125,272.62",
+    "Trade Income": "125,418.87",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -16025,10 +16025,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "73.53%",
-    "Base": "73.53%",
-    "Comparison": "58.06%",
-    "Individual": "33.80%",
+    "L. Desire": "73.16%",
+    "Base": "73.16%",
+    "Comparison": "57.83%",
+    "Individual": "33.67%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -16798,7 +16798,7 @@
       "Trade 9 Value": "3,181.25"
     },
     "Trade 10": {
-      "Value": "City State of Kido",
+      "Value": "The Twin Cities",
       "Trade 10 Value": "23,887.30"
     },
     "Trade 11": {
@@ -17147,10 +17147,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "90.46%",
-    "Base": "90.46%",
-    "Comparison": "61.54%",
-    "Individual": "29.75%",
+    "L. Desire": "90.12%",
+    "Base": "90.12%",
+    "Comparison": "61.37%",
+    "Individual": "29.59%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
@@ -17183,7 +17183,7 @@
     },
     "Trade 4": {
       "Value": "Nuanta",
-      "Trade 4 Value": "3,575.00"
+      "Trade 4 Value": "3,770.00"
     },
     "Trade 5": {
       "Value": "Zarkone",
@@ -17229,9 +17229,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "42,334.88",
+    "Raw Trade Income": "42,529.88",
     "Tariffs": "0.95",
-    "Trade Income": "40,218.14",
+    "Trade Income": "40,403.39",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -18465,12 +18465,12 @@
     "Nations": "Nuanta",
     "Nation Check": "Nuanta",
     "Overlord": "",
-    "Eco Vassals": "220,825.02",
-    "Eco Over.": "239,693.47",
+    "Eco Vassals": "223,175.52",
+    "Eco Over.": "244,515.90",
     "Compare": "215.59%",
     "MP Vassals": "144,390.13",
     "MP Over.": "66,975.00",
-    "20% Total": "61.54%",
+    "20% Total": "61.37%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -18491,7 +18491,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "The Dukedom of Sylicia",
     "Defensive Pacts": "Kingdom of the Kettlelands",
-    "Defensive Pacts 2": "City State of Kido",
+    "Defensive Pacts 2": "The Twin Cities",
     "Military Alliances": "Avaritian Dictatorship",
     "Military Alliances 2": "Hui Kai",
     "Limit": "10",
@@ -18508,8 +18508,8 @@
       "Trade 3 Value": "6,349.89"
     },
     "Trade 4": {
-      "Value": "The Dukedom of Sylicia",
-      "Trade 4 Value": "1,080.00"
+      "Value": "Drahacira ",
+      "Trade 4 Value": "6,156.25"
     },
     "Trade 5": {
       "Value": "The Al-Deni Dominion",
@@ -18555,9 +18555,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "173,582.60",
+    "Raw Trade Income": "178,658.85",
     "Tariffs": "0.95",
-    "Trade Income": "164,903.47",
+    "Trade Income": "169,725.90",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -18626,7 +18626,7 @@
       "Trade 7 Value": "48,960.63"
     },
     "Trade 8": {
-      "Value": "City State of Kido",
+      "Value": "The Twin Cities",
       "Trade 8 Value": "23,887.30"
     },
     "Trade 9": {
@@ -18881,8 +18881,8 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "41.18%",
-    "Base": "41.18%",
+    "L. Desire": "41.17%",
+    "Base": "41.17%",
     "Comparison": "27.41%",
     "Individual": "17.43%",
     "Friend/Rival": "0.00%",
@@ -18920,7 +18920,7 @@
       "Trade 4 Value": "7,931.25"
     },
     "Trade 5": {
-      "Value": "City State of Kido",
+      "Value": "The Twin Cities",
       "Trade 5 Value": "23,887.30"
     },
     "Trade 6": {
@@ -23907,7 +23907,7 @@
     },
     "Trade 2": {
       "Value": "Nuanta",
-      "Trade 2 Value": "3,575.00"
+      "Trade 2 Value": "3,770.00"
     },
     "Trade 3": {
       "Value": "Unified Republic of Kaiarau",
@@ -23961,9 +23961,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "94,962.24",
+    "Raw Trade Income": "95,157.24",
     "Tariffs": "0.95",
-    "Trade Income": "90,214.13",
+    "Trade Income": "90,399.38",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -24004,7 +24004,7 @@
     "Military Alliances 2": "",
     "Limit": "12",
     "Trade 1": {
-      "Value": "City State of Kido",
+      "Value": "The Twin Cities",
       "Trade 1 Value": "23,887.30"
     },
     "Trade 2": {
@@ -24021,7 +24021,7 @@
     },
     "Trade 5": {
       "Value": "Nuanta",
-      "Trade 5 Value": "3,575.00"
+      "Trade 5 Value": "3,770.00"
     },
     "Trade 6": {
       "Value": "Malo'Sami",
@@ -24063,9 +24063,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "169,252.89",
+    "Raw Trade Income": "169,447.89",
     "Tariffs": "0.96",
-    "Trade Income": "162,482.78",
+    "Trade Income": "162,669.98",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -24413,7 +24413,7 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Nuanta",
-      "Trade 1 Value": "3,575.00"
+      "Trade 1 Value": "3,770.00"
     },
     "Trade 2": {
       "Value": "Luminus",
@@ -24471,9 +24471,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "40,688.67",
+    "Raw Trade Income": "40,883.67",
     "Tariffs": "0.95",
-    "Trade Income": "38,654.24",
+    "Trade Income": "38,839.49",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -24484,7 +24484,7 @@
     "Nation Check": "Avaritian Dictatorship",
     "Overlord": "",
     "Eco Vassals": "424,028.34",
-    "Eco Over.": "795,643.50",
+    "Eco Over.": "795,828.75",
     "Compare": "83.75%",
     "MP Vassals": "90,824.25",
     "MP Over.": "108,448.31",
@@ -24508,7 +24508,7 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "City State of Kido",
+    "Defensive Pacts": "The Twin Cities",
     "Defensive Pacts 2": "Hui Kai",
     "Military Alliances": "",
     "Military Alliances 2": "Nuanta",
@@ -24519,14 +24519,14 @@
     },
     "Trade 2": {
       "Value": "Nuanta",
-      "Trade 2 Value": "3,575.00"
+      "Trade 2 Value": "3,770.00"
     },
     "Trade 3": {
       "Value": "Nummum",
       "Trade 3 Value": "148,904.23"
     },
     "Trade 4": {
-      "Value": "City State of Kido",
+      "Value": "The Twin Cities",
       "Trade 4 Value": "23,887.30"
     },
     "Trade 5": {
@@ -24573,9 +24573,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "281,413.94",
+    "Raw Trade Income": "281,608.94",
     "Tariffs": "0.95",
-    "Trade Income": "267,343.25",
+    "Trade Income": "267,528.50",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -26115,12 +26115,12 @@
     "Nations": "Hrēgdom of the Erwā",
     "Nation Check": "Hrēgdom of the Erwā",
     "Overlord": "",
-    "Eco Vassals": "50,240.44",
+    "Eco Vassals": "56,669.64",
     "Eco Over.": "725,086.39",
-    "Compare": "5.71%",
-    "MP Vassals": "10,829.84",
+    "Compare": "4.98%",
+    "MP Vassals": "9,454.84",
     "MP Over.": "189,730.06",
-    "20% Total": "2.53%",
+    "20% Total": "2.56%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27338,7 +27338,7 @@
   "Unified Republic of Kaiarau": {
     "Nations": "Unified Republic of Kaiarau",
     "Nation Check": "Unified Republic of Kaiarau",
-    "Overlord": "City State of Kido",
+    "Overlord": "The Twin Cities",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
@@ -27347,10 +27347,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "43.31%",
-    "Base": "43.31%",
-    "Comparison": "27.43%",
-    "Individual": "14.21%",
+    "L. Desire": "43.32%",
+    "Base": "43.32%",
+    "Comparison": "27.44%",
+    "Individual": "14.22%",
     "Friend/Rival": "0.00%",
     "Taxes": "11.67%",
     "Indep War?": "",
@@ -27370,7 +27370,7 @@
     "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
-      "Value": "City State of Kido",
+      "Value": "The Twin Cities",
       "Trade 1 Value": "23,887.30"
     },
     "Trade 2": {
@@ -27391,7 +27391,7 @@
     },
     "Trade 6": {
       "Value": "Nuanta",
-      "Trade 6 Value": "3,575.00"
+      "Trade 6 Value": "3,770.00"
     },
     "Trade 7": {
       "Value": "The Dukedom of Sylicia",
@@ -27429,9 +27429,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "123,352.66",
+    "Raw Trade Income": "123,547.66",
     "Tariffs": "1.05",
-    "Trade Income": "129,520.29",
+    "Trade Income": "129,725.04",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -29183,10 +29183,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "61.57%",
-    "Base": "61.57%",
-    "Comparison": "58.06%",
-    "Individual": "10.84%",
+    "L. Desire": "61.31%",
+    "Base": "61.31%",
+    "Comparison": "57.83%",
+    "Individual": "10.81%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
