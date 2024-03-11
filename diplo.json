@@ -215,10 +215,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "11.78%",
-    "Base": "11.78%",
-    "Comparison": "25.26%",
-    "Individual": "11.51%",
+    "L. Desire": "11.80%",
+    "Base": "11.80%",
+    "Comparison": "25.28%",
+    "Individual": "11.52%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -310,11 +310,11 @@
     "Nation Check": "Aethyrrajyam",
     "Overlord": "",
     "Eco Vassals": "1,079,407.62",
-    "Eco Over.": "1,772,691.44",
+    "Eco Over.": "1,770,680.50",
     "Compare": "65.43%",
     "MP Vassals": "355,944.56",
     "MP Over.": "543,994.69",
-    "20% Total": "25.26%",
+    "20% Total": "25.28%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -361,7 +361,7 @@
     },
     "Trade 6": {
       "Value": "Alonissos Isles",
-      "Trade 6 Value": "30,639.38"
+      "Trade 6 Value": "29,030.63"
     },
     "Trade 7": {
       "Value": "",
@@ -399,9 +399,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "226,741.65",
+    "Raw Trade Income": "225,132.90",
     "Tariffs": "1.25",
-    "Trade Income": "283,427.06",
+    "Trade Income": "281,416.13",
     "NAPs": "6",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -1133,9 +1133,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "6.64%",
-    "Base": "6.64%",
-    "Comparison": "25.26%",
+    "L. Desire": "6.65%",
+    "Base": "6.65%",
+    "Comparison": "25.28%",
     "Individual": "6.37%",
     "Friend/Rival": "-25.00%",
     "Taxes": "-5.00%",
@@ -3378,8 +3378,8 @@
     "Vassal Type": "Mercantile",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-12.72%",
-    "Comparison": "9.90%",
+    "Base": "-12.71%",
+    "Comparison": "9.91%",
     "Individual": "4.88%",
     "Friend/Rival": "-25.00%",
     "Taxes": "10.00%",
@@ -3574,11 +3574,11 @@
     "Nation Check": "Ceavia",
     "Overlord": "",
     "Eco Vassals": "167,160.39",
-    "Eco Over.": "222,070.51",
+    "Eco Over.": "208,155.51",
     "Compare": "102.44%",
     "MP Vassals": "69,609.38",
     "MP Over.": "67,954.22",
-    "20% Total": "35.54%",
+    "20% Total": "36.55%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -5205,12 +5205,12 @@
     "Nations": "Alonissos Isles",
     "Nation Check": "Alonissos Isles",
     "Overlord": "",
-    "Eco Vassals": "273,708.39",
-    "Eco Over.": "1,096,423.48",
-    "Compare": "9.15%",
+    "Eco Vassals": "272,163.99",
+    "Eco Over.": "1,061,025.83",
+    "Compare": "9.86%",
     "MP Vassals": "29,562.50",
-    "MP Over.": "323,087.88",
-    "20% Total": "6.82%",
+    "MP Over.": "299,732.13",
+    "20% Total": "7.10%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -5519,10 +5519,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "5.31%",
-    "Base": "5.31%",
-    "Comparison": "6.82%",
-    "Individual": "6.82%",
+    "L. Desire": "5.87%",
+    "Base": "5.87%",
+    "Comparison": "7.10%",
+    "Individual": "7.10%",
     "Friend/Rival": "0.00%",
     "Taxes": "1.67%",
     "Indep War?": "",
@@ -5543,7 +5543,7 @@
     "Limit": "14",
     "Trade 1": {
       "Value": "Alonissos Isles",
-      "Trade 1 Value": "30,639.38"
+      "Trade 1 Value": "29,030.63"
     },
     "Trade 2": {
       "Value": "Lowy Combine",
@@ -5601,9 +5601,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "160,366.81",
+    "Raw Trade Income": "158,758.06",
     "Tariffs": "0.96",
-    "Trade Income": "153,952.14",
+    "Trade Income": "152,407.74",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -6807,7 +6807,7 @@
     },
     "Trade 11": {
       "Value": "Alonissos Isles",
-      "Trade 11 Value": "30,639.38"
+      "Trade 11 Value": "29,030.63"
     },
     "Trade 12": {
       "Value": "",
@@ -6825,9 +6825,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "546,915.26",
+    "Raw Trade Income": "545,306.51",
     "Tariffs": "1.45",
-    "Trade Income": "793,027.12",
+    "Trade Income": "790,694.43",
     "NAPs": "7",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -7693,7 +7693,7 @@
     },
     "Trade 3": {
       "Value": "Alonissos Isles",
-      "Trade 3 Value": "30,639.38"
+      "Trade 3 Value": "29,030.63"
     },
     "Trade 4": {
       "Value": "Fray Ventos",
@@ -7743,9 +7743,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "145,705.94",
+    "Raw Trade Income": "144,097.19",
     "Tariffs": "1.25",
-    "Trade Income": "182,132.42",
+    "Trade Income": "180,121.48",
     "NAPs": "5",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -9999,8 +9999,8 @@
     "Nations": "Ilikiu'Foriris",
     "Nation Check": "Ilikiu'Foriris",
     "Overlord": "",
-    "Eco Vassals": "850,737.60",
-    "Eco Over.": "750,041.32",
+    "Eco Vassals": "849,000.15",
+    "Eco Over.": "748,432.57",
     "Compare": "25.11%",
     "MP Vassals": "46,447.50",
     "MP Over.": "184,989.06",
@@ -10039,7 +10039,7 @@
     },
     "Trade 3": {
       "Value": "Alonissos Isles",
-      "Trade 3 Value": "30,639.38"
+      "Trade 3 Value": "29,030.63"
     },
     "Trade 4": {
       "Value": "Denirar",
@@ -10089,9 +10089,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "266,503.04",
+    "Raw Trade Income": "264,894.29",
     "Tariffs": "1.00",
-    "Trade Income": "266,503.04",
+    "Trade Income": "264,894.29",
     "NAPs": "7",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
@@ -11335,7 +11335,7 @@
     "": "",
     "L. Desire": "35.02%",
     "Base": "35.02%",
-    "Comparison": "23.04%",
+    "Comparison": "23.05%",
     "Individual": "3.64%",
     "Friend/Rival": "0.00%",
     "Taxes": "18.33%",
@@ -11945,9 +11945,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "30.74%",
-    "Base": "30.74%",
-    "Comparison": "23.04%",
+    "L. Desire": "30.75%",
+    "Base": "30.75%",
+    "Comparison": "23.05%",
     "Individual": "7.70%",
     "Friend/Rival": "-25.00%",
     "Taxes": "15.00%",
@@ -12377,7 +12377,7 @@
     "Limit": "12",
     "Trade 1": {
       "Value": "Alonissos Isles",
-      "Trade 1 Value": "30,639.38"
+      "Trade 1 Value": "29,030.63"
     },
     "Trade 2": {
       "Value": "Nexus Vouno",
@@ -12435,9 +12435,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "275,750.23",
+    "Raw Trade Income": "274,141.48",
     "Tariffs": "0.95",
-    "Trade Income": "261,962.72",
+    "Trade Income": "260,434.41",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -13271,12 +13271,12 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "38.83%",
-    "Base": "38.83%",
+    "L. Desire": "27.17%",
+    "Base": "27.17%",
     "Comparison": "15.67%",
     "Individual": "15.67%",
     "Friend/Rival": "0.00%",
-    "Taxes": "15.00%",
+    "Taxes": "3.33%",
     "Indep War?": "",
     "Autonomy": "Both",
     "Threshold": "100.00%",
@@ -13475,10 +13475,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "29.00%",
-    "Base": "29.00%",
-    "Comparison": "24.50%",
-    "Individual": "24.50%",
+    "L. Desire": "28.96%",
+    "Base": "28.96%",
+    "Comparison": "24.48%",
+    "Individual": "24.48%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -13503,7 +13503,7 @@
     },
     "Trade 2": {
       "Value": "Alonissos Isles",
-      "Trade 2 Value": "30,639.38"
+      "Trade 2 Value": "29,030.63"
     },
     "Trade 3": {
       "Value": "Neo-Kargatan Empire",
@@ -13557,9 +13557,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "257,054.54",
+    "Raw Trade Income": "255,445.79",
     "Tariffs": "1.25",
-    "Trade Income": "321,318.18",
+    "Trade Income": "319,307.24",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -14087,9 +14087,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "45.14%",
-    "Base": "45.14%",
-    "Comparison": "25.26%",
+    "L. Desire": "45.16%",
+    "Base": "45.16%",
+    "Comparison": "25.28%",
     "Individual": "7.38%",
     "Friend/Rival": "0.00%",
     "Taxes": "7.50%",
@@ -14526,8 +14526,8 @@
       "Trade 2 Value": "1,067.34"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "The Awakened",
+      "Trade 3 Value": "10,054.69"
     },
     "Trade 4": {
       "Value": "Kingdom of Aeornia",
@@ -14577,13 +14577,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "38,694.64",
+    "Raw Trade Income": "48,749.33",
     "Tariffs": "1.25",
-    "Trade Income": "48,368.30",
+    "Trade Income": "60,936.66",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "5"
+    "Trades": "6"
   },
   "Lialikidus": {
     "Nations": "Lialikidus",
@@ -14895,12 +14895,12 @@
     "Nations": "Lowy Combine",
     "Nation Check": "Lowy Combine",
     "Overlord": "",
-    "Eco Vassals": "530,586.61",
-    "Eco Over.": "576,992.37",
+    "Eco Vassals": "528,575.67",
+    "Eco Over.": "575,464.06",
     "Compare": "30.55%",
     "MP Vassals": "51,432.56",
     "MP Over.": "168,335.06",
-    "20% Total": "24.50%",
+    "20% Total": "24.48%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -14931,7 +14931,7 @@
     },
     "Trade 2": {
       "Value": "Alonissos Isles",
-      "Trade 2 Value": "30,639.38"
+      "Trade 2 Value": "29,030.63"
     },
     "Trade 3": {
       "Value": "Daoquia",
@@ -14985,9 +14985,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "139,546.94",
+    "Raw Trade Income": "137,938.19",
     "Tariffs": "0.95",
-    "Trade Income": "132,569.59",
+    "Trade Income": "131,041.28",
     "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -18619,7 +18619,7 @@
     },
     "Trade 6": {
       "Value": "Alonissos Isles",
-      "Trade 6 Value": "30,639.38"
+      "Trade 6 Value": "29,030.63"
     },
     "Trade 7": {
       "Value": "Federation of the Winds",
@@ -18657,9 +18657,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "375,933.89",
+    "Raw Trade Income": "374,325.14",
     "Tariffs": "1.08",
-    "Trade Income": "406,008.60",
+    "Trade Income": "404,271.15",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -18772,11 +18772,11 @@
     "Nation Check": "Onaokoku",
     "Overlord": "",
     "Eco Vassals": "334,105.00",
-    "Eco Over.": "1,436,366.09",
+    "Eco Over.": "1,434,757.34",
     "Compare": "26.25%",
     "MP Vassals": "95,026.25",
     "MP Over.": "362,020.31",
-    "20% Total": "9.90%",
+    "20% Total": "9.91%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -18819,7 +18819,7 @@
     },
     "Trade 5": {
       "Value": "Alonissos Isles",
-      "Trade 5 Value": "30,639.38"
+      "Trade 5 Value": "29,030.63"
     },
     "Trade 6": {
       "Value": "Gno’hdail Impireachd",
@@ -18861,9 +18861,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "253,741.88",
+    "Raw Trade Income": "252,133.13",
     "Tariffs": "1.00",
-    "Trade Income": "253,741.88",
+    "Trade Income": "252,133.13",
     "NAPs": "7",
     "Def. Pacts": "2",
     "Mil. Pacts": "0",
@@ -19595,9 +19595,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "38.96%",
-    "Base": "38.96%",
-    "Comparison": "23.04%",
+    "L. Desire": "38.97%",
+    "Base": "38.97%",
+    "Comparison": "23.05%",
     "Individual": "5.92%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -26327,10 +26327,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "64.08%",
-    "Base": "64.08%",
-    "Comparison": "35.54%",
-    "Individual": "35.54%",
+    "L. Desire": "66.10%",
+    "Base": "66.10%",
+    "Comparison": "36.55%",
+    "Individual": "36.55%",
     "Friend/Rival": "0.00%",
     "Taxes": "-2.00%",
     "Indep War?": "",
@@ -27646,11 +27646,11 @@
     "Nation Check": "Uqhuma Killa",
     "Overlord": "",
     "Eco Vassals": "1,547,857.12",
-    "Eco Over.": "3,379,373.53",
+    "Eco Over.": "3,377,685.95",
     "Compare": "69.40%",
     "MP Vassals": "519,739.69",
     "MP Over.": "748,885.16",
-    "20% Total": "23.04%",
+    "20% Total": "23.05%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -27705,7 +27705,7 @@
     },
     "Trade 8": {
       "Value": "Alonissos Isles",
-      "Trade 8 Value": "30,639.38"
+      "Trade 8 Value": "29,030.63"
     },
     "Trade 9": {
       "Value": "Here Be Dragons",
@@ -27735,9 +27735,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "490,567.26",
+    "Raw Trade Income": "488,958.51",
     "Tariffs": "1.05",
-    "Trade Income": "514,605.05",
+    "Trade Income": "512,917.47",
     "NAPs": "13",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -28165,7 +28165,7 @@
     "": "",
     "L. Desire": "9.32%",
     "Base": "9.32%",
-    "Comparison": "23.04%",
+    "Comparison": "23.05%",
     "Individual": "5.78%",
     "Friend/Rival": "-25.00%",
     "Taxes": "10.00%",
@@ -28775,10 +28775,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "0.1",
-    "L. Desire": "33.26%",
-    "Base": "33.26%",
-    "Comparison": "9.90%",
-    "Individual": "5.02%",
+    "L. Desire": "33.27%",
+    "Base": "33.27%",
+    "Comparison": "9.91%",
+    "Individual": "5.03%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
