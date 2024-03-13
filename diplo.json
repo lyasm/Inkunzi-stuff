@@ -5129,7 +5129,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "Trade Republic of Ameria",
-    "Defensive Pacts 2": "",
+    "Defensive Pacts 2": "M'Qili Confederacy",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "9",
@@ -5146,8 +5146,8 @@
       "Trade 3 Value": "3,770.00"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "M'Qili Confederacy",
+      "Trade 4 Value": "6,318.75"
     },
     "Trade 5": {
       "Value": "",
@@ -5193,13 +5193,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "50,794.25",
+    "Raw Trade Income": "57,113.00",
     "Tariffs": "1.06",
-    "Trade Income": "53,841.90",
+    "Trade Income": "60,539.77",
     "NAPs": "0",
-    "Def. Pacts": "1",
+    "Def. Pacts": "2",
     "Mil. Pacts": "0",
-    "Trades": "3"
+    "Trades": "4"
   },
   "Alonissos Isles": {
     "Nations": "Alonissos Isles",
@@ -15431,7 +15431,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
+    "Defensive Pacts 2": "Drahacira ",
     "Military Alliances": "The Twin Cities",
     "Military Alliances 2": "The Al-Deni Dominion",
     "Limit": "11",
@@ -15472,8 +15472,8 @@
       "Trade 9 Value": "19,403.75"
     },
     "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
+      "Value": "Drahacira ",
+      "Trade 10 Value": "6,756.25"
     },
     "Trade 11": {
       "Value": "",
@@ -15495,13 +15495,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "190,555.01",
+    "Raw Trade Income": "197,311.26",
     "Tariffs": "0.75",
-    "Trade Income": "142,916.26",
+    "Trade Income": "147,983.45",
     "NAPs": "0",
-    "Def. Pacts": "0",
+    "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "9"
+    "Trades": "10"
   },
   "Maa": {
     "Nations": "Maa",
