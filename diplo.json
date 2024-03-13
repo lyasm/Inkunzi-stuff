@@ -18881,9 +18881,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "41.20%",
-    "Base": "41.20%",
-    "Comparison": "27.40%",
+    "L. Desire": "51.85%",
+    "Base": "51.85%",
+    "Comparison": "38.05%",
     "Individual": "17.47%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
@@ -24485,10 +24485,10 @@
     "Overlord": "",
     "Eco Vassals": "427,574.88",
     "Eco Over.": "802,691.00",
-    "Compare": "83.75%",
-    "MP Vassals": "90,824.25",
+    "Compare": "137.00%",
+    "MP Vassals": "148,574.25",
     "MP Over.": "108,448.31",
-    "20% Total": "27.40%",
+    "20% Total": "38.05%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -24636,8 +24636,8 @@
       "Trade 5 Value": "9,125.25"
     },
     "Trade 6": {
-      "Value": "The Awakened",
-      "Trade 6 Value": "10,842.19"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
       "Value": "The Republic of Alyvosk",
@@ -24675,13 +24675,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "61,638.94",
+    "Raw Trade Income": "50,796.75",
     "Tariffs": "0.95",
-    "Trade Income": "58,556.99",
+    "Trade Income": "48,256.91",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "2",
-    "Trades": "8"
+    "Trades": "7"
   },
   "The Grand City of Smmeíaia": {
     "Nations": "The Grand City of Smmeíaia",
@@ -25232,8 +25232,8 @@
       "Trade 1 Value": ""
     },
     "Trade 2": {
-      "Value": "Avaritian Dictatorship",
-      "Trade 2 Value": "78,593.47"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
@@ -25287,13 +25287,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "138,944.64",
+    "Raw Trade Income": "60,351.18",
     "Tariffs": "1.05",
-    "Trade Income": "145,891.87",
+    "Trade Income": "63,368.74",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "5"
+    "Trades": "4"
   },
   "The Kingdom of Zahar": {
     "Nations": "The Kingdom of Zahar",
@@ -28977,12 +28977,12 @@
     "MP Vassals": "",
     "MP Over.": "",
     "20% Total": "",
-    "Vassal Type": "Mercantile",
+    "Vassal Type": "March",
     "": "",
-    "L. Desire": "22.34%",
-    "Base": "22.34%",
-    "Comparison": "27.40%",
-    "Individual": "9.94%",
+    "L. Desire": "43.64%",
+    "Base": "43.64%",
+    "Comparison": "38.05%",
+    "Individual": "20.59%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -29000,7 +29000,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "9",
+    "Limit": "7",
     "Trade 1": {
       "Value": "Avaritian Dictatorship",
       "Trade 1 Value": "78,593.47"
