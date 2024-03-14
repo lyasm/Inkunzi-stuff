@@ -3699,8 +3699,8 @@
     "Unity?": "",
     "Ov. Culture": "",
     "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
+    "Non-aggression Pacts": "Aishokae Kiryaxolne",
+    "Defensive Pacts": "Yeotang",
     "Defensive Pacts 2": "Hrēgdom of the Erwā",
     "Military Alliances": "Svetograd",
     "Military Alliances 2": "Drionn Galith",
@@ -3768,8 +3768,8 @@
     "Raw Trade Income": "202,819.28",
     "Tariffs": "0.95",
     "Trade Income": "192,678.32",
-    "NAPs": "0",
-    "Def. Pacts": "1",
+    "NAPs": "1",
+    "Def. Pacts": "2",
     "Mil. Pacts": "2",
     "Trades": "11"
   },
@@ -24044,8 +24044,8 @@
       "Trade 10 Value": "6,318.75"
     },
     "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
+      "Value": "Ophenadon",
+      "Trade 11 Value": "5,119.20"
     },
     "Trade 12": {
       "Value": "",
@@ -24063,13 +24063,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "191,152.27",
+    "Raw Trade Income": "196,271.47",
     "Tariffs": "0.96",
-    "Trade Income": "183,506.18",
+    "Trade Income": "188,420.61",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
-    "Trades": "10"
+    "Trades": "11"
   },
   "The Banana Republic": {
     "Nations": "The Banana Republic",
