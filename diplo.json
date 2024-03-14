@@ -173,7 +173,7 @@
     },
     "Trade 10": {
       "Value": "Goldmongers",
-      "Trade 10 Value": "12,148.50"
+      "Trade 10 Value": "16,821.00"
     },
     "Trade 11": {
       "Value": "",
@@ -195,9 +195,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "74,653.37",
+    "Raw Trade Income": "79,325.87",
     "Tariffs": "0.95",
-    "Trade Income": "70,920.70",
+    "Trade Income": "75,359.57",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -215,10 +215,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "13.05%",
-    "Base": "13.05%",
-    "Comparison": "26.10%",
-    "Individual": "11.96%",
+    "L. Desire": "12.34%",
+    "Base": "12.34%",
+    "Comparison": "25.62%",
+    "Individual": "11.72%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -310,11 +310,11 @@
     "Nation Check": "Aethyrrajyam",
     "Overlord": "",
     "Eco Vassals": "1,083,392.37",
-    "Eco Over.": "1,665,578.94",
-    "Compare": "65.43%",
+    "Eco Over.": "1,727,876.28",
+    "Compare": "65.40%",
     "MP Vassals": "355,944.56",
-    "MP Over.": "543,994.69",
-    "20% Total": "26.10%",
+    "MP Over.": "544,293.75",
+    "20% Total": "25.62%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -352,8 +352,8 @@
       "Trade 3 Value": "35,179.46"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Federation of the Winds",
+      "Trade 4 Value": "48,960.63"
     },
     "Trade 5": {
       "Value": "",
@@ -399,13 +399,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "182,651.65",
+    "Raw Trade Income": "231,612.28",
     "Tariffs": "1.25",
-    "Trade Income": "228,314.56",
+    "Trade Income": "289,515.34",
     "NAPs": "6",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "6"
+    "Trades": "7"
   },
   "Sayaked": {
     "Nations": "Sayaked",
@@ -1133,10 +1133,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "7.66%",
-    "Base": "7.66%",
-    "Comparison": "26.10%",
-    "Individual": "6.56%",
+    "L. Desire": "7.07%",
+    "Base": "7.07%",
+    "Comparison": "25.62%",
+    "Individual": "6.45%",
     "Friend/Rival": "-25.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -2075,7 +2075,7 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Goldmongers",
-      "Trade 1 Value": "12,148.50"
+      "Trade 1 Value": "16,821.00"
     },
     "Trade 2": {
       "Value": "Jýldar",
@@ -2133,9 +2133,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "55,810.32",
+    "Raw Trade Income": "60,482.82",
     "Tariffs": "1.05",
-    "Trade Income": "58,600.83",
+    "Trade Income": "63,506.96",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -4739,7 +4739,7 @@
     },
     "Trade 4": {
       "Value": "Goldmongers",
-      "Trade 4 Value": "12,148.50"
+      "Trade 4 Value": "16,821.00"
     },
     "Trade 5": {
       "Value": "Lohiida Dathinaal",
@@ -4785,9 +4785,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "50,709.92",
+    "Raw Trade Income": "55,382.42",
     "Tariffs": "1.25",
-    "Trade Income": "63,387.40",
+    "Trade Income": "69,228.03",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -10753,7 +10753,7 @@
     },
     "Trade 3": {
       "Value": "Goldmongers",
-      "Trade 3 Value": "12,148.50"
+      "Trade 3 Value": "16,821.00"
     },
     "Trade 4": {
       "Value": "Akalikania",
@@ -10803,9 +10803,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "43,724.05",
+    "Raw Trade Income": "48,396.55",
     "Tariffs": "0.95",
-    "Trade Income": "41,537.84",
+    "Trade Income": "45,976.72",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -14087,10 +14087,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "46.17%",
-    "Base": "46.17%",
-    "Comparison": "26.10%",
-    "Individual": "7.58%",
+    "L. Desire": "45.58%",
+    "Base": "45.58%",
+    "Comparison": "25.62%",
+    "Individual": "7.46%",
     "Friend/Rival": "0.00%",
     "Taxes": "7.50%",
     "Indep War?": "",
@@ -21063,7 +21063,7 @@
     },
     "Trade 5": {
       "Value": "Goldmongers",
-      "Trade 5 Value": "12,148.50"
+      "Trade 5 Value": "16,821.00"
     },
     "Trade 6": {
       "Value": "Lohiida Dathinaal",
@@ -21105,9 +21105,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "37,615.77",
+    "Raw Trade Income": "42,288.27",
     "Tariffs": "1.05",
-    "Trade Income": "39,496.56",
+    "Trade Income": "44,402.69",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -23095,7 +23095,7 @@
     },
     "Trade 3": {
       "Value": "Goldmongers",
-      "Trade 3 Value": "12,148.50"
+      "Trade 3 Value": "16,821.00"
     },
     "Trade 4": {
       "Value": "Herzogtum Enzla",
@@ -23145,9 +23145,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "178,735.75",
+    "Raw Trade Income": "183,408.25",
     "Tariffs": "0.75",
-    "Trade Income": "134,051.81",
+    "Trade Income": "137,556.19",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -23515,7 +23515,7 @@
     },
     "Trade 6": {
       "Value": "Goldmongers",
-      "Trade 6 Value": "12,148.50"
+      "Trade 6 Value": "16,821.00"
     },
     "Trade 7": {
       "Value": "Zilvrenskegga",
@@ -23553,9 +23553,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "54,068.34",
+    "Raw Trade Income": "58,740.84",
     "Tariffs": "1.25",
-    "Trade Income": "67,585.42",
+    "Trade Income": "73,426.05",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -30000,8 +30000,8 @@
     "Vassal Type": "Autonomous",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-3.90%",
-    "Comparison": "26.10%",
+    "Base": "-4.38%",
+    "Comparison": "25.62%",
     "Individual": "0.00%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
@@ -30102,8 +30102,8 @@
     "Vassal Type": "Autonomous",
     "": "",
     "L. Desire": "0.00%",
-    "Base": "-3.90%",
-    "Comparison": "26.10%",
+    "Base": "-4.38%",
+    "Comparison": "25.62%",
     "Individual": "0.00%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
