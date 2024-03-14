@@ -215,10 +215,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "11.89%",
-    "Base": "11.89%",
-    "Comparison": "25.32%",
-    "Individual": "11.57%",
+    "L. Desire": "12.45%",
+    "Base": "12.45%",
+    "Comparison": "25.69%",
+    "Individual": "11.75%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -310,11 +310,11 @@
     "Nation Check": "Aethyrrajyam",
     "Overlord": "",
     "Eco Vassals": "1,083,392.37",
-    "Eco Over.": "1,770,805.50",
+    "Eco Over.": "1,718,805.50",
     "Compare": "65.43%",
     "MP Vassals": "355,944.56",
     "MP Over.": "543,994.69",
-    "20% Total": "25.32%",
+    "20% Total": "25.69%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -1133,10 +1133,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "6.70%",
-    "Base": "6.70%",
-    "Comparison": "25.32%",
-    "Individual": "6.37%",
+    "L. Desire": "7.16%",
+    "Base": "7.16%",
+    "Comparison": "25.69%",
+    "Individual": "6.46%",
     "Friend/Rival": "-25.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -6872,12 +6872,12 @@
       "Trade 1 Value": "10,457.81"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Kingdom of Aeornia",
+      "Trade 2 Value": "16,027.55"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Golden Refugee",
+      "Trade 3 Value": "1,067.34"
     },
     "Trade 4": {
       "Value": "",
@@ -6927,13 +6927,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "10,457.81",
+    "Raw Trade Income": "27,552.71",
     "Tariffs": "1.05",
-    "Trade Income": "10,980.70",
+    "Trade Income": "28,930.34",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
-    "Trades": "1"
+    "Trades": "3"
   },
   "Four Leagues of Trinity": {
     "Nations": "Four Leagues of Trinity",
@@ -12863,10 +12863,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "7.35%",
-    "Base": "7.35%",
-    "Comparison": "11.17%",
-    "Individual": "11.17%",
+    "L. Desire": "19.44%",
+    "Base": "19.44%",
+    "Comparison": "17.22%",
+    "Individual": "17.22%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -13271,10 +13271,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "28.94%",
-    "Base": "28.94%",
-    "Comparison": "16.55%",
-    "Individual": "16.55%",
+    "L. Desire": "32.31%",
+    "Base": "32.31%",
+    "Comparison": "18.24%",
+    "Individual": "18.24%",
     "Friend/Rival": "0.00%",
     "Taxes": "3.33%",
     "Indep War?": "",
@@ -13299,7 +13299,7 @@
     },
     "Trade 2": {
       "Value": "Lysian Republic",
-      "Trade 2 Value": "4,506.25"
+      "Trade 2 Value": "5,497.63"
     },
     "Trade 3": {
       "Value": "Trade Republic of Ameria",
@@ -13326,8 +13326,8 @@
       "Trade 8 Value": "7,173.38"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Mercati Emporium",
+      "Trade 9 Value": "26,531.10"
     },
     "Trade 10": {
       "Value": "",
@@ -13353,13 +13353,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "69,764.77",
+    "Raw Trade Income": "97,287.24",
     "Tariffs": "1.05",
-    "Trade Income": "73,253.01",
+    "Trade Income": "102,151.61",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "8"
+    "Trades": "9"
   },
   "Kingdom of Mimgrond": {
     "Nations": "Kingdom of Mimgrond",
@@ -14087,10 +14087,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "45.20%",
-    "Base": "45.20%",
-    "Comparison": "25.32%",
-    "Individual": "7.38%",
+    "L. Desire": "45.67%",
+    "Base": "45.67%",
+    "Comparison": "25.69%",
+    "Individual": "7.48%",
     "Friend/Rival": "0.00%",
     "Taxes": "7.50%",
     "Indep War?": "",
@@ -15334,16 +15334,16 @@
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Kingdom of Lyroa",
+      "Trade 1 Value": "9,593.06"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Sri Shimbir",
+      "Trade 2 Value": "4,499.22"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Pataia",
+      "Trade 3 Value": "13,603.13"
     },
     "Trade 4": {
       "Value": "",
@@ -15393,13 +15393,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "27,695.41",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "26,310.64",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "3"
   },
   "M'Qili Confederacy": {
     "Nations": "M'Qili Confederacy",
@@ -21172,8 +21172,8 @@
       "Trade 6 Value": "38,786.63"
     },
     "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
+      "Value": "Dinasygan",
+      "Trade 7 Value": "5,200.00"
     },
     "Trade 8": {
       "Value": "",
@@ -21207,13 +21207,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "100,977.45",
+    "Raw Trade Income": "106,177.45",
     "Tariffs": "1.25",
-    "Trade Income": "126,221.81",
+    "Trade Income": "132,721.81",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
-    "Trades": "6"
+    "Trades": "7"
   },
   "Sajuanelhi": {
     "Nations": "Sajuanelhi",
@@ -21628,11 +21628,11 @@
     "Nation Check": "Scientarium",
     "Overlord": "",
     "Eco Vassals": "99,970.00",
-    "Eco Over.": "730,953.92",
-    "Compare": "42.19%",
+    "Eco Over.": "588,207.47",
+    "Compare": "69.11%",
     "MP Vassals": "41,017.00",
-    "MP Over.": "97,216.63",
-    "20% Total": "11.17%",
+    "MP Over.": "59,349.13",
+    "20% Total": "17.22%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -25911,12 +25911,12 @@
     "Nations": "The Statute of Order",
     "Nation Check": "The Statute of Order",
     "Overlord": "",
-    "Eco Vassals": "215,661.37",
+    "Eco Vassals": "245,147.78",
     "Eco Over.": "354,533.41",
-    "Compare": "21.94%",
-    "MP Vassals": "43,501.56",
+    "Compare": "22.04%",
+    "MP Vassals": "43,707.81",
     "MP Over.": "198,309.38",
-    "20% Total": "16.55%",
+    "20% Total": "18.24%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
