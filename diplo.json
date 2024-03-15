@@ -421,8 +421,8 @@
     "": "",
     "L. Desire": "7.83%",
     "Base": "7.83%",
-    "Comparison": "4.35%",
-    "Individual": "1.80%",
+    "Comparison": "4.36%",
+    "Individual": "1.81%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
     "Indep War?": "",
@@ -616,11 +616,11 @@
     "Nation Check": "Akaḣpetoƞ",
     "Overlord": "",
     "Eco Vassals": "57,526.94",
-    "Eco Over.": "322,701.72",
+    "Eco Over.": "322,364.22",
     "Compare": "3.95%",
     "MP Vassals": "6,410.94",
     "MP Over.": "162,386.47",
-    "20% Total": "4.35%",
+    "20% Total": "4.36%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -667,7 +667,7 @@
     },
     "Trade 6": {
       "Value": "Pyhätmetsät",
-      "Trade 6 Value": "6,604.69"
+      "Trade 6 Value": "6,154.69"
     },
     "Trade 7": {
       "Value": "Zastita",
@@ -705,9 +705,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "69,593.56",
+    "Raw Trade Income": "69,143.56",
     "Tariffs": "0.75",
-    "Trade Income": "52,195.17",
+    "Trade Income": "51,857.67",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -1847,9 +1847,9 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "4.07%",
-    "Base": "4.07%",
-    "Comparison": "4.35%",
+    "L. Desire": "4.08%",
+    "Base": "4.08%",
+    "Comparison": "4.36%",
     "Individual": "2.55%",
     "Friend/Rival": "0.00%",
     "Taxes": "-3.33%",
@@ -4629,7 +4629,7 @@
     },
     "Trade 2": {
       "Value": "Pyhätmetsät",
-      "Trade 2 Value": "6,604.69"
+      "Trade 2 Value": "6,154.69"
     },
     "Trade 3": {
       "Value": "Velken Bulwark",
@@ -4683,9 +4683,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "74,760.13",
+    "Raw Trade Income": "74,310.13",
     "Tariffs": "0.95",
-    "Trade Income": "71,022.12",
+    "Trade Income": "70,594.62",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -13119,7 +13119,7 @@
     },
     "Trade 8": {
       "Value": "Pyhätmetsät",
-      "Trade 8 Value": "6,604.69"
+      "Trade 8 Value": "6,154.69"
     },
     "Trade 9": {
       "Value": "Maldune",
@@ -13149,9 +13149,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "188,649.51",
+    "Raw Trade Income": "188,199.51",
     "Tariffs": "0.95",
-    "Trade Income": "179,217.04",
+    "Trade Income": "178,789.54",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -14746,8 +14746,8 @@
       "Trade 6 Value": "4,410.17"
     },
     "Trade 7": {
-      "Value": "The Al-Deni Dominion",
-      "Trade 7 Value": "4,617.19"
+      "Value": "Luminus",
+      "Trade 7 Value": "9,614.36"
     },
     "Trade 8": {
       "Value": "Zarkone",
@@ -14781,9 +14781,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "124,349.07",
+    "Raw Trade Income": "129,346.25",
     "Tariffs": "0.95",
-    "Trade Income": "118,131.62",
+    "Trade Income": "122,878.93",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -22785,7 +22785,7 @@
     },
     "Trade 2": {
       "Value": "Pyhätmetsät",
-      "Trade 2 Value": "6,604.69"
+      "Trade 2 Value": "6,154.69"
     },
     "Trade 3": {
       "Value": "Kaug-Põhja",
@@ -22839,9 +22839,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "111,046.78",
+    "Raw Trade Income": "110,596.78",
     "Tariffs": "0.95",
-    "Trade Income": "105,494.44",
+    "Trade Income": "105,066.94",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "2",
@@ -23205,7 +23205,7 @@
     },
     "Trade 5": {
       "Value": "Pyhätmetsät",
-      "Trade 5 Value": "6,604.69"
+      "Trade 5 Value": "6,154.69"
     },
     "Trade 6": {
       "Value": "Maldune",
@@ -23247,9 +23247,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "213,180.70",
+    "Raw Trade Income": "212,730.70",
     "Tariffs": "0.75",
-    "Trade Income": "159,885.53",
+    "Trade Income": "159,548.03",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -25575,7 +25575,7 @@
     },
     "Trade 11": {
       "Value": "Pyhätmetsät",
-      "Trade 11 Value": "6,604.69"
+      "Trade 11 Value": "6,154.69"
     },
     "Trade 12": {
       "Value": "The Grand City of Smmeíaia",
@@ -25593,9 +25593,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "158,576.24",
+    "Raw Trade Income": "158,126.24",
     "Tariffs": "0.96",
-    "Trade Income": "152,233.19",
+    "Trade Income": "151,801.19",
     "NAPs": "3",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
