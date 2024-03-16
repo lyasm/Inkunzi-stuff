@@ -2146,11 +2146,11 @@
     "Nation Check": "Atlas'ii",
     "Overlord": "",
     "Eco Vassals": "1,505,942.27",
-    "Eco Over.": "422,905.24",
-    "Compare": "280.64%",
+    "Eco Over.": "449,584.18",
+    "Compare": "280.47%",
     "MP Vassals": "506,697.81",
-    "MP Over.": "180,547.81",
-    "20% Total": "127.35%",
+    "MP Over.": "180,657.13",
+    "20% Total": "123.09%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -2192,8 +2192,8 @@
       "Trade 4 Value": "3,984.38"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Kycerian Dominion",
+      "Trade 5 Value": "26,278.13"
     },
     "Trade 6": {
       "Value": "",
@@ -2235,13 +2235,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "21,149.62",
+    "Raw Trade Income": "47,427.74",
     "Tariffs": "1.00",
-    "Trade Income": "21,149.62",
+    "Trade Income": "47,427.74",
     "NAPs": "2",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "4"
+    "Trades": "5"
   },
   "Zilvrenskegga": {
     "Nations": "Zilvrenskegga",
@@ -2766,9 +2766,9 @@
     "Vassal Type": "March",
     "": "",
     "L. Desire": "200.00%",
-    "Base": "216.25%",
-    "Comparison": "127.35%",
-    "Individual": "80.57%",
+    "Base": "209.13%",
+    "Comparison": "123.09%",
+    "Individual": "77.71%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -7031,6 +7031,108 @@
     },
     "Raw Trade Income": "0.00",
     "Tariffs": "1.00",
+    "Trade Income": "0.00",
+    "NAPs": "0",
+    "Def. Pacts": "0",
+    "Mil. Pacts": "0",
+    "Trades": "0"
+  },
+  "Free Neighbor": {
+    "Nations": "Free Neighbor",
+    "Nation Check": "",
+    "Overlord": "",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "",
+    "": "",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "0.00%",
+    "Individual": "",
+    "Friend/Rival": "0.00%",
+    "Taxes": "",
+    "Indep War?": "",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "9",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": ""
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "0.00",
+    "Tariffs": "1.05",
     "Trade Income": "0.00",
     "NAPs": "0",
     "Def. Pacts": "0",
@@ -16229,10 +16331,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "134.22%",
-    "Base": "134.22%",
-    "Comparison": "127.35%",
-    "Individual": "14.37%",
+    "L. Desire": "129.48%",
+    "Base": "129.48%",
+    "Comparison": "123.09%",
+    "Individual": "13.89%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -17657,10 +17759,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "144.49%",
-    "Base": "144.49%",
-    "Comparison": "127.35%",
-    "Individual": "7.14%",
+    "L. Desire": "140.06%",
+    "Base": "140.06%",
+    "Comparison": "123.09%",
+    "Individual": "6.97%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
@@ -26939,10 +27041,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "152.62%",
-    "Base": "152.62%",
-    "Comparison": "127.35%",
-    "Individual": "25.27%",
+    "L. Desire": "147.60%",
+    "Base": "147.60%",
+    "Comparison": "123.09%",
+    "Individual": "24.52%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
     "Indep War?": "",
