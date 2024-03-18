@@ -1721,8 +1721,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Chitinara": {
-    "Nations": "Chitinara",
+  "Chitinara ( DEAD NATION)": {
+    "Nations": "Chitinara ( DEAD NATION)",
     "Nation Check": "Chitinara",
     "Pow_Army": "-74",
     "Pow_Navy": "0",
@@ -1808,9 +1808,9 @@
   "Clan Karatillion": {
     "Nations": "Clan Karatillion",
     "Nation Check": "Clan Karatillion",
-    "Pow_Army": "830",
+    "Pow_Army": "834",
     "Pow_Navy": "0",
-    "Manpower": "207,570",
+    "Manpower": "208,560",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "0.00",
@@ -9706,7 +9706,7 @@
     "Nation Check": "Terrum Aetheri",
     "Pow_Army": "72",
     "Pow_Navy": "0",
-    "Manpower": "9,006",
+    "Manpower": "9,089",
     "Manpower Avail.": "0",
     "Upkeep": "",
     "Upkeep Army": "19,440.00",

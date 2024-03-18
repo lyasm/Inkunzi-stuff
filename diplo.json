@@ -1330,11 +1330,11 @@
     "Nation Check": "Amethyst Clan",
     "Overlord": "",
     "Eco Vassals": "104,495.16",
-    "Eco Over.": "290,361.39",
+    "Eco Over.": "294,541.39",
     "Compare": "33.65%",
     "MP Vassals": "53,318.31",
     "MP Over.": "158,455.00",
-    "20% Total": "13.93%",
+    "20% Total": "13.83%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -1381,7 +1381,7 @@
     },
     "Trade 6": {
       "Value": "Chitinara",
-      "Trade 6 Value": "600.00"
+      "Trade 6 Value": "5,000.00"
     },
     "Trade 7": {
       "Value": "Zalmoxia",
@@ -1419,9 +1419,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "48,055.41",
+    "Raw Trade Income": "52,455.41",
     "Tariffs": "0.95",
-    "Trade Income": "45,652.64",
+    "Trade Income": "49,832.64",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -3977,8 +3977,8 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
-  "Chitinara": {
-    "Nations": "Chitinara",
+  "Chitinara ( DEAD NATION)": {
+    "Nations": "Chitinara ( DEAD NATION)",
     "Nation Check": "Chitinara",
     "Overlord": "Amethyst Clan",
     "Eco Vassals": "",
@@ -3989,10 +3989,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "10.89%",
-    "Base": "10.89%",
-    "Comparison": "13.93%",
-    "Individual": "-1.37%",
+    "L. Desire": "10.77%",
+    "Base": "10.77%",
+    "Comparison": "13.83%",
+    "Individual": "-1.39%",
     "Friend/Rival": "0.00%",
     "Taxes": "8.33%",
     "Indep War?": "",
@@ -4212,8 +4212,8 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Cabyar Birodalom",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
+    "Military Alliances": "Kranicvak Nixond",
+    "Military Alliances 2": "Aethyrrajyam",
     "Limit": "12",
     "Trade 1": {
       "Value": "Alonissos Isles",
@@ -4280,7 +4280,7 @@
     "Trade Income": "321,250.60",
     "NAPs": "0",
     "Def. Pacts": "1",
-    "Mil. Pacts": "0",
+    "Mil. Pacts": "2",
     "Trades": "11"
   },
   "Cheeiran-Lunarian Sister Republic": {
@@ -11435,9 +11435,9 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "112.75%",
-    "Base": "112.75%",
-    "Comparison": "94.27%",
+    "L. Desire": "112.85%",
+    "Base": "112.85%",
+    "Comparison": "94.37%",
     "Individual": "10.15%",
     "Friend/Rival": "0.00%",
     "Taxes": "18.33%",
@@ -12047,9 +12047,9 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "114.73%",
-    "Base": "114.73%",
-    "Comparison": "94.27%",
+    "L. Desire": "114.83%",
+    "Base": "114.83%",
+    "Comparison": "94.37%",
     "Individual": "20.46%",
     "Friend/Rival": "-25.00%",
     "Taxes": "15.00%",
@@ -14624,8 +14624,8 @@
       "Trade 1 Value": "9,497.44"
     },
     "Trade 2": {
-      "Value": "Golden Refugee",
-      "Trade 2 Value": "1,308.84"
+      "Value": "Soroner",
+      "Trade 2 Value": "6,787.88"
     },
     "Trade 3": {
       "Value": "The Awakened",
@@ -14679,9 +14679,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "64,758.93",
+    "Raw Trade Income": "70,237.96",
     "Tariffs": "1.25",
-    "Trade Income": "80,948.66",
+    "Trade Income": "87,797.45",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -19799,9 +19799,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "119.63%",
-    "Base": "119.63%",
-    "Comparison": "94.27%",
+    "L. Desire": "119.73%",
+    "Base": "119.73%",
+    "Comparison": "94.37%",
     "Individual": "15.36%",
     "Friend/Rival": "0.00%",
     "Taxes": "5.00%",
@@ -22376,8 +22376,8 @@
       "Trade 1 Value": "10,457.81"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Lepnia",
+      "Trade 2 Value": "9,045.00"
     },
     "Trade 3": {
       "Value": "",
@@ -22431,13 +22431,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "10,457.81",
+    "Raw Trade Income": "19,502.81",
     "Tariffs": "0.95",
-    "Trade Income": "9,934.92",
+    "Trade Income": "18,527.67",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "1"
+    "Trades": "2"
   },
   "Rosinelle": {
     "Nations": "Rosinelle",
@@ -23498,12 +23498,12 @@
       "Trade 1 Value": "39,798.63"
     },
     "Trade 2": {
-      "Value": "Imperium Novae Aeseriae",
-      "Trade 2 Value": "4,597.88"
+      "Value": "\\",
+      "Trade 2 Value": "5,000.00"
     },
     "Trade 3": {
-      "Value": "Neonian Kuningate",
-      "Trade 3 Value": "1,322.50"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "Etolian Dimokratia",
@@ -23553,13 +23553,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "77,463.73",
+    "Raw Trade Income": "76,543.36",
     "Tariffs": "0.75",
-    "Trade Income": "58,097.80",
+    "Trade Income": "57,407.52",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "7"
+    "Trades": "6"
   },
   "Tetóth Kegeth": {
     "Nations": "Tetóth Kegeth",
@@ -25511,10 +25511,10 @@
     "20% Total": "",
     "Vassal Type": "Tributary",
     "": "",
-    "L. Desire": "30.89%",
-    "Base": "30.89%",
-    "Comparison": "13.93%",
-    "Individual": "15.30%",
+    "L. Desire": "30.70%",
+    "Base": "30.70%",
+    "Comparison": "13.83%",
+    "Individual": "15.21%",
     "Friend/Rival": "0.00%",
     "Taxes": "21.67%",
     "Indep War?": "",
@@ -27747,12 +27747,12 @@
     "Nations": "Uqhuma Killa",
     "Nation Check": "Uqhuma Killa",
     "Overlord": "",
-    "Eco Vassals": "2,386,852.66",
+    "Eco Vassals": "2,394,469.34",
     "Eco Over.": "1,504,816.70",
     "Compare": "312.71%",
     "MP Vassals": "784,825.71",
     "MP Over.": "250,971.88",
-    "20% Total": "94.27%",
+    "20% Total": "94.37%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -28265,9 +28265,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "89.41%",
-    "Base": "89.41%",
-    "Comparison": "94.27%",
+    "L. Desire": "89.51%",
+    "Base": "89.51%",
+    "Comparison": "94.37%",
     "Individual": "14.64%",
     "Friend/Rival": "-25.00%",
     "Taxes": "10.00%",
@@ -31223,10 +31223,10 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "",
-    "L. Desire": "54.22%",
-    "Base": "54.22%",
-    "Comparison": "94.27%",
-    "Individual": "4.96%",
+    "L. Desire": "54.35%",
+    "Base": "54.35%",
+    "Comparison": "94.37%",
+    "Individual": "4.99%",
     "Friend/Rival": "0.00%",
     "Taxes": "-30.00%",
     "Indep War?": "",
@@ -31247,23 +31247,23 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Halpa Akuspha",
-      "Trade 1 Value": "4,093.75"
+      "Trade 1 Value": "4,493.75"
     },
     "Trade 2": {
       "Value": "Hallpa Chinca",
-      "Trade 2 Value": "6,156.25"
+      "Trade 2 Value": "6,656.25"
     },
     "Trade 3": {
       "Value": "Hallpa Kunti",
-      "Trade 3 Value": "6,981.25"
+      "Trade 3 Value": "7,681.25"
     },
     "Trade 4": {
       "Value": "Hallpa Urin",
-      "Trade 4 Value": "6,156.25"
+      "Trade 4 Value": "6,456.25"
     },
     "Trade 5": {
       "Value": "Hallpa Harkuq",
-      "Trade 5 Value": "4,300.00"
+      "Trade 5 Value": "4,700.00"
     },
     "Trade 6": {
       "Value": "",
@@ -31305,9 +31305,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "27,687.50",
+    "Raw Trade Income": "29,987.50",
     "Tariffs": "0.95",
-    "Trade Income": "26,303.13",
+    "Trade Income": "28,488.13",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -31325,9 +31325,9 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "",
-    "L. Desire": "54.80%",
-    "Base": "54.80%",
-    "Comparison": "94.27%",
+    "L. Desire": "54.90%",
+    "Base": "54.90%",
+    "Comparison": "94.37%",
     "Individual": "5.53%",
     "Friend/Rival": "0.00%",
     "Taxes": "-30.00%",
@@ -31349,23 +31349,23 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Halpa Anti",
-      "Trade 1 Value": "7,393.75"
+      "Trade 1 Value": "7,643.75"
     },
     "Trade 2": {
       "Value": "Hallpa Chinca",
-      "Trade 2 Value": "6,156.25"
+      "Trade 2 Value": "6,656.25"
     },
     "Trade 3": {
       "Value": "Hallpa Kunti",
-      "Trade 3 Value": "6,981.25"
+      "Trade 3 Value": "7,681.25"
     },
     "Trade 4": {
       "Value": "Hallpa Urin",
-      "Trade 4 Value": "6,156.25"
+      "Trade 4 Value": "6,456.25"
     },
     "Trade 5": {
       "Value": "Hallpa Harkuq",
-      "Trade 5 Value": "4,300.00"
+      "Trade 5 Value": "4,700.00"
     },
     "Trade 6": {
       "Value": "",
@@ -31407,9 +31407,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,987.50",
+    "Raw Trade Income": "33,137.50",
     "Tariffs": "0.95",
-    "Trade Income": "29,438.13",
+    "Trade Income": "31,480.63",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -31427,10 +31427,10 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "",
-    "L. Desire": "55.85%",
-    "Base": "55.85%",
-    "Comparison": "94.27%",
-    "Individual": "6.58%",
+    "L. Desire": "55.97%",
+    "Base": "55.97%",
+    "Comparison": "94.37%",
+    "Individual": "6.61%",
     "Friend/Rival": "0.00%",
     "Taxes": "-30.00%",
     "Indep War?": "",
@@ -31451,23 +31451,23 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Halpa Anti",
-      "Trade 1 Value": "7,393.75"
+      "Trade 1 Value": "7,643.75"
     },
     "Trade 2": {
       "Value": "Halpa Akuspha",
-      "Trade 2 Value": "4,093.75"
+      "Trade 2 Value": "4,493.75"
     },
     "Trade 3": {
       "Value": "Hallpa Kunti",
-      "Trade 3 Value": "6,981.25"
+      "Trade 3 Value": "7,681.25"
     },
     "Trade 4": {
       "Value": "Hallpa Urin",
-      "Trade 4 Value": "6,156.25"
+      "Trade 4 Value": "6,456.25"
     },
     "Trade 5": {
       "Value": "Hallpa Harkuq",
-      "Trade 5 Value": "4,300.00"
+      "Trade 5 Value": "4,700.00"
     },
     "Trade 6": {
       "Value": "",
@@ -31509,9 +31509,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "28,925.00",
+    "Raw Trade Income": "30,975.00",
     "Tariffs": "0.95",
-    "Trade Income": "27,478.75",
+    "Trade Income": "29,426.25",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -31529,10 +31529,10 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "",
-    "L. Desire": "57.26%",
-    "Base": "57.26%",
-    "Comparison": "94.27%",
-    "Individual": "8.00%",
+    "L. Desire": "57.39%",
+    "Base": "57.39%",
+    "Comparison": "94.37%",
+    "Individual": "8.02%",
     "Friend/Rival": "0.00%",
     "Taxes": "-30.00%",
     "Indep War?": "",
@@ -31553,23 +31553,23 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Halpa Anti",
-      "Trade 1 Value": "7,393.75"
+      "Trade 1 Value": "7,643.75"
     },
     "Trade 2": {
       "Value": "Hallpa Chinca",
-      "Trade 2 Value": "6,156.25"
+      "Trade 2 Value": "6,656.25"
     },
     "Trade 3": {
       "Value": "Halpa Akuspha",
-      "Trade 3 Value": "4,093.75"
+      "Trade 3 Value": "4,493.75"
     },
     "Trade 4": {
       "Value": "Hallpa Urin",
-      "Trade 4 Value": "6,156.25"
+      "Trade 4 Value": "6,456.25"
     },
     "Trade 5": {
       "Value": "Hallpa Harkuq",
-      "Trade 5 Value": "4,300.00"
+      "Trade 5 Value": "4,700.00"
     },
     "Trade 6": {
       "Value": "",
@@ -31611,9 +31611,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "28,100.00",
+    "Raw Trade Income": "29,950.00",
     "Tariffs": "0.95",
-    "Trade Income": "26,695.00",
+    "Trade Income": "28,452.50",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -31631,10 +31631,10 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "",
-    "L. Desire": "52.56%",
-    "Base": "52.56%",
-    "Comparison": "94.27%",
-    "Individual": "3.30%",
+    "L. Desire": "52.69%",
+    "Base": "52.69%",
+    "Comparison": "94.37%",
+    "Individual": "3.33%",
     "Friend/Rival": "0.00%",
     "Taxes": "-30.00%",
     "Indep War?": "",
@@ -31655,23 +31655,23 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Halpa Anti",
-      "Trade 1 Value": "7,393.75"
+      "Trade 1 Value": "7,643.75"
     },
     "Trade 2": {
       "Value": "Hallpa Chinca",
-      "Trade 2 Value": "6,156.25"
+      "Trade 2 Value": "6,656.25"
     },
     "Trade 3": {
       "Value": "Halpa Akuspha",
-      "Trade 3 Value": "4,093.75"
+      "Trade 3 Value": "4,493.75"
     },
     "Trade 4": {
       "Value": "Hallpa Kunti",
-      "Trade 4 Value": "6,981.25"
+      "Trade 4 Value": "7,681.25"
     },
     "Trade 5": {
       "Value": "Hallpa Harkuq",
-      "Trade 5 Value": "4,300.00"
+      "Trade 5 Value": "4,700.00"
     },
     "Trade 6": {
       "Value": "",
@@ -31713,9 +31713,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "28,925.00",
+    "Raw Trade Income": "31,175.00",
     "Tariffs": "0.95",
-    "Trade Income": "27,478.75",
+    "Trade Income": "29,616.25",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
@@ -31733,10 +31733,10 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "",
-    "L. Desire": "54.56%",
-    "Base": "54.56%",
-    "Comparison": "94.27%",
-    "Individual": "5.29%",
+    "L. Desire": "54.65%",
+    "Base": "54.65%",
+    "Comparison": "94.37%",
+    "Individual": "5.28%",
     "Friend/Rival": "0.00%",
     "Taxes": "-30.00%",
     "Indep War?": "",
@@ -31757,23 +31757,23 @@
     "Limit": "7",
     "Trade 1": {
       "Value": "Halpa Anti",
-      "Trade 1 Value": "7,393.75"
+      "Trade 1 Value": "7,643.75"
     },
     "Trade 2": {
       "Value": "Hallpa Chinca",
-      "Trade 2 Value": "6,156.25"
+      "Trade 2 Value": "6,656.25"
     },
     "Trade 3": {
       "Value": "Halpa Akuspha",
-      "Trade 3 Value": "4,093.75"
+      "Trade 3 Value": "4,493.75"
     },
     "Trade 4": {
       "Value": "Hallpa Kunti",
-      "Trade 4 Value": "6,981.25"
+      "Trade 4 Value": "7,681.25"
     },
     "Trade 5": {
       "Value": "Hallpa Urin",
-      "Trade 5 Value": "6,156.25"
+      "Trade 5 Value": "6,456.25"
     },
     "Trade 6": {
       "Value": "",
@@ -31815,9 +31815,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "30,781.25",
+    "Raw Trade Income": "32,931.25",
     "Tariffs": "0.95",
-    "Trade Income": "29,242.19",
+    "Trade Income": "31,284.69",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
