@@ -2070,7 +2070,7 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "",
+    "Military Alliances": "Lohiida Dathinaal",
     "Military Alliances 2": "Goldmongers",
     "Limit": "8",
     "Trade 1": {
@@ -2138,7 +2138,7 @@
     "Trade Income": "67,626.54",
     "NAPs": "0",
     "Def. Pacts": "0",
-    "Mil. Pacts": "1",
+    "Mil. Pacts": "2",
     "Trades": "7"
   },
   "Atlas'ii": {
@@ -3574,11 +3574,11 @@
     "Nation Check": "Ceavia",
     "Overlord": "",
     "Eco Vassals": "194,536.41",
-    "Eco Over.": "299,049.23",
+    "Eco Over.": "299,513.29",
     "Compare": "89.08%",
     "MP Vassals": "105,273.44",
     "MP Over.": "118,181.25",
-    "20% Total": "30.83%",
+    "20% Total": "30.81%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -3609,7 +3609,7 @@
     },
     "Trade 2": {
       "Value": "Stortingr Republik af Frystdömet",
-      "Trade 2 Value": "23,543.44"
+      "Trade 2 Value": "23,914.69"
     },
     "Trade 3": {
       "Value": "The Republic of Alyvosk",
@@ -3663,9 +3663,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "82,247.38",
+    "Raw Trade Income": "82,618.63",
     "Tariffs": "1.25",
-    "Trade Income": "102,809.23",
+    "Trade Income": "103,273.29",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -6235,8 +6235,8 @@
     "": "",
     "L. Desire": "37.03%",
     "Base": "37.03%",
-    "Comparison": "23.27%",
-    "Individual": "11.27%",
+    "Comparison": "23.26%",
+    "Individual": "11.26%",
     "Friend/Rival": "0.00%",
     "Taxes": "12.50%",
     "Indep War?": "",
@@ -8022,8 +8022,8 @@
       "Trade 8 Value": "6,275.00"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Brotherhood of Dwarves",
+      "Trade 9 Value": "3,062.50"
     },
     "Trade 10": {
       "Value": "",
@@ -8049,13 +8049,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "77,906.03",
+    "Raw Trade Income": "80,968.53",
     "Tariffs": "0.95",
-    "Trade Income": "74,010.73",
+    "Trade Income": "76,920.11",
     "NAPs": "1",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
-    "Trades": "8"
+    "Trades": "9"
   },
   "Gramantinia": {
     "Nations": "Gramantinia",
@@ -11129,9 +11129,9 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "55.27%",
-    "Base": "55.27%",
-    "Comparison": "23.27%",
+    "L. Desire": "55.26%",
+    "Base": "55.26%",
+    "Comparison": "23.26%",
     "Individual": "12.00%",
     "Friend/Rival": "0.00%",
     "Taxes": "20.00%",
@@ -11937,12 +11937,12 @@
     "Nations": "Kaug-Põhja",
     "Nation Check": "Kaug-Põhja",
     "Overlord": "",
-    "Eco Vassals": "298,547.13",
-    "Eco Over.": "678,852.41",
+    "Eco Vassals": "298,918.38",
+    "Eco Over.": "679,205.10",
     "Compare": "44.99%",
     "MP Vassals": "87,914.06",
     "MP Over.": "195,421.88",
-    "20% Total": "17.79%",
+    "20% Total": "17.80%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -11973,7 +11973,7 @@
     },
     "Trade 2": {
       "Value": "Stortingr Republik af Frystdömet",
-      "Trade 2 Value": "23,543.44"
+      "Trade 2 Value": "23,914.69"
     },
     "Trade 3": {
       "Value": "Queendom of Edarosia",
@@ -12027,9 +12027,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "161,170.30",
+    "Raw Trade Income": "161,541.55",
     "Tariffs": "0.95",
-    "Trade Income": "153,111.78",
+    "Trade Income": "153,464.47",
     "NAPs": "4",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -12593,7 +12593,7 @@
     },
     "Trade 4": {
       "Value": "Stortingr Republik af Frystdömet",
-      "Trade 4 Value": "23,543.44"
+      "Trade 4 Value": "23,914.69"
     },
     "Trade 5": {
       "Value": "Zalmoxia",
@@ -12639,9 +12639,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "181,300.11",
+    "Raw Trade Income": "181,671.36",
     "Tariffs": "0.96",
-    "Trade Income": "174,048.11",
+    "Trade Income": "174,404.51",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -13193,7 +13193,7 @@
     "Limit": "11",
     "Trade 1": {
       "Value": "Stortingr Republik af Frystdömet",
-      "Trade 1 Value": "23,543.44"
+      "Trade 1 Value": "23,914.69"
     },
     "Trade 2": {
       "Value": "Ceavia",
@@ -13251,9 +13251,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "226,042.59",
+    "Raw Trade Income": "226,413.84",
     "Tariffs": "0.95",
-    "Trade Income": "214,740.46",
+    "Trade Income": "215,093.14",
     "NAPs": "1",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
@@ -19517,7 +19517,7 @@
     "Limit": "9",
     "Trade 1": {
       "Value": "Stortingr Republik af Frystdömet",
-      "Trade 1 Value": "23,543.44"
+      "Trade 1 Value": "23,914.69"
     },
     "Trade 2": {
       "Value": "Kaug-Põhja",
@@ -19575,9 +19575,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "45,728.03",
+    "Raw Trade Income": "46,099.28",
     "Tariffs": "1.05",
-    "Trade Income": "48,014.43",
+    "Trade Income": "48,404.25",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "1",
@@ -19697,10 +19697,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "28.09%",
-    "Base": "28.09%",
-    "Comparison": "17.79%",
-    "Individual": "17.79%",
+    "L. Desire": "28.10%",
+    "Base": "28.10%",
+    "Comparison": "17.80%",
+    "Individual": "17.80%",
     "Friend/Rival": "0.00%",
     "Taxes": "-2.50%",
     "Indep War?": "",
@@ -19721,7 +19721,7 @@
     "Limit": "8",
     "Trade 1": {
       "Value": "Stortingr Republik af Frystdömet",
-      "Trade 1 Value": "23,543.44"
+      "Trade 1 Value": "23,914.69"
     },
     "Trade 2": {
       "Value": "Tautaspils",
@@ -19779,9 +19779,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "106,935.88",
+    "Raw Trade Income": "107,307.13",
     "Tariffs": "1.00",
-    "Trade Income": "106,935.88",
+    "Trade Income": "107,307.13",
     "NAPs": "1",
     "Def. Pacts": "1",
     "Mil. Pacts": "0",
@@ -22954,11 +22954,11 @@
     "Nation Check": "Stratavia",
     "Overlord": "",
     "Eco Vassals": "361,095.25",
-    "Eco Over.": "921,825.84",
+    "Eco Over.": "922,178.52",
     "Compare": "77.16%",
     "MP Vassals": "136,100.78",
     "MP Over.": "176,395.31",
-    "20% Total": "23.27%",
+    "20% Total": "23.26%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -22989,7 +22989,7 @@
     },
     "Trade 2": {
       "Value": "Stortingr Republik af Frystdömet",
-      "Trade 2 Value": "23,543.44"
+      "Trade 2 Value": "23,914.69"
     },
     "Trade 3": {
       "Value": "Meadoia Dynasty",
@@ -23043,9 +23043,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "473,849.98",
+    "Raw Trade Income": "474,221.23",
     "Tariffs": "0.95",
-    "Trade Income": "450,157.48",
+    "Trade Income": "450,510.16",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "1",
@@ -23295,7 +23295,7 @@
     },
     "Trade 2": {
       "Value": "Stortingr Republik af Frystdömet",
-      "Trade 2 Value": "23,543.44"
+      "Trade 2 Value": "23,914.69"
     },
     "Trade 3": {
       "Value": "The House of Jokers",
@@ -23349,9 +23349,9 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "215,224.62",
+    "Raw Trade Income": "215,595.87",
     "Tariffs": "0.75",
-    "Trade Income": "161,418.47",
+    "Trade Income": "161,696.90",
     "NAPs": "0",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
@@ -26429,10 +26429,10 @@
     "20% Total": "",
     "Vassal Type": "March",
     "": "",
-    "L. Desire": "54.65%",
-    "Base": "54.65%",
-    "Comparison": "30.83%",
-    "Individual": "30.83%",
+    "L. Desire": "54.61%",
+    "Base": "54.61%",
+    "Comparison": "30.81%",
+    "Individual": "30.81%",
     "Friend/Rival": "0.00%",
     "Taxes": "-2.00%",
     "Indep War?": "",
