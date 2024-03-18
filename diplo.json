@@ -2357,10 +2357,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "18.35%",
-    "Base": "18.35%",
-    "Comparison": "9.18%",
-    "Individual": "9.18%",
+    "L. Desire": "19.25%",
+    "Base": "19.25%",
+    "Comparison": "9.62%",
+    "Individual": "9.62%",
     "Friend/Rival": "0.00%",
     "Taxes": "0.00%",
     "Indep War?": "",
@@ -4108,9 +4108,9 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Nuanta",
+    "Defensive Pacts": "M'Qili Confederacy",
     "Defensive Pacts 2": "Avaritian Dictatorship",
-    "Military Alliances": "M'Qili Confederacy",
+    "Military Alliances": "Nuanta",
     "Military Alliances 2": "Trade Republic of Ameria",
     "Limit": "11",
     "Trade 1": {
@@ -9592,11 +9592,11 @@
     "Nation Check": "Hui Kai",
     "Overlord": "",
     "Eco Vassals": "174,463.28",
-    "Eco Over.": "677,402.36",
-    "Compare": "20.13%",
+    "Eco Over.": "618,002.36",
+    "Compare": "19.89%",
     "MP Vassals": "33,103.13",
-    "MP Over.": "164,472.00",
-    "20% Total": "9.18%",
+    "MP Over.": "166,452.00",
+    "20% Total": "9.62%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -10942,13 +10942,13 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
-    "Defensive Pacts": "Nāšā Qaḏmāyā",
+    "Defensive Pacts": "Nasa Quagmire",
     "Defensive Pacts 2": "First O'irstorian Republic",
     "Military Alliances": "Tavir",
     "Military Alliances 2": "",
     "Limit": "7",
     "Trade 1": {
-      "Value": "Nāšā Qaḏmāyā",
+      "Value": "Nasa Quagmire",
       "Trade 1 Value": "22,897.65"
     },
     "Trade 2": {
@@ -11937,12 +11937,12 @@
     "Nations": "Kaug-Põhja",
     "Nation Check": "Kaug-Põhja",
     "Overlord": "",
-    "Eco Vassals": "298,918.38",
+    "Eco Vassals": "311,169.63",
     "Eco Over.": "671,642.60",
-    "Compare": "45.47%",
-    "MP Vassals": "87,914.06",
+    "Compare": "49.10%",
+    "MP Vassals": "94,947.19",
     "MP Over.": "193,359.38",
-    "20% Total": "17.99%",
+    "20% Total": "19.09%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -16206,7 +16206,7 @@
       "Trade 14 Value": "14,233.41"
     },
     "Trade 15": {
-      "Value": "Nāšā Qaḏmāyā",
+      "Value": "Nasa Quagmire",
       "Trade 15 Value": "22,897.65"
     },
     "Raw Trade Income": "363,933.06",
@@ -16900,8 +16900,8 @@
       "Trade 9 Value": "2,375.00"
     },
     "Trade 10": {
-      "Value": "The Twin Cities",
-      "Trade 10 Value": "41,412.60"
+      "Value": "",
+      "Trade 10 Value": ""
     },
     "Trade 11": {
       "Value": "Ahupau'a o Heiau",
@@ -16923,13 +16923,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "159,587.53",
+    "Raw Trade Income": "118,174.93",
     "Tariffs": "0.76",
-    "Trade Income": "121,286.52",
+    "Trade Income": "89,812.95",
     "NAPs": "2",
     "Def. Pacts": "1",
     "Mil. Pacts": "2",
-    "Trades": "14"
+    "Trades": "13"
   },
   "Meridomus Kalleprii": {
     "Nations": "Meridomus Kalleprii",
@@ -17849,9 +17849,9 @@
     "Mil. Pacts": "0",
     "Trades": "4"
   },
-  "Nāšā Qaḏmāyā": {
-    "Nations": "Nāšā Qaḏmāyā",
-    "Nation Check": "Nāšā Qaḏmāyā",
+  "Nasa Quagmire": {
+    "Nations": "Nasa Quagmire",
+    "Nation Check": "Nasa Quagmire",
     "Overlord": "",
     "Eco Vassals": "251,616.70",
     "Eco Over.": "635,516.55",
@@ -18592,10 +18592,10 @@
     "Ov. Culture": "",
     "Ov. Religion": "",
     "Non-aggression Pacts": "The Dukedom of Sylicia",
-    "Defensive Pacts": "Kingdom of the Kettlelands",
-    "Defensive Pacts 2": "The Twin Cities",
+    "Defensive Pacts": "The Al-Deni Dominion",
+    "Defensive Pacts 2": "Hui Kai",
     "Military Alliances": "Avaritian Dictatorship",
-    "Military Alliances 2": "Hui Kai",
+    "Military Alliances 2": "The Twin Cities",
     "Limit": "11",
     "Trade 1": {
       "Value": "Hui Kai",
@@ -19697,10 +19697,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "28.49%",
-    "Base": "28.49%",
-    "Comparison": "17.99%",
-    "Individual": "17.99%",
+    "L. Desire": "30.67%",
+    "Base": "30.67%",
+    "Comparison": "19.09%",
+    "Individual": "19.09%",
     "Friend/Rival": "0.00%",
     "Taxes": "-2.50%",
     "Indep War?": "",
@@ -20540,7 +20540,7 @@
       "Trade 1 Value": "246,137.48"
     },
     "Trade 2": {
-      "Value": "Nāšā Qaḏmāyā",
+      "Value": "Nasa Quagmire",
       "Trade 2 Value": "22,897.65"
     },
     "Trade 3": {
@@ -23083,7 +23083,7 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "First O'irstorian Republic",
-    "Military Alliances 2": "Nāšā Qaḏmāyā",
+    "Military Alliances 2": "Nasa Quagmire",
     "Limit": "11",
     "Trade 1": {
       "Value": "Second State of Los",
@@ -23094,7 +23094,7 @@
       "Trade 2 Value": "2,029.22"
     },
     "Trade 3": {
-      "Value": "Nāšā Qaḏmāyā",
+      "Value": "Nasa Quagmire",
       "Trade 3 Value": "22,897.65"
     },
     "Trade 4": {
@@ -23392,7 +23392,7 @@
     "Military Alliances 2": "Félagi Vargúlfr Dvergr",
     "Limit": "10",
     "Trade 1": {
-      "Value": "Nāšā Qaḏmāyā",
+      "Value": "Nasa Quagmire",
       "Trade 1 Value": "22,897.65"
     },
     "Trade 2": {
@@ -25837,10 +25837,10 @@
     "Defensive Pacts": "Amethyst Clan",
     "Defensive Pacts 2": "Félagi Vargúlfr Dvergr",
     "Military Alliances": "Stryaxina",
-    "Military Alliances 2": "Nāšā Qaḏmāyā",
+    "Military Alliances 2": "Nasa Quagmire",
     "Limit": "7",
     "Trade 1": {
-      "Value": "Nāšā Qaḏmāyā",
+      "Value": "Nasa Quagmire",
       "Trade 1 Value": "22,897.65"
     },
     "Trade 2": {
@@ -27134,7 +27134,7 @@
   "Tsûa Lâng": {
     "Nations": "Tsûa Lâng",
     "Nation Check": "Tsûa Lâng",
-    "Overlord": "Nāšā Qaḏmāyā",
+    "Overlord": "Nasa Quagmire",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
@@ -27166,7 +27166,7 @@
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "Nāšā Qaḏmāyā",
+      "Value": "Nasa Quagmire",
       "Trade 1 Value": "22,897.65"
     },
     "Trade 2": {
@@ -29480,7 +29480,7 @@
   "Zenj'yava": {
     "Nations": "Zenj'yava",
     "Nation Check": "Zenj'yava",
-    "Overlord": "Nāšā Qaḏmāyā",
+    "Overlord": "Nasa Quagmire",
     "Eco Vassals": "",
     "Eco Over.": "",
     "Compare": "",
