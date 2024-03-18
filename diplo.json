@@ -13373,10 +13373,10 @@
     "20% Total": "",
     "Vassal Type": "Mercantile",
     "": "",
-    "L. Desire": "26.15%",
-    "Base": "26.15%",
-    "Comparison": "15.16%",
-    "Individual": "15.16%",
+    "L. Desire": "21.03%",
+    "Base": "21.03%",
+    "Comparison": "12.60%",
+    "Individual": "12.60%",
     "Friend/Rival": "0.00%",
     "Taxes": "3.33%",
     "Indep War?": "",
@@ -26014,11 +26014,11 @@
     "Nation Check": "The Statute of Order",
     "Overlord": "",
     "Eco Vassals": "145,299.06",
-    "Eco Over.": "266,231.41",
+    "Eco Over.": "347,677.76",
     "Compare": "21.21%",
     "MP Vassals": "42,057.81",
     "MP Over.": "198,309.38",
-    "20% Total": "15.16%",
+    "20% Total": "12.60%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -26044,40 +26044,40 @@
     "Military Alliances 2": "",
     "Limit": "9",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Snow Dominion",
+      "Trade 1 Value": "10,692.50"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Republic of Rostora",
+      "Trade 2 Value": "10,455.40"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Mercati Emporium",
+      "Trade 3 Value": "23,554.80"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "The Kingdom of Lunar",
+      "Trade 4 Value": "8,435.16"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Sancta Discordia",
+      "Trade 5 Value": "12,117.80"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Sri Shimbir",
+      "Trade 6 Value": "4,499.22"
     },
     "Trade 7": {
       "Value": "Kingdom of Lyroa",
       "Trade 7 Value": "9,908.06"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "Pataia",
+      "Trade 8 Value": "13,603.13"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Ascendant Regency of Newstar",
+      "Trade 9 Value": "2,375.00"
     },
     "Trade 10": {
       "Value": "",
@@ -26103,13 +26103,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "9,908.06",
+    "Raw Trade Income": "95,641.07",
     "Tariffs": "0.95",
-    "Trade Income": "9,412.66",
+    "Trade Income": "90,859.01",
     "NAPs": "0",
     "Def. Pacts": "2",
     "Mil. Pacts": "1",
-    "Trades": "1"
+    "Trades": "9"
   },
   "The Tarmarches": {
     "Nations": "The Tarmarches",
