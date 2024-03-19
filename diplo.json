@@ -8172,9 +8172,9 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "200.00%",
-    "Base": "238.76%",
-    "Comparison": "193.14%",
-    "Individual": "80.62%",
+    "Base": "251.07%",
+    "Comparison": "209.35%",
+    "Individual": "76.72%",
     "Friend/Rival": "-25.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -12855,12 +12855,12 @@
     "Nations": "Kingdom of Geloía",
     "Nation Check": "Kingdom of Geloía",
     "Overlord": "",
-    "Eco Vassals": "3,350,916.19",
-    "Eco Over.": "896,044.49",
-    "Compare": "591.73%",
-    "MP Vassals": "1,288,582.00",
+    "Eco Vassals": "3,881,296.11",
+    "Eco Over.": "1,001,919.49",
+    "Compare": "659.36%",
+    "MP Vassals": "1,435,858.00",
     "MP Over.": "217,766.00",
-    "20% Total": "193.14%",
+    "20% Total": "209.35%",
     "Vassal Type": "",
     "": "",
     "L. Desire": "",
@@ -16536,9 +16536,9 @@
     "Vassal Type": "Standard",
     "": "",
     "L. Desire": "200.00%",
-    "Base": "244.21%",
-    "Comparison": "193.14%",
-    "Individual": "65.07%",
+    "Base": "258.21%",
+    "Comparison": "209.35%",
+    "Individual": "62.86%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -28163,10 +28163,10 @@
     "20% Total": "",
     "Vassal Type": "Standard",
     "": "",
-    "L. Desire": "194.51%",
-    "Base": "194.51%",
-    "Comparison": "193.14%",
-    "Individual": "11.37%",
+    "L. Desire": "200.00%",
+    "Base": "210.27%",
+    "Comparison": "209.35%",
+    "Individual": "10.92%",
     "Friend/Rival": "0.00%",
     "Taxes": "-5.00%",
     "Indep War?": "",
@@ -30611,12 +30611,12 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "-55.00%",
-    "L. Desire": "112.67%",
-    "Base": "112.67%",
-    "Comparison": "193.14%",
-    "Individual": "19.53%",
+    "L. Desire": "131.95%",
+    "Base": "131.95%",
+    "Comparison": "209.35%",
+    "Individual": "20.11%",
     "Friend/Rival": "0.00%",
-    "Taxes": "-30.00%",
+    "Taxes": "-27.50%",
     "Indep War?": "",
     "Autonomy": "None",
     "Threshold": "-100.00%",
@@ -30634,28 +30634,28 @@
     "Military Alliances 2": "",
     "Limit": "10",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Vyraisos",
+      "Trade 1 Value": "4,001.56"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Quirinos",
+      "Trade 2 Value": "1,693.75"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Ent Territories",
+      "Trade 3 Value": "817.19"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Psarades",
+      "Trade 4 Value": "4,066.56"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Thesadia",
+      "Trade 5 Value": "3,045.63"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Ch'Chankla",
+      "Trade 6 Value": "1,126.56"
     },
     "Trade 7": {
       "Value": "",
@@ -30693,13 +30693,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "14,751.25",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "14,013.69",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "6"
   },
   "Quirinos": {
     "Nations": "Quirinos",
@@ -30713,17 +30713,17 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "-55.00%",
-    "L. Desire": "103.39%",
-    "Base": "103.39%",
-    "Comparison": "193.14%",
-    "Individual": "10.25%",
+    "L. Desire": "132.93%",
+    "Base": "132.93%",
+    "Comparison": "209.35%",
+    "Individual": "11.08%",
     "Friend/Rival": "0.00%",
-    "Taxes": "-30.00%",
+    "Taxes": "-27.50%",
     "Indep War?": "",
     "Autonomy": "None",
-    "Threshold": "-100.00%",
-    "Chaotic?": "TRUE",
-    "Deceptive?": "TRUE",
+    "Threshold": "100.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
     "Honor?": "FALSE",
     "Indep.?": "FALSE",
     "Unity?": "FALSE",
@@ -30736,28 +30736,28 @@
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Thalassia",
+      "Trade 1 Value": "2,982.81"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Vyraisos",
+      "Trade 2 Value": "4,001.56"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Ent Territories",
+      "Trade 3 Value": "817.19"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Psarades",
+      "Trade 4 Value": "4,066.56"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Thesadia",
+      "Trade 5 Value": "3,045.63"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Ch'Chankla",
+      "Trade 6 Value": "1,126.56"
     },
     "Trade 7": {
       "Value": "",
@@ -30795,13 +30795,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "16,040.31",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "15,238.30",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "6"
   },
   "Ent Territories": {
     "Nations": "Ent Territories",
@@ -30815,20 +30815,20 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "-55.00%",
-    "L. Desire": "94.12%",
-    "Base": "94.12%",
-    "Comparison": "193.14%",
-    "Individual": "0.98%",
+    "L. Desire": "135.22%",
+    "Base": "135.22%",
+    "Comparison": "209.35%",
+    "Individual": "5.87%",
     "Friend/Rival": "0.00%",
-    "Taxes": "-30.00%",
+    "Taxes": "-25.00%",
     "Indep War?": "",
     "Autonomy": "None",
-    "Threshold": "-100.00%",
-    "Chaotic?": "TRUE",
-    "Deceptive?": "TRUE",
+    "Threshold": "100.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
     "Honor?": "FALSE",
     "Indep.?": "FALSE",
-    "Unity?": "FALSE",
+    "Unity?": "TRUE",
     "Ov. Culture": "Geloíos",
     "Ov. Religion": "Dark Carnival",
     "Non-aggression Pacts": "",
@@ -30838,28 +30838,28 @@
     "Military Alliances 2": "",
     "Limit": "8",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Thalassia",
+      "Trade 1 Value": "2,982.81"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Quirinos",
+      "Trade 2 Value": "1,693.75"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Vyraisos",
+      "Trade 3 Value": "4,001.56"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Psarades",
+      "Trade 4 Value": "4,066.56"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Thesadia",
+      "Trade 5 Value": "3,045.63"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Ch'Chankla",
+      "Trade 6 Value": "1,126.56"
     },
     "Trade 7": {
       "Value": "",
@@ -30897,13 +30897,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "16,916.88",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "16,071.03",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "6"
   },
   "Psarades": {
     "Nations": "Psarades",
@@ -30917,17 +30917,17 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "-55.00%",
-    "L. Desire": "95.66%",
-    "Base": "95.66%",
-    "Comparison": "193.14%",
-    "Individual": "2.52%",
+    "L. Desire": "133.79%",
+    "Base": "133.79%",
+    "Comparison": "209.35%",
+    "Individual": "9.45%",
     "Friend/Rival": "0.00%",
-    "Taxes": "-30.00%",
+    "Taxes": "-20.00%",
     "Indep War?": "",
     "Autonomy": "None",
-    "Threshold": "-100.00%",
-    "Chaotic?": "TRUE",
-    "Deceptive?": "TRUE",
+    "Threshold": "100.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
     "Honor?": "FALSE",
     "Indep.?": "FALSE",
     "Unity?": "FALSE",
@@ -30938,30 +30938,30 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "8",
+    "Limit": "10",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Thalassia",
+      "Trade 1 Value": "2,982.81"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Quirinos",
+      "Trade 2 Value": "1,693.75"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Ent Territories",
+      "Trade 3 Value": "817.19"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Vyraisos",
+      "Trade 4 Value": "4,001.56"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Thesadia",
+      "Trade 5 Value": "3,045.63"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Ch'Chankla",
+      "Trade 6 Value": "1,126.56"
     },
     "Trade 7": {
       "Value": "",
@@ -30999,13 +30999,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "13,667.50",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "12,984.13",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "6"
   },
   "Thesadia": {
     "Nations": "Thesadia",
@@ -31019,17 +31019,17 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "-55.00%",
-    "L. Desire": "94.71%",
-    "Base": "94.71%",
-    "Comparison": "193.14%",
-    "Individual": "1.57%",
+    "L. Desire": "126.35%",
+    "Base": "126.35%",
+    "Comparison": "209.35%",
+    "Individual": "7.00%",
     "Friend/Rival": "0.00%",
-    "Taxes": "-30.00%",
+    "Taxes": "-25.00%",
     "Indep War?": "",
     "Autonomy": "None",
-    "Threshold": "-100.00%",
-    "Chaotic?": "TRUE",
-    "Deceptive?": "TRUE",
+    "Threshold": "100.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
     "Honor?": "FALSE",
     "Indep.?": "FALSE",
     "Unity?": "FALSE",
@@ -31040,30 +31040,30 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "8",
+    "Limit": "10",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Thalassia",
+      "Trade 1 Value": "2,982.81"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Quirinos",
+      "Trade 2 Value": "1,693.75"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Ent Territories",
+      "Trade 3 Value": "817.19"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Psarades",
+      "Trade 4 Value": "4,066.56"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Vyraisos",
+      "Trade 5 Value": "4,001.56"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Ch'Chankla",
+      "Trade 6 Value": "1,126.56"
     },
     "Trade 7": {
       "Value": "",
@@ -31101,13 +31101,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "14,688.44",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "13,954.02",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "6"
   },
   "Ch'Chankla": {
     "Nations": "Ch'Chankla",
@@ -31121,17 +31121,17 @@
     "20% Total": "",
     "Vassal Type": "Province",
     "": "-55.00%",
-    "L. Desire": "94.37%",
-    "Base": "94.37%",
-    "Comparison": "193.14%",
-    "Individual": "1.23%",
+    "L. Desire": "134.69%",
+    "Base": "134.69%",
+    "Comparison": "209.35%",
+    "Individual": "5.34%",
     "Friend/Rival": "0.00%",
-    "Taxes": "-30.00%",
+    "Taxes": "-25.00%",
     "Indep War?": "",
     "Autonomy": "None",
-    "Threshold": "-100.00%",
-    "Chaotic?": "TRUE",
-    "Deceptive?": "TRUE",
+    "Threshold": "100.00%",
+    "Chaotic?": "FALSE",
+    "Deceptive?": "FALSE",
     "Honor?": "FALSE",
     "Indep.?": "FALSE",
     "Unity?": "FALSE",
@@ -31142,30 +31142,30 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "8",
+    "Limit": "6",
     "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": ""
+      "Value": "Thalassia",
+      "Trade 1 Value": "2,982.81"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Quirinos",
+      "Trade 2 Value": "1,693.75"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Ent Territories",
+      "Trade 3 Value": "817.19"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Psarades",
+      "Trade 4 Value": "4,066.56"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Thesadia",
+      "Trade 5 Value": "3,045.63"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Vyraisos",
+      "Trade 6 Value": "4,001.56"
     },
     "Trade 7": {
       "Value": "",
@@ -31203,13 +31203,13 @@
       "Value": "",
       "Trade 15 Value": ""
     },
-    "Raw Trade Income": "0.00",
+    "Raw Trade Income": "16,607.50",
     "Tariffs": "0.95",
-    "Trade Income": "0.00",
+    "Trade Income": "15,777.13",
     "NAPs": "0",
     "Def. Pacts": "0",
     "Mil. Pacts": "0",
-    "Trades": "0"
+    "Trades": "6"
   },
   "Halpa Anti": {
     "Nations": "Halpa Anti",
