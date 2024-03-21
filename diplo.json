@@ -6480,8 +6480,8 @@
       "Trade 5 Value": "1,322.50"
     },
     "Trade 6": {
-      "Value": "Yeotang",
-      "Trade 6 Value": "15,601.25"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
       "Value": "Imperium Novae Aeseriae",
@@ -6521,9 +6521,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "154,594.64",
+    "Trade Income": "138,993.39",
     "NAPs": "1.05",
-    "Def. Pacts": "162,324.38",
+    "Def. Pacts": "145,943.06",
     "Mil. Pacts": "0",
     "Trades": "1"
   },
@@ -7067,7 +7067,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "",
+    "Defensive Pacts 2": "Onaokoku",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "",
@@ -7076,12 +7076,12 @@
       "Trade 1 Value": "7"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Carya",
+      "Trade 2 Value": "9,552.19"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Yuranisuk",
+      "Trade 3 Value": "4,712.50"
     },
     "Trade 4": {
       "Value": "",
@@ -7133,10 +7133,10 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "0.00",
+    "Trade Income": "14,264.69",
     "NAPs": "1.05",
-    "Def. Pacts": "0.00",
-    "Mil. Pacts": "0",
+    "Def. Pacts": "14,977.92",
+    "Mil. Pacts": "1",
     "Trades": "0"
   },
   "Fray Ventos": {
@@ -13495,10 +13495,10 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Zalmoxia,The Banana Republic, Nournourlant, Hemia, Herkunft, Arcadia, Meadoia Dynasty, People's Trade Dynasty,  ",
     "Military Alliances": "Arcadia",
-    "Military Alliances 2": "Iidunn",
+    "Military Alliances 2": "Maa",
     "Limit": "Diogen",
     "Trade 1": {
-      "Value": "Maa",
+      "Value": "The Holy Realm of Herkunft",
       "Trade 1 Value": "8"
     },
     "Trade 2": {
@@ -13510,28 +13510,28 @@
       "Trade 3 Value": "112,602.66"
     },
     "Trade 4": {
-      "Value": "Diogen",
-      "Trade 4 Value": "36,700.00"
+      "Value": "Scientarium",
+      "Trade 4 Value": "61,092.46"
     },
     "Trade 5": {
-      "Value": "The Holy Realm of Herkunft",
-      "Trade 5 Value": "30,584.66"
+      "Value": "Diogen",
+      "Trade 5 Value": "36,700.00"
     },
     "Trade 6": {
-      "Value": "Scientarium",
-      "Trade 6 Value": "61,092.46"
+      "Value": "The Holy Realm of Herkunft",
+      "Trade 6 Value": "30,584.66"
     },
     "Trade 7": {
-      "Value": "The Kingdom of Hemia",
-      "Trade 7 Value": "14,493.75"
+      "Value": "The Banana Republic",
+      "Trade 7 Value": "21,790.63"
     },
     "Trade 8": {
-      "Value": "The Banana Republic",
-      "Trade 8 Value": "21,790.63"
+      "Value": "Zalmoxia",
+      "Trade 8 Value": "15,740.63"
     },
     "Trade 9": {
-      "Value": "Zalmoxia",
-      "Trade 9 Value": "15,740.63"
+      "Value": "The Kingdom of Hemia",
+      "Trade 9 Value": "14,493.75"
     },
     "Trade 10": {
       "Value": "",
@@ -15636,9 +15636,9 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Kingdom of Mimgrond, Zalmoxia",
-    "Military Alliances": "",
+    "Military Alliances": "Kingdom of Mimgrond",
     "Military Alliances 2": "",
-    "Limit": "Kingdom of Mimgrond",
+    "Limit": "",
     "Trade 1": {
       "Value": "",
       "Trade 1 Value": "9"
@@ -15705,7 +15705,7 @@
     "NAPs": "0.95",
     "Def. Pacts": "583,076.30",
     "Mil. Pacts": "2",
-    "Trades": "0"
+    "Trades": "1"
   },
   "Sri Shimbir": {
     "Nations": "Sri Shimbir",
@@ -18465,19 +18465,19 @@
     "Nations": "Nournourlant",
     "Nation Check": "Nournourlant",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "2,786,242.89",
+    "Eco Vassals": "2,792,349.60",
     "Eco Over.": "1,467,692.01",
     "Compare": "285,527.00",
-    "MP Vassals": "189.84%",
+    "MP Vassals": "190.25%",
     "MP Over.": "254,599.00",
     "20% Total": "89.17%",
-    "Vassal Type": "55.80%",
+    "Vassal Type": "55.88%",
     "": "0.00%",
     "L. Desire": "Kingdom of Mimgrond Nonprovince",
     "Base": "0.25",
-    "Comparison": "77.13%",
-    "Individual": "77.13%",
-    "Friend/Rival": "55.80%",
+    "Comparison": "77.22%",
+    "Individual": "77.22%",
+    "Friend/Rival": "55.88%",
     "Taxes": "11.33%",
     "Indep War?": "5.00%",
     "Autonomy": "",
@@ -20505,20 +20505,20 @@
     "Nations": "Republic o. Zuntirar",
     "Nation Check": "Republic o. Zuntirar",
     "Overlord": "Yeotang",
-    "Eco Vassals": "107,707.50",
+    "Eco Vassals": "123,247.13",
     "Eco Over.": "541,976.07",
     "Compare": "204,236.00",
-    "MP Vassals": "19.87%",
-    "MP Over.": "58,534.00",
-    "20% Total": "28.66%",
-    "Vassal Type": "9.71%",
+    "MP Vassals": "22.74%",
+    "MP Over.": "58,761.00",
+    "20% Total": "28.77%",
+    "Vassal Type": "10.30%",
     "": "0.00%",
     "L. Desire": "Yeotang Nonprovince",
     "Base": "1.00",
-    "Comparison": "6.91%",
-    "Individual": "6.91%",
-    "Friend/Rival": "9.71%",
-    "Taxes": "9.71%",
+    "Comparison": "8.10%",
+    "Individual": "8.10%",
+    "Friend/Rival": "10.30%",
+    "Taxes": "10.30%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -20540,8 +20540,8 @@
       "Trade 1 Value": "10"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Yeotang",
+      "Trade 2 Value": "15,601.25"
     },
     "Trade 3": {
       "Value": "",
@@ -20597,9 +20597,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "0.00",
+    "Trade Income": "15,601.25",
     "NAPs": "0.95",
-    "Def. Pacts": "0.00",
+    "Def. Pacts": "14,821.19",
     "Mil. Pacts": "0",
     "Trades": "0"
   },
@@ -24279,19 +24279,19 @@
     "Nations": "The Banana Republic",
     "Nation Check": "The Banana Republic",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "2,786,242.89",
+    "Eco Vassals": "2,792,349.60",
     "Eco Over.": "1,467,692.01",
     "Compare": "285,527.00",
-    "MP Vassals": "189.84%",
+    "MP Vassals": "190.25%",
     "MP Over.": "254,599.00",
     "20% Total": "89.17%",
-    "Vassal Type": "55.80%",
+    "Vassal Type": "55.88%",
     "": "0.00%",
     "L. Desire": "Kingdom of Mimgrond Nonprovince",
     "Base": "1.00",
-    "Comparison": "55.93%",
-    "Individual": "55.93%",
-    "Friend/Rival": "55.80%",
+    "Comparison": "56.01%",
+    "Individual": "56.01%",
+    "Friend/Rival": "55.88%",
     "Taxes": "17.63%",
     "Indep War?": "5.00%",
     "Autonomy": "",
@@ -25197,20 +25197,20 @@
     "Nations": "The Kingdom of Hemia",
     "Nation Check": "The Kingdom of Hemia",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "2,786,242.89",
+    "Eco Vassals": "2,792,349.60",
     "Eco Over.": "1,467,692.01",
     "Compare": "285,527.00",
-    "MP Vassals": "189.84%",
+    "MP Vassals": "190.25%",
     "MP Over.": "254,599.00",
     "20% Total": "89.17%",
-    "Vassal Type": "55.80%",
+    "Vassal Type": "55.88%",
     "": "0.00%",
     "L. Desire": "Kingdom of Mimgrond Nonprovince",
     "Base": "1.00",
-    "Comparison": "79.63%",
-    "Individual": "79.63%",
-    "Friend/Rival": "55.80%",
-    "Taxes": "15.49%",
+    "Comparison": "79.79%",
+    "Individual": "79.79%",
+    "Friend/Rival": "55.88%",
+    "Taxes": "15.57%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -29073,19 +29073,19 @@
     "Nations": "Zalmoxia",
     "Nation Check": "Zalmoxia",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "2,786,242.89",
+    "Eco Vassals": "2,792,349.60",
     "Eco Over.": "1,467,692.01",
     "Compare": "285,527.00",
-    "MP Vassals": "189.84%",
+    "MP Vassals": "190.25%",
     "MP Over.": "254,599.00",
     "20% Total": "89.17%",
-    "Vassal Type": "55.80%",
+    "Vassal Type": "55.88%",
     "": "0.00%",
     "L. Desire": "Kingdom of Mimgrond Nonprovince",
     "Base": "1.00",
-    "Comparison": "60.48%",
-    "Individual": "60.48%",
-    "Friend/Rival": "55.80%",
+    "Comparison": "60.57%",
+    "Individual": "60.57%",
+    "Friend/Rival": "55.88%",
     "Taxes": "11.35%",
     "Indep War?": "3.33%",
     "Autonomy": "",
