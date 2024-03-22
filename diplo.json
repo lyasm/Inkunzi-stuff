@@ -11968,7 +11968,7 @@
     "Military Alliances 2": "Clankar Cog",
     "Limit": "",
     "Trade 1": {
-      "Value": "Stortingr Republik af Frystdömet",
+      "Value": "",
       "Trade 1 Value": "10"
     },
     "Trade 2": {
@@ -11976,8 +11976,8 @@
       "Trade 2 Value": "3,400.00"
     },
     "Trade 3": {
-      "Value": "Stortingr Republik af Frystdömet",
-      "Trade 3 Value": "3,312.50"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "Queendom of Edarosia",
@@ -12029,9 +12029,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "113,909.89",
+    "Trade Income": "110,597.39",
     "NAPs": "0.95",
-    "Def. Pacts": "108,214.40",
+    "Def. Pacts": "105,067.52",
     "Mil. Pacts": "4",
     "Trades": "2"
   },
@@ -19616,7 +19616,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "Stortingr Republik af Frystdömet",
+    "Limit": "",
     "Trade 1": {
       "Value": "",
       "Trade 1 Value": "9"
@@ -19792,19 +19792,19 @@
     "Nation Check": "Pyhätmetsät",
     "Overlord": "The Horn",
     "Eco Vassals": "260,486.67",
-    "Eco Over.": "915,990.90",
-    "Compare": "335,412.00",
-    "MP Vassals": "28.44%",
+    "Eco Over.": "909,667.77",
+    "Compare": "334,546.00",
+    "MP Vassals": "28.64%",
     "MP Over.": "94,947.00",
-    "20% Total": "28.31%",
-    "Vassal Type": "11.35%",
+    "20% Total": "28.38%",
+    "Vassal Type": "11.40%",
     "": "0.00%",
     "L. Desire": "The Horn Nonprovince",
     "Base": "1.00",
-    "Comparison": "15.20%",
-    "Individual": "15.20%",
-    "Friend/Rival": "11.35%",
-    "Taxes": "11.35%",
+    "Comparison": "15.31%",
+    "Individual": "15.31%",
+    "Friend/Rival": "11.40%",
+    "Taxes": "11.40%",
     "Indep War?": "-2.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -22982,42 +22982,42 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "The Horn",
+    "Limit": "",
     "Trade 1": {
-      "Value": "Principality of Skanderborg",
+      "Value": "",
       "Trade 1 Value": "7"
     },
     "Trade 2": {
-      "Value": "Kingdom of Jasper",
-      "Trade 2 Value": "10,639.63"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
-      "Value": "Pyhätmetsät",
-      "Trade 3 Value": "6,154.90"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "The Horn",
-      "Trade 4 Value": "10,321.35"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
-      "Value": "Ceavia",
-      "Trade 5 Value": "4,125.00"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
-      "Value": "Stratavia",
-      "Trade 6 Value": "9,580.64"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
-      "Value": "Kingdom of Aeornia",
-      "Trade 7 Value": "11,522.28"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
-      "Value": "Tautaspils",
-      "Trade 8 Value": "6,843.20"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
-      "Value": "Principality of Skanderborg",
-      "Trade 9 Value": "9,224.80"
+      "Value": "",
+      "Trade 9 Value": ""
     },
     "Trade 10": {
       "Value": "",
@@ -23045,9 +23045,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "59,187.00",
+    "Trade Income": "0.00",
     "NAPs": "0.95",
-    "Def. Pacts": "56,227.65",
+    "Def. Pacts": "0.00",
     "Mil. Pacts": "0",
     "Trades": "0"
   },
