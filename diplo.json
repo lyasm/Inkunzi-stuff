@@ -14177,6 +14177,108 @@
     "Mil. Pacts": "0",
     "Trades": "0"
   },
+  "Ko'haq'r Republic": {
+    "Nations": "Ko'haq'r Republic",
+    "Nation Check": "Ko'haq'r Republic",
+    "Overlord": "Netsanet Republic",
+    "Eco Vassals": "693,563.88",
+    "Eco Over.": "1,223,215.26",
+    "Compare": "471,975.00",
+    "MP Vassals": "56.70%",
+    "MP Over.": "267,042.00",
+    "20% Total": "56.58%",
+    "Vassal Type": "22.66%",
+    "": "0.00%",
+    "L. Desire": "Netsanet Republic Nonprovince",
+    "Base": "0.25",
+    "Comparison": "22.66%",
+    "Individual": "22.66%",
+    "Friend/Rival": "22.66%",
+    "Taxes": "0.00%",
+    "Indep War?": "-5.00%",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "Cultural",
+    "Deceptive?": "130.00%",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "FALSE",
+    "Ov. Religion": "TRUE",
+    "Non-aggression Pacts": "Andeneti",
+    "Defensive Pacts": "Ascensionism",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": "3"
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "",
+    "Tariffs": "",
+    "Trade Income": "0.00",
+    "NAPs": "1.25",
+    "Def. Pacts": "0.00",
+    "Mil. Pacts": "0",
+    "Trades": "0"
+  },
   "Aethyrygarstam": {
     "Nations": "Aethyrygarstam",
     "Nation Check": "Aethyrygarstam",
@@ -32125,6 +32227,108 @@
     "Tariffs": "",
     "Trade Income": "0.00",
     "NAPs": "0.95",
+    "Def. Pacts": "0.00",
+    "Mil. Pacts": "0",
+    "Trades": "0"
+  },
+  "Avon'Glaigh Covenant": {
+    "Nations": "Avon'Glaigh Covenant",
+    "Nation Check": "Avon'Glaigh Covenant",
+    "Overlord": "",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "",
+    "": "0.00%",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "",
+    "Individual": "",
+    "Friend/Rival": "",
+    "Taxes": "",
+    "Indep War?": "",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": "1"
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "",
+    "Tariffs": "",
+    "Trade Income": "0.00",
+    "NAPs": "1.25",
     "Def. Pacts": "0.00",
     "Mil. Pacts": "0",
     "Trades": "0"
