@@ -1389,7 +1389,7 @@
     },
     "Trade 8": {
       "Value": "Zalmoxia",
-      "Trade 8 Value": "5,992.50"
+      "Trade 8 Value": "6,105.00"
     },
     "Trade 9": {
       "Value": "",
@@ -1421,9 +1421,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "21,940.68",
+    "Trade Income": "22,053.18",
     "NAPs": "0.95",
-    "Def. Pacts": "20,843.65",
+    "Def. Pacts": "20,950.52",
     "Mil. Pacts": "1",
     "Trades": "2"
   },
@@ -3267,10 +3267,10 @@
     "Nations": "March of Malaqara",
     "Nation Check": "March of Malaqara",
     "Overlord": "Hrēgdom of the Erwā",
-    "Eco Vassals": "132,874.75",
+    "Eco Vassals": "132,750.60",
     "Eco Over.": "782,196.25",
     "Compare": "194,119.00",
-    "MP Vassals": "16.99%",
+    "MP Vassals": "16.97%",
     "MP Over.": "51,669.00",
     "20% Total": "26.62%",
     "Vassal Type": "8.72%",
@@ -3319,7 +3319,7 @@
     },
     "Trade 6": {
       "Value": "Qa'tqarra Lepus",
-      "Trade 6 Value": "3,015.00"
+      "Trade 6 Value": "2,950.00"
     },
     "Trade 7": {
       "Value": "",
@@ -3359,9 +3359,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "27,774.96",
+    "Trade Income": "27,709.96",
     "NAPs": "0.95",
-    "Def. Pacts": "26,386.21",
+    "Def. Pacts": "26,324.46",
     "Mil. Pacts": "0",
     "Trades": "0"
   },
@@ -4287,24 +4287,24 @@
     "Nations": "Qa'tqarra Lepus",
     "Nation Check": "Qa'tqarra Lepus",
     "Overlord": "The Fasharids",
-    "Eco Vassals": "453,538.92",
+    "Eco Vassals": "453,828.17",
     "Eco Over.": "1,036,702.08",
     "Compare": "398,852.00",
-    "MP Vassals": "43.75%",
-    "MP Over.": "155,008.00",
-    "20% Total": "38.86%",
-    "Vassal Type": "16.52%",
+    "MP Vassals": "43.78%",
+    "MP Over.": "159,110.00",
+    "20% Total": "39.89%",
+    "Vassal Type": "16.73%",
     "": "0.00%",
     "L. Desire": "The Fasharids Nonprovince",
     "Base": "1.00",
-    "Comparison": "5.61%",
-    "Individual": "5.61%",
-    "Friend/Rival": "16.52%",
-    "Taxes": "4.09%",
+    "Comparison": "0.00%",
+    "Individual": "-9.35%",
+    "Friend/Rival": "16.73%",
+    "Taxes": "3.91%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
-    "Chaotic?": "None",
+    "Chaotic?": "Religious",
     "Deceptive?": "100.00%",
     "Honor?": "FALSE",
     "Indep.?": "FALSE",
@@ -4319,11 +4319,11 @@
     "Limit": "",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "12"
+      "Trade 1 Value": "11"
     },
     "Trade 2": {
       "Value": "Qa'tqarra Datansalūl",
-      "Trade 2 Value": "4,300.00"
+      "Trade 2 Value": "4,365.00"
     },
     "Trade 3": {
       "Value": "Asahi Dareh",
@@ -4379,9 +4379,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "74,882.74",
+    "Trade Income": "74,947.74",
     "NAPs": "0.95",
-    "Def. Pacts": "71,138.60",
+    "Def. Pacts": "71,200.35",
     "Mil. Pacts": "0",
     "Trades": "0"
   },
@@ -4899,7 +4899,7 @@
     "Nations": "Commonwealth of Gonaria",
     "Nation Check": "Commonwealth of Gonaria",
     "Overlord": "Stryaxina",
-    "Eco Vassals": "659,292.59",
+    "Eco Vassals": "659,399.47",
     "Eco Over.": "1,388,422.02",
     "Compare": "893,295.00",
     "MP Vassals": "47.49%",
@@ -4971,7 +4971,7 @@
     },
     "Trade 11": {
       "Value": "Zalmoxia",
-      "Trade 11 Value": "5,992.50"
+      "Trade 11 Value": "6,105.00"
     },
     "Trade 12": {
       "Value": "First O'irstorian Republic",
@@ -4991,9 +4991,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "47,993.78",
+    "Trade Income": "48,106.28",
     "NAPs": "0.95",
-    "Def. Pacts": "45,594.09",
+    "Def. Pacts": "45,700.96",
     "Mil. Pacts": "1",
     "Trades": "2"
   },
@@ -5661,7 +5661,7 @@
     },
     "Trade 5": {
       "Value": "Zalmoxia",
-      "Trade 5 Value": "5,992.50"
+      "Trade 5 Value": "6,105.00"
     },
     "Trade 6": {
       "Value": "The Holy Realm of Herkunft",
@@ -5705,9 +5705,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "299,835.35",
+    "Trade Income": "299,947.85",
     "NAPs": "0.95",
-    "Def. Pacts": "284,843.58",
+    "Def. Pacts": "284,950.45",
     "Mil. Pacts": "0",
     "Trades": "1"
   },
@@ -5869,7 +5869,7 @@
     },
     "Trade 6": {
       "Value": "Zalmoxia",
-      "Trade 6 Value": "5,992.50"
+      "Trade 6 Value": "6,105.00"
     },
     "Trade 7": {
       "Value": "Svetograd",
@@ -5909,9 +5909,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "106,655.03",
+    "Trade Income": "106,767.53",
     "NAPs": "0.95",
-    "Def. Pacts": "101,322.27",
+    "Def. Pacts": "101,429.15",
     "Mil. Pacts": "2",
     "Trades": "1"
   },
@@ -8513,11 +8513,11 @@
     },
     "Trade 4": {
       "Value": "Qa'tqarra Datansalūl",
-      "Trade 4 Value": "4,300.00"
+      "Trade 4 Value": "4,365.00"
     },
     "Trade 5": {
       "Value": "Qa'tqarra Lepus",
-      "Trade 5 Value": "3,015.00"
+      "Trade 5 Value": "2,950.00"
     },
     "Trade 6": {
       "Value": "",
@@ -10203,20 +10203,20 @@
     "Nations": "Qa'tqarra Datansalūl",
     "Nation Check": "Qa'tqarra Datansalūl",
     "Overlord": "The Fasharids",
-    "Eco Vassals": "453,538.92",
+    "Eco Vassals": "453,828.17",
     "Eco Over.": "1,036,702.08",
     "Compare": "398,852.00",
-    "MP Vassals": "43.75%",
-    "MP Over.": "155,008.00",
-    "20% Total": "38.86%",
-    "Vassal Type": "16.52%",
+    "MP Vassals": "43.78%",
+    "MP Over.": "159,110.00",
+    "20% Total": "39.89%",
+    "Vassal Type": "16.73%",
     "": "0.00%",
     "L. Desire": "The Fasharids Nonprovince",
     "Base": "0.25",
-    "Comparison": "10.83%",
-    "Individual": "10.83%",
-    "Friend/Rival": "16.52%",
-    "Taxes": "9.31%",
+    "Comparison": "11.43%",
+    "Individual": "11.43%",
+    "Friend/Rival": "16.73%",
+    "Taxes": "9.70%",
     "Indep War?": "-5.00%",
     "Autonomy": "10.00%",
     "Threshold": "",
@@ -10243,7 +10243,7 @@
     },
     "Trade 3": {
       "Value": "Qa'tqarra Lepus",
-      "Trade 3 Value": "3,015.00"
+      "Trade 3 Value": "2,950.00"
     },
     "Trade 4": {
       "Value": "There Be Dwarves",
@@ -10266,8 +10266,8 @@
       "Trade 8 Value": "4,324.90"
     },
     "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
+      "Value": "Asahi Dareh",
+      "Trade 9 Value": "1,990.00"
     },
     "Trade 10": {
       "Value": "",
@@ -10295,9 +10295,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "59,419.77",
+    "Trade Income": "61,344.77",
     "NAPs": "0.95",
-    "Def. Pacts": "56,448.78",
+    "Def. Pacts": "58,277.53",
     "Mil. Pacts": "0",
     "Trades": "0"
   },
@@ -12397,7 +12397,7 @@
     },
     "Trade 6": {
       "Value": "Zalmoxia",
-      "Trade 6 Value": "5,992.50"
+      "Trade 6 Value": "6,105.00"
     },
     "Trade 7": {
       "Value": "Maldune",
@@ -12437,9 +12437,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "111,018.03",
+    "Trade Income": "111,130.53",
     "NAPs": "0.96",
-    "Def. Pacts": "106,577.30",
+    "Def. Pacts": "106,685.30",
     "Mil. Pacts": "1",
     "Trades": "0"
   },
@@ -12652,7 +12652,7 @@
     "Nation Check": "Kingdom of Gloria",
     "Overlord": "Scientarium",
     "Eco Vassals": "83,220.00",
-    "Eco Over.": "705,610.42",
+    "Eco Over.": "705,717.30",
     "Compare": "107,279.00",
     "MP Vassals": "11.79%",
     "MP Over.": "27,600.00",
@@ -13221,7 +13221,7 @@
     },
     "Trade 8": {
       "Value": "Zalmoxia",
-      "Trade 8 Value": "5,992.50"
+      "Trade 8 Value": "6,105.00"
     },
     "Trade 9": {
       "Value": "The Kingdom of Hemia",
@@ -13253,9 +13253,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "336,155.07",
+    "Trade Income": "336,267.57",
     "NAPs": "1.25",
-    "Def. Pacts": "420,193.84",
+    "Def. Pacts": "420,334.46",
     "Mil. Pacts": "9",
     "Trades": "2"
   },
@@ -15445,7 +15445,7 @@
     },
     "Trade 3": {
       "Value": "Zalmoxia",
-      "Trade 3 Value": "5,992.50"
+      "Trade 3 Value": "6,105.00"
     },
     "Trade 4": {
       "Value": "People's Trade Dynasty",
@@ -15497,9 +15497,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "315,969.35",
+    "Trade Income": "316,081.85",
     "NAPs": "0.95",
-    "Def. Pacts": "300,170.88",
+    "Def. Pacts": "300,277.76",
     "Mil. Pacts": "2",
     "Trades": "1"
   },
@@ -15813,18 +15813,18 @@
     "Nations": "Merkām Erwānaelhi",
     "Nation Check": "Merkām Erwānaelhi",
     "Overlord": "Hrēgdom of the Erwā",
-    "Eco Vassals": "132,874.75",
+    "Eco Vassals": "132,750.60",
     "Eco Over.": "782,196.25",
     "Compare": "194,119.00",
-    "MP Vassals": "16.99%",
+    "MP Vassals": "16.97%",
     "MP Over.": "51,669.00",
     "20% Total": "26.62%",
     "Vassal Type": "8.72%",
     "": "0.00%",
     "L. Desire": "Hrēgdom of the Erwā Nonprovince",
     "Base": "1.00",
-    "Comparison": "17.21%",
-    "Individual": "17.21%",
+    "Comparison": "17.20%",
+    "Individual": "17.20%",
     "Friend/Rival": "8.72%",
     "Taxes": "4.32%",
     "Indep War?": "1.67%",
@@ -15853,7 +15853,7 @@
     },
     "Trade 3": {
       "Value": "Qa'tqarra Lepus",
-      "Trade 3 Value": "3,015.00"
+      "Trade 3 Value": "2,950.00"
     },
     "Trade 4": {
       "Value": "",
@@ -15905,9 +15905,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "12,715.83",
+    "Trade Income": "12,650.83",
     "NAPs": "0.96",
-    "Def. Pacts": "12,207.20",
+    "Def. Pacts": "12,144.80",
     "Mil. Pacts": "0",
     "Trades": "0"
   },
@@ -16375,7 +16375,7 @@
     },
     "Trade 6": {
       "Value": "Qa'tqarra Datansalūl",
-      "Trade 6 Value": "4,300.00"
+      "Trade 6 Value": "4,365.00"
     },
     "Trade 7": {
       "Value": "Uqhuma Killa",
@@ -16383,7 +16383,7 @@
     },
     "Trade 8": {
       "Value": "Qa'tqarra Lepus",
-      "Trade 8 Value": "3,015.00"
+      "Trade 8 Value": "2,950.00"
     },
     "Trade 9": {
       "Value": "Federation of the Winds",
@@ -16935,19 +16935,19 @@
     "Nations": "Asahi Dareh",
     "Nation Check": "Asahi Dareh",
     "Overlord": "The Fasharids",
-    "Eco Vassals": "453,538.92",
+    "Eco Vassals": "453,828.17",
     "Eco Over.": "1,036,702.08",
     "Compare": "398,852.00",
-    "MP Vassals": "43.75%",
-    "MP Over.": "155,008.00",
-    "20% Total": "38.86%",
-    "Vassal Type": "16.52%",
+    "MP Vassals": "43.78%",
+    "MP Over.": "159,110.00",
+    "20% Total": "39.89%",
+    "Vassal Type": "16.73%",
     "": "0.00%",
     "L. Desire": "The Fasharids Nonprovince",
     "Base": "0.25",
-    "Comparison": "14.64%",
-    "Individual": "14.64%",
-    "Friend/Rival": "16.52%",
+    "Comparison": "14.85%",
+    "Individual": "14.85%",
+    "Friend/Rival": "16.73%",
     "Taxes": "3.12%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -16975,7 +16975,7 @@
     },
     "Trade 3": {
       "Value": "Qa'tqarra Datansalūl",
-      "Trade 3 Value": "4,300.00"
+      "Trade 3 Value": "4,365.00"
     },
     "Trade 4": {
       "Value": "There Be Gnomes",
@@ -16995,7 +16995,7 @@
     },
     "Trade 8": {
       "Value": "Qa'tqarra Lepus",
-      "Trade 8 Value": "3,015.00"
+      "Trade 8 Value": "2,950.00"
     },
     "Trade 9": {
       "Value": "",
@@ -18261,8 +18261,8 @@
     "Nations": "Nournourlant",
     "Nation Check": "Nournourlant",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "2,115,901.62",
-    "Eco Over.": "1,045,316.88",
+    "Eco Vassals": "2,116,183.99",
+    "Eco Over.": "1,045,457.51",
     "Compare": "311,484.00",
     "MP Vassals": "202.42%",
     "MP Over.": "336,960.00",
@@ -19995,18 +19995,18 @@
     "Nations": "Republic o. Zuntirar",
     "Nation Check": "Republic o. Zuntirar",
     "Overlord": "Yeotang",
-    "Eco Vassals": "129,253.50",
+    "Eco Vassals": "129,191.75",
     "Eco Over.": "449,354.18",
     "Compare": "222,803.00",
-    "MP Vassals": "28.76%",
+    "MP Vassals": "28.75%",
     "MP Over.": "64,350.00",
     "20% Total": "28.88%",
     "Vassal Type": "11.53%",
     "": "0.00%",
     "L. Desire": "Yeotang Nonprovince",
     "Base": "1.00",
-    "Comparison": "20.56%",
-    "Individual": "20.56%",
+    "Comparison": "20.55%",
+    "Individual": "20.55%",
     "Friend/Rival": "11.53%",
     "Taxes": "11.53%",
     "Indep War?": "5.00%",
@@ -20035,7 +20035,7 @@
     },
     "Trade 3": {
       "Value": "Qa'tqarra Lepus",
-      "Trade 3 Value": "3,015.00"
+      "Trade 3 Value": "2,950.00"
     },
     "Trade 4": {
       "Value": "",
@@ -20087,9 +20087,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "11,680.00",
+    "Trade Income": "11,615.00",
     "NAPs": "0.95",
-    "Def. Pacts": "11,096.00",
+    "Def. Pacts": "11,034.25",
     "Mil. Pacts": "0",
     "Trades": "0"
   },
@@ -21161,7 +21161,7 @@
     },
     "Trade 4": {
       "Value": "Zalmoxia",
-      "Trade 4 Value": "5,992.50"
+      "Trade 4 Value": "6,105.00"
     },
     "Trade 5": {
       "Value": "Dreikland",
@@ -21209,9 +21209,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "198,379.32",
+    "Trade Income": "198,491.82",
     "NAPs": "0.95",
-    "Def. Pacts": "188,460.35",
+    "Def. Pacts": "188,567.22",
     "Mil. Pacts": "6",
     "Trades": "2"
   },
@@ -21219,7 +21219,7 @@
     "Nations": "Second State of Los",
     "Nation Check": "Second State of Los",
     "Overlord": "Stryaxina",
-    "Eco Vassals": "659,292.59",
+    "Eco Vassals": "659,399.47",
     "Eco Over.": "1,388,422.02",
     "Compare": "893,295.00",
     "MP Vassals": "47.49%",
@@ -23565,8 +23565,8 @@
     "Nations": "The Banana Republic",
     "Nation Check": "The Banana Republic",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "2,115,901.62",
-    "Eco Over.": "1,045,316.88",
+    "Eco Vassals": "2,116,183.99",
+    "Eco Over.": "1,045,457.51",
     "Compare": "311,484.00",
     "MP Vassals": "202.42%",
     "MP Over.": "336,960.00",
@@ -23637,7 +23637,7 @@
     },
     "Trade 11": {
       "Value": "Zalmoxia",
-      "Trade 11 Value": "5,992.50"
+      "Trade 11 Value": "6,105.00"
     },
     "Trade 12": {
       "Value": "Maa",
@@ -23657,9 +23657,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "352,987.16",
+    "Trade Income": "353,099.66",
     "NAPs": "1.26",
-    "Def. Pacts": "444,763.82",
+    "Def. Pacts": "444,905.57",
     "Mil. Pacts": "1",
     "Trades": "0"
   },
@@ -24381,8 +24381,8 @@
     "Nations": "The Kingdom of Hemia",
     "Nation Check": "The Kingdom of Hemia",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "2,115,901.62",
-    "Eco Over.": "1,045,316.88",
+    "Eco Vassals": "2,116,183.99",
+    "Eco Over.": "1,045,457.51",
     "Compare": "311,484.00",
     "MP Vassals": "202.42%",
     "MP Over.": "336,960.00",
@@ -24437,7 +24437,7 @@
     },
     "Trade 7": {
       "Value": "Zalmoxia",
-      "Trade 7 Value": "5,992.50"
+      "Trade 7 Value": "6,105.00"
     },
     "Trade 8": {
       "Value": "Maa",
@@ -24473,9 +24473,9 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "273,261.08",
+    "Trade Income": "273,373.58",
     "NAPs": "1.25",
-    "Def. Pacts": "341,576.34",
+    "Def. Pacts": "341,716.97",
     "Mil. Pacts": "0",
     "Trades": "0"
   },
@@ -24790,19 +24790,19 @@
     "Nation Check": "Graphite's Khorshunin Kingdom",
     "Overlord": "Amethyst Clan",
     "Eco Vassals": "93,939.56",
-    "Eco Over.": "280,871.15",
+    "Eco Over.": "280,978.02",
     "Compare": "170,925.00",
-    "MP Vassals": "33.45%",
+    "MP Vassals": "33.43%",
     "MP Over.": "78,251.00",
     "20% Total": "45.78%",
-    "Vassal Type": "15.85%",
+    "Vassal Type": "15.84%",
     "": "0.00%",
     "L. Desire": "Amethyst Clan Nonprovince",
     "Base": "0.25",
-    "Comparison": "33.36%",
-    "Individual": "33.36%",
-    "Friend/Rival": "15.85%",
-    "Taxes": "15.85%",
+    "Comparison": "33.35%",
+    "Individual": "33.35%",
+    "Friend/Rival": "15.84%",
+    "Taxes": "15.84%",
     "Indep War?": "21.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -28015,7 +28015,7 @@
     },
     "Trade 9": {
       "Value": "Qa'tqarra Datansalūl",
-      "Trade 9 Value": "4,300.00"
+      "Trade 9 Value": "4,365.00"
     },
     "Trade 10": {
       "Value": "The Fasharids",
@@ -28023,7 +28023,7 @@
     },
     "Trade 11": {
       "Value": "Qa'tqarra Lepus",
-      "Trade 11 Value": "3,015.00"
+      "Trade 11 Value": "2,950.00"
     },
     "Trade 12": {
       "Value": "",
@@ -28155,8 +28155,8 @@
     "Nations": "Zalmoxia",
     "Nation Check": "Zalmoxia",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "2,115,901.62",
-    "Eco Over.": "1,045,316.88",
+    "Eco Vassals": "2,116,183.99",
+    "Eco Over.": "1,045,457.51",
     "Compare": "311,484.00",
     "MP Vassals": "202.42%",
     "MP Over.": "336,960.00",
@@ -31114,7 +31114,7 @@
     "Nation Check": "Murenman",
     "Overlord": "Scientarium",
     "Eco Vassals": "83,220.00",
-    "Eco Over.": "705,610.42",
+    "Eco Over.": "705,717.30",
     "Compare": "107,279.00",
     "MP Vassals": "11.79%",
     "MP Over.": "27,600.00",
