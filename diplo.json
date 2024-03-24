@@ -8365,45 +8365,45 @@
   },
   "Unconquered Sun": {
     "Nations": "Unconquered Sun",
-    "Nation Check": "Unconquered Sun",
-    "Overlord": "Imperial City of Soria",
-    "Eco Vassals": "93,825.68",
-    "Eco Over.": "408,022.66",
-    "Compare": "136,808.00",
-    "MP Vassals": "23.00%",
-    "MP Over.": "121,815.00",
-    "20% Total": "89.04%",
-    "Vassal Type": "22.41%",
+    "Nation Check": "",
+    "Overlord": "",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "",
     "": "0.00%",
-    "L. Desire": "Imperial City of Soria Nonprovince",
-    "Base": "0.25",
-    "Comparison": "45.31%",
-    "Individual": "45.31%",
-    "Friend/Rival": "22.41%",
-    "Taxes": "22.41%",
-    "Indep War?": "5.00%",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "",
+    "Individual": "",
+    "Friend/Rival": "",
+    "Taxes": "",
+    "Indep War?": "",
     "Autonomy": "",
     "Threshold": "",
-    "Chaotic?": "Cultural",
-    "Deceptive?": "125.00%",
-    "Honor?": "FALSE",
-    "Indep.?": "FALSE",
-    "Unity?": "TRUE",
-    "Ov. Culture": "FALSE",
-    "Ov. Religion": "FALSE",
-    "Non-aggression Pacts": "Sorian",
-    "Defensive Pacts": "The Everflame",
-    "Defensive Pacts 2": "Holy Kights of the script",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "10"
+      "Trade 1 Value": "9"
     },
     "Trade 2": {
-      "Value": "Imperial City of Soria",
-      "Trade 2 Value": "8,700.90"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
       "Value": "",
@@ -8459,10 +8459,10 @@
     },
     "Raw Trade Income": "",
     "Tariffs": "",
-    "Trade Income": "8,700.90",
+    "Trade Income": "0.00",
     "NAPs": "0.75",
-    "Def. Pacts": "6,525.68",
-    "Mil. Pacts": "1",
+    "Def. Pacts": "0.00",
+    "Mil. Pacts": "0",
     "Trades": "0"
   },
   "Greater Stahlland": {
@@ -31819,6 +31819,108 @@
     "Tariffs": "",
     "Trade Income": "0.00",
     "NAPs": "1.25",
+    "Def. Pacts": "0.00",
+    "Mil. Pacts": "0",
+    "Trades": "0"
+  },
+  "Mor Oer": {
+    "Nations": "Mor Oer",
+    "Nation Check": "Mor Oer",
+    "Overlord": "Nuanta",
+    "Eco Vassals": "207,215.78",
+    "Eco Over.": "444,964.13",
+    "Compare": "303,075.00",
+    "MP Vassals": "46.57%",
+    "MP Over.": "155,513.00",
+    "20% Total": "51.31%",
+    "Vassal Type": "19.58%",
+    "": "0.00%",
+    "L. Desire": "Nuanta Nonprovince",
+    "Base": "1.00",
+    "Comparison": "17.08%",
+    "Individual": "17.08%",
+    "Friend/Rival": "19.58%",
+    "Taxes": "0.00%",
+    "Indep War?": "-5.00%",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "",
+    "Deceptive?": "100.00%",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "FALSE",
+    "Ov. Religion": "FALSE",
+    "Non-aggression Pacts": "Litoare",
+    "Defensive Pacts": "Lipitoare",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": "3"
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "",
+    "Tariffs": "",
+    "Trade Income": "0.00",
+    "NAPs": "0.95",
     "Def. Pacts": "0.00",
     "Mil. Pacts": "0",
     "Trades": "0"
