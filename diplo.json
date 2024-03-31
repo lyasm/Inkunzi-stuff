@@ -985,7 +985,7 @@
     },
     "Trade 9": {
       "Value": "Undertakers",
-      "Trade 9 Value": "2,665.00"
+      "Trade 9 Value": "5,000.00"
     },
     "Trade 10": {
       "Value": "Lundrium",
@@ -1017,7 +1017,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "32,588.73"
+    "Trades": "34,923.73"
   },
   "Dreikland": {
     "Nations": "Dreikland",
@@ -11071,7 +11071,7 @@
     },
     "Trade 6": {
       "Value": "Undertakers",
-      "Trade 6 Value": "2,665.00"
+      "Trade 6 Value": "5,000.00"
     },
     "Trade 7": {
       "Value": "Asahi Dareh",
@@ -11115,26 +11115,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "14,545.25"
+    "Trades": "16,880.25"
   },
   "Karak Gazan": {
     "Nations": "Karak Gazan",
     "Nation Check": "Karak Gazan",
     "Overlord": "Karak Angaz",
-    "Eco Vassals": "84,626.99",
-    "Eco Over.": "89,130.94",
+    "Eco Vassals": "86,845.24",
+    "Eco Over.": "92,049.69",
     "Compare": "65,051.00",
-    "MP Vassals": "94.95%",
+    "MP Vassals": "94.35%",
     "MP Over.": "37,223.00",
     "20% Total": "57.22%",
-    "Vassal Type": "30.43%",
+    "Vassal Type": "30.31%",
     "": "0.00%",
     "L. Desire": "Karak Angaz Nonprovince",
     "Base": "1.00",
-    "Comparison": "58.37%",
-    "Individual": "58.37%",
-    "Friend/Rival": "30.43%",
-    "Taxes": "30.43%",
+    "Comparison": "58.13%",
+    "Individual": "58.13%",
+    "Friend/Rival": "30.31%",
+    "Taxes": "30.31%",
     "Indep War?": "10.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -11173,7 +11173,7 @@
     },
     "Trade 6": {
       "Value": "Undertakers",
-      "Trade 6 Value": "2,665.00"
+      "Trade 6 Value": "5,000.00"
     },
     "Trade 7": {
       "Value": "",
@@ -11217,7 +11217,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "10,365.25"
+    "Trades": "12,700.25"
   },
   "Kachitillcha": {
     "Nations": "Kachitillcha",
@@ -11631,20 +11631,20 @@
     "Nations": "Karak Klinka",
     "Nation Check": "Karak Klinka",
     "Overlord": "Làidirstìr",
-    "Eco Vassals": "76,718.04",
-    "Eco Over.": "460,719.29",
+    "Eco Vassals": "78,936.29",
+    "Eco Over.": "462,937.54",
     "Compare": "273,156.00",
-    "MP Vassals": "16.65%",
+    "MP Vassals": "17.05%",
     "MP Over.": "34,695.00",
     "20% Total": "12.70%",
-    "Vassal Type": "5.87%",
+    "Vassal Type": "5.95%",
     "": "0.00%",
     "L. Desire": "Làidirstìr Nonprovince",
     "Base": "1.00",
     "Comparison": "0.00%",
-    "Individual": "-5.76%",
-    "Friend/Rival": "5.87%",
-    "Taxes": "5.87%",
+    "Individual": "-5.60%",
+    "Friend/Rival": "5.95%",
+    "Taxes": "5.95%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -11683,7 +11683,7 @@
     },
     "Trade 6": {
       "Value": "Undertakers",
-      "Trade 6 Value": "2,665.00"
+      "Trade 6 Value": "5,000.00"
     },
     "Trade 7": {
       "Value": "Viontes Reclamation Authority",
@@ -11727,7 +11727,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "33,113.73"
+    "Trades": "35,448.73"
   },
   "The Horn": {
     "Nations": "The Horn",
@@ -27743,9 +27743,9 @@
     "Mil. Pacts": "",
     "Trades": "85,876.57"
   },
-  "Undertakers": {
-    "Nations": "Undertakers",
-    "Nation Check": "Undertakers",
+  "Undermania": {
+    "Nations": "Undermania",
+    "Nation Check": "Undermania",
     "Overlord": "WrestleMania",
     "Eco Vassals": "50,197.31",
     "Eco Over.": "169,825.99",
