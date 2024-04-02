@@ -106,19 +106,19 @@
     "Nation Check": "Frijkland",
     "Overlord": "Svetograd",
     "Eco Vassals": "343,210.16",
-    "Eco Over.": "412,741.89",
+    "Eco Over.": "413,259.39",
     "Compare": "137,292.00",
-    "MP Vassals": "83.15%",
+    "MP Vassals": "83.05%",
     "MP Over.": "109,350.00",
     "20% Total": "79.65%",
-    "Vassal Type": "32.56%",
+    "Vassal Type": "32.54%",
     "": "0.00%",
     "L. Desire": "Svetograd Nonprovince",
     "Base": "1.00",
-    "Comparison": "55.12%",
-    "Individual": "55.12%",
-    "Friend/Rival": "32.56%",
-    "Taxes": "32.56%",
+    "Comparison": "55.08%",
+    "Individual": "55.08%",
+    "Friend/Rival": "32.54%",
+    "Taxes": "32.54%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -3471,19 +3471,19 @@
     "Nations": "Talask of Aithcra",
     "Nation Check": "Talask of Aithcra",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "511,357.54",
-    "Eco Over.": "640,703.18",
+    "Eco Vassals": "512,013.04",
+    "Eco Over.": "641,358.68",
     "Compare": "201,489.00",
-    "MP Vassals": "79.81%",
+    "MP Vassals": "79.83%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "36.41%",
+    "Vassal Type": "36.42%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
     "Comparison": "67.07%",
     "Individual": "67.07%",
-    "Friend/Rival": "36.41%",
+    "Friend/Rival": "36.42%",
     "Taxes": "5.65%",
     "Indep War?": "20.00%",
     "Autonomy": "",
@@ -3777,19 +3777,19 @@
     "Nations": "Talask of Saomair",
     "Nation Check": "Talask of Saomair",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "511,357.54",
-    "Eco Over.": "640,703.18",
+    "Eco Vassals": "512,013.04",
+    "Eco Over.": "641,358.68",
     "Compare": "201,489.00",
-    "MP Vassals": "79.81%",
+    "MP Vassals": "79.83%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "36.41%",
+    "Vassal Type": "36.42%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
     "Comparison": "71.47%",
     "Individual": "71.47%",
-    "Friend/Rival": "36.41%",
+    "Friend/Rival": "36.42%",
     "Taxes": "5.05%",
     "Indep War?": "20.00%",
     "Autonomy": "",
@@ -5511,20 +5511,20 @@
     "Nations": "Dinasygan",
     "Nation Check": "Dinasygan",
     "Overlord": "Ceridwyn Confederation",
-    "Eco Vassals": "135,429.41",
+    "Eco Vassals": "135,946.91",
     "Eco Over.": "719,353.30",
     "Compare": "167,572.00",
-    "MP Vassals": "18.83%",
+    "MP Vassals": "18.90%",
     "MP Over.": "51,588.00",
     "20% Total": "30.79%",
-    "Vassal Type": "9.92%",
+    "Vassal Type": "9.94%",
     "": "0.00%",
     "L. Desire": "Ceridwyn Confederation Nonprovince",
     "Base": "1.00",
-    "Comparison": "34.84%",
-    "Individual": "34.84%",
-    "Friend/Rival": "9.92%",
-    "Taxes": "9.92%",
+    "Comparison": "34.87%",
+    "Individual": "34.87%",
+    "Friend/Rival": "9.94%",
+    "Taxes": "9.94%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -5547,7 +5547,7 @@
     },
     "Trade 2": {
       "Value": "Ceridwyn Confederation",
-      "Trade 2 Value": "20,136.50"
+      "Trade 2 Value": "20,826.50"
     },
     "Trade 3": {
       "Value": "Talask of Aithcra",
@@ -5607,7 +5607,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "52,023.22"
+    "Trades": "52,713.22"
   },
   "Diogen": {
     "Nations": "Diogen",
@@ -5669,7 +5669,7 @@
     },
     "Trade 7": {
       "Value": "Ceridwyn Confederation",
-      "Trade 7 Value": "20,136.50"
+      "Trade 7 Value": "20,826.50"
     },
     "Trade 8": {
       "Value": "Kingdom of Mimgrond",
@@ -5709,7 +5709,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "354,543.60"
+    "Trades": "355,233.60"
   },
   "Drionn Galith": {
     "Nations": "Drionn Galith",
@@ -5763,7 +5763,7 @@
     },
     "Trade 5": {
       "Value": "Ceridwyn Confederation",
-      "Trade 5 Value": "20,136.50"
+      "Trade 5 Value": "20,826.50"
     },
     "Trade 6": {
       "Value": "Hrēgdom of the Erwā",
@@ -5811,7 +5811,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "113,887.03"
+    "Trades": "114,577.03"
   },
   "Elphonsa": {
     "Nations": "Elphonsa",
@@ -5881,7 +5881,7 @@
     },
     "Trade 9": {
       "Value": "Ceridwyn Confederation",
-      "Trade 9 Value": "20,136.50"
+      "Trade 9 Value": "20,826.50"
     },
     "Trade 10": {
       "Value": "Unconquered Sun",
@@ -5913,7 +5913,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "112,913.78"
+    "Trades": "113,603.78"
   },
   "Elyen-Mev": {
     "Nations": "Elyen-Mev",
@@ -6225,20 +6225,20 @@
     "Nations": "Etolian Dimokratia",
     "Nation Check": "Etolian Dimokratia",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "511,357.54",
-    "Eco Over.": "640,703.18",
+    "Eco Vassals": "512,013.04",
+    "Eco Over.": "641,358.68",
     "Compare": "201,489.00",
-    "MP Vassals": "79.81%",
+    "MP Vassals": "79.83%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "36.41%",
+    "Vassal Type": "36.42%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "0.25",
-    "Comparison": "57.47%",
-    "Individual": "57.47%",
-    "Friend/Rival": "36.41%",
-    "Taxes": "11.89%",
+    "Comparison": "57.48%",
+    "Individual": "57.48%",
+    "Friend/Rival": "36.42%",
+    "Taxes": "11.90%",
     "Indep War?": "6.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -6265,7 +6265,7 @@
     },
     "Trade 3": {
       "Value": "Ceridwyn Confederation",
-      "Trade 3 Value": "20,136.50"
+      "Trade 3 Value": "20,826.50"
     },
     "Trade 4": {
       "Value": "Dinasygan",
@@ -6321,7 +6321,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "63,412.23"
+    "Trades": "64,102.23"
   },
   "Ewig Republic": {
     "Nations": "Ewig Republic",
@@ -7551,19 +7551,19 @@
     "Nations": "Glasrhaidd Republic",
     "Nation Check": "Glasrhaidd Republic",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "511,357.54",
-    "Eco Over.": "640,703.18",
+    "Eco Vassals": "512,013.04",
+    "Eco Over.": "641,358.68",
     "Compare": "201,489.00",
-    "MP Vassals": "79.81%",
+    "MP Vassals": "79.83%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "36.41%",
+    "Vassal Type": "36.42%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "67.74%",
-    "Individual": "67.74%",
-    "Friend/Rival": "36.41%",
+    "Comparison": "67.73%",
+    "Individual": "67.73%",
+    "Friend/Rival": "36.42%",
     "Taxes": "13.82%",
     "Indep War?": "20.00%",
     "Autonomy": "",
@@ -9243,7 +9243,7 @@
     },
     "Trade 8": {
       "Value": "Ceridwyn Confederation",
-      "Trade 8 Value": "20,136.50"
+      "Trade 8 Value": "20,826.50"
     },
     "Trade 9": {
       "Value": "Dreikland",
@@ -9279,7 +9279,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "105,817.64"
+    "Trades": "106,507.64"
   },
   "Hrvolan Qaris": {
     "Nations": "Hrvolan Qaris",
@@ -12652,9 +12652,9 @@
     "Nation Check": "Kingdom of Gloria",
     "Overlord": "Scientarium",
     "Eco Vassals": "135,314.38",
-    "Eco Over.": "646,277.75",
+    "Eco Over.": "646,933.25",
     "Compare": "107,279.00",
-    "MP Vassals": "20.94%",
+    "MP Vassals": "20.92%",
     "MP Over.": "30,600.00",
     "20% Total": "28.52%",
     "Vassal Type": "9.89%",
@@ -13739,7 +13739,7 @@
     },
     "Trade 10": {
       "Value": "Ceridwyn Confederation",
-      "Trade 10 Value": "20,136.50"
+      "Trade 10 Value": "20,826.50"
     },
     "Trade 11": {
       "Value": "Yeotang",
@@ -13767,7 +13767,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "149,294.73"
+    "Trades": "149,984.73"
   },
   "Ko'ch Q'ash": {
     "Nations": "Ko'ch Q'ash",
@@ -18874,18 +18874,18 @@
     "Nation Check": "Order of The Radiance",
     "Overlord": "Holy Kingdom of Scripts",
     "Eco Vassals": "254,799.73",
-    "Eco Over.": "421,901.76",
+    "Eco Over.": "422,557.26",
     "Compare": "192,986.00",
-    "MP Vassals": "60.39%",
+    "MP Vassals": "60.30%",
     "MP Over.": "208,090.00",
     "20% Total": "107.83%",
-    "Vassal Type": "33.64%",
+    "Vassal Type": "33.63%",
     "": "0.00%",
     "L. Desire": "Holy Kingdom of Scripts Nonprovince",
     "Base": "0.25",
-    "Comparison": "65.60%",
-    "Individual": "65.60%",
-    "Friend/Rival": "33.64%",
+    "Comparison": "65.57%",
+    "Individual": "65.57%",
+    "Friend/Rival": "33.63%",
     "Taxes": "15.28%",
     "Indep War?": "6.67%",
     "Autonomy": "",
@@ -19996,17 +19996,17 @@
     "Nation Check": "Republic o. Zuntirar",
     "Overlord": "Yeotang",
     "Eco Vassals": "129,286.75",
-    "Eco Over.": "551,326.18",
+    "Eco Over.": "551,981.68",
     "Compare": "236,985.00",
-    "MP Vassals": "23.45%",
+    "MP Vassals": "23.42%",
     "MP Over.": "64,350.00",
     "20% Total": "27.15%",
     "Vassal Type": "10.12%",
     "": "0.00%",
     "L. Desire": "Yeotang Nonprovince",
     "Base": "1.00",
-    "Comparison": "17.74%",
-    "Individual": "17.74%",
+    "Comparison": "17.73%",
+    "Individual": "17.73%",
     "Friend/Rival": "10.12%",
     "Taxes": "10.12%",
     "Indep War?": "5.00%",
@@ -20765,7 +20765,7 @@
     },
     "Trade 7": {
       "Value": "Ceridwyn Confederation",
-      "Trade 7 Value": "20,136.50"
+      "Trade 7 Value": "20,826.50"
     },
     "Trade 8": {
       "Value": "Dinasygan",
@@ -20805,7 +20805,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "70,783.29"
+    "Trades": "71,473.29"
   },
   "Sancta Discordia": {
     "Nations": "Sancta Discordia",
@@ -21193,7 +21193,7 @@
     },
     "Trade 12": {
       "Value": "Ceridwyn Confederation",
-      "Trade 12 Value": "20,136.50"
+      "Trade 12 Value": "20,826.50"
     },
     "Trade 13": {
       "Value": "Kingdom of Mimgrond",
@@ -21213,7 +21213,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "141,278.87"
+    "Trades": "141,968.87"
   },
   "Second State of Los": {
     "Nations": "Second State of Los",
@@ -22581,7 +22581,7 @@
     },
     "Trade 2": {
       "Value": "Ceridwyn Confederation",
-      "Trade 2 Value": "20,136.50"
+      "Trade 2 Value": "20,826.50"
     },
     "Trade 3": {
       "Value": "Drionn Galith",
@@ -22641,7 +22641,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "144,579.86"
+    "Trades": "145,269.86"
   },
   "Tautaspils": {
     "Nations": "Tautaspils",
@@ -22887,7 +22887,7 @@
     },
     "Trade 2": {
       "Value": "Ceridwyn Confederation",
-      "Trade 2 Value": "20,136.50"
+      "Trade 2 Value": "20,826.50"
     },
     "Trade 3": {
       "Value": "",
@@ -22947,7 +22947,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "39,247.73"
+    "Trades": "39,937.73"
   },
   "Tetóth Kegeth": {
     "Nations": "Tetóth Kegeth",
@@ -27999,7 +27999,7 @@
     },
     "Trade 5": {
       "Value": "Ceridwyn Confederation",
-      "Trade 5 Value": "20,136.50"
+      "Trade 5 Value": "20,826.50"
     },
     "Trade 6": {
       "Value": "Aishokae Kiryaxolne",
@@ -28047,7 +28047,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "109,347.69"
+    "Trades": "110,037.69"
   },
   "Yuranisuk": {
     "Nations": "Yuranisuk",
@@ -28870,19 +28870,19 @@
     "Nation Check": "Order of The Mist",
     "Overlord": "Holy Kingdom of Scripts",
     "Eco Vassals": "254,799.73",
-    "Eco Over.": "421,901.76",
+    "Eco Over.": "422,557.26",
     "Compare": "192,986.00",
-    "MP Vassals": "60.39%",
+    "MP Vassals": "60.30%",
     "MP Over.": "208,090.00",
     "20% Total": "107.83%",
-    "Vassal Type": "33.64%",
+    "Vassal Type": "33.63%",
     "": "0.00%",
     "L. Desire": "Holy Kingdom of Scripts Nonprovince",
     "Base": "0.25",
-    "Comparison": "47.00%",
-    "Individual": "47.00%",
-    "Friend/Rival": "33.64%",
-    "Taxes": "18.36%",
+    "Comparison": "46.98%",
+    "Individual": "46.98%",
+    "Friend/Rival": "33.63%",
+    "Taxes": "18.35%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -31114,9 +31114,9 @@
     "Nation Check": "Murenman",
     "Overlord": "Scientarium",
     "Eco Vassals": "135,314.38",
-    "Eco Over.": "646,277.75",
+    "Eco Over.": "646,933.25",
     "Compare": "107,279.00",
-    "MP Vassals": "20.94%",
+    "MP Vassals": "20.92%",
     "MP Over.": "30,600.00",
     "20% Total": "28.52%",
     "Vassal Type": "9.89%",
