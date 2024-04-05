@@ -870,8 +870,8 @@
       "Trade 5 Value": "5,176.21"
     },
     "Trade 6": {
-      "Value": "Colmea",
-      "Trade 6 Value": "3,080.00"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
       "Value": "Zilvrenskegga",
@@ -915,7 +915,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "27,015.03"
+    "Trades": "23,935.03"
   },
   "Làidirstìr": {
     "Nations": "Làidirstìr",
@@ -3471,19 +3471,19 @@
     "Nations": "Talask of Aithcra",
     "Nation Check": "Talask of Aithcra",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "512,013.04",
+    "Eco Vassals": "512,654.07",
     "Eco Over.": "641,358.68",
     "Compare": "201,489.00",
-    "MP Vassals": "79.83%",
+    "MP Vassals": "79.93%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "36.42%",
+    "Vassal Type": "36.44%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "67.07%",
-    "Individual": "67.07%",
-    "Friend/Rival": "36.42%",
+    "Comparison": "67.09%",
+    "Individual": "67.09%",
+    "Friend/Rival": "36.44%",
     "Taxes": "5.65%",
     "Indep War?": "20.00%",
     "Autonomy": "",
@@ -3777,19 +3777,19 @@
     "Nations": "Talask of Saomair",
     "Nation Check": "Talask of Saomair",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "512,013.04",
+    "Eco Vassals": "512,654.07",
     "Eco Over.": "641,358.68",
     "Compare": "201,489.00",
-    "MP Vassals": "79.83%",
+    "MP Vassals": "79.93%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "36.42%",
+    "Vassal Type": "36.44%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "71.47%",
-    "Individual": "71.47%",
-    "Friend/Rival": "36.42%",
+    "Comparison": "71.49%",
+    "Individual": "71.49%",
+    "Friend/Rival": "36.44%",
     "Taxes": "5.05%",
     "Indep War?": "20.00%",
     "Autonomy": "",
@@ -6225,20 +6225,20 @@
     "Nations": "Etolian Dimokratia",
     "Nation Check": "Etolian Dimokratia",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "512,013.04",
+    "Eco Vassals": "512,654.07",
     "Eco Over.": "641,358.68",
     "Compare": "201,489.00",
-    "MP Vassals": "79.83%",
+    "MP Vassals": "79.93%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "36.42%",
+    "Vassal Type": "36.44%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "0.25",
-    "Comparison": "57.48%",
-    "Individual": "57.48%",
-    "Friend/Rival": "36.42%",
-    "Taxes": "11.90%",
+    "Comparison": "57.52%",
+    "Individual": "57.52%",
+    "Friend/Rival": "36.44%",
+    "Taxes": "11.92%",
     "Indep War?": "6.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -6257,7 +6257,7 @@
     "Limit": "",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "10"
+      "Trade 1 Value": "12"
     },
     "Trade 2": {
       "Value": "Frijkland",
@@ -7551,19 +7551,19 @@
     "Nations": "Glasrhaidd Republic",
     "Nation Check": "Glasrhaidd Republic",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "512,013.04",
+    "Eco Vassals": "512,654.07",
     "Eco Over.": "641,358.68",
     "Compare": "201,489.00",
-    "MP Vassals": "79.83%",
+    "MP Vassals": "79.93%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "36.42%",
+    "Vassal Type": "36.44%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "67.73%",
-    "Individual": "67.73%",
-    "Friend/Rival": "36.42%",
+    "Comparison": "67.75%",
+    "Individual": "67.75%",
+    "Friend/Rival": "36.44%",
     "Taxes": "13.82%",
     "Indep War?": "20.00%",
     "Autonomy": "",
@@ -22396,8 +22396,8 @@
       "Trade 6 Value": "5,282.21"
     },
     "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
+      "Value": "Royaume sous de l'Aurore",
+      "Trade 7 Value": "27,444.12"
     },
     "Trade 8": {
       "Value": "Meadoia Dynasty",
@@ -22412,8 +22412,8 @@
       "Trade 10 Value": "9,028.50"
     },
     "Trade 11": {
-      "Value": "Royaume sous de l'Aurore",
-      "Trade 11 Value": "27,444.12"
+      "Value": "",
+      "Trade 11 Value": ""
     },
     "Trade 12": {
       "Value": "The Kingdom of Zahar",
