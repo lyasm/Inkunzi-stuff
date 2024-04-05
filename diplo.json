@@ -851,7 +851,7 @@
     "Limit": "Scaroasa",
     "Trade 1": {
       "Value": "Tetóth Kegeth",
-      "Trade 1 Value": "9"
+      "Trade 1 Value": "10"
     },
     "Trade 2": {
       "Value": "",
@@ -875,7 +875,7 @@
     },
     "Trade 7": {
       "Value": "Zilvrenskegga",
-      "Trade 7 Value": "2,806.00"
+      "Trade 7 Value": "3,478.75"
     },
     "Trade 8": {
       "Value": "Scaroasa",
@@ -915,7 +915,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "26,342.28"
+    "Trades": "27,015.03"
   },
   "Làidirstìr": {
     "Nations": "Làidirstìr",
@@ -2095,11 +2095,11 @@
     },
     "Trade 6": {
       "Value": "Akalikania",
-      "Trade 6 Value": "3,174.60"
+      "Trade 6 Value": "5,555.55"
     },
     "Trade 7": {
       "Value": "Zilvrenskegga",
-      "Trade 7 Value": "2,806.00"
+      "Trade 7 Value": "3,478.75"
     },
     "Trade 8": {
       "Value": "Scaroasa",
@@ -2139,7 +2139,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "30,461.18"
+    "Trades": "33,514.88"
   },
   "Atlas'ii": {
     "Nations": "Atlas'ii",
@@ -2287,7 +2287,7 @@
     },
     "Trade 3": {
       "Value": "Akalikania",
-      "Trade 3 Value": "3,174.60"
+      "Trade 3 Value": "5,555.55"
     },
     "Trade 4": {
       "Value": "Cleannmor",
@@ -2343,7 +2343,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "21,452.38"
+    "Trades": "23,833.33"
   },
   "Kennelands": {
     "Nations": "Kennelands",
@@ -2656,19 +2656,19 @@
     "Nation Check": "Brotherhood of Dwarves",
     "Overlord": "Goldmongers",
     "Eco Vassals": "69,975.00",
-    "Eco Over.": "263,022.89",
+    "Eco Over.": "265,284.79",
     "Compare": "167,823.00",
-    "MP Vassals": "26.60%",
+    "MP Vassals": "26.38%",
     "MP Over.": "53,393.00",
     "20% Total": "31.82%",
-    "Vassal Type": "11.68%",
+    "Vassal Type": "11.64%",
     "": "0.00%",
     "L. Desire": "Goldmongers Nonprovince",
     "Base": "1.00",
-    "Comparison": "23.37%",
-    "Individual": "23.37%",
-    "Friend/Rival": "11.68%",
-    "Taxes": "11.68%",
+    "Comparison": "23.28%",
+    "Individual": "23.28%",
+    "Friend/Rival": "11.64%",
+    "Taxes": "11.64%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -4637,7 +4637,7 @@
     },
     "Trade 4": {
       "Value": "Zilvrenskegga",
-      "Trade 4 Value": "2,806.00"
+      "Trade 4 Value": "3,478.75"
     },
     "Trade 5": {
       "Value": "Goldmongers",
@@ -4649,7 +4649,7 @@
     },
     "Trade 7": {
       "Value": "Akalikania",
-      "Trade 7 Value": "3,174.60"
+      "Trade 7 Value": "5,555.55"
     },
     "Trade 8": {
       "Value": "",
@@ -4689,7 +4689,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "31,213.48"
+    "Trades": "34,267.18"
   },
   "Cóchua Kingdom": {
     "Nations": "Cóchua Kingdom",
@@ -4833,7 +4833,7 @@
     },
     "Trade 2": {
       "Value": "Akalikania",
-      "Trade 2 Value": "3,174.60"
+      "Trade 2 Value": "5,555.55"
     },
     "Trade 3": {
       "Value": "",
@@ -4893,7 +4893,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "3,174.60"
+    "Trades": "5,555.55"
   },
   "Commonwealth of Gonaria": {
     "Nations": "Commonwealth of Gonaria",
@@ -7901,7 +7901,7 @@
     },
     "Trade 4": {
       "Value": "Akalikania",
-      "Trade 4 Value": "3,174.60"
+      "Trade 4 Value": "5,555.55"
     },
     "Trade 5": {
       "Value": "Svetograd",
@@ -7953,7 +7953,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "42,848.93"
+    "Trades": "45,229.88"
   },
   "Eye of Terror": {
     "Nations": "Eye of Terror",
@@ -8469,20 +8469,20 @@
     "Nations": "Greater Stahlland",
     "Nation Check": "Greater Stahlland",
     "Overlord": "Cabyar Birodalom",
-    "Eco Vassals": "305,773.75",
+    "Eco Vassals": "306,614.69",
     "Eco Over.": "734,429.37",
     "Compare": "407,625.00",
-    "MP Vassals": "41.63%",
+    "MP Vassals": "41.75%",
     "MP Over.": "184,388.00",
     "20% Total": "45.23%",
-    "Vassal Type": "17.37%",
+    "Vassal Type": "17.40%",
     "": "0.00%",
     "L. Desire": "Cabyar Birodalom Nonprovince",
     "Base": "0.25",
-    "Comparison": "29.75%",
-    "Individual": "29.75%",
-    "Friend/Rival": "17.37%",
-    "Taxes": "17.37%",
+    "Comparison": "29.79%",
+    "Individual": "29.79%",
+    "Friend/Rival": "17.40%",
+    "Taxes": "17.40%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -8509,7 +8509,7 @@
     },
     "Trade 3": {
       "Value": "Zilvrenskegga",
-      "Trade 3 Value": "2,806.00"
+      "Trade 3 Value": "3,478.75"
     },
     "Trade 4": {
       "Value": "Qa'tqarra Datansalūl",
@@ -8565,7 +8565,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "26,304.50"
+    "Trades": "26,977.25"
   },
   "Hadastan Commenwealth": {
     "Nations": "Hadastan Commenwealth",
@@ -10659,7 +10659,7 @@
     },
     "Trade 5": {
       "Value": "Akalikania",
-      "Trade 5 Value": "3,174.60"
+      "Trade 5 Value": "5,555.55"
     },
     "Trade 6": {
       "Value": "Ashdayn",
@@ -10707,7 +10707,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "25,783.61"
+    "Trades": "28,164.56"
   },
   "Félagi Vargúlfr Dvergr": {
     "Nations": "Félagi Vargúlfr Dvergr",
@@ -14633,7 +14633,7 @@
     },
     "Trade 4": {
       "Value": "Akalikania",
-      "Trade 4 Value": "3,174.60"
+      "Trade 4 Value": "5,555.55"
     },
     "Trade 5": {
       "Value": "Cleannmor",
@@ -14685,7 +14685,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "35,661.08"
+    "Trades": "38,042.03"
   },
   "Lowy Combine": {
     "Nations": "Lowy Combine",
@@ -14931,7 +14931,7 @@
     },
     "Trade 2": {
       "Value": "Akalikania",
-      "Trade 2 Value": "3,174.60"
+      "Trade 2 Value": "5,555.55"
     },
     "Trade 3": {
       "Value": "Lohiida Dathinaal",
@@ -14947,7 +14947,7 @@
     },
     "Trade 6": {
       "Value": "Zilvrenskegga",
-      "Trade 6 Value": "2,806.00"
+      "Trade 6 Value": "3,478.75"
     },
     "Trade 7": {
       "Value": "Goldmongers",
@@ -14991,7 +14991,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "35,843.11"
+    "Trades": "38,896.81"
   },
   "Lundrium": {
     "Nations": "Lundrium",
@@ -22895,7 +22895,7 @@
     },
     "Trade 4": {
       "Value": "Akalikania",
-      "Trade 4 Value": "3,174.60"
+      "Trade 4 Value": "5,555.55"
     },
     "Trade 5": {
       "Value": "Goldmongers",
@@ -22907,7 +22907,7 @@
     },
     "Trade 7": {
       "Value": "Zilvrenskegga",
-      "Trade 7 Value": "2,806.00"
+      "Trade 7 Value": "3,478.75"
     },
     "Trade 8": {
       "Value": "",
@@ -22947,7 +22947,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "31,213.48"
+    "Trades": "34,267.18"
   },
   "Thaandom of Fangkar": {
     "Nations": "Thaandom of Fangkar",
@@ -31726,19 +31726,19 @@
     "Nation Check": "Opolst Eredas",
     "Overlord": "Ashdayn",
     "Eco Vassals": "71,864.38",
-    "Eco Over.": "407,174.24",
+    "Eco Over.": "410,380.63",
     "Compare": "194,880.00",
-    "MP Vassals": "17.65%",
+    "MP Vassals": "17.51%",
     "MP Over.": "51,022.00",
     "20% Total": "26.18%",
-    "Vassal Type": "8.77%",
+    "Vassal Type": "8.74%",
     "": "0.00%",
     "L. Desire": "Ashdayn Nonprovince",
     "Base": "1.00",
-    "Comparison": "20.03%",
-    "Individual": "20.03%",
-    "Friend/Rival": "8.77%",
-    "Taxes": "8.77%",
+    "Comparison": "19.98%",
+    "Individual": "19.98%",
+    "Friend/Rival": "8.74%",
+    "Taxes": "8.74%",
     "Indep War?": "7.50%",
     "Autonomy": "",
     "Threshold": "",
