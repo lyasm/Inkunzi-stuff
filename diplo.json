@@ -16986,8 +16986,8 @@
       "Trade 5 Value": "3,239.10"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Kingdom of the Kettlelands",
+      "Trade 6 Value": "1,235.00"
     },
     "Trade 7": {
       "Value": "",
@@ -17031,7 +17031,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "152,654.10"
+    "Trades": "153,889.10"
   },
   "Môr Oer": {
     "Nations": "Môr Oer",
@@ -33049,7 +33049,7 @@
   },
   "Iarthar Grove": {
     "Nations": "Iarthar Grove",
-    "Nation Check": "",
+    "Nation Check": "Iarthar Grove",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -33083,7 +33083,7 @@
     "Limit": "",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "8"
+      "Trade 1 Value": "5"
     },
     "Trade 2": {
       "Value": "",
@@ -33151,7 +33151,7 @@
   },
   "Querzalco Council": {
     "Nations": "Querzalco Council",
-    "Nation Check": "",
+    "Nation Check": "Querzalco Council",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -33185,7 +33185,7 @@
     "Limit": "",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "8"
+      "Trade 1 Value": "2"
     },
     "Trade 2": {
       "Value": "",
@@ -33253,7 +33253,7 @@
   },
   "Mild Fields": {
     "Nations": "Mild Fields",
-    "Nation Check": "",
+    "Nation Check": "Mild Fields",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -33287,7 +33287,211 @@
     "Limit": "",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "8"
+      "Trade 1 Value": "2"
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "",
+    "Tariffs": "",
+    "Trade Income": "",
+    "NAPs": "",
+    "Def. Pacts": "",
+    "Mil. Pacts": "",
+    "Trades": "0.00"
+  },
+  "Audgunn": {
+    "Nations": "Audgunn",
+    "Nation Check": "Audgunn",
+    "Overlord": "",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "",
+    "": "0.00%",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "",
+    "Individual": "",
+    "Friend/Rival": "",
+    "Taxes": "",
+    "Indep War?": "",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": "2"
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "",
+    "Tariffs": "",
+    "Trade Income": "",
+    "NAPs": "",
+    "Def. Pacts": "",
+    "Mil. Pacts": "",
+    "Trades": "0.00"
+  },
+  "Cortaria": {
+    "Nations": "Cortaria",
+    "Nation Check": "Cortaria",
+    "Overlord": "Litovai Imperiu",
+    "Eco Vassals": "1,342,159.73",
+    "Eco Over.": "1,493,935.30",
+    "Compare": "628,935.00",
+    "MP Vassals": "89.84%",
+    "MP Over.": "437,852.00",
+    "20% Total": "69.62%",
+    "Vassal Type": "31.89%",
+    "": "0.00%",
+    "L. Desire": "Litovai Imperiu Nonprovince",
+    "Base": "0.25",
+    "Comparison": "45.23%",
+    "Individual": "45.23%",
+    "Friend/Rival": "31.89%",
+    "Taxes": "0.00%",
+    "Indep War?": "8.33%",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "None",
+    "Deceptive?": "-100.00%",
+    "Honor?": "TRUE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "TRUE",
+    "Ov. Religion": "FALSE",
+    "Non-aggression Pacts": "Litovoi",
+    "Defensive Pacts": "Litov Faith",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": "2"
     },
     "Trade 2": {
       "Value": "",
