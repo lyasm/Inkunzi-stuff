@@ -163,7 +163,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "0",
+    "Merc 2": "1",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -212,10 +212,10 @@
   "Aethyrrajyam": {
     "Nations": "Aethyrrajyam",
     "Nation Check": "Aethyrrajyam",
-    "Pow_Army": "11,242",
+    "Pow_Army": "11,240",
     "Pow_Navy": "0",
-    "Manpower": "610,403",
-    "Manpower Avail.": "22.12%",
+    "Manpower": "610,077",
+    "Manpower Avail.": "22.13%",
     "Upkeep": "24",
     "Upkeep Army": "",
     "Upkeep Navy": "421,200.00",
@@ -251,8 +251,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Sayaked": {
-    "Nations": "Sayaked",
+  "Sayaked [Dead]": {
+    "Nations": "Sayaked [Dead]",
     "Nation Check": "Sayaked",
     "Pow_Army": "0",
     "Pow_Navy": "0",
@@ -464,14 +464,14 @@
   "Làidirstìr": {
     "Nations": "Làidirstìr",
     "Nation Check": "Làidirstìr",
-    "Pow_Army": "7,123",
+    "Pow_Army": "8,184",
     "Pow_Navy": "0",
-    "Manpower": "355,836",
-    "Manpower Avail.": "26.70%",
-    "Upkeep": "19",
+    "Manpower": "396,006",
+    "Manpower Avail.": "27.78%",
+    "Upkeep": "22",
     "Upkeep Army": "",
-    "Upkeep Navy": "277,020.00",
-    "Upkeep Mercenary": "277,020.00",
+    "Upkeep Navy": "320,760.00",
+    "Upkeep Mercenary": "320,760.00",
     "Faction Troops": "0.00",
     "Mob": "",
     "Auxilla Infantry": "",
@@ -479,7 +479,7 @@
     "Auxilla Cavalry": "",
     "Bronze Warriors": "",
     "Bronze Cavalry": "",
-    "Hoplites": "95,000",
+    "Hoplites": "110,000",
     "Battering Ram": "",
     "Stone Thrower": "",
     "Classical Warriors": "",
@@ -881,8 +881,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Ascendant Regency of Newstar": {
-    "Nations": "Ascendant Regency of Newstar",
+  "Ascendant Regency of Newstar [Dead]": {
+    "Nations": "Ascendant Regency of Newstar [Dead]",
     "Nation Check": "Ascendant Regency of Newstar",
     "Pow_Army": "2,400",
     "Pow_Navy": "121",
@@ -965,13 +965,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Atlas'ii": {
-    "Nations": "Atlas'ii",
+  "Atlas'ii [Dead]": {
+    "Nations": "Atlas'ii [Dead]",
     "Nation Check": "Atlas'ii",
-    "Pow_Army": "3,511",
+    "Pow_Army": "3,474",
     "Pow_Navy": "0",
-    "Manpower": "52,689",
-    "Manpower Avail.": "104.39%",
+    "Manpower": "43,449",
+    "Manpower Avail.": "126.59%",
     "Upkeep": "11",
     "Upkeep Army": "",
     "Upkeep Navy": "222,750.00",
@@ -1346,10 +1346,10 @@
   "Candentis Jalin": {
     "Nations": "Candentis Jalin",
     "Nation Check": "Candentis Jalin",
-    "Pow_Army": "2,333",
+    "Pow_Army": "2,331",
     "Pow_Navy": "150",
-    "Manpower": "208,335",
-    "Manpower Avail.": "15.00%",
+    "Manpower": "207,723",
+    "Manpower Avail.": "15.04%",
     "Upkeep": "5",
     "Upkeep Army": "",
     "Upkeep Navy": "103,500.00",
@@ -1633,7 +1633,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "0",
+    "Merc 2": "1",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -1724,9 +1724,9 @@
   "Clan Karatillion": {
     "Nations": "Clan Karatillion",
     "Nation Check": "Clan Karatillion",
-    "Pow_Army": "956",
+    "Pow_Army": "940",
     "Pow_Navy": "0",
-    "Manpower": "238,905",
+    "Manpower": "234,989",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -1934,10 +1934,10 @@
   "Cleannmor": {
     "Nations": "Cleannmor",
     "Nation Check": "Cleannmor",
-    "Pow_Army": "3,170",
+    "Pow_Army": "3,169",
     "Pow_Navy": "0",
-    "Manpower": "192,486",
-    "Manpower Avail.": "20.78%",
+    "Manpower": "192,360",
+    "Manpower Avail.": "20.79%",
     "Upkeep": "4",
     "Upkeep Army": "",
     "Upkeep Navy": "64,800.00",
@@ -1969,7 +1969,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "0",
+    "Merc 2": "1",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -2060,10 +2060,10 @@
   "Commonwealth of Gonaria": {
     "Nations": "Commonwealth of Gonaria",
     "Nation Check": "Commonwealth of Gonaria",
-    "Pow_Army": "797",
+    "Pow_Army": "783",
     "Pow_Navy": "0",
-    "Manpower": "49,140",
-    "Manpower Avail.": "20.35%",
+    "Manpower": "45,653",
+    "Manpower Avail.": "21.90%",
     "Upkeep": "2",
     "Upkeep Army": "",
     "Upkeep Navy": "32,400.00",
@@ -2144,10 +2144,10 @@
   "Alonissos Isles": {
     "Nations": "Alonissos Isles",
     "Nation Check": "Alonissos Isles",
-    "Pow_Army": "3,552",
+    "Pow_Army": "3,542",
     "Pow_Navy": "180",
-    "Manpower": "362,918",
-    "Manpower Avail.": "11.71%",
+    "Manpower": "360,490",
+    "Manpower Avail.": "11.79%",
     "Upkeep": "7",
     "Upkeep Army": "",
     "Upkeep Navy": "35,100.00",
@@ -2305,7 +2305,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "1",
+    "Merc 2": "2",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -2347,7 +2347,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "0",
+    "Merc 2": "1",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -2641,7 +2641,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "1",
+    "Merc 2": "2",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -2687,13 +2687,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Exodists of Tepetl": {
-    "Nations": "Exodists of Tepetl",
+  "Exodists of Tepetl [Dead]": {
+    "Nations": "Exodists of Tepetl [Dead]",
     "Nation Check": "Exodists of Tepetl",
-    "Pow_Army": "589",
+    "Pow_Army": "390",
     "Pow_Navy": "0",
-    "Manpower": "49,689",
-    "Manpower Avail.": "40.25%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "1",
     "Upkeep Army": "",
     "Upkeep Navy": "87,750.00",
@@ -2774,10 +2774,10 @@
   "Federation of the Winds": {
     "Nations": "Federation of the Winds",
     "Nation Check": "Federation of the Winds",
-    "Pow_Army": "1,445",
+    "Pow_Army": "1,443",
     "Pow_Navy": "4,961",
-    "Manpower": "323,831",
-    "Manpower Avail.": "11.66%",
+    "Manpower": "323,156",
+    "Manpower Avail.": "11.68%",
     "Upkeep": "0",
     "Upkeep Army": "",
     "Upkeep Navy": "121,530.00",
@@ -2813,13 +2813,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Saengba": {
-    "Nations": "Saengba",
+  "Saengba [Dead]": {
+    "Nations": "Saengba [Dead]",
     "Nation Check": "Saengba",
-    "Pow_Army": "3,778",
+    "Pow_Army": "3,635",
     "Pow_Navy": "0",
-    "Manpower": "89,606",
-    "Manpower Avail.": "63.61%",
+    "Manpower": "53,641",
+    "Manpower Avail.": "106.26%",
     "Upkeep": "12",
     "Upkeep Army": "",
     "Upkeep Navy": "230,850.00",
@@ -2897,13 +2897,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Free Neighbor": {
-    "Nations": "Free Neighbor",
+  "Free Neighbor [Dead]": {
+    "Nations": "Free Neighbor [Dead]",
     "Nation Check": "Free Neighbor",
-    "Pow_Army": "2,249",
+    "Pow_Army": "2,024",
     "Pow_Navy": "0",
-    "Manpower": "89,649",
-    "Manpower Avail.": "50.20%",
+    "Manpower": "33,440",
+    "Manpower Avail.": "134.57%",
     "Upkeep": "6",
     "Upkeep Army": "",
     "Upkeep Navy": "116,100.00",
@@ -3023,8 +3023,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Fu Tiangun Realm": {
-    "Nations": "Fu Tiangun Realm",
+  "Fu Tiangun Realm [Dead]": {
+    "Nations": "Fu Tiangun Realm [Dead]",
     "Nation Check": "Fu Tiangun Realm",
     "Pow_Army": "0",
     "Pow_Navy": "0",
@@ -3065,12 +3065,12 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Galdu Hegal": {
-    "Nations": "Galdu Hegal",
+  "Galdu Hegal [Dead]": {
+    "Nations": "Galdu Hegal [Dead]",
     "Nation Check": "Galdu Hegal",
-    "Pow_Army": "146",
+    "Pow_Army": "0",
     "Pow_Navy": "0",
-    "Manpower": "36,563",
+    "Manpower": "0",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -3191,13 +3191,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Gno’hdail Impireachd": {
-    "Nations": "Gno’hdail Impireachd",
+  "Gno’hdail Impireachd [Dead]": {
+    "Nations": "Gno’hdail Impireachd [Dead]",
     "Nation Check": "Gno’hdail Impireachd",
-    "Pow_Army": "3,608",
+    "Pow_Army": "3,202",
     "Pow_Navy": "0",
-    "Manpower": "301,879",
-    "Manpower Avail.": "13.25%",
+    "Manpower": "200,364",
+    "Manpower Avail.": "19.96%",
     "Upkeep": "8",
     "Upkeep Army": "",
     "Upkeep Navy": "103,680.00",
@@ -3359,13 +3359,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Gran Prismatia": {
-    "Nations": "Gran Prismatia",
+  "Gran Prismatia [Dead]": {
+    "Nations": "Gran Prismatia [Dead]",
     "Nation Check": "Gran Prismatia",
-    "Pow_Army": "8,469",
+    "Pow_Army": "6,539",
     "Pow_Navy": "0",
-    "Manpower": "497,277",
-    "Manpower Avail.": "24.13%",
+    "Manpower": "14,677",
+    "Manpower Avail.": "817.61%",
     "Upkeep": "17",
     "Upkeep Army": "",
     "Upkeep Navy": "372,600.00",
@@ -3523,7 +3523,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "0",
+    "Merc 2": "1",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -3779,8 +3779,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Holy Council of Axhaea": {
-    "Nations": "Holy Council of Axhaea",
+  "Holy Council of Axhaea [Dead]": {
+    "Nations": "Holy Council of Axhaea [Dead]",
     "Nation Check": "Holy Council of Axhaea",
     "Pow_Army": "300",
     "Pow_Navy": "0",
@@ -3863,13 +3863,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Hrvolan Qaris": {
-    "Nations": "Hrvolan Qaris",
+  "Hrvolan Qaris [Dead]": {
+    "Nations": "Hrvolan Qaris [Dead]",
     "Nation Check": "Hrvolan Qaris",
-    "Pow_Army": "283",
+    "Pow_Army": "10",
     "Pow_Navy": "0",
-    "Manpower": "68,250",
-    "Manpower Avail.": "14.65%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
     "Upkeep Navy": "900.00",
@@ -4153,7 +4153,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "0",
+    "Merc 2": "1",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -4202,14 +4202,14 @@
   "Imperial City of Soria": {
     "Nations": "Imperial City of Soria",
     "Nation Check": "Imperial City of Soria",
-    "Pow_Army": "3,547",
+    "Pow_Army": "5,647",
     "Pow_Navy": "150",
     "Manpower": "136,808",
-    "Manpower Avail.": "33.81%",
-    "Upkeep": "10",
+    "Manpower Avail.": "48.43%",
+    "Upkeep": "12",
     "Upkeep Army": "",
-    "Upkeep Navy": "206,100.00",
-    "Upkeep Mercenary": "183,600.00",
+    "Upkeep Navy": "225,300.00",
+    "Upkeep Mercenary": "202,800.00",
     "Faction Troops": "0.00",
     "Mob": "",
     "Auxilla Infantry": "",
@@ -4221,10 +4221,10 @@
     "Battering Ram": "",
     "Stone Thrower": "",
     "Classical Warriors": "",
-    "Classical Archers": "",
+    "Classical Archers": "20,000",
     "Classical Cavalry": "",
-    "Legionnaire": "",
-    "Cataphracts": "",
+    "Legionnaire": "20,000",
+    "Cataphracts": "10,000",
     "Siege Towers": "",
     "Ballista": "",
     "Penteconter": "",
@@ -4367,8 +4367,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Vancassia": {
-    "Nations": "Vancassia",
+  "Vancassia [Dead]": {
+    "Nations": "Vancassia [Dead]",
     "Nation Check": "Vancassia",
     "Pow_Army": "0",
     "Pow_Navy": "0",
@@ -4409,13 +4409,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Jýldar": {
-    "Nations": "Jýldar",
+  "Jýldar [Dead]": {
+    "Nations": "Jýldar [Dead]",
     "Nation Check": "Jýldar",
-    "Pow_Army": "864",
+    "Pow_Army": "783",
     "Pow_Navy": "0",
-    "Manpower": "20,183",
-    "Manpower Avail.": "353.27%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "1",
     "Upkeep Army": "",
     "Upkeep Navy": "120,686.40",
@@ -4580,10 +4580,10 @@
   "Karak Angaz (DEAD)": {
     "Nations": "Karak Angaz (DEAD)",
     "Nation Check": "Karak Angaz",
-    "Pow_Army": "2,700",
+    "Pow_Army": "2,718",
     "Pow_Navy": "0",
-    "Manpower": "0",
-    "Manpower Avail.": "0.00%",
+    "Manpower": "4,435",
+    "Manpower Avail.": "1014.66%",
     "Upkeep": "9",
     "Upkeep Army": "",
     "Upkeep Navy": "145,800.00",
@@ -4622,10 +4622,10 @@
   "Karak Gazan (DEAD)": {
     "Nations": "Karak Gazan (DEAD)",
     "Nation Check": "Karak Gazan",
-    "Pow_Army": "1,258",
+    "Pow_Army": "1,244",
     "Pow_Navy": "0",
-    "Manpower": "14,407",
-    "Manpower Avail.": "138.82%",
+    "Manpower": "10,911",
+    "Manpower Avail.": "183.30%",
     "Upkeep": "4",
     "Upkeep Army": "",
     "Upkeep Navy": "64,800.00",
@@ -4832,14 +4832,14 @@
   "Karak Klinka": {
     "Nations": "Karak Klinka",
     "Nation Check": "Karak Klinka",
-    "Pow_Army": "1,339",
+    "Pow_Army": "425",
     "Pow_Navy": "0",
-    "Manpower": "34,695",
-    "Manpower Avail.": "57.65%",
-    "Upkeep": "4",
+    "Manpower": "31,320",
+    "Manpower Avail.": "15.96%",
+    "Upkeep": "1",
     "Upkeep Army": "",
-    "Upkeep Navy": "64,800.00",
-    "Upkeep Mercenary": "64,800.00",
+    "Upkeep Navy": "16,200.00",
+    "Upkeep Mercenary": "16,200.00",
     "Faction Troops": "0.00",
     "Mob": "",
     "Auxilla Infantry": "",
@@ -4847,7 +4847,7 @@
     "Auxilla Cavalry": "",
     "Bronze Warriors": "",
     "Bronze Cavalry": "",
-    "Hoplites": "20,000",
+    "Hoplites": "5,000",
     "Battering Ram": "",
     "Stone Thrower": "",
     "Classical Warriors": "",
@@ -4867,7 +4867,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "0",
+    "Merc 2": "1",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -4955,8 +4955,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Krimpatul Diocese": {
-    "Nations": "Krimpatul Diocese",
+  "Krimpatul Diocese [Dead]": {
+    "Nations": "Krimpatul Diocese [Dead]",
     "Nation Check": "Krimpatul Diocese",
     "Pow_Army": "0",
     "Pow_Navy": "0",
@@ -4997,8 +4997,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "The Dune Sea": {
-    "Nations": "The Dune Sea",
+  "The Dune Sea [Dead]": {
+    "Nations": "The Dune Sea [Dead]",
     "Nation Check": "The Dune Sea",
     "Pow_Army": "0",
     "Pow_Navy": "0",
@@ -5077,7 +5077,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "-1",
+    "Merc 2": "0",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -5165,13 +5165,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Kingdom of Ardungual": {
-    "Nations": "Kingdom of Ardungual",
+  "Kingdom of Ardungual [Dead]": {
+    "Nations": "Kingdom of Ardungual [Dead]",
     "Nation Check": "Kingdom of Ardungual",
-    "Pow_Army": "571",
+    "Pow_Army": "474",
     "Pow_Navy": "0",
-    "Manpower": "94,112",
-    "Manpower Avail.": "26.56%",
+    "Manpower": "69,633",
+    "Manpower Avail.": "35.90%",
     "Upkeep": "0",
     "Upkeep Army": "",
     "Upkeep Navy": "66,375.00",
@@ -5207,13 +5207,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Kingdom of Geloía": {
-    "Nations": "Kingdom of Geloía",
+  "Kingdom of Geloía [Dead]": {
+    "Nations": "Kingdom of Geloía [Dead]",
     "Nation Check": "Kingdom of Geloía",
-    "Pow_Army": "8,704",
+    "Pow_Army": "8,400",
     "Pow_Navy": "200",
-    "Manpower": "76,005",
-    "Manpower Avail.": "194.07%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "28",
     "Upkeep Army": "",
     "Upkeep Navy": "465,600.00",
@@ -5249,8 +5249,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Kingdom of Gloria": {
-    "Nations": "Kingdom of Gloria",
+  "Kingdom of Gloria [Dead]": {
+    "Nations": "Kingdom of Gloria [Dead]",
     "Nation Check": "Kingdom of Gloria",
     "Pow_Army": "360",
     "Pow_Navy": "0",
@@ -5291,12 +5291,12 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Kingdom of Járnfjall": {
-    "Nations": "Kingdom of Járnfjall",
+  "Kingdom of Járnfjall [Dead]": {
+    "Nations": "Kingdom of Járnfjall [Dead]",
     "Nation Check": "Kingdom of Járnfjall",
-    "Pow_Army": "296",
+    "Pow_Army": "0",
     "Pow_Navy": "0",
-    "Manpower": "74,081",
+    "Manpower": "0",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -5375,12 +5375,12 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Kingdom of Kahtet": {
-    "Nations": "Kingdom of Kahtet",
+  "Kingdom of Kahtet [Dead]": {
+    "Nations": "Kingdom of Kahtet [Dead]",
     "Nation Check": "Kingdom of Kahtet",
-    "Pow_Army": "192",
+    "Pow_Army": "72",
     "Pow_Navy": "0",
-    "Manpower": "48,060",
+    "Manpower": "18,083",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -5588,10 +5588,10 @@
   "Royaume sous de l'Aurore": {
     "Nations": "Royaume sous de l'Aurore",
     "Nation Check": "Royaume sous de l'Aurore",
-    "Pow_Army": "8,112",
+    "Pow_Army": "8,164",
     "Pow_Navy": "0",
-    "Manpower": "546,726",
-    "Manpower Avail.": "21.95%",
+    "Manpower": "559,829",
+    "Manpower Avail.": "21.44%",
     "Upkeep": "19",
     "Upkeep Army": "",
     "Upkeep Navy": "300,240.00",
@@ -5795,13 +5795,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Krosen Dynasty": {
-    "Nations": "Krosen Dynasty",
+  "Krosen Dynasty [Dead]": {
+    "Nations": "Krosen Dynasty [Dead]",
     "Nation Check": "Krosen Dynasty",
-    "Pow_Army": "573",
+    "Pow_Army": "390",
     "Pow_Navy": "0",
-    "Manpower": "45,780",
-    "Manpower Avail.": "32.77%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "1",
     "Upkeep Army": "",
     "Upkeep Navy": "43,200.00",
@@ -5963,8 +5963,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Lialikidus": {
-    "Nations": "Lialikidus",
+  "Lialikidus [Dead]": {
+    "Nations": "Lialikidus [Dead]",
     "Nation Check": "Lialikidus",
     "Pow_Army": "0",
     "Pow_Navy": "0",
@@ -6218,10 +6218,10 @@
   "Lundrium": {
     "Nations": "Lundrium",
     "Nation Check": "Lundrium",
-    "Pow_Army": "733",
+    "Pow_Army": "723",
     "Pow_Navy": "0",
-    "Manpower": "22,050",
-    "Manpower Avail.": "45.35%",
+    "Manpower": "19,555",
+    "Manpower Avail.": "51.14%",
     "Upkeep": "2",
     "Upkeep Army": "",
     "Upkeep Navy": "56,700.00",
@@ -6295,7 +6295,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "0",
+    "Merc 2": "1",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -6383,13 +6383,13 @@
     "Merc 3": "Steel Chapter",
     "Merc 4": null
   },
-  "Sri Shimbir": {
-    "Nations": "Sri Shimbir",
+  "Sri Shimbir [Dead]": {
+    "Nations": "Sri Shimbir [Dead]",
     "Nation Check": "Sri Shimbir",
-    "Pow_Army": "4,108",
+    "Pow_Army": "3,813",
     "Pow_Navy": "0",
-    "Manpower": "218,400",
-    "Manpower Avail.": "38.46%",
+    "Manpower": "144,821",
+    "Manpower Avail.": "58.00%",
     "Upkeep": "10",
     "Upkeep Army": "",
     "Upkeep Navy": "219,240.00",
@@ -6635,12 +6635,12 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Marsigar Kuningate": {
-    "Nations": "Marsigar Kuningate",
+  "Marsigar Kuningate [Dead]": {
+    "Nations": "Marsigar Kuningate [Dead]",
     "Nation Check": "Marsigar Kuningate",
-    "Pow_Army": "189",
+    "Pow_Army": "53",
     "Pow_Navy": "0",
-    "Manpower": "47,340",
+    "Manpower": "13,211",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -6764,10 +6764,10 @@
   "Mazazuma": {
     "Nations": "Mazazuma",
     "Nation Check": "Mazazuma",
-    "Pow_Army": "8,601",
+    "Pow_Army": "8,760",
     "Pow_Navy": "0",
-    "Manpower": "500,250",
-    "Manpower Avail.": "21.99%",
+    "Manpower": "540,000",
+    "Manpower Avail.": "20.37%",
     "Upkeep": "22",
     "Upkeep Army": "",
     "Upkeep Navy": "891,000.00",
@@ -6932,10 +6932,10 @@
   "Meridomus Kalleprii": {
     "Nations": "Meridomus Kalleprii",
     "Nation Check": "Meridomus Kalleprii",
-    "Pow_Army": "376",
+    "Pow_Army": "394",
     "Pow_Navy": "0",
-    "Manpower": "19,088",
-    "Manpower Avail.": "26.19%",
+    "Manpower": "23,490",
+    "Manpower Avail.": "21.29%",
     "Upkeep": "1",
     "Upkeep Army": "",
     "Upkeep Navy": "20,250.00",
@@ -7097,12 +7097,12 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Morchandor": {
-    "Nations": "Morchandor",
+  "Morchandor [Dead]": {
+    "Nations": "Morchandor [Dead]",
     "Nation Check": "Morchandor",
-    "Pow_Army": "305",
+    "Pow_Army": "136",
     "Pow_Navy": "0",
-    "Manpower": "76,230",
+    "Manpower": "34,109",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -7139,13 +7139,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Mulosk": {
-    "Nations": "Mulosk",
+  "Mulosk [Dead]": {
+    "Nations": "Mulosk [Dead]",
     "Nation Check": "Mulosk",
-    "Pow_Army": "2,457",
+    "Pow_Army": "2,271",
     "Pow_Navy": "0",
-    "Manpower": "46,440",
-    "Manpower Avail.": "131.35%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "7",
     "Upkeep Army": "",
     "Upkeep Navy": "153,360.00",
@@ -7265,13 +7265,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Nanakueyaltepetl": {
-    "Nations": "Nanakueyaltepetl",
+  "Nanakueyaltepetl [Dead]": {
+    "Nations": "Nanakueyaltepetl [Dead]",
     "Nation Check": "Nanakueyaltepetl",
-    "Pow_Army": "1,126",
+    "Pow_Army": "917",
     "Pow_Navy": "0",
-    "Manpower": "56,546",
-    "Manpower Avail.": "26.53%",
+    "Manpower": "4,253",
+    "Manpower Avail.": "352.69%",
     "Upkeep": "3",
     "Upkeep Army": "",
     "Upkeep Navy": "48,600.00",
@@ -7349,13 +7349,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Natałor": {
-    "Nations": "Natałor",
+  "Natałor [Dead]": {
+    "Nations": "Natałor [Dead]",
     "Nation Check": "Natałor",
-    "Pow_Army": "790",
+    "Pow_Army": "698",
     "Pow_Navy": "0",
-    "Manpower": "25,110",
-    "Manpower Avail.": "79.65%",
+    "Manpower": "1,933",
+    "Manpower Avail.": "1034.66%",
     "Upkeep": "2",
     "Upkeep Army": "",
     "Upkeep Navy": "103,950.00",
@@ -7391,8 +7391,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Neonian Kuningate": {
-    "Nations": "Neonian Kuningate",
+  "Neonian Kuningate [Dead]": {
+    "Nations": "Neonian Kuningate [Dead]",
     "Nation Check": "Neonian Kuningate",
     "Pow_Army": "3,165",
     "Pow_Navy": "0",
@@ -7400,8 +7400,8 @@
     "Manpower Avail.": "0.00%",
     "Upkeep": "5",
     "Upkeep Army": "",
-    "Upkeep Navy": "82,080.00",
-    "Upkeep Mercenary": "82,080.00",
+    "Upkeep Navy": "102,600.00",
+    "Upkeep Mercenary": "102,600.00",
     "Faction Troops": "0.00",
     "Mob": "",
     "Auxilla Infantry": "",
@@ -7478,10 +7478,10 @@
   "Kranicvak Nixond": {
     "Nations": "Kranicvak Nixond",
     "Nation Check": "Kranicvak Nixond",
-    "Pow_Army": "3,995",
+    "Pow_Army": "3,996",
     "Pow_Navy": "0",
-    "Manpower": "548,765",
-    "Manpower Avail.": "5.47%",
+    "Manpower": "549,038",
+    "Manpower Avail.": "5.46%",
     "Upkeep": "6",
     "Upkeep Army": "",
     "Upkeep Navy": "97,200.00",
@@ -7639,7 +7639,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "1",
+    "Merc 2": "2",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -7898,10 +7898,10 @@
   "Psaracija": {
     "Nations": "Psaracija",
     "Nation Check": "Psaracija",
-    "Pow_Army": "2,312",
+    "Pow_Army": "2,218",
     "Pow_Navy": "600",
-    "Manpower": "405,600",
-    "Manpower Avail.": "5.86%",
+    "Manpower": "381,924",
+    "Manpower Avail.": "6.22%",
     "Upkeep": "2",
     "Upkeep Army": "",
     "Upkeep Navy": "45,600.00",
@@ -8063,13 +8063,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Vedebbi Stellar Domain": {
-    "Nations": "Vedebbi Stellar Domain",
+  "Vedebbi Stellar Domain [Dead]": {
+    "Nations": "Vedebbi Stellar Domain [Dead]",
     "Nation Check": "Vedebbi Stellar Domain",
-    "Pow_Army": "395",
+    "Pow_Army": "294",
     "Pow_Navy": "0",
-    "Manpower": "34,125",
-    "Manpower Avail.": "118.68%",
+    "Manpower": "9,071",
+    "Manpower Avail.": "446.48%",
     "Upkeep": "0",
     "Upkeep Army": "",
     "Upkeep Navy": "58,230.00",
@@ -8105,13 +8105,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Rampart Republic": {
-    "Nations": "Rampart Republic",
+  "Rampart Republic [Dead]": {
+    "Nations": "Rampart Republic [Dead]",
     "Nation Check": "Rampart Republic",
-    "Pow_Army": "279",
+    "Pow_Army": "176",
     "Pow_Navy": "0",
-    "Manpower": "54,746",
-    "Manpower Avail.": "9.13%",
+    "Manpower": "29,045",
+    "Manpower Avail.": "17.21%",
     "Upkeep": "0",
     "Upkeep Army": "",
     "Upkeep Navy": "67,500.00",
@@ -8147,13 +8147,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Second Kingdom of Mazoria": {
-    "Nations": "Second Kingdom of Mazoria",
+  "Second Kingdom of Mazoria [Dead]": {
+    "Nations": "Second Kingdom of Mazoria [Dead]",
     "Nation Check": "Second Kingdom of Mazoria",
-    "Pow_Army": "2,194",
+    "Pow_Army": "1,917",
     "Pow_Navy": "0",
-    "Manpower": "81,000",
-    "Manpower Avail.": "61.73%",
+    "Manpower": "11,666",
+    "Manpower Avail.": "428.60%",
     "Upkeep": "6",
     "Upkeep Army": "",
     "Upkeep Navy": "111,600.00",
@@ -8357,13 +8357,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Republyk Balresk": {
-    "Nations": "Republyk Balresk",
+  "Republyk Balresk [Dead]": {
+    "Nations": "Republyk Balresk [Dead]",
     "Nation Check": "Republyk Balresk",
-    "Pow_Army": "2,081",
+    "Pow_Army": "1,735",
     "Pow_Navy": "0",
-    "Manpower": "124,875",
-    "Manpower Avail.": "54.45%",
+    "Manpower": "38,568",
+    "Manpower Avail.": "176.31%",
     "Upkeep": "4",
     "Upkeep Army": "",
     "Upkeep Navy": "229,725.00",
@@ -8567,13 +8567,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Sancta Discordia": {
-    "Nations": "Sancta Discordia",
+  "Sancta Discordia [Dead]": {
+    "Nations": "Sancta Discordia [Dead]",
     "Nation Check": "Sancta Discordia",
-    "Pow_Army": "2,603",
+    "Pow_Army": "2,100",
     "Pow_Navy": "625",
-    "Manpower": "125,854",
-    "Manpower Avail.": "39.23%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "7",
     "Upkeep Army": "",
     "Upkeep Navy": "171,153.78",
@@ -8819,8 +8819,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Shiny Taking": {
-    "Nations": "Shiny Taking",
+  "Shiny Taking [Dead]": {
+    "Nations": "Shiny Taking [Dead]",
     "Nation Check": "Shiny Taking",
     "Pow_Army": "600",
     "Pow_Navy": "0",
@@ -8866,8 +8866,8 @@
     "Nation Check": "Skullantium",
     "Pow_Army": "3,215",
     "Pow_Navy": "1,779",
-    "Manpower": "190,344",
-    "Manpower Avail.": "33.56%",
+    "Manpower": "190,245",
+    "Manpower Avail.": "33.58%",
     "Upkeep": "8",
     "Upkeep Army": "",
     "Upkeep Navy": "529,125.00",
@@ -8903,13 +8903,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Snow Dominion": {
-    "Nations": "Snow Dominion",
+  "Snow Dominion [Dead]": {
+    "Nations": "Snow Dominion [Dead]",
     "Nation Check": "Snow Dominion",
-    "Pow_Army": "3,652",
+    "Pow_Army": "3,305",
     "Pow_Navy": "6",
-    "Manpower": "160,379",
-    "Manpower Avail.": "44.43%",
+    "Manpower": "73,823",
+    "Manpower Avail.": "96.51%",
     "Upkeep": "10",
     "Upkeep Army": "",
     "Upkeep Navy": "260,400.00",
@@ -8948,10 +8948,10 @@
   "Soroner": {
     "Nations": "Soroner",
     "Nation Check": "Soroner",
-    "Pow_Army": "1,629",
+    "Pow_Army": "1,748",
     "Pow_Navy": "0",
-    "Manpower": "32,124",
-    "Manpower Avail.": "186.78%",
+    "Manpower": "62,028",
+    "Manpower Avail.": "96.73%",
     "Upkeep": "4",
     "Upkeep Army": "",
     "Upkeep Navy": "150,300.00",
@@ -9029,8 +9029,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "State of Aburrido": {
-    "Nations": "State of Aburrido",
+  "State of Aburrido [Dead]": {
+    "Nations": "State of Aburrido [Dead]",
     "Nation Check": "State of Aburrido",
     "Pow_Army": "45",
     "Pow_Navy": "0",
@@ -9155,8 +9155,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Stortingr Republik af Frystdömet": {
-    "Nations": "Stortingr Republik af Frystdömet",
+  "Stortingr Republik af Frystdömet [Dead]": {
+    "Nations": "Stortingr Republik af Frystdömet [Dead]",
     "Nation Check": "Stortingr Republik af Frystdömet",
     "Pow_Army": "0",
     "Pow_Navy": "0",
@@ -9323,13 +9323,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Tautaspils": {
-    "Nations": "Tautaspils",
+  "Tautaspils [Dead]": {
+    "Nations": "Tautaspils [Dead]",
     "Nation Check": "Tautaspils",
-    "Pow_Army": "2,681",
+    "Pow_Army": "2,173",
     "Pow_Navy": "0",
-    "Manpower": "220,178",
-    "Manpower Avail.": "13.63%",
+    "Manpower": "93,238",
+    "Manpower Avail.": "32.18%",
     "Upkeep": "6",
     "Upkeep Army": "",
     "Upkeep Navy": "170,100.00",
@@ -9491,12 +9491,12 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Thaandom of Fangkar": {
-    "Nations": "Thaandom of Fangkar",
+  "Thaandom of Fangkar [Dead]": {
+    "Nations": "Thaandom of Fangkar [Dead]",
     "Nation Check": "Thaandom of Fangkar",
-    "Pow_Army": "424",
+    "Pow_Army": "245",
     "Pow_Navy": "0",
-    "Manpower": "105,983",
+    "Manpower": "61,287",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -9869,13 +9869,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Golden Refugee": {
-    "Nations": "Golden Refugee",
+  "Golden Refugee [Dead]": {
+    "Nations": "Golden Refugee [Dead]",
     "Nation Check": "Golden Refugee",
-    "Pow_Army": "1,293",
+    "Pow_Army": "1,200",
     "Pow_Navy": "0",
-    "Manpower": "23,192",
-    "Manpower Avail.": "86.24%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "4",
     "Upkeep Army": "",
     "Upkeep Navy": "113,400.00",
@@ -10289,8 +10289,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "First O'irstorian Republic": {
-    "Nations": "First O'irstorian Republic",
+  "First O'irstorian Republic [Dead]": {
+    "Nations": "First O'irstorian Republic [Dead]",
     "Nation Check": "First O'irstorian Republic",
     "Pow_Army": "4,153",
     "Pow_Navy": "0",
@@ -10331,12 +10331,12 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "The State of Iskura": {
-    "Nations": "The State of Iskura",
+  "The State of Iskura [Dead]": {
+    "Nations": "The State of Iskura [Dead]",
     "Nation Check": "The State of Iskura",
-    "Pow_Army": "141",
+    "Pow_Army": "93",
     "Pow_Navy": "0",
-    "Manpower": "35,246",
+    "Manpower": "23,313",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -10373,8 +10373,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "The Statute of Order": {
-    "Nations": "The Statute of Order",
+  "The Statute of Order [Dead]": {
+    "Nations": "The Statute of Order [Dead]",
     "Nation Check": "The Statute of Order",
     "Pow_Army": "4,200",
     "Pow_Navy": "0",
@@ -10415,13 +10415,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "The Tarmarches": {
-    "Nations": "The Tarmarches",
+  "The Tarmarches [Dead]": {
+    "Nations": "The Tarmarches [Dead]",
     "Nation Check": "The Tarmarches",
-    "Pow_Army": "1,065",
+    "Pow_Army": "900",
     "Pow_Navy": "0",
-    "Manpower": "41,175",
-    "Manpower Avail.": "36.43%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "3",
     "Upkeep Army": "",
     "Upkeep Navy": "48,600.00",
@@ -10499,8 +10499,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "The Trade Families of Kemakmura": {
-    "Nations": "The Trade Families of Kemakmura",
+  "The Trade Families of Kemakmura [Dead]": {
+    "Nations": "The Trade Families of Kemakmura [Dead]",
     "Nation Check": "The Trade Families of Kemakmura",
     "Pow_Army": "300",
     "Pow_Navy": "0",
@@ -10621,17 +10621,17 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "0",
+    "Merc 2": "1",
     "Merc 3": null,
     "Merc 4": null
   },
-  "The Wild Fields": {
-    "Nations": "The Wild Fields",
+  "The Wild Fields [Dead]": {
+    "Nations": "The Wild Fields [Dead]",
     "Nation Check": "The Wild Fields",
-    "Pow_Army": "748",
+    "Pow_Army": "606",
     "Pow_Navy": "0",
-    "Manpower": "36,919",
-    "Manpower Avail.": "27.09%",
+    "Manpower": "1,550",
+    "Manpower Avail.": "645.16%",
     "Upkeep": "2",
     "Upkeep Army": "",
     "Upkeep Navy": "32,400.00",
@@ -10751,8 +10751,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Tribes of Lunaria": {
-    "Nations": "Tribes of Lunaria",
+  "Tribes of Lunaria [Dead]": {
+    "Nations": "Tribes of Lunaria [Dead]",
     "Nation Check": "Tribes of Lunaria",
     "Pow_Army": "0",
     "Pow_Navy": "0",
@@ -10793,13 +10793,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Trinitas": {
-    "Nations": "Trinitas",
+  "Trinitas [Dead]": {
+    "Nations": "Trinitas [Dead]",
     "Nation Check": "Trinitas",
-    "Pow_Army": "1,709",
+    "Pow_Army": "1,500",
     "Pow_Navy": "0",
-    "Manpower": "52,313",
-    "Manpower Avail.": "47.79%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "5",
     "Upkeep Army": "",
     "Upkeep Navy": "141,750.00",
@@ -10835,13 +10835,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Tsûa Lâng": {
-    "Nations": "Tsûa Lâng",
+  "Tsûa Lâng [Dead]": {
+    "Nations": "Tsûa Lâng [Dead]",
     "Nation Check": "Tsûa Lâng",
-    "Pow_Army": "723",
+    "Pow_Army": "630",
     "Pow_Navy": "0",
-    "Manpower": "23,347",
-    "Manpower Avail.": "64.25%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "1",
     "Upkeep Army": "",
     "Upkeep Navy": "19,350.00",
@@ -11045,8 +11045,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "United Federation of Malam States": {
-    "Nations": "United Federation of Malam States",
+  "United Federation of Malam States [Dead]": {
+    "Nations": "United Federation of Malam States [Dead]",
     "Nation Check": "United Federation of Malam States",
     "Pow_Army": "630",
     "Pow_Navy": "0",
@@ -11171,13 +11171,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Velken Bulwark": {
-    "Nations": "Velken Bulwark",
+  "Velken Bulwark [Dead]": {
+    "Nations": "Velken Bulwark [Dead]",
     "Nation Check": "Velken Bulwark",
-    "Pow_Army": "1,128",
+    "Pow_Army": "1,023",
     "Pow_Navy": "0",
-    "Manpower": "57,000",
-    "Manpower Avail.": "26.32%",
+    "Manpower": "30,719",
+    "Manpower Avail.": "48.83%",
     "Upkeep": "3",
     "Upkeep Army": "",
     "Upkeep Navy": "85,050.00",
@@ -11213,13 +11213,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Xriotir": {
-    "Nations": "Xriotir",
+  "Xriotir [Dead]": {
+    "Nations": "Xriotir [Dead]",
     "Nation Check": "Xriotir",
-    "Pow_Army": "661",
+    "Pow_Army": "515",
     "Pow_Navy": "0",
-    "Manpower": "47,508",
-    "Manpower Avail.": "27.89%",
+    "Manpower": "10,945",
+    "Manpower Avail.": "121.06%",
     "Upkeep": "2",
     "Upkeep Army": "",
     "Upkeep Navy": "38,812.50",
@@ -11251,17 +11251,17 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "2",
+    "Merc 2": "1",
     "Merc 3": null,
     "Merc 4": null
   },
-  "Vyraisos": {
-    "Nations": "Vyraisos",
+  "Vyraisos [Dead]": {
+    "Nations": "Vyraisos [Dead]",
     "Nation Check": "Vyraisos",
-    "Pow_Army": "2,737",
+    "Pow_Army": "2,682",
     "Pow_Navy": "0",
-    "Manpower": "84,188",
-    "Manpower Avail.": "47.51%",
+    "Manpower": "70,476",
+    "Manpower Avail.": "56.76%",
     "Upkeep": "8",
     "Upkeep Army": "",
     "Upkeep Navy": "324,000.00",
@@ -11339,13 +11339,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "WrestleMania": {
-    "Nations": "WrestleMania",
+  "WrestleMania [Dead]": {
+    "Nations": "WrestleMania [Dead]",
     "Nation Check": "WrestleMania",
-    "Pow_Army": "2,952",
+    "Pow_Army": "2,700",
     "Pow_Navy": "0",
-    "Manpower": "62,979",
-    "Manpower Avail.": "71.45%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "9",
     "Upkeep Army": "",
     "Upkeep Navy": "36,450.00",
@@ -11594,10 +11594,10 @@
   "Zalmoxia": {
     "Nations": "Zalmoxia",
     "Nation Check": "Zalmoxia",
-    "Pow_Army": "1,800",
+    "Pow_Army": "2,085",
     "Pow_Navy": "0",
-    "Manpower": "0",
-    "Manpower Avail.": "0.00%",
+    "Manpower": "71,140",
+    "Manpower Avail.": "42.17%",
     "Upkeep": "6",
     "Upkeep Army": "",
     "Upkeep Navy": "97,200.00",
@@ -11717,8 +11717,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Zudrye Sisterhood": {
-    "Nations": "Zudrye Sisterhood",
+  "Zudrye Sisterhood [Dead]": {
+    "Nations": "Zudrye Sisterhood [Dead]",
     "Nation Check": "Zudrye Sisterhood",
     "Pow_Army": "300",
     "Pow_Navy": "0",
@@ -11759,8 +11759,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Ashdayni Beneficiary": {
-    "Nations": "Ashdayni Beneficiary",
+  "Ashdayni Beneficiary [Dead]": {
+    "Nations": "Ashdayni Beneficiary [Dead]",
     "Nation Check": "Ashdayni Beneficiary",
     "Pow_Army": "360",
     "Pow_Navy": "0",
@@ -12053,12 +12053,12 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Goldridge": {
-    "Nations": "Goldridge",
+  "Goldridge [Dead]": {
+    "Nations": "Goldridge [Dead]",
     "Nation Check": "Goldridge",
-    "Pow_Army": "212",
+    "Pow_Army": "93",
     "Pow_Navy": "0",
-    "Manpower": "52,953",
+    "Manpower": "23,141",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -12305,13 +12305,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Thalassia": {
-    "Nations": "Thalassia",
+  "Thalassia [Dead]": {
+    "Nations": "Thalassia [Dead]",
     "Nation Check": "Thalassia",
-    "Pow_Army": "3,966",
+    "Pow_Army": "3,345",
     "Pow_Navy": "0",
-    "Manpower": "155,224",
-    "Manpower Avail.": "22.55%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "11",
     "Upkeep Army": "",
     "Upkeep Navy": "245,700.00",
@@ -12347,13 +12347,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Quirinos": {
-    "Nations": "Quirinos",
+  "Quirinos [Dead]": {
+    "Nations": "Quirinos [Dead]",
     "Nation Check": "Quirinos",
-    "Pow_Army": "1,885",
+    "Pow_Army": "1,545",
     "Pow_Navy": "0",
-    "Manpower": "85,050",
-    "Manpower Avail.": "23.52%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "5",
     "Upkeep Army": "",
     "Upkeep Navy": "116,100.00",
@@ -12389,13 +12389,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Ent Territories": {
-    "Nations": "Ent Territories",
+  "Ent Territories [Dead]": {
+    "Nations": "Ent Territories [Dead]",
     "Nation Check": "Ent Territories",
-    "Pow_Army": "1,040",
+    "Pow_Army": "900",
     "Pow_Navy": "0",
-    "Manpower": "34,947",
-    "Manpower Avail.": "28.61%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "3",
     "Upkeep Army": "",
     "Upkeep Navy": "59,400.00",
@@ -12431,13 +12431,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Psarades": {
-    "Nations": "Psarades",
+  "Psarades [Dead]": {
+    "Nations": "Psarades [Dead]",
     "Nation Check": "Psarades",
-    "Pow_Army": "1,519",
+    "Pow_Army": "1,245",
     "Pow_Navy": "0",
-    "Manpower": "68,448",
-    "Manpower Avail.": "29.22%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "4",
     "Upkeep Army": "",
     "Upkeep Navy": "89,100.00",
@@ -12473,13 +12473,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Thesadia": {
-    "Nations": "Thesadia",
+  "Thesadia [Dead]": {
+    "Nations": "Thesadia [Dead]",
     "Nation Check": "Thesadia",
-    "Pow_Army": "1,094",
+    "Pow_Army": "900",
     "Pow_Navy": "0",
-    "Manpower": "48,576",
-    "Manpower Avail.": "20.59%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "3",
     "Upkeep Army": "",
     "Upkeep Navy": "59,400.00",
@@ -12515,13 +12515,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Ch'Chankla": {
-    "Nations": "Ch'Chankla",
+  "Ch'Chankla [Dead]": {
+    "Nations": "Ch'Chankla [Dead]",
     "Nation Check": "Ch'Chankla",
-    "Pow_Army": "1,145",
+    "Pow_Army": "945",
     "Pow_Navy": "0",
-    "Manpower": "50,108",
-    "Manpower Avail.": "39.91%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "3",
     "Upkeep Army": "",
     "Upkeep Navy": "62,100.00",
@@ -12893,8 +12893,8 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Avon'Glaigh Covenant": {
-    "Nations": "Avon'Glaigh Covenant",
+  "Avon'Glaigh Covenant [Dead]": {
+    "Nations": "Avon'Glaigh Covenant [Dead]",
     "Nation Check": "Avon'Glaigh Covenant",
     "Pow_Army": "0",
     "Pow_Navy": "0",
@@ -13652,9 +13652,9 @@
   "Iarthar Grove": {
     "Nations": "Iarthar Grove",
     "Nation Check": "Iarthar Grove",
-    "Pow_Army": "0",
+    "Pow_Army": "576",
     "Pow_Navy": "0",
-    "Manpower": "0",
+    "Manpower": "143,996",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -13687,7 +13687,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "-1",
+    "Merc 2": "0",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -13729,7 +13729,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "-1",
+    "Merc 2": "0",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -13771,7 +13771,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "-1",
+    "Merc 2": "0",
     "Merc 3": null,
     "Merc 4": null
   },
@@ -13813,16 +13813,16 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "-1",
+    "Merc 2": "0",
     "Merc 3": null,
     "Merc 4": null
   },
   "Cortaria": {
     "Nations": "Cortaria",
     "Nation Check": "Cortaria",
-    "Pow_Army": "0",
+    "Pow_Army": "211",
     "Pow_Navy": "0",
-    "Manpower": "0",
+    "Manpower": "52,800",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -13855,7 +13855,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "-1",
+    "Merc 2": "0",
     "Merc 3": null,
     "Merc 4": null
   }
