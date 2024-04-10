@@ -106,19 +106,19 @@
     "Nation Check": "Frijkland",
     "Overlord": "Svetograd",
     "Eco Vassals": "341,237.96",
-    "Eco Over.": "411,702.39",
+    "Eco Over.": "410,760.20",
     "Compare": "137,292.00",
-    "MP Vassals": "82.88%",
+    "MP Vassals": "83.07%",
     "MP Over.": "109,350.00",
     "20% Total": "79.65%",
-    "Vassal Type": "32.51%",
+    "Vassal Type": "32.54%",
     "": "0.00%",
     "L. Desire": "Svetograd Nonprovince",
     "Base": "1.00",
-    "Comparison": "55.01%",
-    "Individual": "55.01%",
-    "Friend/Rival": "32.51%",
-    "Taxes": "32.51%",
+    "Comparison": "55.09%",
+    "Individual": "55.09%",
+    "Friend/Rival": "32.54%",
+    "Taxes": "32.54%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -208,19 +208,19 @@
     "Nation Check": "Aethyllion Pradesh",
     "Overlord": "Aethyrrajyam",
     "Eco Vassals": "1,036,971.98",
-    "Eco Over.": "2,287,127.40",
-    "Compare": "941,858.00",
-    "MP Vassals": "45.34%",
-    "MP Over.": "394,992.00",
-    "20% Total": "41.94%",
-    "Vassal Type": "17.46%",
+    "Eco Over.": "2,282,342.40",
+    "Compare": "917,726.00",
+    "MP Vassals": "45.43%",
+    "MP Over.": "399,809.00",
+    "20% Total": "43.57%",
+    "Vassal Type": "17.80%",
     "": "0.00%",
     "L. Desire": "Aethyrrajyam Nonprovince",
     "Base": "1.00",
     "Comparison": "0.00%",
-    "Individual": "-0.46%",
-    "Friend/Rival": "17.46%",
-    "Taxes": "7.09%",
+    "Individual": "-0.02%",
+    "Friend/Rival": "17.80%",
+    "Taxes": "7.18%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -336,7 +336,7 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Onoakoku, Lowy Combine,  Uqhuma Killa, Alonissos, Neo-Kargatan Empire",
-    "Military Alliances": "Onaokoku",
+    "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "Alonissos Isles",
     "Trade 1": {
@@ -615,20 +615,20 @@
     "Nations": "Akaḣpetoƞ",
     "Nation Check": "Akaḣpetoƞ",
     "Overlord": "The House of Jokers",
-    "Eco Vassals": "132,388.32",
-    "Eco Over.": "571,654.84",
-    "Compare": "244,008.00",
-    "MP Vassals": "23.16%",
+    "Eco Vassals": "128,491.56",
+    "Eco Over.": "562,137.22",
+    "Compare": "243,432.00",
+    "MP Vassals": "22.86%",
     "MP Over.": "94,830.00",
-    "20% Total": "38.86%",
-    "Vassal Type": "12.40%",
+    "20% Total": "38.96%",
+    "Vassal Type": "12.36%",
     "": "0.00%",
     "L. Desire": "The House of Jokers Nonprovince",
     "Base": "0.25",
-    "Comparison": "26.14%",
-    "Individual": "26.14%",
-    "Friend/Rival": "12.40%",
-    "Taxes": "12.40%",
+    "Comparison": "26.06%",
+    "Individual": "26.06%",
+    "Friend/Rival": "12.36%",
+    "Taxes": "12.36%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -671,7 +671,7 @@
     },
     "Trade 7": {
       "Value": "Pyhätmetsät",
-      "Trade 7 Value": "6,154.90"
+      "Trade 7 Value": "959.23"
     },
     "Trade 8": {
       "Value": "Zastita",
@@ -711,7 +711,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "48,416.43"
+    "Trades": "43,220.75"
   },
   "Magna Occulta": {
     "Nations": "Magna Occulta",
@@ -867,7 +867,7 @@
     },
     "Trade 5": {
       "Value": "Tetóth Kegeth",
-      "Trade 5 Value": "5,176.21"
+      "Trade 5 Value": "6,835.66"
     },
     "Trade 6": {
       "Value": "",
@@ -915,7 +915,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "42,494.83"
+    "Trades": "44,154.28"
   },
   "Làidirstìr": {
     "Nations": "Làidirstìr",
@@ -993,7 +993,7 @@
     },
     "Trade 11": {
       "Value": "Karak Klinka",
-      "Trade 11 Value": "11,252.75"
+      "Trade 11 Value": "11,827.75"
     },
     "Trade 12": {
       "Value": "",
@@ -1017,7 +1017,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "33,173.23"
+    "Trades": "33,748.23"
   },
   "Dreikland": {
     "Nations": "Dreikland",
@@ -1063,7 +1063,7 @@
     },
     "Trade 3": {
       "Value": "Elphonsa",
-      "Trade 3 Value": "5,025.00"
+      "Trade 3 Value": "3,768.75"
     },
     "Trade 4": {
       "Value": "Imperial City of Soria",
@@ -1119,26 +1119,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "118,054.97"
+    "Trades": "116,798.72"
   },
   "Alramia": {
     "Nations": "Alramia",
     "Nation Check": "Alramia",
     "Overlord": "Aethyrrajyam",
     "Eco Vassals": "1,036,971.98",
-    "Eco Over.": "2,287,127.40",
-    "Compare": "941,858.00",
-    "MP Vassals": "45.34%",
-    "MP Over.": "394,992.00",
-    "20% Total": "41.94%",
-    "Vassal Type": "17.46%",
+    "Eco Over.": "2,282,342.40",
+    "Compare": "917,726.00",
+    "MP Vassals": "45.43%",
+    "MP Over.": "399,809.00",
+    "20% Total": "43.57%",
+    "Vassal Type": "17.80%",
     "": "-25.00%",
     "L. Desire": "Aethyrrajyam Nonprovince",
     "Base": "1.00",
-    "Comparison": "6.37%",
-    "Individual": "6.37%",
-    "Friend/Rival": "17.46%",
-    "Taxes": "3.91%",
+    "Comparison": "6.76%",
+    "Individual": "6.76%",
+    "Friend/Rival": "17.80%",
+    "Taxes": "3.96%",
     "Indep War?": "-5.00%",
     "Autonomy": "10.00%",
     "Threshold": "",
@@ -1389,7 +1389,7 @@
     },
     "Trade 8": {
       "Value": "Zalmoxia",
-      "Trade 8 Value": "6,930.00"
+      "Trade 8 Value": "9,240.00"
     },
     "Trade 9": {
       "Value": "",
@@ -1425,7 +1425,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "24,071.58"
+    "Trades": "26,381.58"
   },
   "Annakpolis": {
     "Nations": "Annakpolis",
@@ -1737,20 +1737,20 @@
     "Nations": "Arethousa",
     "Nation Check": "Arethousa",
     "Overlord": "Royaume sous de l'Aurore",
-    "Eco Vassals": "1,708,656.65",
-    "Eco Over.": "1,383,599.27",
-    "Compare": "559,829.00",
-    "MP Vassals": "123.49%",
-    "MP Over.": "239,635.00",
-    "20% Total": "42.81%",
-    "Vassal Type": "33.26%",
+    "Eco Vassals": "781,581.89",
+    "Eco Over.": "1,291,212.92",
+    "Compare": "509,052.00",
+    "MP Vassals": "60.53%",
+    "MP Over.": "179,053.00",
+    "20% Total": "35.17%",
+    "Vassal Type": "19.14%",
     "": "0.00%",
     "L. Desire": "Royaume sous de l'Aurore Nonprovince",
     "Base": "1.00",
-    "Comparison": "41.64%",
-    "Individual": "41.64%",
-    "Friend/Rival": "33.26%",
-    "Taxes": "5.38%",
+    "Comparison": "27.22%",
+    "Individual": "27.22%",
+    "Friend/Rival": "19.14%",
+    "Taxes": "5.07%",
     "Indep War?": "15.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -1773,7 +1773,7 @@
     },
     "Trade 2": {
       "Value": "Royaume sous de l'Aurore",
-      "Trade 2 Value": "32,935.39"
+      "Trade 2 Value": "29,767.82"
     },
     "Trade 3": {
       "Value": "The Kingdom of Zahar",
@@ -1789,7 +1789,7 @@
     },
     "Trade 6": {
       "Value": "Maldune",
-      "Trade 6 Value": "64,532.00"
+      "Trade 6 Value": "30,550.00"
     },
     "Trade 7": {
       "Value": "Zudrye Sisterhood",
@@ -1833,7 +1833,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "122,234.13"
+    "Trades": "85,084.56"
   },
   "Temple City of the Silken Robe": {
     "Nations": "Temple City of the Silken Robe",
@@ -2087,7 +2087,7 @@
     },
     "Trade 4": {
       "Value": "Tetóth Kegeth",
-      "Trade 4 Value": "5,176.21"
+      "Trade 4 Value": "6,835.66"
     },
     "Trade 5": {
       "Value": "Cleannmor",
@@ -2139,7 +2139,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "39,514.18"
+    "Trades": "41,173.63"
   },
   "Atlas'ii [Dead]": {
     "Nations": "Atlas'ii [Dead]",
@@ -2283,7 +2283,7 @@
     },
     "Trade 2": {
       "Value": "Tetóth Kegeth",
-      "Trade 2 Value": "5,176.21"
+      "Trade 2 Value": "6,835.66"
     },
     "Trade 3": {
       "Value": "Akalikania",
@@ -2343,7 +2343,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "32,402.53"
+    "Trades": "34,061.98"
   },
   "Kennelands": {
     "Nations": "Kennelands",
@@ -2553,20 +2553,20 @@
     "Nations": "Bork",
     "Nation Check": "Bork",
     "Overlord": "Here Be Dragons",
-    "Eco Vassals": "557,653.10",
-    "Eco Over.": "1,178,283.12",
-    "Compare": "370,442.00",
-    "MP Vassals": "47.33%",
+    "Eco Vassals": "560,630.88",
+    "Eco Over.": "1,135,683.22",
+    "Compare": "368,559.00",
+    "MP Vassals": "49.37%",
     "MP Over.": "229,523.00",
-    "20% Total": "61.96%",
-    "Vassal Type": "21.86%",
+    "20% Total": "62.28%",
+    "Vassal Type": "22.33%",
     "": "0.00%",
     "L. Desire": "Here Be Dragons Nonprovince",
     "Base": "1.00",
     "Comparison": "0.00%",
-    "Individual": "-2.05%",
-    "Friend/Rival": "21.86%",
-    "Taxes": "1.09%",
+    "Individual": "-1.55%",
+    "Friend/Rival": "22.33%",
+    "Taxes": "1.12%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -2656,19 +2656,19 @@
     "Nation Check": "Brotherhood of Dwarves",
     "Overlord": "Goldmongers",
     "Eco Vassals": "69,975.00",
-    "Eco Over.": "266,675.87",
+    "Eco Over.": "268,252.35",
     "Compare": "167,823.00",
-    "MP Vassals": "26.24%",
+    "MP Vassals": "26.09%",
     "MP Over.": "53,393.00",
     "20% Total": "31.82%",
-    "Vassal Type": "11.61%",
+    "Vassal Type": "11.58%",
     "": "0.00%",
     "L. Desire": "Goldmongers Nonprovince",
     "Base": "1.00",
-    "Comparison": "23.22%",
-    "Individual": "23.22%",
-    "Friend/Rival": "11.61%",
-    "Taxes": "11.61%",
+    "Comparison": "23.16%",
+    "Individual": "23.16%",
+    "Friend/Rival": "11.58%",
+    "Taxes": "11.58%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -2961,20 +2961,20 @@
     "Nations": "Caesnauka Empire",
     "Nation Check": "Caesnauka Empire",
     "Overlord": "Meadoia Dynasty",
-    "Eco Vassals": "1,668,276.55",
-    "Eco Over.": "1,707,106.91",
+    "Eco Vassals": "1,649,212.11",
+    "Eco Over.": "1,666,558.39",
     "Compare": "355,589.00",
-    "MP Vassals": "97.73%",
+    "MP Vassals": "98.96%",
     "MP Over.": "228,626.00",
     "20% Total": "64.30%",
-    "Vassal Type": "32.40%",
+    "Vassal Type": "32.65%",
     "": "0.00%",
     "L. Desire": "Meadoia Dynasty Nonprovince",
     "Base": "1.00",
-    "Comparison": "34.01%",
-    "Individual": "34.01%",
-    "Friend/Rival": "32.40%",
-    "Taxes": "9.11%",
+    "Comparison": "34.19%",
+    "Individual": "34.19%",
+    "Friend/Rival": "32.65%",
+    "Taxes": "9.04%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -3005,7 +3005,7 @@
     },
     "Trade 4": {
       "Value": "The Last Bastion",
-      "Trade 4 Value": "21,305.00"
+      "Trade 4 Value": "5,101.25"
     },
     "Trade 5": {
       "Value": "Unigol",
@@ -3057,7 +3057,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "373,205.68"
+    "Trades": "357,001.93"
   },
   "Candentis Jalin": {
     "Nations": "Candentis Jalin",
@@ -3165,20 +3165,20 @@
     "Nations": "Bolger Dynasty",
     "Nation Check": "Bolger Dynasty",
     "Overlord": "People's Trade Dynasty",
-    "Eco Vassals": "679,025.61",
-    "Eco Over.": "1,099,579.58",
+    "Eco Vassals": "678,402.02",
+    "Eco Over.": "1,084,023.98",
     "Compare": "318,450.00",
-    "MP Vassals": "61.75%",
+    "MP Vassals": "62.58%",
     "MP Over.": "248,775.00",
     "20% Total": "78.12%",
-    "Vassal Type": "27.97%",
+    "Vassal Type": "28.14%",
     "": "0.00%",
     "L. Desire": "People's Trade Dynasty Nonprovince",
     "Base": "1.00",
-    "Comparison": "14.22%",
-    "Individual": "14.22%",
-    "Friend/Rival": "27.97%",
-    "Taxes": "2.91%",
+    "Comparison": "14.40%",
+    "Individual": "14.40%",
+    "Friend/Rival": "28.14%",
+    "Taxes": "2.93%",
     "Indep War?": "-1.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -3267,19 +3267,19 @@
     "Nations": "March of Malaqara",
     "Nation Check": "March of Malaqara",
     "Overlord": "The Korassids",
-    "Eco Vassals": "1,557,742.02",
-    "Eco Over.": "1,128,785.88",
+    "Eco Vassals": "1,560,719.80",
+    "Eco Over.": "1,128,538.88",
     "Compare": "390,624.00",
-    "MP Vassals": "138.00%",
+    "MP Vassals": "138.30%",
     "MP Over.": "471,150.00",
     "20% Total": "120.61%",
-    "Vassal Type": "51.72%",
+    "Vassal Type": "51.78%",
     "": "0.00%",
     "L. Desire": "The Korassids Nonprovince",
     "Base": "0.25",
-    "Comparison": "44.10%",
-    "Individual": "44.10%",
-    "Friend/Rival": "51.72%",
+    "Comparison": "44.16%",
+    "Individual": "44.16%",
+    "Friend/Rival": "51.78%",
     "Taxes": "2.37%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -3368,40 +3368,40 @@
   "Carya": {
     "Nations": "Carya",
     "Nation Check": "Carya",
-    "Overlord": "Onaokoku",
-    "Eco Vassals": "277,252.81",
-    "Eco Over.": "609,522.34",
-    "Compare": "320,591.00",
-    "MP Vassals": "45.49%",
-    "MP Over.": "137,166.00",
-    "20% Total": "42.79%",
-    "Vassal Type": "17.65%",
-    "": "-25.00%",
-    "L. Desire": "Onaokoku Nonprovince",
-    "Base": "1.00",
-    "Comparison": "0.00%",
-    "Individual": "-0.49%",
-    "Friend/Rival": "17.65%",
-    "Taxes": "9.36%",
-    "Indep War?": "10.00%",
+    "Overlord": "",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "",
+    "": "0.00%",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "",
+    "Individual": "",
+    "Friend/Rival": "",
+    "Taxes": "",
+    "Indep War?": "",
     "Autonomy": "",
     "Threshold": "",
-    "Chaotic?": "Both",
-    "Deceptive?": "130.00%",
-    "Honor?": "FALSE",
-    "Indep.?": "FALSE",
-    "Unity?": "FALSE",
-    "Ov. Culture": "FALSE",
-    "Ov. Religion": "TRUE",
-    "Non-aggression Pacts": "Shiawase",
-    "Defensive Pacts": "Saku-na-Hana",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "11"
+      "Trade 1 Value": "9"
     },
     "Trade 2": {
       "Value": "Yuranisuk",
@@ -3472,19 +3472,19 @@
     "Nation Check": "Talask of Aithcra",
     "Overlord": "Drionn Galith",
     "Eco Vassals": "482,654.07",
-    "Eco Over.": "641,358.68",
+    "Eco Over.": "640,165.24",
     "Compare": "201,489.00",
-    "MP Vassals": "75.25%",
+    "MP Vassals": "75.40%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "35.50%",
+    "Vassal Type": "35.53%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "66.15%",
-    "Individual": "66.15%",
-    "Friend/Rival": "35.50%",
-    "Taxes": "5.65%",
+    "Comparison": "66.19%",
+    "Individual": "66.19%",
+    "Friend/Rival": "35.53%",
+    "Taxes": "5.66%",
     "Indep War?": "20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -3719,7 +3719,7 @@
     },
     "Trade 4": {
       "Value": "Elphonsa",
-      "Trade 4 Value": "5,025.00"
+      "Trade 4 Value": "3,768.75"
     },
     "Trade 5": {
       "Value": "Holy Kingdom of Scripts",
@@ -3771,25 +3771,25 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "130,659.48"
+    "Trades": "129,403.23"
   },
   "Talask of Saomair": {
     "Nations": "Talask of Saomair",
     "Nation Check": "Talask of Saomair",
     "Overlord": "Drionn Galith",
     "Eco Vassals": "482,654.07",
-    "Eco Over.": "641,358.68",
+    "Eco Over.": "640,165.24",
     "Compare": "201,489.00",
-    "MP Vassals": "75.25%",
+    "MP Vassals": "75.40%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "35.50%",
+    "Vassal Type": "35.53%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "70.55%",
-    "Individual": "70.55%",
-    "Friend/Rival": "35.50%",
+    "Comparison": "70.58%",
+    "Individual": "70.58%",
+    "Friend/Rival": "35.53%",
     "Taxes": "5.05%",
     "Indep War?": "20.00%",
     "Autonomy": "",
@@ -4185,20 +4185,20 @@
     "Nations": "Cheeiran-Lunarian Sister Republic",
     "Nation Check": "Cheeiran-Lunarian Sister Republic",
     "Overlord": "The Last Bastion",
-    "Eco Vassals": "958,302.38",
-    "Eco Over.": "2,361,976.53",
+    "Eco Vassals": "929,709.75",
+    "Eco Over.": "2,072,527.34",
     "Compare": "1,167,731.00",
-    "MP Vassals": "40.57%",
+    "MP Vassals": "44.86%",
     "MP Over.": "377,864.00",
     "20% Total": "32.36%",
-    "Vassal Type": "14.59%",
+    "Vassal Type": "15.44%",
     "": "0.00%",
     "L. Desire": "The Last Bastion Nonprovince",
     "Base": "1.00",
-    "Comparison": "39.49%",
-    "Individual": "39.49%",
-    "Friend/Rival": "14.59%",
-    "Taxes": "1.57%",
+    "Comparison": "40.49%",
+    "Individual": "40.49%",
+    "Friend/Rival": "15.44%",
+    "Taxes": "1.72%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -4287,19 +4287,19 @@
     "Nations": "Qa'tqarra Lepus",
     "Nation Check": "Qa'tqarra Lepus",
     "Overlord": "The Korassids",
-    "Eco Vassals": "1,557,742.02",
-    "Eco Over.": "1,128,785.88",
+    "Eco Vassals": "1,560,719.80",
+    "Eco Over.": "1,128,538.88",
     "Compare": "390,624.00",
-    "MP Vassals": "138.00%",
+    "MP Vassals": "138.30%",
     "MP Over.": "471,150.00",
     "20% Total": "120.61%",
-    "Vassal Type": "51.72%",
+    "Vassal Type": "51.78%",
     "": "0.00%",
     "L. Desire": "The Korassids Nonprovince",
     "Base": "1.00",
-    "Comparison": "22.58%",
-    "Individual": "22.58%",
-    "Friend/Rival": "51.72%",
+    "Comparison": "22.64%",
+    "Individual": "22.64%",
+    "Friend/Rival": "51.78%",
     "Taxes": "5.86%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -4457,7 +4457,7 @@
     },
     "Trade 10": {
       "Value": "Soroner",
-      "Trade 10 Value": "2,775.87"
+      "Trade 10 Value": "2,277.00"
     },
     "Trade 11": {
       "Value": "",
@@ -4531,7 +4531,7 @@
     },
     "Trade 3": {
       "Value": "Pyhätmetsät",
-      "Trade 3 Value": "6,154.90"
+      "Trade 3 Value": "959.23"
     },
     "Trade 4": {
       "Value": "Velken Bulwark",
@@ -4587,7 +4587,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "46,433.17"
+    "Trades": "41,237.49"
   },
   "Cleannmor": {
     "Nations": "Cleannmor",
@@ -4899,20 +4899,20 @@
     "Nations": "Commonwealth of Gonaria",
     "Nation Check": "Commonwealth of Gonaria",
     "Overlord": "The Last Bastion",
-    "Eco Vassals": "958,302.38",
-    "Eco Over.": "2,361,976.53",
+    "Eco Vassals": "929,709.75",
+    "Eco Over.": "2,072,527.34",
     "Compare": "1,167,731.00",
-    "MP Vassals": "40.57%",
+    "MP Vassals": "44.86%",
     "MP Over.": "377,864.00",
     "20% Total": "32.36%",
-    "Vassal Type": "14.59%",
+    "Vassal Type": "15.44%",
     "": "0.00%",
     "L. Desire": "The Last Bastion Nonprovince",
     "Base": "1.00",
-    "Comparison": "15.58%",
-    "Individual": "15.58%",
-    "Friend/Rival": "14.59%",
-    "Taxes": "3.49%",
+    "Comparison": "16.69%",
+    "Individual": "16.69%",
+    "Friend/Rival": "15.44%",
+    "Taxes": "3.75%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "No",
@@ -4947,7 +4947,7 @@
     },
     "Trade 5": {
       "Value": "The Last Bastion",
-      "Trade 5 Value": "21,305.00"
+      "Trade 5 Value": "5,101.25"
     },
     "Trade 6": {
       "Value": "",
@@ -4971,7 +4971,7 @@
     },
     "Trade 11": {
       "Value": "Zalmoxia",
-      "Trade 11 Value": "6,930.00"
+      "Trade 11 Value": "9,240.00"
     },
     "Trade 12": {
       "Value": "",
@@ -4995,7 +4995,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "61,518.48"
+    "Trades": "47,624.73"
   },
   "Drahacira ": {
     "Nations": "Drahacira ",
@@ -5307,20 +5307,20 @@
     "Nations": "Rakaslalradif",
     "Nation Check": "Rakaslalradif",
     "Overlord": "Litovai Imperiu",
-    "Eco Vassals": "1,438,881.73",
-    "Eco Over.": "1,493,935.30",
+    "Eco Vassals": "1,253,966.13",
+    "Eco Over.": "1,473,634.22",
     "Compare": "628,935.00",
-    "MP Vassals": "96.31%",
-    "MP Over.": "490,652.00",
-    "20% Total": "78.01%",
-    "Vassal Type": "34.87%",
+    "MP Vassals": "85.09%",
+    "MP Over.": "404,857.00",
+    "20% Total": "64.37%",
+    "Vassal Type": "29.89%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Nonprovince",
     "Base": "0.25",
-    "Comparison": "55.99%",
-    "Individual": "55.99%",
-    "Friend/Rival": "34.87%",
-    "Taxes": "12.79%",
+    "Comparison": "50.56%",
+    "Individual": "50.56%",
+    "Friend/Rival": "29.89%",
+    "Taxes": "12.33%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -5413,16 +5413,16 @@
     "Eco Over.": "1,016,495.22",
     "Compare": "360,490.00",
     "MP Vassals": "33.00%",
-    "MP Over.": "37,614.00",
-    "20% Total": "10.43%",
-    "Vassal Type": "8.69%",
+    "MP Over.": "31,710.00",
+    "20% Total": "8.80%",
+    "Vassal Type": "8.36%",
     "": "0.00%",
     "L. Desire": "Alonissos Isles Nonprovince",
     "Base": "1.00",
-    "Comparison": "9.04%",
-    "Individual": "9.04%",
-    "Friend/Rival": "8.69%",
-    "Taxes": "8.69%",
+    "Comparison": "8.39%",
+    "Individual": "8.39%",
+    "Friend/Rival": "8.36%",
+    "Taxes": "8.36%",
     "Indep War?": "1.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -5512,17 +5512,17 @@
     "Nation Check": "Dinasygan",
     "Overlord": "Ceridwyn Confederation",
     "Eco Vassals": "135,946.91",
-    "Eco Over.": "719,085.40",
+    "Eco Over.": "717,891.97",
     "Compare": "167,572.00",
-    "MP Vassals": "18.91%",
+    "MP Vassals": "18.94%",
     "MP Over.": "51,588.00",
     "20% Total": "30.79%",
     "Vassal Type": "9.94%",
     "": "0.00%",
     "L. Desire": "Ceridwyn Confederation Nonprovince",
     "Base": "1.00",
-    "Comparison": "34.88%",
-    "Individual": "34.88%",
+    "Comparison": "34.89%",
+    "Individual": "34.89%",
     "Friend/Rival": "9.94%",
     "Taxes": "9.94%",
     "Indep War?": "5.00%",
@@ -5661,7 +5661,7 @@
     },
     "Trade 5": {
       "Value": "Zalmoxia",
-      "Trade 5 Value": "6,930.00"
+      "Trade 5 Value": "9,240.00"
     },
     "Trade 6": {
       "Value": "The Holy Realm of Herkunft",
@@ -5709,7 +5709,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "374,759.60"
+    "Trades": "377,069.60"
   },
   "Drionn Galith": {
     "Nations": "Drionn Galith",
@@ -5779,7 +5779,7 @@
     },
     "Trade 9": {
       "Value": "Elphonsa",
-      "Trade 9 Value": "5,025.00"
+      "Trade 9 Value": "3,768.75"
     },
     "Trade 10": {
       "Value": "Kinh Nam Republic",
@@ -5811,7 +5811,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "114,577.03"
+    "Trades": "113,320.78"
   },
   "Elphonsa": {
     "Nations": "Elphonsa",
@@ -5869,7 +5869,7 @@
     },
     "Trade 6": {
       "Value": "Zalmoxia",
-      "Trade 6 Value": "6,930.00"
+      "Trade 6 Value": "9,240.00"
     },
     "Trade 7": {
       "Value": "Svetograd",
@@ -5913,7 +5913,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "111,527.78"
+    "Trades": "113,837.78"
   },
   "Elyen-Mev": {
     "Nations": "Elyen-Mev",
@@ -6124,19 +6124,19 @@
     "Nation Check": "Enushkan Ur Kaash'shum",
     "Overlord": "Stratavia",
     "Eco Vassals": "333,961.84",
-    "Eco Over.": "907,875.32",
+    "Eco Over.": "858,094.25",
     "Compare": "192,431.00",
-    "MP Vassals": "36.78%",
+    "MP Vassals": "38.92%",
     "MP Over.": "153,928.00",
     "20% Total": "79.99%",
-    "Vassal Type": "23.36%",
+    "Vassal Type": "23.78%",
     "": "0.00%",
     "L. Desire": "Stratavia Nonprovince",
     "Base": "1.00",
-    "Comparison": "37.54%",
-    "Individual": "37.54%",
-    "Friend/Rival": "23.36%",
-    "Taxes": "11.69%",
+    "Comparison": "38.18%",
+    "Individual": "38.18%",
+    "Friend/Rival": "23.78%",
+    "Taxes": "11.90%",
     "Indep War?": "12.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -6226,19 +6226,19 @@
     "Nation Check": "Etolian Dimokratia",
     "Overlord": "Drionn Galith",
     "Eco Vassals": "482,654.07",
-    "Eco Over.": "641,358.68",
+    "Eco Over.": "640,165.24",
     "Compare": "201,489.00",
-    "MP Vassals": "75.25%",
+    "MP Vassals": "75.40%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "35.50%",
+    "Vassal Type": "35.53%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "0.25",
-    "Comparison": "55.65%",
-    "Individual": "55.65%",
-    "Friend/Rival": "35.50%",
-    "Taxes": "10.98%",
+    "Comparison": "55.69%",
+    "Individual": "55.69%",
+    "Friend/Rival": "35.53%",
+    "Taxes": "10.99%",
     "Indep War?": "6.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -6582,8 +6582,8 @@
       "Trade 5 Value": "20,930.00"
     },
     "Trade 6": {
-      "Value": "Onaokoku",
-      "Trade 6 Value": "21,369.56"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
       "Value": "Galdukatu",
@@ -6627,7 +6627,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "217,784.89"
+    "Trades": "196,415.33"
   },
   "Federation of the Winds": {
     "Nations": "Federation of the Winds",
@@ -6965,7 +6965,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "Onaokoku",
+    "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "",
@@ -7081,7 +7081,7 @@
     },
     "Trade 3": {
       "Value": "Kranicvak Nixond",
-      "Trade 3 Value": "6,022.25"
+      "Trade 3 Value": "5,762.25"
     },
     "Trade 4": {
       "Value": "",
@@ -7137,7 +7137,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "43,690.35"
+    "Trades": "43,430.35"
   },
   "Free City of Zephyrabad": {
     "Nations": "Free City of Zephyrabad",
@@ -7179,7 +7179,7 @@
     },
     "Trade 2": {
       "Value": "Soroner",
-      "Trade 2 Value": "2,775.87"
+      "Trade 2 Value": "2,277.00"
     },
     "Trade 3": {
       "Value": "Enushkan Ur Kaash'shum",
@@ -7239,7 +7239,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "24,799.39"
+    "Trades": "24,300.52"
   },
   "Fu Tiangun Realm [Dead]": {
     "Nations": "Fu Tiangun Realm [Dead]",
@@ -7449,20 +7449,20 @@
     "Nations": "Gerak",
     "Nation Check": "Gerak",
     "Overlord": "Here Be Dragons",
-    "Eco Vassals": "557,653.10",
-    "Eco Over.": "1,178,283.12",
-    "Compare": "370,442.00",
-    "MP Vassals": "47.33%",
+    "Eco Vassals": "560,630.88",
+    "Eco Over.": "1,135,683.22",
+    "Compare": "368,559.00",
+    "MP Vassals": "49.37%",
     "MP Over.": "229,523.00",
-    "20% Total": "61.96%",
-    "Vassal Type": "21.86%",
+    "20% Total": "62.28%",
+    "Vassal Type": "22.33%",
     "": "0.00%",
     "L. Desire": "Here Be Dragons Nonprovince",
     "Base": "1.00",
-    "Comparison": "8.78%",
-    "Individual": "8.78%",
-    "Friend/Rival": "21.86%",
-    "Taxes": "4.42%",
+    "Comparison": "9.34%",
+    "Individual": "9.34%",
+    "Friend/Rival": "22.33%",
+    "Taxes": "4.51%",
     "Indep War?": "-5.00%",
     "Autonomy": "10.00%",
     "Threshold": "",
@@ -7552,19 +7552,19 @@
     "Nation Check": "Glasrhaidd Republic",
     "Overlord": "Drionn Galith",
     "Eco Vassals": "482,654.07",
-    "Eco Over.": "641,358.68",
+    "Eco Over.": "640,165.24",
     "Compare": "201,489.00",
-    "MP Vassals": "75.25%",
+    "MP Vassals": "75.40%",
     "MP Over.": "206,033.00",
     "20% Total": "102.26%",
-    "Vassal Type": "35.50%",
+    "Vassal Type": "35.53%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "66.82%",
-    "Individual": "66.82%",
-    "Friend/Rival": "35.50%",
-    "Taxes": "13.82%",
+    "Comparison": "66.86%",
+    "Individual": "66.86%",
+    "Friend/Rival": "35.53%",
+    "Taxes": "13.83%",
     "Indep War?": "20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -7689,7 +7689,7 @@
     },
     "Trade 2": {
       "Value": "Kranicvak Nixond",
-      "Trade 2 Value": "6,022.25"
+      "Trade 2 Value": "5,762.25"
     },
     "Trade 3": {
       "Value": "Lowy Combine",
@@ -7749,7 +7749,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "54,188.63"
+    "Trades": "53,928.63"
   },
   "Adamania": {
     "Nations": "Adamania",
@@ -7917,7 +7917,7 @@
     },
     "Trade 8": {
       "Value": "Tetóth Kegeth",
-      "Trade 8 Value": "5,176.21"
+      "Trade 8 Value": "6,835.66"
     },
     "Trade 9": {
       "Value": "Cleannmor",
@@ -7953,7 +7953,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "46,694.18"
+    "Trades": "48,353.63"
   },
   "Eye of Terror": {
     "Nations": "Eye of Terror",
@@ -8266,19 +8266,19 @@
     "Nation Check": "Grand Tetalay",
     "Overlord": "Netsanet Republic",
     "Eco Vassals": "1,146,102.94",
-    "Eco Over.": "1,291,356.60",
+    "Eco Over.": "1,275,963.04",
     "Compare": "564,195.00",
-    "MP Vassals": "88.75%",
-    "MP Over.": "548,263.00",
-    "20% Total": "97.18%",
-    "Vassal Type": "37.19%",
+    "MP Vassals": "89.82%",
+    "MP Over.": "556,783.00",
+    "20% Total": "98.69%",
+    "Vassal Type": "37.70%",
     "": "0.00%",
     "L. Desire": "Netsanet Republic Nonprovince",
     "Base": "1.00",
-    "Comparison": "58.46%",
-    "Individual": "58.46%",
-    "Friend/Rival": "37.19%",
-    "Taxes": "6.27%",
+    "Comparison": "59.02%",
+    "Individual": "59.02%",
+    "Friend/Rival": "37.70%",
+    "Taxes": "6.32%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -8367,20 +8367,20 @@
     "Nations": "Unconquered Sun",
     "Nation Check": "Unconquered Sun",
     "Overlord": "Imperial City of Soria",
-    "Eco Vassals": "69,000.53",
-    "Eco Over.": "440,082.04",
+    "Eco Vassals": "68,058.34",
+    "Eco Over.": "438,762.98",
     "Compare": "136,808.00",
-    "MP Vassals": "15.68%",
+    "MP Vassals": "15.51%",
     "MP Over.": "121,905.00",
     "20% Total": "89.11%",
-    "Vassal Type": "20.96%",
+    "Vassal Type": "20.92%",
     "": "0.00%",
     "L. Desire": "Imperial City of Soria Nonprovince",
     "Base": "0.25",
-    "Comparison": "42.41%",
-    "Individual": "42.41%",
-    "Friend/Rival": "20.96%",
-    "Taxes": "20.96%",
+    "Comparison": "42.35%",
+    "Individual": "42.35%",
+    "Friend/Rival": "20.92%",
+    "Taxes": "20.92%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -8407,7 +8407,7 @@
     },
     "Trade 3": {
       "Value": "Elphonsa",
-      "Trade 3 Value": "5,025.00"
+      "Trade 3 Value": "3,768.75"
     },
     "Trade 4": {
       "Value": "Murenman",
@@ -8463,7 +8463,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "15,200.70"
+    "Trades": "13,944.45"
   },
   "Greater Stahlland": {
     "Nations": "Greater Stahlland",
@@ -8831,11 +8831,11 @@
     },
     "Trade 7": {
       "Value": "The Last Bastion",
-      "Trade 7 Value": "21,305.00"
+      "Trade 7 Value": "5,101.25"
     },
     "Trade 8": {
-      "Value": "Onaokoku",
-      "Trade 8 Value": "21,369.56"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
       "Value": "Aethyrrajyam",
@@ -8871,7 +8871,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "143,618.94"
+    "Trades": "106,045.63"
   },
   "Herzogtum Enzla": {
     "Nations": "Herzogtum Enzla",
@@ -9489,20 +9489,20 @@
     "Nations": "There Be Gnomes",
     "Nation Check": "There Be Gnomes",
     "Overlord": "Here Be Dragons",
-    "Eco Vassals": "557,653.10",
-    "Eco Over.": "1,178,283.12",
-    "Compare": "370,442.00",
-    "MP Vassals": "47.33%",
+    "Eco Vassals": "560,630.88",
+    "Eco Over.": "1,135,683.22",
+    "Compare": "368,559.00",
+    "MP Vassals": "49.37%",
     "MP Over.": "229,523.00",
-    "20% Total": "61.96%",
-    "Vassal Type": "21.86%",
+    "20% Total": "62.28%",
+    "Vassal Type": "22.33%",
     "": "0.00%",
     "L. Desire": "Here Be Dragons Nonprovince",
     "Base": "1.00",
-    "Comparison": "23.07%",
-    "Individual": "23.07%",
-    "Friend/Rival": "21.86%",
-    "Taxes": "11.21%",
+    "Comparison": "23.76%",
+    "Individual": "23.76%",
+    "Friend/Rival": "22.33%",
+    "Taxes": "11.43%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -9591,20 +9591,20 @@
     "Nations": "There Be Dwarves",
     "Nation Check": "There Be Dwarves",
     "Overlord": "Here Be Dragons",
-    "Eco Vassals": "557,653.10",
-    "Eco Over.": "1,178,283.12",
-    "Compare": "370,442.00",
-    "MP Vassals": "47.33%",
+    "Eco Vassals": "560,630.88",
+    "Eco Over.": "1,135,683.22",
+    "Compare": "368,559.00",
+    "MP Vassals": "49.37%",
     "MP Over.": "229,523.00",
-    "20% Total": "61.96%",
-    "Vassal Type": "21.86%",
+    "20% Total": "62.28%",
+    "Vassal Type": "22.33%",
     "": "0.00%",
     "L. Desire": "Here Be Dragons Nonprovince",
     "Base": "0.25",
-    "Comparison": "16.99%",
-    "Individual": "16.99%",
-    "Friend/Rival": "21.86%",
-    "Taxes": "5.13%",
+    "Comparison": "17.58%",
+    "Individual": "17.58%",
+    "Friend/Rival": "22.33%",
+    "Taxes": "5.26%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -9647,7 +9647,7 @@
     },
     "Trade 7": {
       "Value": "Sange Lamatis",
-      "Trade 7 Value": "1,865.50"
+      "Trade 7 Value": "5,000.00"
     },
     "Trade 8": {
       "Value": "",
@@ -9687,7 +9687,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "30,831.67"
+    "Trades": "33,966.17"
   },
   "Iidunn": {
     "Nations": "Iidunn",
@@ -10145,7 +10145,7 @@
     },
     "Trade 4": {
       "Value": "Elphonsa",
-      "Trade 4 Value": "5,025.00"
+      "Trade 4 Value": "3,768.75"
     },
     "Trade 5": {
       "Value": "Dreikland",
@@ -10197,25 +10197,25 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "108,750.82"
+    "Trades": "107,494.57"
   },
   "Qa'tqarra Datansalūl": {
     "Nations": "Qa'tqarra Datansalūl",
     "Nation Check": "Qa'tqarra Datansalūl",
     "Overlord": "The Korassids",
-    "Eco Vassals": "1,557,742.02",
-    "Eco Over.": "1,128,785.88",
+    "Eco Vassals": "1,560,719.80",
+    "Eco Over.": "1,128,538.88",
     "Compare": "390,624.00",
-    "MP Vassals": "138.00%",
+    "MP Vassals": "138.30%",
     "MP Over.": "471,150.00",
     "20% Total": "120.61%",
-    "Vassal Type": "51.72%",
+    "Vassal Type": "51.78%",
     "": "0.00%",
     "L. Desire": "The Korassids Nonprovince",
     "Base": "0.25",
-    "Comparison": "56.89%",
-    "Individual": "56.89%",
-    "Friend/Rival": "51.72%",
+    "Comparison": "56.95%",
+    "Individual": "56.95%",
+    "Friend/Rival": "51.78%",
     "Taxes": "10.17%",
     "Indep War?": "-5.00%",
     "Autonomy": "10.00%",
@@ -10306,19 +10306,19 @@
     "Nation Check": "Ishmalkan Confederated Cities",
     "Overlord": "Netsanet Republic",
     "Eco Vassals": "1,146,102.94",
-    "Eco Over.": "1,291,356.60",
+    "Eco Over.": "1,275,963.04",
     "Compare": "564,195.00",
-    "MP Vassals": "88.75%",
-    "MP Over.": "548,263.00",
-    "20% Total": "97.18%",
-    "Vassal Type": "37.19%",
+    "MP Vassals": "89.82%",
+    "MP Over.": "556,783.00",
+    "20% Total": "98.69%",
+    "Vassal Type": "37.70%",
     "": "0.00%",
     "L. Desire": "Netsanet Republic Nonprovince",
     "Base": "1.00",
-    "Comparison": "65.50%",
-    "Individual": "65.50%",
-    "Friend/Rival": "37.19%",
-    "Taxes": "8.32%",
+    "Comparison": "66.07%",
+    "Individual": "66.07%",
+    "Friend/Rival": "37.70%",
+    "Taxes": "8.37%",
     "Indep War?": "20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -10411,15 +10411,15 @@
     "Eco Over.": "1,401,524.82",
     "Compare": "249,480.00",
     "MP Vassals": "96.92%",
-    "MP Over.": "141,836.00",
-    "20% Total": "56.85%",
-    "Vassal Type": "30.75%",
+    "MP Over.": "150,272.00",
+    "20% Total": "60.23%",
+    "Vassal Type": "31.43%",
     "": "0.00%",
     "L. Desire": "Free Incus Trade Republic Nonprovince",
     "Base": "0.25",
-    "Comparison": "41.41%",
-    "Individual": "41.41%",
-    "Friend/Rival": "30.75%",
+    "Comparison": "42.08%",
+    "Individual": "42.08%",
+    "Friend/Rival": "31.43%",
     "Taxes": "8.48%",
     "Indep War?": "11.67%",
     "Autonomy": "",
@@ -10651,7 +10651,7 @@
     },
     "Trade 3": {
       "Value": "Tetóth Kegeth",
-      "Trade 3 Value": "5,176.21"
+      "Trade 3 Value": "6,835.66"
     },
     "Trade 4": {
       "Value": "Goldmongers",
@@ -10707,26 +10707,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "27,577.86"
+    "Trades": "29,237.31"
   },
   "Félagi Vargúlfr Dvergr": {
     "Nations": "Félagi Vargúlfr Dvergr",
     "Nation Check": "Félagi Vargúlfr Dvergr",
     "Overlord": "The Kingdom of Zahar",
-    "Eco Vassals": "289,356.96",
-    "Eco Over.": "1,294,395.11",
+    "Eco Vassals": "292,244.46",
+    "Eco Over.": "1,227,703.46",
     "Compare": "330,784.00",
-    "MP Vassals": "22.35%",
+    "MP Vassals": "23.80%",
     "MP Over.": "123,163.00",
     "20% Total": "37.23%",
-    "Vassal Type": "11.92%",
+    "Vassal Type": "12.21%",
     "": "0.00%",
     "L. Desire": "The Kingdom of Zahar Nonprovince",
     "Base": "1.00",
-    "Comparison": "5.40%",
-    "Individual": "5.40%",
-    "Friend/Rival": "11.92%",
-    "Taxes": "8.48%",
+    "Comparison": "5.93%",
+    "Individual": "5.93%",
+    "Friend/Rival": "12.21%",
+    "Taxes": "8.72%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -10757,7 +10757,7 @@
     },
     "Trade 4": {
       "Value": "Zalmoxia",
-      "Trade 4 Value": "6,930.00"
+      "Trade 4 Value": "9,240.00"
     },
     "Trade 5": {
       "Value": "",
@@ -10809,7 +10809,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "42,422.22"
+    "Trades": "44,732.22"
   },
   "Jörðnar": {
     "Nations": "Jörðnar",
@@ -10851,7 +10851,7 @@
     },
     "Trade 2": {
       "Value": "Làidirstìr",
-      "Trade 2 Value": "7,284.00"
+      "Trade 2 Value": "22,091.50"
     },
     "Trade 3": {
       "Value": "Schizaria",
@@ -10911,26 +10911,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "26,538.98"
+    "Trades": "41,346.48"
   },
   "Jubal'on": {
     "Nations": "Jubal'on",
     "Nation Check": "Jubal'on",
     "Overlord": "Stratavia",
     "Eco Vassals": "333,961.84",
-    "Eco Over.": "907,875.32",
+    "Eco Over.": "858,094.25",
     "Compare": "192,431.00",
-    "MP Vassals": "36.78%",
+    "MP Vassals": "38.92%",
     "MP Over.": "153,928.00",
     "20% Total": "79.99%",
-    "Vassal Type": "23.36%",
+    "Vassal Type": "23.78%",
     "": "0.00%",
     "L. Desire": "Stratavia Nonprovince",
     "Base": "1.00",
-    "Comparison": "55.02%",
-    "Individual": "55.02%",
-    "Friend/Rival": "23.36%",
-    "Taxes": "11.67%",
+    "Comparison": "55.66%",
+    "Individual": "55.66%",
+    "Friend/Rival": "23.78%",
+    "Taxes": "11.88%",
     "Indep War?": "20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -11059,7 +11059,7 @@
     },
     "Trade 3": {
       "Value": "Karak Klinka",
-      "Trade 3 Value": "11,252.75"
+      "Trade 3 Value": "11,827.75"
     },
     "Trade 4": {
       "Value": "Lundrium",
@@ -11115,7 +11115,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "14,262.75"
+    "Trades": "14,837.75"
   },
   "Karak Gazan (DEAD)": {
     "Nations": "Karak Gazan (DEAD)",
@@ -11161,7 +11161,7 @@
     },
     "Trade 3": {
       "Value": "Karak Klinka",
-      "Trade 3 Value": "11,252.75"
+      "Trade 3 Value": "11,827.75"
     },
     "Trade 4": {
       "Value": "Lundrium",
@@ -11217,7 +11217,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "12,012.75"
+    "Trades": "12,587.75"
   },
   "Kachitillcha": {
     "Nations": "Kachitillcha",
@@ -11227,16 +11227,16 @@
     "Eco Over.": "4,008,935.27",
     "Compare": "1,131,641.00",
     "MP Vassals": "38.81%",
-    "MP Over.": "1,214,833.00",
-    "20% Total": "107.35%",
-    "Vassal Type": "29.23%",
+    "MP Over.": "1,198,812.00",
+    "20% Total": "105.94%",
+    "Vassal Type": "28.95%",
     "": "0.00%",
     "L. Desire": "Uqhuma Killa Nonprovince",
     "Base": "0.25",
-    "Comparison": "41.54%",
-    "Individual": "41.54%",
-    "Friend/Rival": "29.23%",
-    "Taxes": "3.98%",
+    "Comparison": "41.15%",
+    "Individual": "41.15%",
+    "Friend/Rival": "28.95%",
+    "Taxes": "3.87%",
     "Indep War?": "18.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -11631,20 +11631,20 @@
     "Nations": "Karak Klinka",
     "Nation Check": "Karak Klinka",
     "Overlord": "Làidirstìr",
-    "Eco Vassals": "70,278.46",
-    "Eco Over.": "975,235.53",
+    "Eco Vassals": "84,345.59",
+    "Eco Over.": "975,954.28",
     "Compare": "396,006.00",
-    "MP Vassals": "7.21%",
-    "MP Over.": "34,695.00",
-    "20% Total": "8.76%",
-    "Vassal Type": "3.19%",
+    "MP Vassals": "8.64%",
+    "MP Over.": "31,320.00",
+    "20% Total": "7.91%",
+    "Vassal Type": "3.31%",
     "": "0.00%",
     "L. Desire": "Làidirstìr Nonprovince",
     "Base": "1.00",
     "Comparison": "0.00%",
-    "Individual": "-11.11%",
-    "Friend/Rival": "3.19%",
-    "Taxes": "3.19%",
+    "Individual": "-10.88%",
+    "Friend/Rival": "3.31%",
+    "Taxes": "3.31%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -11667,7 +11667,7 @@
     },
     "Trade 2": {
       "Value": "Làidirstìr",
-      "Trade 2 Value": "7,284.00"
+      "Trade 2 Value": "22,091.50"
     },
     "Trade 3": {
       "Value": "Jörðnar",
@@ -11727,7 +11727,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "26,335.23"
+    "Trades": "41,142.73"
   },
   "The Horn": {
     "Nations": "The Horn",
@@ -11801,7 +11801,7 @@
     },
     "Trade 10": {
       "Value": "Maldune",
-      "Trade 10 Value": "64,532.00"
+      "Trade 10 Value": "30,550.00"
     },
     "Trade 11": {
       "Value": "Stratavia",
@@ -11829,7 +11829,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "120,958.69"
+    "Trades": "86,976.69"
   },
   "New Verlensk": {
     "Nations": "New Verlensk",
@@ -11839,15 +11839,15 @@
     "Eco Over.": "4,008,935.27",
     "Compare": "1,131,641.00",
     "MP Vassals": "38.81%",
-    "MP Over.": "1,214,833.00",
-    "20% Total": "107.35%",
-    "Vassal Type": "29.23%",
+    "MP Over.": "1,198,812.00",
+    "20% Total": "105.94%",
+    "Vassal Type": "28.95%",
     "": "-25.00%",
     "L. Desire": "Uqhuma Killa Nonprovince",
     "Base": "0.25",
-    "Comparison": "34.34%",
-    "Individual": "34.34%",
-    "Friend/Rival": "29.23%",
+    "Comparison": "34.06%",
+    "Individual": "34.06%",
+    "Friend/Rival": "28.95%",
     "Taxes": "5.11%",
     "Indep War?": "15.00%",
     "Autonomy": "",
@@ -12141,20 +12141,20 @@
     "Nations": "Sólstafir",
     "Nation Check": "Sólstafir",
     "Overlord": "Jörðnar",
-    "Eco Vassals": "186,891.69",
-    "Eco Over.": "962,605.17",
+    "Eco Vassals": "187,610.44",
+    "Eco Over.": "978,153.05",
     "Compare": "424,766.00",
-    "MP Vassals": "19.42%",
+    "MP Vassals": "19.18%",
     "MP Over.": "123,524.00",
     "20% Total": "29.08%",
-    "Vassal Type": "9.70%",
+    "Vassal Type": "9.65%",
     "": "0.00%",
     "L. Desire": "Jörðnar Nonprovince",
     "Base": "1.00",
-    "Comparison": "12.55%",
-    "Individual": "12.55%",
-    "Friend/Rival": "9.70%",
-    "Taxes": "5.35%",
+    "Comparison": "12.46%",
+    "Individual": "12.46%",
+    "Friend/Rival": "9.65%",
+    "Taxes": "5.31%",
     "Indep War?": "7.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -12397,11 +12397,11 @@
     },
     "Trade 6": {
       "Value": "Zalmoxia",
-      "Trade 6 Value": "6,930.00"
+      "Trade 6 Value": "9,240.00"
     },
     "Trade 7": {
       "Value": "Maldune",
-      "Trade 7 Value": "64,532.00"
+      "Trade 7 Value": "30,550.00"
     },
     "Trade 8": {
       "Value": "Lepnia",
@@ -12441,7 +12441,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "116,285.74"
+    "Trades": "84,613.74"
   },
   "Kingdom of Ardungual [Dead]": {
     "Nations": "Kingdom of Ardungual [Dead]",
@@ -12652,9 +12652,9 @@
     "Nation Check": "Kingdom of Gloria",
     "Overlord": "Scientarium",
     "Eco Vassals": "149,594.38",
-    "Eco Over.": "644,961.05",
+    "Eco Over.": "645,962.11",
     "Compare": "107,279.00",
-    "MP Vassals": "23.19%",
+    "MP Vassals": "23.16%",
     "MP Over.": "30,600.00",
     "20% Total": "28.52%",
     "Vassal Type": "10.34%",
@@ -12919,11 +12919,11 @@
     },
     "Trade 9": {
       "Value": "Pyhätmetsät",
-      "Trade 9 Value": "6,154.90"
+      "Trade 9 Value": "959.23"
     },
     "Trade 10": {
       "Value": "Maldune",
-      "Trade 10 Value": "64,532.00"
+      "Trade 10 Value": "30,550.00"
     },
     "Trade 11": {
       "Value": "The Holy Realm of Herkunft",
@@ -12951,7 +12951,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "127,398.83"
+    "Trades": "88,221.16"
   },
   "Kingdom of Kahtet [Dead]": {
     "Nations": "Kingdom of Kahtet [Dead]",
@@ -13365,20 +13365,20 @@
     "Nations": "Kingdom of Nymeria ",
     "Nation Check": "Kingdom of Nymeria ",
     "Overlord": "Meadoia Dynasty",
-    "Eco Vassals": "1,668,276.55",
-    "Eco Over.": "1,707,106.91",
+    "Eco Vassals": "1,649,212.11",
+    "Eco Over.": "1,666,558.39",
     "Compare": "355,589.00",
-    "MP Vassals": "97.73%",
+    "MP Vassals": "98.96%",
     "MP Over.": "228,626.00",
     "20% Total": "64.30%",
-    "Vassal Type": "32.40%",
+    "Vassal Type": "32.65%",
     "": "0.00%",
     "L. Desire": "Meadoia Dynasty Nonprovince",
     "Base": "0.25",
-    "Comparison": "50.27%",
-    "Individual": "50.27%",
-    "Friend/Rival": "32.40%",
-    "Taxes": "11.20%",
+    "Comparison": "50.69%",
+    "Individual": "50.69%",
+    "Friend/Rival": "32.65%",
+    "Taxes": "11.37%",
     "Indep War?": "21.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -13417,7 +13417,7 @@
     },
     "Trade 6": {
       "Value": "Arethousa",
-      "Trade 6 Value": "10,743.99"
+      "Trade 6 Value": "11,696.19"
     },
     "Trade 7": {
       "Value": "Thys Alari",
@@ -13461,7 +13461,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "299,041.80"
+    "Trades": "299,994.00"
   },
   "Royaume sous de l'Aurore": {
     "Nations": "Royaume sous de l'Aurore",
@@ -13518,12 +13518,12 @@
       "Trade 5 Value": "256,319.70"
     },
     "Trade 6": {
-      "Value": "Stratavia",
-      "Trade 6 Value": "10,116.77"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
-      "Value": "The Last Bastion",
-      "Trade 7 Value": "21,305.00"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "",
@@ -13563,7 +13563,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "293,868.21"
+    "Trades": "262,446.44"
   },
   "Kingdom of the Kettlelands": {
     "Nations": "Kingdom of the Kettlelands",
@@ -13715,7 +13715,7 @@
     },
     "Trade 4": {
       "Value": "Elphonsa",
-      "Trade 4 Value": "5,025.00"
+      "Trade 4 Value": "3,768.75"
     },
     "Trade 5": {
       "Value": "Dreikland",
@@ -13767,26 +13767,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "147,908.73"
+    "Trades": "146,652.48"
   },
   "Ko'haq'r Republic": {
     "Nations": "Ko'haq'r Republic",
     "Nation Check": "Ko'haq'r Republic",
     "Overlord": "Netsanet Republic",
     "Eco Vassals": "1,146,102.94",
-    "Eco Over.": "1,291,356.60",
+    "Eco Over.": "1,275,963.04",
     "Compare": "564,195.00",
-    "MP Vassals": "88.75%",
-    "MP Over.": "548,263.00",
-    "20% Total": "97.18%",
-    "Vassal Type": "37.19%",
+    "MP Vassals": "89.82%",
+    "MP Over.": "556,783.00",
+    "20% Total": "98.69%",
+    "Vassal Type": "37.70%",
     "": "0.00%",
     "L. Desire": "Netsanet Republic Nonprovince",
     "Base": "0.25",
-    "Comparison": "48.96%",
-    "Individual": "48.96%",
-    "Friend/Rival": "37.19%",
-    "Taxes": "11.78%",
+    "Comparison": "49.53%",
+    "Individual": "49.53%",
+    "Friend/Rival": "37.70%",
+    "Taxes": "11.83%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -13876,19 +13876,19 @@
     "Nation Check": "Aethyrygarstam",
     "Overlord": "Aethyrrajyam",
     "Eco Vassals": "1,036,971.98",
-    "Eco Over.": "2,287,127.40",
-    "Compare": "941,858.00",
-    "MP Vassals": "45.34%",
-    "MP Over.": "394,992.00",
-    "20% Total": "41.94%",
-    "Vassal Type": "17.46%",
+    "Eco Over.": "2,282,342.40",
+    "Compare": "917,726.00",
+    "MP Vassals": "45.43%",
+    "MP Over.": "399,809.00",
+    "20% Total": "43.57%",
+    "Vassal Type": "17.80%",
     "": "0.00%",
     "L. Desire": "Aethyrrajyam Nonprovince",
     "Base": "1.00",
-    "Comparison": "24.69%",
-    "Individual": "24.69%",
-    "Friend/Rival": "17.46%",
-    "Taxes": "4.74%",
+    "Comparison": "25.21%",
+    "Individual": "25.21%",
+    "Friend/Rival": "17.80%",
+    "Taxes": "4.91%",
     "Indep War?": "7.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -14237,7 +14237,7 @@
     },
     "Trade 7": {
       "Value": "Maldune",
-      "Trade 7 Value": "64,532.00"
+      "Trade 7 Value": "30,550.00"
     },
     "Trade 8": {
       "Value": "",
@@ -14277,26 +14277,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "349,819.31"
+    "Trades": "315,837.31"
   },
   "Lepnia": {
     "Nations": "Lepnia",
     "Nation Check": "Lepnia",
     "Overlord": "People's Trade Dynasty",
-    "Eco Vassals": "679,025.61",
-    "Eco Over.": "1,099,579.58",
+    "Eco Vassals": "678,402.02",
+    "Eco Over.": "1,084,023.98",
     "Compare": "318,450.00",
-    "MP Vassals": "61.75%",
+    "MP Vassals": "62.58%",
     "MP Over.": "248,775.00",
     "20% Total": "78.12%",
-    "Vassal Type": "27.97%",
+    "Vassal Type": "28.14%",
     "": "0.00%",
     "L. Desire": "People's Trade Dynasty Nonprovince",
     "Base": "0.25",
-    "Comparison": "45.54%",
-    "Individual": "45.54%",
-    "Friend/Rival": "27.97%",
-    "Taxes": "25.06%",
+    "Comparison": "45.86%",
+    "Individual": "45.86%",
+    "Friend/Rival": "28.14%",
+    "Taxes": "25.21%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "No",
@@ -14343,7 +14343,7 @@
     },
     "Trade 8": {
       "Value": "Soroner",
-      "Trade 8 Value": "2,775.87"
+      "Trade 8 Value": "2,277.00"
     },
     "Trade 9": {
       "Value": "",
@@ -14379,7 +14379,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "293,584.49"
+    "Trades": "293,085.62"
   },
   "Lialikidus [Dead]": {
     "Nations": "Lialikidus [Dead]",
@@ -14625,7 +14625,7 @@
     },
     "Trade 2": {
       "Value": "Tetóth Kegeth",
-      "Trade 2 Value": "5,176.21"
+      "Trade 2 Value": "6,835.66"
     },
     "Trade 3": {
       "Value": "Ashdayn",
@@ -14685,7 +14685,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "39,675.33"
+    "Trades": "41,334.78"
   },
   "Lowy Combine": {
     "Nations": "Lowy Combine",
@@ -14955,7 +14955,7 @@
     },
     "Trade 8": {
       "Value": "Tetóth Kegeth",
-      "Trade 8 Value": "5,176.21"
+      "Trade 8 Value": "6,835.66"
     },
     "Trade 9": {
       "Value": "",
@@ -14991,7 +14991,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "42,442.11"
+    "Trades": "44,101.56"
   },
   "Lundrium": {
     "Nations": "Lundrium",
@@ -15041,11 +15041,11 @@
     },
     "Trade 4": {
       "Value": "Karak Klinka",
-      "Trade 4 Value": "11,252.75"
+      "Trade 4 Value": "11,827.75"
     },
     "Trade 5": {
       "Value": "Làidirstìr",
-      "Trade 5 Value": "7,284.00"
+      "Trade 5 Value": "22,091.50"
     },
     "Trade 6": {
       "Value": "",
@@ -15093,7 +15093,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "18,536.75"
+    "Trades": "33,919.25"
   },
   "Lysian Republic": {
     "Nations": "Lysian Republic",
@@ -15343,7 +15343,7 @@
     },
     "Trade 3": {
       "Value": "Zalmoxia",
-      "Trade 3 Value": "6,930.00"
+      "Trade 3 Value": "9,240.00"
     },
     "Trade 4": {
       "Value": "People's Trade Dynasty",
@@ -15399,7 +15399,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "381,519.95"
+    "Trades": "383,829.95"
   },
   "Sri Shimbir [Dead]": {
     "Nations": "Sri Shimbir [Dead]",
@@ -15503,36 +15503,36 @@
     "Mil. Pacts": "",
     "Trades": "52,384.85"
   },
-  "Sange Lamatis": {
-    "Nations": "Sange Lamatis",
+  "Sange Lamatis [DEAD]": {
+    "Nations": "Sange Lamatis [DEAD]",
     "Nation Check": "Sange Lamatis",
-    "Overlord": "Litovai Imperiu",
-    "Eco Vassals": "1,438,881.73",
-    "Eco Over.": "1,493,935.30",
-    "Compare": "628,935.00",
-    "MP Vassals": "96.31%",
-    "MP Over.": "490,652.00",
-    "20% Total": "78.01%",
-    "Vassal Type": "34.87%",
+    "Overlord": "",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "",
     "": "0.00%",
-    "L. Desire": "Litovai Imperiu Nonprovince",
-    "Base": "0.25",
-    "Comparison": "47.85%",
-    "Individual": "47.85%",
-    "Friend/Rival": "34.87%",
-    "Taxes": "4.65%",
-    "Indep War?": "8.33%",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "",
+    "Individual": "",
+    "Friend/Rival": "",
+    "Taxes": "",
+    "Indep War?": "",
     "Autonomy": "",
     "Threshold": "",
     "Chaotic?": "Both",
-    "Deceptive?": "100.00%",
-    "Honor?": "FALSE",
-    "Indep.?": "FALSE",
-    "Unity?": "FALSE",
-    "Ov. Culture": "FALSE",
-    "Ov. Religion": "FALSE",
-    "Non-aggression Pacts": "Litovoi",
-    "Defensive Pacts": "Litov Faith",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
@@ -15609,20 +15609,20 @@
     "Nations": "Sange Okean",
     "Nation Check": "Sange Okean",
     "Overlord": "Litovai Imperiu",
-    "Eco Vassals": "1,438,881.73",
-    "Eco Over.": "1,493,935.30",
+    "Eco Vassals": "1,253,966.13",
+    "Eco Over.": "1,473,634.22",
     "Compare": "628,935.00",
-    "MP Vassals": "96.31%",
-    "MP Over.": "490,652.00",
-    "20% Total": "78.01%",
-    "Vassal Type": "34.87%",
+    "MP Vassals": "85.09%",
+    "MP Over.": "404,857.00",
+    "20% Total": "64.37%",
+    "Vassal Type": "29.89%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Nonprovince",
     "Base": "0.25",
-    "Comparison": "44.70%",
-    "Individual": "44.70%",
-    "Friend/Rival": "34.87%",
-    "Taxes": "6.50%",
+    "Comparison": "39.78%",
+    "Individual": "39.78%",
+    "Friend/Rival": "29.89%",
+    "Taxes": "6.56%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -15711,19 +15711,19 @@
     "Nations": "Merkām Erwānaelhi",
     "Nation Check": "Merkām Erwānaelhi",
     "Overlord": "The Korassids",
-    "Eco Vassals": "1,557,742.02",
-    "Eco Over.": "1,128,785.88",
+    "Eco Vassals": "1,560,719.80",
+    "Eco Over.": "1,128,538.88",
     "Compare": "390,624.00",
-    "MP Vassals": "138.00%",
+    "MP Vassals": "138.30%",
     "MP Over.": "471,150.00",
     "20% Total": "120.61%",
-    "Vassal Type": "51.72%",
+    "Vassal Type": "51.78%",
     "": "0.00%",
     "L. Desire": "The Korassids Nonprovince",
     "Base": "1.00",
-    "Comparison": "32.78%",
-    "Individual": "32.78%",
-    "Friend/Rival": "51.72%",
+    "Comparison": "32.84%",
+    "Individual": "32.84%",
+    "Friend/Rival": "51.78%",
     "Taxes": "3.56%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -15915,20 +15915,20 @@
     "Nations": "Maldune",
     "Nation Check": "Maldune",
     "Overlord": "Royaume sous de l'Aurore",
-    "Eco Vassals": "1,708,656.65",
-    "Eco Over.": "1,383,599.27",
-    "Compare": "559,829.00",
-    "MP Vassals": "123.49%",
-    "MP Over.": "239,635.00",
-    "20% Total": "42.81%",
-    "Vassal Type": "33.26%",
+    "Eco Vassals": "781,581.89",
+    "Eco Over.": "1,291,212.92",
+    "Compare": "509,052.00",
+    "MP Vassals": "60.53%",
+    "MP Over.": "179,053.00",
+    "20% Total": "35.17%",
+    "Vassal Type": "19.14%",
     "": "0.00%",
     "L. Desire": "Royaume sous de l'Aurore Nonprovince",
     "Base": "1.00",
-    "Comparison": "52.52%",
-    "Individual": "52.52%",
-    "Friend/Rival": "33.26%",
-    "Taxes": "19.26%",
+    "Comparison": "22.85%",
+    "Individual": "22.85%",
+    "Friend/Rival": "19.14%",
+    "Taxes": "3.71%",
     "Indep War?": "15.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -15950,68 +15950,68 @@
       "Trade 1 Value": "15"
     },
     "Trade 2": {
-      "Value": "Royaume sous de l'Aurore",
-      "Trade 2 Value": "32,935.39"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
-      "Value": "Meadoia Dynasty",
-      "Trade 3 Value": "256,319.70"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "The Kingdom of Zahar",
-      "Trade 4 Value": "6,126.74"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
-      "Value": "Kingdom of Jasper",
-      "Trade 5 Value": "9,184.42"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
-      "Value": "Stratavia",
-      "Trade 6 Value": "10,116.77"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
-      "Value": "Queendom of Edarosia",
-      "Trade 7 Value": "4,173.00"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
-      "Value": "Remid Republic",
-      "Trade 8 Value": "7,884.18"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
-      "Value": "The Holy Realm of Herkunft",
-      "Trade 9 Value": "12,840.08"
+      "Value": "",
+      "Trade 9 Value": ""
     },
     "Trade 10": {
-      "Value": "Velikiy Alytinskaya",
-      "Trade 10 Value": "12,042.11"
+      "Value": "",
+      "Trade 10 Value": ""
     },
     "Trade 11": {
-      "Value": "The Horn",
-      "Trade 11 Value": "9,373.35"
+      "Value": "",
+      "Trade 11 Value": ""
     },
     "Trade 12": {
-      "Value": "Kingdom of Aeornia",
-      "Trade 12 Value": "8,454.92"
+      "Value": "",
+      "Trade 12 Value": ""
     },
     "Trade 13": {
-      "Value": "The Awakened",
-      "Trade 13 Value": "7,725.00"
+      "Value": "",
+      "Trade 13 Value": ""
     },
     "Trade 14": {
-      "Value": "Xiboda",
-      "Trade 14 Value": "12,690.48"
+      "Value": "",
+      "Trade 14 Value": ""
     },
     "Trade 15": {
-      "Value": "Arethousa",
-      "Trade 15 Value": "10,743.99"
+      "Value": "",
+      "Trade 15 Value": ""
     },
-    "Raw Trade Income": "Nasa Quagmire",
-    "Tariffs": "19,324.62",
+    "Raw Trade Income": "",
+    "Tariffs": "",
     "Trade Income": "",
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "419,934.75"
+    "Trades": "0.00"
   },
   "Marsigar Kuningate [Dead]": {
     "Nations": "Marsigar Kuningate [Dead]",
@@ -16120,19 +16120,19 @@
     "Nation Check": "Mās'",
     "Overlord": "Netsanet Republic",
     "Eco Vassals": "1,146,102.94",
-    "Eco Over.": "1,291,356.60",
+    "Eco Over.": "1,275,963.04",
     "Compare": "564,195.00",
-    "MP Vassals": "88.75%",
-    "MP Over.": "548,263.00",
-    "20% Total": "97.18%",
-    "Vassal Type": "37.19%",
+    "MP Vassals": "89.82%",
+    "MP Over.": "556,783.00",
+    "20% Total": "98.69%",
+    "Vassal Type": "37.70%",
     "": "0.00%",
     "L. Desire": "Netsanet Republic Nonprovince",
     "Base": "0.25",
-    "Comparison": "29.13%",
-    "Individual": "29.13%",
-    "Friend/Rival": "37.19%",
-    "Taxes": "4.44%",
+    "Comparison": "29.97%",
+    "Individual": "29.97%",
+    "Friend/Rival": "37.70%",
+    "Taxes": "4.77%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "No",
@@ -16265,7 +16265,7 @@
     },
     "Trade 4": {
       "Value": "Kranicvak Nixond",
-      "Trade 4 Value": "6,022.25"
+      "Trade 4 Value": "5,762.25"
     },
     "Trade 5": {
       "Value": "Here Be Dragons",
@@ -16317,7 +16317,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "243,188.30"
+    "Trades": "242,928.30"
   },
   "Mazazuma": {
     "Nations": "Mazazuma",
@@ -16473,7 +16473,7 @@
     },
     "Trade 5": {
       "Value": "The Last Bastion",
-      "Trade 5 Value": "21,305.00"
+      "Trade 5 Value": "5,101.25"
     },
     "Trade 6": {
       "Value": "Caesnauka Empire",
@@ -16516,31 +16516,31 @@
       "Trade 15 Value": "3,555.00"
     },
     "Raw Trade Income": "Maldune",
-    "Tariffs": "64,532.00",
+    "Tariffs": "30,550.00",
     "Trade Income": "Royaume sous de l'Aurore",
-    "NAPs": "32,935.39",
+    "NAPs": "29,767.82",
     "Def. Pacts": "Clan Karatillion",
     "Mil. Pacts": "20,930.00",
-    "Trades": "274,134.75"
+    "Trades": "220,781.43"
   },
   "Mébian Confederation": {
     "Nations": "Mébian Confederation",
     "Nation Check": "Mébian Confederation",
     "Overlord": "Meadoia Dynasty",
-    "Eco Vassals": "1,668,276.55",
-    "Eco Over.": "1,707,106.91",
+    "Eco Vassals": "1,649,212.11",
+    "Eco Over.": "1,666,558.39",
     "Compare": "355,589.00",
-    "MP Vassals": "97.73%",
+    "MP Vassals": "98.96%",
     "MP Over.": "228,626.00",
     "20% Total": "64.30%",
-    "Vassal Type": "32.40%",
+    "Vassal Type": "32.65%",
     "": "0.00%",
     "L. Desire": "Meadoia Dynasty Nonprovince",
     "Base": "0.25",
-    "Comparison": "23.52%",
-    "Individual": "23.52%",
-    "Friend/Rival": "32.40%",
-    "Taxes": "6.11%",
+    "Comparison": "23.80%",
+    "Individual": "23.80%",
+    "Friend/Rival": "32.65%",
+    "Taxes": "6.15%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -16633,16 +16633,16 @@
     "Eco Over.": "1,401,524.82",
     "Compare": "249,480.00",
     "MP Vassals": "96.92%",
-    "MP Over.": "141,836.00",
-    "20% Total": "56.85%",
-    "Vassal Type": "30.75%",
+    "MP Over.": "150,272.00",
+    "20% Total": "60.23%",
+    "Vassal Type": "31.43%",
     "": "0.00%",
     "L. Desire": "Free Incus Trade Republic Nonprovince",
     "Base": "1.00",
-    "Comparison": "37.10%",
-    "Individual": "37.10%",
-    "Friend/Rival": "30.75%",
-    "Taxes": "11.34%",
+    "Comparison": "38.45%",
+    "Individual": "38.45%",
+    "Friend/Rival": "31.43%",
+    "Taxes": "12.02%",
     "Indep War?": "10.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -16833,20 +16833,20 @@
     "Nations": "Asahi Dareh",
     "Nation Check": "Asahi Dareh",
     "Overlord": "The Korassids",
-    "Eco Vassals": "1,557,742.02",
-    "Eco Over.": "1,128,785.88",
+    "Eco Vassals": "1,560,719.80",
+    "Eco Over.": "1,128,538.88",
     "Compare": "390,624.00",
-    "MP Vassals": "138.00%",
+    "MP Vassals": "138.30%",
     "MP Over.": "471,150.00",
     "20% Total": "120.61%",
-    "Vassal Type": "51.72%",
+    "Vassal Type": "51.78%",
     "": "0.00%",
     "L. Desire": "The Korassids Nonprovince",
     "Base": "0.25",
-    "Comparison": "41.02%",
-    "Individual": "41.02%",
-    "Friend/Rival": "51.72%",
-    "Taxes": "4.29%",
+    "Comparison": "41.13%",
+    "Individual": "41.13%",
+    "Friend/Rival": "51.78%",
+    "Taxes": "4.35%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -16885,7 +16885,7 @@
     },
     "Trade 6": {
       "Value": "Sange Lamatis",
-      "Trade 6 Value": "1,865.50"
+      "Trade 6 Value": "5,000.00"
     },
     "Trade 7": {
       "Value": "The Korassids",
@@ -16929,7 +16929,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "38,584.25"
+    "Trades": "41,718.75"
   },
   "Mizarina": {
     "Nations": "Mizarina",
@@ -17343,19 +17343,19 @@
     "Nations": "Theocratia Artania",
     "Nation Check": "Theocratia Artania",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "603,808.36",
-    "Eco Over.": "1,358,571.73",
+    "Eco Vassals": "614,030.48",
+    "Eco Over.": "1,358,319.98",
     "Compare": "549,038.00",
-    "MP Vassals": "44.44%",
-    "MP Over.": "245,908.00",
-    "20% Total": "44.79%",
-    "Vassal Type": "17.85%",
+    "MP Vassals": "45.21%",
+    "MP Over.": "242,477.00",
+    "20% Total": "44.16%",
+    "Vassal Type": "17.87%",
     "": "0.00%",
     "L. Desire": "Kranicvak Nixond Nonprovince",
     "Base": "1.00",
-    "Comparison": "18.82%",
-    "Individual": "18.82%",
-    "Friend/Rival": "17.85%",
+    "Comparison": "18.84%",
+    "Individual": "18.84%",
+    "Friend/Rival": "17.87%",
     "Taxes": "8.47%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -17379,7 +17379,7 @@
     },
     "Trade 2": {
       "Value": "Kivav'v'Syyrhuus",
-      "Trade 2 Value": "2,565.00"
+      "Trade 2 Value": "2,300.00"
     },
     "Trade 3": {
       "Value": "Greater Stahlland",
@@ -17439,26 +17439,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "25,613.28"
+    "Trades": "25,348.28"
   },
   "Kivav'v'Syyrhuus": {
     "Nations": "Kivav'v'Syyrhuus",
     "Nation Check": "Kivav'v'Syyrhuus",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "603,808.36",
-    "Eco Over.": "1,358,571.73",
+    "Eco Vassals": "614,030.48",
+    "Eco Over.": "1,358,319.98",
     "Compare": "549,038.00",
-    "MP Vassals": "44.44%",
-    "MP Over.": "245,908.00",
-    "20% Total": "44.79%",
-    "Vassal Type": "17.85%",
+    "MP Vassals": "45.21%",
+    "MP Over.": "242,477.00",
+    "20% Total": "44.16%",
+    "Vassal Type": "17.87%",
     "": "0.00%",
     "L. Desire": "Kranicvak Nixond Nonprovince",
     "Base": "1.00",
-    "Comparison": "40.44%",
-    "Individual": "40.44%",
-    "Friend/Rival": "17.85%",
-    "Taxes": "5.09%",
+    "Comparison": "40.27%",
+    "Individual": "40.27%",
+    "Friend/Rival": "17.87%",
+    "Taxes": "4.89%",
     "Indep War?": "2.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -17481,7 +17481,7 @@
     },
     "Trade 2": {
       "Value": "Kranicvak Nixond",
-      "Trade 2 Value": "6,022.25"
+      "Trade 2 Value": "5,762.25"
     },
     "Trade 3": {
       "Value": "Theocratia Artania",
@@ -17541,7 +17541,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "11,858.75"
+    "Trades": "11,598.75"
   },
   "Nanakueyaltepetl [Dead]": {
     "Nations": "Nanakueyaltepetl [Dead]",
@@ -17709,11 +17709,11 @@
     },
     "Trade 8": {
       "Value": "The Last Bastion",
-      "Trade 8 Value": "21,305.00"
+      "Trade 8 Value": "5,101.25"
     },
     "Trade 9": {
       "Value": "Maldune",
-      "Trade 9 Value": "64,532.00"
+      "Trade 9 Value": "30,550.00"
     },
     "Trade 10": {
       "Value": "",
@@ -17745,7 +17745,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "102,797.00"
+    "Trades": "52,611.25"
   },
   "Natałor [Dead]": {
     "Nations": "Natałor [Dead]",
@@ -18031,7 +18031,7 @@
     },
     "Trade 12": {
       "Value": "The Last Bastion",
-      "Trade 12 Value": "21,305.00"
+      "Trade 12 Value": "5,101.25"
     },
     "Trade 13": {
       "Value": "Mazazuma",
@@ -18051,7 +18051,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "188,433.26"
+    "Trades": "172,229.51"
   },
   "Kranicvak Nixond": {
     "Nations": "Kranicvak Nixond",
@@ -18129,7 +18129,7 @@
     },
     "Trade 11": {
       "Value": "Kivav'v'Syyrhuus",
-      "Trade 11 Value": "2,565.00"
+      "Trade 11 Value": "2,300.00"
     },
     "Trade 12": {
       "Value": "",
@@ -18153,26 +18153,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "69,722.88"
+    "Trades": "69,457.88"
   },
   "Nournourlant": {
     "Nations": "Nournourlant",
     "Nation Check": "Nournourlant",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "1,953,776.80",
+    "Eco Vassals": "1,958,004.59",
     "Eco Over.": "1,306,794.71",
-    "Compare": "391,710.00",
-    "MP Vassals": "149.51%",
+    "Compare": "390,023.00",
+    "MP Vassals": "149.83%",
     "MP Over.": "291,940.00",
-    "20% Total": "74.53%",
-    "Vassal Type": "44.81%",
+    "20% Total": "74.85%",
+    "Vassal Type": "44.94%",
     "": "0.00%",
     "L. Desire": "Kingdom of Mimgrond Nonprovince",
     "Base": "0.25",
-    "Comparison": "63.59%",
-    "Individual": "63.59%",
-    "Friend/Rival": "44.81%",
-    "Taxes": "8.78%",
+    "Comparison": "63.75%",
+    "Individual": "63.75%",
+    "Friend/Rival": "44.94%",
+    "Taxes": "8.81%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -18367,16 +18367,16 @@
     "Eco Over.": "649,924.73",
     "Compare": "203,921.00",
     "MP Vassals": "163.25%",
-    "MP Over.": "58,743.00",
-    "20% Total": "28.81%",
-    "Vassal Type": "38.41%",
+    "MP Over.": "63,210.00",
+    "20% Total": "31.00%",
+    "Vassal Type": "38.85%",
     "": "0.00%",
     "L. Desire": "Ilikiu'Foriris Nonprovince",
     "Base": "1.00",
-    "Comparison": "60.15%",
-    "Individual": "60.15%",
-    "Friend/Rival": "38.41%",
-    "Taxes": "38.41%",
+    "Comparison": "61.03%",
+    "Individual": "61.03%",
+    "Friend/Rival": "38.85%",
+    "Taxes": "38.85%",
     "Indep War?": "-1.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -18465,20 +18465,20 @@
     "Nations": "Nuvoria",
     "Nation Check": "Nuvoria",
     "Overlord": "Royaume sous de l'Aurore",
-    "Eco Vassals": "1,708,656.65",
-    "Eco Over.": "1,383,599.27",
-    "Compare": "559,829.00",
-    "MP Vassals": "123.49%",
-    "MP Over.": "239,635.00",
-    "20% Total": "42.81%",
-    "Vassal Type": "33.26%",
+    "Eco Vassals": "781,581.89",
+    "Eco Over.": "1,291,212.92",
+    "Compare": "509,052.00",
+    "MP Vassals": "60.53%",
+    "MP Over.": "179,053.00",
+    "20% Total": "35.17%",
+    "Vassal Type": "19.14%",
     "": "0.00%",
     "L. Desire": "Royaume sous de l'Aurore Nonprovince",
     "Base": "0.25",
-    "Comparison": "31.88%",
-    "Individual": "31.88%",
-    "Friend/Rival": "33.26%",
-    "Taxes": "8.62%",
+    "Comparison": "18.52%",
+    "Individual": "18.52%",
+    "Friend/Rival": "19.14%",
+    "Taxes": "9.38%",
     "Indep War?": "0.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -18594,44 +18594,44 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "Aethyrrajyam",
-    "Military Alliances 2": "Alonissos Isles",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
     "Limit": "",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "14"
+      "Trade 1 Value": "13"
     },
     "Trade 2": {
-      "Value": "Aethyrrajyam",
-      "Trade 2 Value": "5,760.63"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
-      "Value": "Kranicvak Nixond",
-      "Trade 3 Value": "6,022.25"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "Uqhuma Killa",
-      "Trade 4 Value": "6,662.50"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
-      "Value": "Federation of the Winds",
-      "Trade 5 Value": "19,593.75"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
-      "Value": "Alonissos Isles",
-      "Trade 6 Value": "17,582.25"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
-      "Value": "Yuranisuk",
-      "Trade 7 Value": "1,585.00"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
-      "Value": "Candentis Jalin",
-      "Trade 8 Value": "9,798.00"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
-      "Value": "Clan Karatillion",
-      "Trade 9 Value": "20,930.00"
+      "Value": "",
+      "Trade 9 Value": ""
     },
     "Trade 10": {
       "Value": "",
@@ -18663,7 +18663,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "87,934.38"
+    "Trades": "0.00"
   },
   "Ophenadon": {
     "Nations": "Ophenadon",
@@ -18873,20 +18873,20 @@
     "Nations": "Pavellion",
     "Nation Check": "Pavellion",
     "Overlord": "The Last Bastion",
-    "Eco Vassals": "958,302.38",
-    "Eco Over.": "2,361,976.53",
+    "Eco Vassals": "929,709.75",
+    "Eco Over.": "2,072,527.34",
     "Compare": "1,167,731.00",
-    "MP Vassals": "40.57%",
+    "MP Vassals": "44.86%",
     "MP Over.": "377,864.00",
     "20% Total": "32.36%",
-    "Vassal Type": "14.59%",
+    "Vassal Type": "15.44%",
     "": "0.00%",
     "L. Desire": "The Last Bastion Nonprovince",
     "Base": "1.00",
     "Comparison": "0.00%",
-    "Individual": "-1.13%",
-    "Friend/Rival": "14.59%",
-    "Taxes": "1.78%",
+    "Individual": "-0.11%",
+    "Friend/Rival": "15.44%",
+    "Taxes": "1.95%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -19179,20 +19179,20 @@
     "Nations": "Pyhätmetsät",
     "Nation Check": "Pyhätmetsät",
     "Overlord": "ADMIN NATION",
-    "Eco Vassals": "292,473.31",
+    "Eco Vassals": "254,825.00",
     "Eco Over.": "7,162,780.00",
     "Compare": "4,055,310.00",
-    "MP Vassals": "4.08%",
+    "MP Vassals": "3.56%",
     "MP Over.": "103,579.00",
     "20% Total": "2.55%",
-    "Vassal Type": "1.33%",
+    "Vassal Type": "1.22%",
     "": "0.00%",
     "L. Desire": "ADMIN NATION Nonprovince",
     "Base": "1.00",
     "Comparison": "0.00%",
-    "Individual": "-2.35%",
-    "Friend/Rival": "1.33%",
-    "Taxes": "1.33%",
+    "Individual": "-2.56%",
+    "Friend/Rival": "1.22%",
+    "Taxes": "1.22%",
     "Indep War?": "0.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -19222,24 +19222,24 @@
       "Trade 3 Value": ""
     },
     "Trade 4": {
-      "Value": "Kingdom of Jasper",
-      "Trade 4 Value": "9,184.42"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
-      "Value": "Clankar Cog",
-      "Trade 5 Value": "3,145.00"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
-      "Value": "Velikiy Alytinskaya",
-      "Trade 6 Value": "12,042.11"
+      "Value": "",
+      "Trade 6 Value": ""
     },
     "Trade 7": {
-      "Value": "Akaḣpetoƞ",
-      "Trade 7 Value": "4,725.00"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
-      "Value": "The House of Jokers",
-      "Trade 8 Value": "6,759.00"
+      "Value": "",
+      "Trade 8 Value": ""
     },
     "Trade 9": {
       "Value": "",
@@ -19275,7 +19275,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "35,855.53"
+    "Trades": "0.00"
   },
   "Q'awachu": {
     "Nations": "Q'awachu",
@@ -19285,16 +19285,16 @@
     "Eco Over.": "4,008,935.27",
     "Compare": "1,131,641.00",
     "MP Vassals": "38.81%",
-    "MP Over.": "1,214,833.00",
-    "20% Total": "107.35%",
-    "Vassal Type": "29.23%",
+    "MP Over.": "1,198,812.00",
+    "20% Total": "105.94%",
+    "Vassal Type": "28.95%",
     "": "0.00%",
     "L. Desire": "Uqhuma Killa Nonprovince",
     "Base": "1.00",
-    "Comparison": "44.17%",
-    "Individual": "44.17%",
-    "Friend/Rival": "29.23%",
-    "Taxes": "4.94%",
+    "Comparison": "43.71%",
+    "Individual": "43.71%",
+    "Friend/Rival": "28.95%",
+    "Taxes": "4.76%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -19431,7 +19431,7 @@
     },
     "Trade 5": {
       "Value": "Maldune",
-      "Trade 5 Value": "64,532.00"
+      "Trade 5 Value": "30,550.00"
     },
     "Trade 6": {
       "Value": "Republic of Nymaró",
@@ -19479,7 +19479,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "109,299.68"
+    "Trades": "75,317.68"
   },
   "Vedebbi Stellar Domain [Dead]": {
     "Nations": "Vedebbi Stellar Domain [Dead]",
@@ -19627,7 +19627,7 @@
     },
     "Trade 3": {
       "Value": "Kranicvak Nixond",
-      "Trade 3 Value": "6,022.25"
+      "Trade 3 Value": "5,762.25"
     },
     "Trade 4": {
       "Value": "",
@@ -19683,7 +19683,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "18,832.25"
+    "Trades": "18,572.25"
   },
   "Second Kingdom of Mazoria [Dead]": {
     "Nations": "Second Kingdom of Mazoria [Dead]",
@@ -19827,7 +19827,7 @@
     },
     "Trade 2": {
       "Value": "Royaume sous de l'Aurore",
-      "Trade 2 Value": "32,935.39"
+      "Trade 2 Value": "29,767.82"
     },
     "Trade 3": {
       "Value": "Akaḣpetoƞ",
@@ -19847,11 +19847,11 @@
     },
     "Trade 7": {
       "Value": "Arethousa",
-      "Trade 7 Value": "10,743.99"
+      "Trade 7 Value": "11,696.19"
     },
     "Trade 8": {
       "Value": "Maldune",
-      "Trade 8 Value": "64,532.00"
+      "Trade 8 Value": "30,550.00"
     },
     "Trade 9": {
       "Value": "",
@@ -19887,7 +19887,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "124,833.58"
+    "Trades": "88,636.21"
   },
   "Republic o. Zuntirar": {
     "Nations": "Republic o. Zuntirar",
@@ -20031,7 +20031,7 @@
     },
     "Trade 2": {
       "Value": "The Last Bastion",
-      "Trade 2 Value": "21,305.00"
+      "Trade 2 Value": "5,101.25"
     },
     "Trade 3": {
       "Value": "Nasa Quagmire",
@@ -20091,7 +20091,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "132,461.06"
+    "Trades": "116,257.31"
   },
   "Republic of Rostora": {
     "Nations": "Republic of Rostora",
@@ -20403,20 +20403,20 @@
     "Nations": "Rokmar Camp",
     "Nation Check": "Rokmar Camp",
     "Overlord": "The Last Bastion",
-    "Eco Vassals": "958,302.38",
-    "Eco Over.": "2,361,976.53",
+    "Eco Vassals": "929,709.75",
+    "Eco Over.": "2,072,527.34",
     "Compare": "1,167,731.00",
-    "MP Vassals": "40.57%",
+    "MP Vassals": "44.86%",
     "MP Over.": "377,864.00",
     "20% Total": "32.36%",
-    "Vassal Type": "14.59%",
+    "Vassal Type": "15.44%",
     "": "0.00%",
     "L. Desire": "The Last Bastion Nonprovince",
     "Base": "0.25",
-    "Comparison": "59.54%",
-    "Individual": "59.54%",
-    "Friend/Rival": "14.59%",
-    "Taxes": "1.62%",
+    "Comparison": "60.47%",
+    "Individual": "60.47%",
+    "Friend/Rival": "15.44%",
+    "Taxes": "1.69%",
     "Indep War?": "18.33%",
     "Autonomy": "25.00%",
     "Threshold": "",
@@ -20505,20 +20505,20 @@
     "Nations": "Rosefire Dynasty",
     "Nation Check": "Rosefire Dynasty",
     "Overlord": "The Kingdom of Zahar",
-    "Eco Vassals": "289,356.96",
-    "Eco Over.": "1,294,395.11",
+    "Eco Vassals": "292,244.46",
+    "Eco Over.": "1,227,703.46",
     "Compare": "330,784.00",
-    "MP Vassals": "22.35%",
+    "MP Vassals": "23.80%",
     "MP Over.": "123,163.00",
     "20% Total": "37.23%",
-    "Vassal Type": "11.92%",
+    "Vassal Type": "12.21%",
     "": "0.00%",
     "L. Desire": "The Kingdom of Zahar Nonprovince",
     "Base": "1.00",
-    "Comparison": "22.85%",
-    "Individual": "22.85%",
-    "Friend/Rival": "11.92%",
-    "Taxes": "3.43%",
+    "Comparison": "23.20%",
+    "Individual": "23.20%",
+    "Friend/Rival": "12.21%",
+    "Taxes": "3.49%",
     "Indep War?": "12.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -20811,20 +20811,20 @@
     "Nations": "Sange Teren",
     "Nation Check": "Sange Teren",
     "Overlord": "Litovai Imperiu",
-    "Eco Vassals": "1,438,881.73",
-    "Eco Over.": "1,493,935.30",
+    "Eco Vassals": "1,253,966.13",
+    "Eco Over.": "1,473,634.22",
     "Compare": "628,935.00",
-    "MP Vassals": "96.31%",
-    "MP Over.": "490,652.00",
-    "20% Total": "78.01%",
-    "Vassal Type": "34.87%",
+    "MP Vassals": "85.09%",
+    "MP Over.": "404,857.00",
+    "20% Total": "64.37%",
+    "Vassal Type": "29.89%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Nonprovince",
     "Base": "0.25",
-    "Comparison": "51.05%",
-    "Individual": "51.05%",
-    "Friend/Rival": "34.87%",
-    "Taxes": "7.85%",
+    "Comparison": "46.14%",
+    "Individual": "46.14%",
+    "Friend/Rival": "29.89%",
+    "Taxes": "7.91%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -21059,7 +21059,7 @@
     },
     "Trade 4": {
       "Value": "Zalmoxia",
-      "Trade 4 Value": "6,930.00"
+      "Trade 4 Value": "9,240.00"
     },
     "Trade 5": {
       "Value": "Dreikland",
@@ -21071,7 +21071,7 @@
     },
     "Trade 7": {
       "Value": "Elphonsa",
-      "Trade 7 Value": "5,025.00"
+      "Trade 7 Value": "3,768.75"
     },
     "Trade 8": {
       "Value": "Arcadia",
@@ -21111,26 +21111,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "139,892.87"
+    "Trades": "140,946.62"
   },
   "Second State of Los": {
     "Nations": "Second State of Los",
     "Nation Check": "Second State of Los",
     "Overlord": "The Last Bastion",
-    "Eco Vassals": "958,302.38",
-    "Eco Over.": "2,361,976.53",
+    "Eco Vassals": "929,709.75",
+    "Eco Over.": "2,072,527.34",
     "Compare": "1,167,731.00",
-    "MP Vassals": "40.57%",
+    "MP Vassals": "44.86%",
     "MP Over.": "377,864.00",
     "20% Total": "32.36%",
-    "Vassal Type": "14.59%",
+    "Vassal Type": "15.44%",
     "": "0.00%",
     "L. Desire": "The Last Bastion Nonprovince",
     "Base": "0.25",
-    "Comparison": "25.71%",
-    "Individual": "25.71%",
-    "Friend/Rival": "14.59%",
-    "Taxes": "6.12%",
+    "Comparison": "26.78%",
+    "Individual": "26.78%",
+    "Friend/Rival": "15.44%",
+    "Taxes": "6.34%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "No",
@@ -21157,7 +21157,7 @@
     },
     "Trade 3": {
       "Value": "The Last Bastion",
-      "Trade 3 Value": "21,305.00"
+      "Trade 3 Value": "5,101.25"
     },
     "Trade 4": {
       "Value": "Kingdom of Ardungual",
@@ -21213,7 +21213,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "33,606.58"
+    "Trades": "17,402.83"
   },
   "Shakisu": {
     "Nations": "Shakisu",
@@ -21626,40 +21626,40 @@
   "Soroner": {
     "Nations": "Soroner",
     "Nation Check": "Soroner",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
+    "Overlord": "Royaume sous de l'Aurore",
+    "Eco Vassals": "781,581.89",
+    "Eco Over.": "1,291,212.92",
+    "Compare": "509,052.00",
+    "MP Vassals": "60.53%",
+    "MP Over.": "179,053.00",
+    "20% Total": "35.17%",
+    "Vassal Type": "19.14%",
     "": "0.00%",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "",
-    "Individual": "",
-    "Friend/Rival": "",
-    "Taxes": "",
-    "Indep War?": "",
+    "L. Desire": "Royaume sous de l'Aurore Nonprovince",
+    "Base": "0.25",
+    "Comparison": "15.12%",
+    "Individual": "15.12%",
+    "Friend/Rival": "19.14%",
+    "Taxes": "0.98%",
+    "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
+    "Chaotic?": "Cultural",
+    "Deceptive?": "100.00%",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "FALSE",
+    "Ov. Religion": "TRUE",
+    "Non-aggression Pacts": "Aurore",
+    "Defensive Pacts": "Naissance Pantheon",
     "Defensive Pacts 2": "Stratavia ",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "6"
+      "Trade 1 Value": "5"
     },
     "Trade 2": {
       "Value": "Clan of Skye ",
@@ -22275,11 +22275,11 @@
     },
     "Trade 2": {
       "Value": "The Last Bastion",
-      "Trade 2 Value": "21,305.00"
+      "Trade 2 Value": "5,101.25"
     },
     "Trade 3": {
       "Value": "Royaume sous de l'Aurore",
-      "Trade 3 Value": "32,935.39"
+      "Trade 3 Value": "29,767.82"
     },
     "Trade 4": {
       "Value": "Meadoia Dynasty",
@@ -22291,7 +22291,7 @@
     },
     "Trade 6": {
       "Value": "Maldune",
-      "Trade 6 Value": "64,532.00"
+      "Trade 6 Value": "30,550.00"
     },
     "Trade 7": {
       "Value": "Jubal'on",
@@ -22311,7 +22311,7 @@
     },
     "Trade 11": {
       "Value": "Arethousa",
-      "Trade 11 Value": "10,743.99"
+      "Trade 11 Value": "11,696.19"
     },
     "Trade 12": {
       "Value": "",
@@ -22335,7 +22335,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "415,947.70"
+    "Trades": "363,546.58"
   },
   "The Last Bastion": {
     "Nations": "The Last Bastion",
@@ -22397,7 +22397,7 @@
     },
     "Trade 7": {
       "Value": "Royaume sous de l'Aurore",
-      "Trade 7 Value": "32,935.39"
+      "Trade 7 Value": "29,767.82"
     },
     "Trade 8": {
       "Value": "Meadoia Dynasty",
@@ -22437,7 +22437,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "430,243.72"
+    "Trades": "427,076.15"
   },
   "Svetograd": {
     "Nations": "Svetograd",
@@ -22515,7 +22515,7 @@
     },
     "Trade 11": {
       "Value": "Elphonsa",
-      "Trade 11 Value": "5,025.00"
+      "Trade 11 Value": "3,768.75"
     },
     "Trade 12": {
       "Value": "Imperial City of Soria",
@@ -22539,7 +22539,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "143,193.86"
+    "Trades": "141,937.61"
   },
   "Tautaspils [Dead]": {
     "Nations": "Tautaspils [Dead]",
@@ -22597,7 +22597,7 @@
     },
     "Trade 6": {
       "Value": "Pyhätmetsät",
-      "Trade 6 Value": "6,154.90"
+      "Trade 6 Value": "959.23"
     },
     "Trade 7": {
       "Value": "",
@@ -22641,26 +22641,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "72,703.68"
+    "Trades": "67,508.00"
   },
   "Tavir": {
     "Nations": "Tavir",
     "Nation Check": "Tavir",
     "Overlord": "Nasa Quagmire",
     "Eco Vassals": "330,325.07",
-    "Eco Over.": "908,256.85",
+    "Eco Over.": "855,561.81",
     "Compare": "290,244.00",
-    "MP Vassals": "36.37%",
+    "MP Vassals": "38.61%",
     "MP Over.": "114,319.00",
     "20% Total": "39.39%",
-    "Vassal Type": "15.15%",
+    "Vassal Type": "15.60%",
     "": "-25.00%",
     "L. Desire": "Nasa Quagmire Nonprovince",
     "Base": "0.25",
-    "Comparison": "16.36%",
-    "Individual": "16.36%",
-    "Friend/Rival": "15.15%",
-    "Taxes": "14.54%",
+    "Comparison": "17.22%",
+    "Individual": "17.22%",
+    "Friend/Rival": "15.60%",
+    "Taxes": "14.95%",
     "Indep War?": "11.67%",
     "Autonomy": "",
     "Threshold": "No",
@@ -23209,7 +23209,7 @@
     },
     "Trade 6": {
       "Value": "The Last Bastion",
-      "Trade 6 Value": "21,305.00"
+      "Trade 6 Value": "5,101.25"
     },
     "Trade 7": {
       "Value": "",
@@ -23253,7 +23253,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "32,530.43"
+    "Trades": "16,326.68"
   },
   "The Al-Deni Dominion": {
     "Nations": "The Al-Deni Dominion",
@@ -23463,20 +23463,20 @@
     "Nations": "The Banana Republic",
     "Nation Check": "The Banana Republic",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "1,953,776.80",
+    "Eco Vassals": "1,958,004.59",
     "Eco Over.": "1,306,794.71",
-    "Compare": "391,710.00",
-    "MP Vassals": "149.51%",
+    "Compare": "390,023.00",
+    "MP Vassals": "149.83%",
     "MP Over.": "291,940.00",
-    "20% Total": "74.53%",
-    "Vassal Type": "44.81%",
+    "20% Total": "74.85%",
+    "Vassal Type": "44.94%",
     "": "0.00%",
     "L. Desire": "Kingdom of Mimgrond Nonprovince",
     "Base": "1.00",
-    "Comparison": "41.06%",
-    "Individual": "41.06%",
-    "Friend/Rival": "44.81%",
-    "Taxes": "13.75%",
+    "Comparison": "41.24%",
+    "Individual": "41.24%",
+    "Friend/Rival": "44.94%",
+    "Taxes": "13.81%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -23535,7 +23535,7 @@
     },
     "Trade 11": {
       "Value": "Zalmoxia",
-      "Trade 11 Value": "6,930.00"
+      "Trade 11 Value": "9,240.00"
     },
     "Trade 12": {
       "Value": "Maa",
@@ -23559,7 +23559,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "413,750.41"
+    "Trades": "416,060.41"
   },
   "The Awakened": {
     "Nations": "The Awakened",
@@ -23629,7 +23629,7 @@
     },
     "Trade 9": {
       "Value": "Maldune",
-      "Trade 9 Value": "64,532.00"
+      "Trade 9 Value": "30,550.00"
     },
     "Trade 10": {
       "Value": "Clankar Cog",
@@ -23661,14 +23661,14 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "128,011.63"
+    "Trades": "94,029.63"
   },
   "The Charter Territory of Riveria": {
     "Nations": "The Charter Territory of Riveria",
     "Nation Check": "The Charter Territory of Riveria",
     "Overlord": "Fray Ventos",
     "Eco Vassals": "14,120.00",
-    "Eco Over.": "610,850.44",
+    "Eco Over.": "610,525.44",
     "Compare": "282,555.00",
     "MP Vassals": "2.31%",
     "MP Over.": "6,285.00",
@@ -24232,8 +24232,8 @@
       "Trade 6 Value": "1,897.20"
     },
     "Trade 7": {
-      "Value": "Pyhätmetsät",
-      "Trade 7 Value": "6,154.90"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "Akaḣpetoƞ",
@@ -24273,26 +24273,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "38,834.28"
+    "Trades": "32,679.38"
   },
   "The Kingdom of Hemia": {
     "Nations": "The Kingdom of Hemia",
     "Nation Check": "The Kingdom of Hemia",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "1,953,776.80",
+    "Eco Vassals": "1,958,004.59",
     "Eco Over.": "1,306,794.71",
-    "Compare": "391,710.00",
-    "MP Vassals": "149.51%",
+    "Compare": "390,023.00",
+    "MP Vassals": "149.83%",
     "MP Over.": "291,940.00",
-    "20% Total": "74.53%",
-    "Vassal Type": "44.81%",
+    "20% Total": "74.85%",
+    "Vassal Type": "44.94%",
     "": "0.00%",
     "L. Desire": "Kingdom of Mimgrond Nonprovince",
     "Base": "1.00",
-    "Comparison": "62.90%",
-    "Individual": "62.90%",
-    "Friend/Rival": "44.81%",
-    "Taxes": "9.76%",
+    "Comparison": "63.08%",
+    "Individual": "63.08%",
+    "Friend/Rival": "44.94%",
+    "Taxes": "9.81%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -24335,7 +24335,7 @@
     },
     "Trade 7": {
       "Value": "Zalmoxia",
-      "Trade 7 Value": "6,930.00"
+      "Trade 7 Value": "9,240.00"
     },
     "Trade 8": {
       "Value": "Maa",
@@ -24375,7 +24375,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "93,539.71"
+    "Trades": "95,849.71"
   },
   "The Kingdom of Lunar": {
     "Nations": "The Kingdom of Lunar",
@@ -24621,7 +24621,7 @@
     },
     "Trade 2": {
       "Value": "Royaume sous de l'Aurore",
-      "Trade 2 Value": "32,935.39"
+      "Trade 2 Value": "29,767.82"
     },
     "Trade 3": {
       "Value": "Netsanet Republic",
@@ -24629,7 +24629,7 @@
     },
     "Trade 4": {
       "Value": "Maldune",
-      "Trade 4 Value": "64,532.00"
+      "Trade 4 Value": "30,550.00"
     },
     "Trade 5": {
       "Value": "Meadoia Dynasty",
@@ -24645,7 +24645,7 @@
     },
     "Trade 8": {
       "Value": "The Last Bastion",
-      "Trade 8 Value": "21,305.00"
+      "Trade 8 Value": "5,101.25"
     },
     "Trade 9": {
       "Value": "",
@@ -24681,26 +24681,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "396,593.09"
+    "Trades": "343,239.77"
   },
   "Graphite's Khorshunin Kingdom": {
     "Nations": "Graphite's Khorshunin Kingdom",
     "Nation Check": "Graphite's Khorshunin Kingdom",
     "Overlord": "Amethyst Clan",
     "Eco Vassals": "94,295.81",
-    "Eco Over.": "282,895.50",
+    "Eco Over.": "285,090.00",
     "Compare": "170,925.00",
-    "MP Vassals": "33.33%",
+    "MP Vassals": "33.08%",
     "MP Over.": "65,876.00",
     "20% Total": "38.54%",
-    "Vassal Type": "14.37%",
+    "Vassal Type": "14.32%",
     "": "0.00%",
     "L. Desire": "Amethyst Clan Nonprovince",
     "Base": "0.25",
-    "Comparison": "30.42%",
-    "Individual": "30.42%",
-    "Friend/Rival": "14.37%",
-    "Taxes": "14.37%",
+    "Comparison": "30.31%",
+    "Individual": "30.31%",
+    "Friend/Rival": "14.32%",
+    "Taxes": "14.32%",
     "Indep War?": "21.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -24861,11 +24861,11 @@
     },
     "Trade 11": {
       "Value": "Maldune",
-      "Trade 11 Value": "64,532.00"
+      "Trade 11 Value": "30,550.00"
     },
     "Trade 12": {
       "Value": "Pyhätmetsät",
-      "Trade 12 Value": "6,154.90"
+      "Trade 12 Value": "959.23"
     },
     "Trade 13": {
       "Value": "The Grand City of Smmeíaia",
@@ -24885,7 +24885,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "135,927.99"
+    "Trades": "96,750.31"
   },
   "First O'irstorian Republic [Dead]": {
     "Nations": "First O'irstorian Republic [Dead]",
@@ -25299,19 +25299,19 @@
     "Nations": "Hrēgdom of the Erwā",
     "Nation Check": "Hrēgdom of the Erwā",
     "Overlord": "The Korassids",
-    "Eco Vassals": "1,557,742.02",
-    "Eco Over.": "1,128,785.88",
+    "Eco Vassals": "1,560,719.80",
+    "Eco Over.": "1,128,538.88",
     "Compare": "390,624.00",
-    "MP Vassals": "138.00%",
+    "MP Vassals": "138.30%",
     "MP Over.": "471,150.00",
     "20% Total": "120.61%",
-    "Vassal Type": "51.72%",
+    "Vassal Type": "51.78%",
     "": "0.00%",
     "L. Desire": "The Korassids Nonprovince",
     "Base": "1.00",
-    "Comparison": "54.69%",
-    "Individual": "54.69%",
-    "Friend/Rival": "51.72%",
+    "Comparison": "54.75%",
+    "Individual": "54.75%",
+    "Friend/Rival": "51.78%",
     "Taxes": "25.47%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -25959,7 +25959,7 @@
     },
     "Trade 5": {
       "Value": "The Last Bastion",
-      "Trade 5 Value": "21,305.00"
+      "Trade 5 Value": "5,101.25"
     },
     "Trade 6": {
       "Value": "",
@@ -26007,7 +26007,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "28,621.35"
+    "Trades": "12,417.60"
   },
   "Tribes of Lunaria [Dead]": {
     "Nations": "Tribes of Lunaria [Dead]",
@@ -26218,19 +26218,19 @@
     "Nation Check": "Tsûa Lâng",
     "Overlord": "Nasa Quagmire",
     "Eco Vassals": "330,325.07",
-    "Eco Over.": "908,256.85",
+    "Eco Over.": "855,561.81",
     "Compare": "290,244.00",
-    "MP Vassals": "36.37%",
+    "MP Vassals": "38.61%",
     "MP Over.": "114,319.00",
     "20% Total": "39.39%",
-    "Vassal Type": "15.15%",
+    "Vassal Type": "15.60%",
     "": "0.00%",
     "L. Desire": "Nasa Quagmire Nonprovince",
     "Base": "1.00",
-    "Comparison": "5.76%",
-    "Individual": "5.76%",
-    "Friend/Rival": "15.15%",
-    "Taxes": "0.61%",
+    "Comparison": "6.25%",
+    "Individual": "6.25%",
+    "Friend/Rival": "15.60%",
+    "Taxes": "0.65%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -26379,7 +26379,7 @@
     },
     "Trade 8": {
       "Value": "The Last Bastion",
-      "Trade 8 Value": "21,305.00"
+      "Trade 8 Value": "5,101.25"
     },
     "Trade 9": {
       "Value": "Ewig Republic",
@@ -26415,26 +26415,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "354,228.73"
+    "Trades": "338,024.98"
   },
   "Ulanasa Republic": {
     "Nations": "Ulanasa Republic",
     "Nation Check": "Ulanasa Republic",
     "Overlord": "Netsanet Republic",
     "Eco Vassals": "1,146,102.94",
-    "Eco Over.": "1,291,356.60",
+    "Eco Over.": "1,275,963.04",
     "Compare": "564,195.00",
-    "MP Vassals": "88.75%",
-    "MP Over.": "548,263.00",
-    "20% Total": "97.18%",
-    "Vassal Type": "37.19%",
+    "MP Vassals": "89.82%",
+    "MP Over.": "556,783.00",
+    "20% Total": "98.69%",
+    "Vassal Type": "37.70%",
     "": "0.00%",
     "L. Desire": "Netsanet Republic Nonprovince",
     "Base": "1.00",
-    "Comparison": "73.56%",
-    "Individual": "73.56%",
-    "Friend/Rival": "37.19%",
-    "Taxes": "6.38%",
+    "Comparison": "74.12%",
+    "Individual": "74.12%",
+    "Friend/Rival": "37.70%",
+    "Taxes": "6.41%",
     "Indep War?": "20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -26527,15 +26527,15 @@
     "Eco Over.": "1,401,524.82",
     "Compare": "249,480.00",
     "MP Vassals": "96.92%",
-    "MP Over.": "141,836.00",
-    "20% Total": "56.85%",
-    "Vassal Type": "30.75%",
+    "MP Over.": "150,272.00",
+    "20% Total": "60.23%",
+    "Vassal Type": "31.43%",
     "": "0.00%",
     "L. Desire": "Free Incus Trade Republic Nonprovince",
     "Base": "1.00",
-    "Comparison": "46.68%",
-    "Individual": "46.68%",
-    "Friend/Rival": "30.75%",
+    "Comparison": "47.36%",
+    "Individual": "47.36%",
+    "Friend/Rival": "31.43%",
     "Taxes": "10.93%",
     "Indep War?": "15.00%",
     "Autonomy": "",
@@ -26625,20 +26625,20 @@
     "Nations": "Unigol",
     "Nation Check": "Unigol",
     "Overlord": "Meadoia Dynasty",
-    "Eco Vassals": "1,668,276.55",
-    "Eco Over.": "1,707,106.91",
+    "Eco Vassals": "1,649,212.11",
+    "Eco Over.": "1,666,558.39",
     "Compare": "355,589.00",
-    "MP Vassals": "97.73%",
+    "MP Vassals": "98.96%",
     "MP Over.": "228,626.00",
     "20% Total": "64.30%",
-    "Vassal Type": "32.40%",
+    "Vassal Type": "32.65%",
     "": "0.00%",
     "L. Desire": "Meadoia Dynasty Nonprovince",
     "Base": "1.00",
-    "Comparison": "38.88%",
-    "Individual": "38.88%",
-    "Friend/Rival": "32.40%",
-    "Taxes": "5.98%",
+    "Comparison": "39.25%",
+    "Individual": "39.25%",
+    "Friend/Rival": "32.65%",
+    "Taxes": "6.09%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -27343,15 +27343,15 @@
     "Eco Over.": "4,008,935.27",
     "Compare": "1,131,641.00",
     "MP Vassals": "38.81%",
-    "MP Over.": "1,214,833.00",
-    "20% Total": "107.35%",
-    "Vassal Type": "29.23%",
+    "MP Over.": "1,198,812.00",
+    "20% Total": "105.94%",
+    "Vassal Type": "28.95%",
     "": "-25.00%",
     "L. Desire": "Uqhuma Killa Nonprovince",
     "Base": "1.00",
-    "Comparison": "14.59%",
-    "Individual": "14.59%",
-    "Friend/Rival": "29.23%",
+    "Comparison": "14.30%",
+    "Individual": "14.30%",
+    "Friend/Rival": "28.95%",
     "Taxes": "4.86%",
     "Indep War?": "10.00%",
     "Autonomy": "",
@@ -27489,7 +27489,7 @@
     },
     "Trade 5": {
       "Value": "Karak Klinka",
-      "Trade 5 Value": "11,252.75"
+      "Trade 5 Value": "11,827.75"
     },
     "Trade 6": {
       "Value": "",
@@ -27537,7 +27537,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "12,012.75"
+    "Trades": "12,587.75"
   },
   "Xiboda": {
     "Nations": "Xiboda",
@@ -27583,7 +27583,7 @@
     },
     "Trade 3": {
       "Value": "Maldune",
-      "Trade 3 Value": "64,532.00"
+      "Trade 3 Value": "30,550.00"
     },
     "Trade 4": {
       "Value": "Tautaspils",
@@ -27639,25 +27639,25 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "86,862.41"
+    "Trades": "52,880.41"
   },
   "Undermania": {
     "Nations": "Undermania",
     "Nation Check": "Undermania",
     "Overlord": "Jörðnar",
-    "Eco Vassals": "186,891.69",
-    "Eco Over.": "962,605.17",
+    "Eco Vassals": "187,610.44",
+    "Eco Over.": "978,153.05",
     "Compare": "424,766.00",
-    "MP Vassals": "19.42%",
+    "MP Vassals": "19.18%",
     "MP Over.": "123,524.00",
     "20% Total": "29.08%",
-    "Vassal Type": "9.70%",
+    "Vassal Type": "9.65%",
     "": "-25.00%",
     "L. Desire": "Jörðnar Nonprovince",
     "Base": "1.00",
     "Comparison": "0.00%",
-    "Individual": "-3.45%",
-    "Friend/Rival": "9.70%",
+    "Individual": "-3.50%",
+    "Friend/Rival": "9.65%",
     "Taxes": "4.35%",
     "Indep War?": "7.50%",
     "Autonomy": "",
@@ -27693,7 +27693,7 @@
     },
     "Trade 5": {
       "Value": "Karak Klinka",
-      "Trade 5 Value": "11,252.75"
+      "Trade 5 Value": "11,827.75"
     },
     "Trade 6": {
       "Value": "",
@@ -27741,26 +27741,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "12,012.75"
+    "Trades": "12,587.75"
   },
   "Picos Argent": {
     "Nations": "Picos Argent",
     "Nation Check": "Picos Argent",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "603,808.36",
-    "Eco Over.": "1,358,571.73",
+    "Eco Vassals": "614,030.48",
+    "Eco Over.": "1,358,319.98",
     "Compare": "549,038.00",
-    "MP Vassals": "44.44%",
-    "MP Over.": "245,908.00",
-    "20% Total": "44.79%",
-    "Vassal Type": "17.85%",
+    "MP Vassals": "45.21%",
+    "MP Over.": "242,477.00",
+    "20% Total": "44.16%",
+    "Vassal Type": "17.87%",
     "": "0.00%",
     "L. Desire": "Kranicvak Nixond Nonprovince",
     "Base": "0.25",
-    "Comparison": "17.96%",
-    "Individual": "17.96%",
-    "Friend/Rival": "17.85%",
-    "Taxes": "4.28%",
+    "Comparison": "18.22%",
+    "Individual": "18.22%",
+    "Friend/Rival": "17.87%",
+    "Taxes": "4.51%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -27783,7 +27783,7 @@
     },
     "Trade 2": {
       "Value": "Làidirstìr",
-      "Trade 2 Value": "7,284.00"
+      "Trade 2 Value": "22,091.50"
     },
     "Trade 3": {
       "Value": "Asahi Dareh",
@@ -27843,7 +27843,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "9,534.00"
+    "Trades": "24,341.50"
   },
   "Yeotang": {
     "Nations": "Yeotang",
@@ -27950,33 +27950,33 @@
   "Yuranisuk": {
     "Nations": "Yuranisuk",
     "Nation Check": "Yuranisuk",
-    "Overlord": "Onaokoku",
-    "Eco Vassals": "277,252.81",
-    "Eco Over.": "609,522.34",
-    "Compare": "320,591.00",
-    "MP Vassals": "45.49%",
-    "MP Over.": "137,166.00",
-    "20% Total": "42.79%",
-    "Vassal Type": "17.65%",
+    "Overlord": "",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "",
     "": "0.00%",
-    "L. Desire": "Onaokoku Nonprovince",
-    "Base": "0.25",
-    "Comparison": "44.29%",
-    "Individual": "44.29%",
-    "Friend/Rival": "17.65%",
-    "Taxes": "8.30%",
-    "Indep War?": "8.33%",
-    "Autonomy": "10.00%",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "",
+    "Individual": "",
+    "Friend/Rival": "",
+    "Taxes": "",
+    "Indep War?": "",
+    "Autonomy": "",
     "Threshold": "",
-    "Chaotic?": "Cultural",
-    "Deceptive?": "100.00%",
-    "Honor?": "FALSE",
-    "Indep.?": "FALSE",
-    "Unity?": "FALSE",
-    "Ov. Culture": "FALSE",
-    "Ov. Religion": "TRUE",
-    "Non-aggression Pacts": "Shiawase",
-    "Defensive Pacts": "Saku-na-Hana",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
@@ -28053,20 +28053,20 @@
     "Nations": "Zalmoxia",
     "Nation Check": "Zalmoxia",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "1,953,776.80",
+    "Eco Vassals": "1,958,004.59",
     "Eco Over.": "1,306,794.71",
-    "Compare": "391,710.00",
-    "MP Vassals": "149.51%",
+    "Compare": "390,023.00",
+    "MP Vassals": "149.83%",
     "MP Over.": "291,940.00",
-    "20% Total": "74.53%",
-    "Vassal Type": "44.81%",
+    "20% Total": "74.85%",
+    "Vassal Type": "44.94%",
     "": "0.00%",
     "L. Desire": "Kingdom of Mimgrond Nonprovince",
     "Base": "1.00",
-    "Comparison": "50.66%",
-    "Individual": "50.66%",
-    "Friend/Rival": "44.81%",
-    "Taxes": "12.52%",
+    "Comparison": "50.78%",
+    "Individual": "50.78%",
+    "Friend/Rival": "44.94%",
+    "Taxes": "12.51%",
     "Indep War?": "3.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -28097,7 +28097,7 @@
     },
     "Trade 4": {
       "Value": "Elphonsa",
-      "Trade 4 Value": "5,025.00"
+      "Trade 4 Value": "3,768.75"
     },
     "Trade 5": {
       "Value": "Scientarium",
@@ -28149,7 +28149,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "96,895.96"
+    "Trades": "95,639.71"
   },
   "Zarkone": {
     "Nations": "Zarkone",
@@ -28462,19 +28462,19 @@
     "Nation Check": "Ashdayni Beneficiary",
     "Overlord": "The Aislings",
     "Eco Vassals": "6,197.30",
-    "Eco Over.": "75,320.85",
+    "Eco Over.": "55,066.16",
     "Compare": "15,169.00",
-    "MP Vassals": "8.23%",
+    "MP Vassals": "11.25%",
     "MP Over.": "0.00",
     "20% Total": "0.00%",
-    "Vassal Type": "1.65%",
+    "Vassal Type": "2.25%",
     "": "0.00%",
     "L. Desire": "The Aislings Nonprovince",
     "Base": "1.00",
     "Comparison": "0.00%",
-    "Individual": "-4.21%",
-    "Friend/Rival": "1.65%",
-    "Taxes": "1.65%",
+    "Individual": "-3.00%",
+    "Friend/Rival": "2.25%",
+    "Taxes": "2.25%",
     "Indep War?": "2.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -28564,19 +28564,19 @@
     "Nation Check": "Tala Htote",
     "Overlord": "Aethyrrajyam",
     "Eco Vassals": "1,036,971.98",
-    "Eco Over.": "2,287,127.40",
-    "Compare": "941,858.00",
-    "MP Vassals": "45.34%",
-    "MP Over.": "394,992.00",
-    "20% Total": "41.94%",
-    "Vassal Type": "17.46%",
+    "Eco Over.": "2,282,342.40",
+    "Compare": "917,726.00",
+    "MP Vassals": "45.43%",
+    "MP Over.": "399,809.00",
+    "20% Total": "43.57%",
+    "Vassal Type": "17.80%",
     "": "0.00%",
     "L. Desire": "Aethyrrajyam Nonprovince",
     "Base": "0.25",
-    "Comparison": "55.84%",
-    "Individual": "55.84%",
-    "Friend/Rival": "17.46%",
-    "Taxes": "1.72%",
+    "Comparison": "56.21%",
+    "Individual": "56.21%",
+    "Friend/Rival": "17.80%",
+    "Taxes": "1.75%",
     "Indep War?": "31.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -28909,7 +28909,7 @@
     },
     "Trade 3": {
       "Value": "Làidirstìr",
-      "Trade 3 Value": "7,284.00"
+      "Trade 3 Value": "22,091.50"
     },
     "Trade 4": {
       "Value": "Viontes Reclamation Authority",
@@ -28965,26 +28965,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "23,994.03"
+    "Trades": "38,801.53"
   },
   "Viontes Reclamation Authority": {
     "Nations": "Viontes Reclamation Authority",
     "Nation Check": "Viontes Reclamation Authority",
     "Overlord": "Schizaria",
-    "Eco Vassals": "264,288.17",
-    "Eco Over.": "211,512.53",
+    "Eco Vassals": "296,864.67",
+    "Eco Over.": "230,021.91",
     "Compare": "114,368.00",
-    "MP Vassals": "124.95%",
+    "MP Vassals": "129.06%",
     "MP Over.": "110,788.00",
     "20% Total": "96.87%",
-    "Vassal Type": "44.36%",
+    "Vassal Type": "45.19%",
     "": "-25.00%",
     "L. Desire": "Schizaria Nonprovince",
     "Base": "1.00",
-    "Comparison": "26.94%",
-    "Individual": "26.94%",
-    "Friend/Rival": "44.36%",
-    "Taxes": "35.08%",
+    "Comparison": "27.78%",
+    "Individual": "27.78%",
+    "Friend/Rival": "45.19%",
+    "Taxes": "35.10%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -29011,7 +29011,7 @@
     },
     "Trade 3": {
       "Value": "Làidirstìr",
-      "Trade 3 Value": "7,284.00"
+      "Trade 3 Value": "22,091.50"
     },
     "Trade 4": {
       "Value": "Jörðnar",
@@ -29067,26 +29067,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "19,180.20"
+    "Trades": "33,987.70"
   },
   "Ananthapur Nayrar": {
     "Nations": "Ananthapur Nayrar",
     "Nation Check": "Ananthapur Nayrar",
     "Overlord": "Aethyrrajyam",
     "Eco Vassals": "870,710.94",
-    "Eco Over.": "1,710,996.93",
-    "Compare": "610,077.00",
-    "MP Vassals": "50.89%",
+    "Eco Over.": "1,706,211.93",
+    "Compare": "585,945.00",
+    "MP Vassals": "51.03%",
     "MP Over.": "331,781.00",
-    "20% Total": "54.38%",
-    "Vassal Type": "21.05%",
+    "20% Total": "56.62%",
+    "Vassal Type": "21.53%",
     "": "-25.00%",
     "L. Desire": "Aethyrrajyam Province",
     "Base": "0.00",
     "Comparison": "0.00%",
-    "Individual": "-19.78%",
-    "Friend/Rival": "21.05%",
-    "Taxes": "4.17%",
+    "Individual": "-19.21%",
+    "Friend/Rival": "21.53%",
+    "Taxes": "4.26%",
     "Indep War?": "-15.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -29175,20 +29175,20 @@
     "Nations": "Goldridge [Dead]",
     "Nation Check": "Goldridge",
     "Overlord": "Schizaria",
-    "Eco Vassals": "264,288.17",
-    "Eco Over.": "211,512.53",
+    "Eco Vassals": "296,864.67",
+    "Eco Over.": "230,021.91",
     "Compare": "114,368.00",
-    "MP Vassals": "124.95%",
+    "MP Vassals": "129.06%",
     "MP Over.": "110,788.00",
     "20% Total": "96.87%",
-    "Vassal Type": "44.36%",
+    "Vassal Type": "45.19%",
     "": "0.00%",
     "L. Desire": "Schizaria Nonprovince",
     "Base": "1.00",
-    "Comparison": "36.15%",
-    "Individual": "36.15%",
-    "Friend/Rival": "44.36%",
-    "Taxes": "9.29%",
+    "Comparison": "37.77%",
+    "Individual": "37.77%",
+    "Friend/Rival": "45.19%",
+    "Taxes": "10.09%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -29215,7 +29215,7 @@
     },
     "Trade 3": {
       "Value": "Làidirstìr",
-      "Trade 3 Value": "7,284.00"
+      "Trade 3 Value": "22,091.50"
     },
     "Trade 4": {
       "Value": "Viontes Reclamation Authority",
@@ -29271,26 +29271,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "14,930.23"
+    "Trades": "29,737.73"
   },
   "Eriyar Pyarr": {
     "Nations": "Eriyar Pyarr",
     "Nation Check": "Eriyar Pyarr",
     "Overlord": "Aethyrrajyam",
     "Eco Vassals": "870,710.94",
-    "Eco Over.": "1,710,996.93",
-    "Compare": "610,077.00",
-    "MP Vassals": "50.89%",
+    "Eco Over.": "1,706,211.93",
+    "Compare": "585,945.00",
+    "MP Vassals": "51.03%",
     "MP Over.": "331,781.00",
-    "20% Total": "54.38%",
-    "Vassal Type": "21.05%",
+    "20% Total": "56.62%",
+    "Vassal Type": "21.53%",
     "": "0.00%",
     "L. Desire": "Aethyrrajyam Province",
     "Base": "0.00",
     "Comparison": "0.00%",
-    "Individual": "-46.27%",
-    "Friend/Rival": "21.05%",
-    "Taxes": "7.68%",
+    "Individual": "-45.61%",
+    "Friend/Rival": "21.53%",
+    "Taxes": "7.86%",
     "Indep War?": "-15.00%",
     "Autonomy": "-55.00%",
     "Threshold": "",
@@ -29380,19 +29380,19 @@
     "Nation Check": "Myetrai Kyataal",
     "Overlord": "Aethyrrajyam",
     "Eco Vassals": "870,710.94",
-    "Eco Over.": "1,710,996.93",
-    "Compare": "610,077.00",
-    "MP Vassals": "50.89%",
+    "Eco Over.": "1,706,211.93",
+    "Compare": "585,945.00",
+    "MP Vassals": "51.03%",
     "MP Over.": "331,781.00",
-    "20% Total": "54.38%",
-    "Vassal Type": "21.05%",
+    "20% Total": "56.62%",
+    "Vassal Type": "21.53%",
     "": "0.00%",
     "L. Desire": "Aethyrrajyam Province",
     "Base": "0.00",
     "Comparison": "0.00%",
-    "Individual": "-44.74%",
-    "Friend/Rival": "21.05%",
-    "Taxes": "9.21%",
+    "Individual": "-44.06%",
+    "Friend/Rival": "21.53%",
+    "Taxes": "9.41%",
     "Indep War?": "-15.00%",
     "Autonomy": "-55.00%",
     "Threshold": "",
@@ -29482,19 +29482,19 @@
     "Nation Check": "Ducat Flumine",
     "Overlord": "Litovai Imperiu",
     "Eco Vassals": "836,036.44",
-    "Eco Over.": "836,120.64",
+    "Eco Over.": "815,819.56",
     "Compare": "286,125.00",
-    "MP Vassals": "99.99%",
+    "MP Vassals": "102.48%",
     "MP Over.": "342,810.00",
     "20% Total": "119.81%",
-    "Vassal Type": "43.96%",
+    "Vassal Type": "44.46%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Province",
     "Base": "0.00",
     "Comparison": "0.00%",
-    "Individual": "-1.32%",
-    "Friend/Rival": "43.96%",
-    "Taxes": "19.72%",
+    "Individual": "-0.61%",
+    "Friend/Rival": "44.46%",
+    "Taxes": "19.94%",
     "Indep War?": "-15.00%",
     "Autonomy": "-55.00%",
     "Threshold": "",
@@ -29584,19 +29584,19 @@
     "Nation Check": "Ducat Supramarii",
     "Overlord": "Litovai Imperiu",
     "Eco Vassals": "836,036.44",
-    "Eco Over.": "836,120.64",
+    "Eco Over.": "815,819.56",
     "Compare": "286,125.00",
-    "MP Vassals": "99.99%",
+    "MP Vassals": "102.48%",
     "MP Over.": "342,810.00",
     "20% Total": "119.81%",
-    "Vassal Type": "43.96%",
+    "Vassal Type": "44.46%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Province",
     "Base": "0.00",
     "Comparison": "0.00%",
-    "Individual": "-8.79%",
-    "Friend/Rival": "43.96%",
-    "Taxes": "12.25%",
+    "Individual": "-8.15%",
+    "Friend/Rival": "44.46%",
+    "Taxes": "12.40%",
     "Indep War?": "-15.00%",
     "Autonomy": "-55.00%",
     "Threshold": "",
@@ -29686,19 +29686,19 @@
     "Nation Check": "Territori Orientale",
     "Overlord": "Litovai Imperiu",
     "Eco Vassals": "836,036.44",
-    "Eco Over.": "836,120.64",
+    "Eco Over.": "815,819.56",
     "Compare": "286,125.00",
-    "MP Vassals": "99.99%",
+    "MP Vassals": "102.48%",
     "MP Over.": "342,810.00",
     "20% Total": "119.81%",
-    "Vassal Type": "43.96%",
+    "Vassal Type": "44.46%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Province",
     "Base": "0.00",
     "Comparison": "0.00%",
-    "Individual": "-9.05%",
-    "Friend/Rival": "43.96%",
-    "Taxes": "11.99%",
+    "Individual": "-8.42%",
+    "Friend/Rival": "44.46%",
+    "Taxes": "12.13%",
     "Indep War?": "-15.00%",
     "Autonomy": "-55.00%",
     "Threshold": "",
@@ -31114,17 +31114,17 @@
     "Nation Check": "Murenman",
     "Overlord": "Scientarium",
     "Eco Vassals": "149,594.38",
-    "Eco Over.": "644,961.05",
+    "Eco Over.": "645,962.11",
     "Compare": "107,279.00",
-    "MP Vassals": "23.19%",
+    "MP Vassals": "23.16%",
     "MP Over.": "30,600.00",
     "20% Total": "28.52%",
     "Vassal Type": "10.34%",
     "": "0.00%",
     "L. Desire": "Scientarium Nonprovince",
     "Base": "1.00",
-    "Comparison": "5.69%",
-    "Individual": "5.69%",
+    "Comparison": "5.67%",
+    "Individual": "5.67%",
     "Friend/Rival": "10.34%",
     "Taxes": "10.34%",
     "Indep War?": "-5.00%",
@@ -31726,19 +31726,19 @@
     "Nation Check": "Opolst Eredas",
     "Overlord": "Ashdayn",
     "Eco Vassals": "69,017.38",
-    "Eco Over.": "421,056.42",
+    "Eco Over.": "422,798.85",
     "Compare": "227,273.00",
-    "MP Vassals": "16.39%",
+    "MP Vassals": "16.32%",
     "MP Over.": "48,682.00",
     "20% Total": "21.42%",
-    "Vassal Type": "7.56%",
+    "Vassal Type": "7.55%",
     "": "0.00%",
     "L. Desire": "Ashdayn Nonprovince",
     "Base": "1.00",
-    "Comparison": "17.62%",
-    "Individual": "17.62%",
-    "Friend/Rival": "7.56%",
-    "Taxes": "7.56%",
+    "Comparison": "17.60%",
+    "Individual": "17.60%",
+    "Friend/Rival": "7.55%",
+    "Taxes": "7.55%",
     "Indep War?": "7.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -32239,15 +32239,15 @@
     "Eco Over.": "4,008,935.27",
     "Compare": "1,131,641.00",
     "MP Vassals": "38.81%",
-    "MP Over.": "1,214,833.00",
-    "20% Total": "107.35%",
-    "Vassal Type": "29.23%",
+    "MP Over.": "1,198,812.00",
+    "20% Total": "105.94%",
+    "Vassal Type": "28.95%",
     "": "0.00%",
     "L. Desire": "Uqhuma Killa Nonprovince",
     "Base": "0.25",
-    "Comparison": "62.54%",
-    "Individual": "62.54%",
-    "Friend/Rival": "29.23%",
+    "Comparison": "62.25%",
+    "Individual": "62.25%",
+    "Friend/Rival": "28.95%",
     "Taxes": "1.64%",
     "Indep War?": "21.67%",
     "Autonomy": "",
@@ -32341,15 +32341,15 @@
     "Eco Over.": "4,008,935.27",
     "Compare": "1,131,641.00",
     "MP Vassals": "38.81%",
-    "MP Over.": "1,214,833.00",
-    "20% Total": "107.35%",
-    "Vassal Type": "29.23%",
+    "MP Over.": "1,198,812.00",
+    "20% Total": "105.94%",
+    "Vassal Type": "28.95%",
     "": "0.00%",
     "L. Desire": "Uqhuma Killa Nonprovince",
     "Base": "0.25",
-    "Comparison": "58.15%",
-    "Individual": "58.15%",
-    "Friend/Rival": "29.23%",
+    "Comparison": "57.87%",
+    "Individual": "57.87%",
+    "Friend/Rival": "28.95%",
     "Taxes": "2.25%",
     "Indep War?": "21.67%",
     "Autonomy": "",
@@ -32443,15 +32443,15 @@
     "Eco Over.": "4,008,935.27",
     "Compare": "1,131,641.00",
     "MP Vassals": "38.81%",
-    "MP Over.": "1,214,833.00",
-    "20% Total": "107.35%",
-    "Vassal Type": "29.23%",
+    "MP Over.": "1,198,812.00",
+    "20% Total": "105.94%",
+    "Vassal Type": "28.95%",
     "": "0.00%",
     "L. Desire": "Uqhuma Killa Nonprovince",
     "Base": "0.25",
-    "Comparison": "58.78%",
-    "Individual": "58.78%",
-    "Friend/Rival": "29.23%",
+    "Comparison": "58.50%",
+    "Individual": "58.50%",
+    "Friend/Rival": "28.95%",
     "Taxes": "2.88%",
     "Indep War?": "21.67%",
     "Autonomy": "",
@@ -32545,15 +32545,15 @@
     "Eco Over.": "4,008,935.27",
     "Compare": "1,131,641.00",
     "MP Vassals": "38.81%",
-    "MP Over.": "1,214,833.00",
-    "20% Total": "107.35%",
-    "Vassal Type": "29.23%",
+    "MP Over.": "1,198,812.00",
+    "20% Total": "105.94%",
+    "Vassal Type": "28.95%",
     "": "0.00%",
     "L. Desire": "Uqhuma Killa Nonprovince",
     "Base": "0.25",
-    "Comparison": "59.29%",
-    "Individual": "59.29%",
-    "Friend/Rival": "29.23%",
+    "Comparison": "59.01%",
+    "Individual": "59.01%",
+    "Friend/Rival": "28.95%",
     "Taxes": "1.73%",
     "Indep War?": "28.33%",
     "Autonomy": "",
@@ -32749,15 +32749,15 @@
     "Eco Over.": "4,008,935.27",
     "Compare": "1,131,641.00",
     "MP Vassals": "38.81%",
-    "MP Over.": "1,214,833.00",
-    "20% Total": "107.35%",
-    "Vassal Type": "29.23%",
+    "MP Over.": "1,198,812.00",
+    "20% Total": "105.94%",
+    "Vassal Type": "28.95%",
     "": "0.00%",
     "L. Desire": "Uqhuma Killa Nonprovince",
     "Base": "0.25",
-    "Comparison": "52.76%",
-    "Individual": "52.76%",
-    "Friend/Rival": "29.23%",
+    "Comparison": "52.47%",
+    "Individual": "52.47%",
+    "Friend/Rival": "28.95%",
     "Taxes": "1.86%",
     "Indep War?": "21.67%",
     "Autonomy": "",
@@ -33459,20 +33459,20 @@
     "Nations": "Cortaria",
     "Nation Check": "Cortaria",
     "Overlord": "Litovai Imperiu",
-    "Eco Vassals": "1,438,881.73",
-    "Eco Over.": "1,493,935.30",
+    "Eco Vassals": "1,253,966.13",
+    "Eco Over.": "1,473,634.22",
     "Compare": "628,935.00",
-    "MP Vassals": "96.31%",
-    "MP Over.": "490,652.00",
-    "20% Total": "78.01%",
-    "Vassal Type": "34.87%",
+    "MP Vassals": "85.09%",
+    "MP Over.": "404,857.00",
+    "20% Total": "64.37%",
+    "Vassal Type": "29.89%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Nonprovince",
     "Base": "0.25",
-    "Comparison": "51.28%",
-    "Individual": "51.28%",
-    "Friend/Rival": "34.87%",
-    "Taxes": "3.08%",
+    "Comparison": "46.32%",
+    "Individual": "46.32%",
+    "Friend/Rival": "29.89%",
+    "Taxes": "3.10%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
