@@ -4652,8 +4652,8 @@
       "Trade 7 Value": "2,813.85"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "The Wendel Witaner",
+      "Trade 8 Value": "1,650.00"
     },
     "Trade 9": {
       "Value": "",
@@ -4689,7 +4689,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "30,992.48"
+    "Trades": "32,642.48"
   },
   "Cóchua Kingdom": {
     "Nations": "Cóchua Kingdom",
@@ -21961,7 +21961,7 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "Republic of Nymaro",
-    "Military Alliances 2": "",
+    "Military Alliances 2": "Audgunn",
     "Limit": "Sarmatai Confederation",
     "Trade 1": {
       "Value": "Tort Uli Xaliq",
@@ -25640,8 +25640,8 @@
       "Trade 1 Value": "9"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Cleannmor",
+      "Trade 2 Value": "2,320.00"
     },
     "Trade 3": {
       "Value": "",
@@ -25701,7 +25701,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "0.00"
+    "Trades": "2,320.00"
   },
   "The Wild Fields": {
     "Nations": "The Wild Fields",
@@ -33385,11 +33385,11 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "",
+    "Military Alliances 2": "Cossacks",
+    "Limit": "Republic of Nymaro",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "2"
+      "Trade 1 Value": "4"
     },
     "Trade 2": {
       "Value": "",
