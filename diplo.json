@@ -1737,19 +1737,19 @@
     "Nations": "Asahi Dareh",
     "Nation Check": "Asahi Dareh",
     "Overlord": "The Khorassids",
-    "Eco Vassals": "1,864,182.98",
+    "Eco Vassals": "1,876,182.98",
     "Eco Over.": "1,376,187.27",
     "Compare": "513,031.00",
-    "MP Vassals": "135.46%",
+    "MP Vassals": "136.33%",
     "MP Over.": "550,880.00",
     "20% Total": "107.38%",
-    "Vassal Type": "48.57%",
+    "Vassal Type": "48.74%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "0.25",
-    "Comparison": "36.22%",
-    "Individual": "36.22%",
-    "Friend/Rival": "48.57%",
+    "Comparison": "36.39%",
+    "Individual": "36.39%",
+    "Friend/Rival": "48.74%",
     "Taxes": "2.65%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -3001,7 +3001,7 @@
     },
     "Trade 3": {
       "Value": "Ilikiu'Foriris",
-      "Trade 3 Value": "4,055.00"
+      "Trade 3 Value": "4,900.00"
     },
     "Trade 4": {
       "Value": "Skullantium",
@@ -3057,7 +3057,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "81,176.00"
+    "Trades": "82,021.00"
   },
   "Carya": {
     "Nations": "Carya",
@@ -4633,7 +4633,7 @@
     },
     "Trade 3": {
       "Value": "Ilikiu'Foriris",
-      "Trade 3 Value": "4,055.00"
+      "Trade 3 Value": "4,900.00"
     },
     "Trade 4": {
       "Value": "Neo-Kargatan Empire",
@@ -4689,26 +4689,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "370,030.65"
+    "Trades": "370,875.65"
   },
   "Denirar": {
     "Nations": "Denirar",
     "Nation Check": "Denirar",
     "Overlord": "Alonissos Isles",
-    "Eco Vassals": "435,994.44",
+    "Eco Vassals": "436,805.64",
     "Eco Over.": "1,190,374.96",
     "Compare": "365,345.00",
-    "MP Vassals": "36.63%",
+    "MP Vassals": "36.69%",
     "MP Over.": "31,350.00",
     "20% Total": "8.58%",
-    "Vassal Type": "9.04%",
+    "Vassal Type": "9.06%",
     "": "0.00%",
     "L. Desire": "Alonissos Isles Nonprovince",
     "Base": "1.00",
-    "Comparison": "9.75%",
-    "Individual": "9.75%",
-    "Friend/Rival": "9.04%",
-    "Taxes": "9.04%",
+    "Comparison": "9.78%",
+    "Individual": "9.78%",
+    "Friend/Rival": "9.06%",
+    "Taxes": "9.06%",
     "Indep War?": "1.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -4739,7 +4739,7 @@
     },
     "Trade 4": {
       "Value": "Ilikiu'Foriris",
-      "Trade 4 Value": "4,055.00"
+      "Trade 4 Value": "4,900.00"
     },
     "Trade 5": {
       "Value": "Alramia",
@@ -4791,7 +4791,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "279,082.75"
+    "Trades": "279,927.75"
   },
   "Dinasygan": {
     "Nations": "Dinasygan",
@@ -5578,8 +5578,8 @@
       "Trade 9 Value": "15,030.50"
     },
     "Trade 10": {
-      "Value": "Unconquered Sun",
-      "Trade 10 Value": "4,100.00"
+      "Value": "",
+      "Trade 10 Value": ""
     },
     "Trade 11": {
       "Value": "",
@@ -5607,7 +5607,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "154,727.92"
+    "Trades": "150,627.92"
   },
   "Elyen-Mev": {
     "Nations": "Elyen-Mev",
@@ -9591,20 +9591,20 @@
     "Nations": "Hrēgdom of the Erwā",
     "Nation Check": "Hrēgdom of the Erwā",
     "Overlord": "The Khorassids",
-    "Eco Vassals": "1,864,182.98",
+    "Eco Vassals": "1,876,182.98",
     "Eco Over.": "1,376,187.27",
     "Compare": "513,031.00",
-    "MP Vassals": "135.46%",
+    "MP Vassals": "136.33%",
     "MP Over.": "550,880.00",
     "20% Total": "107.38%",
-    "Vassal Type": "48.57%",
+    "Vassal Type": "48.74%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "1.00",
-    "Comparison": "51.19%",
-    "Individual": "51.19%",
-    "Friend/Rival": "48.57%",
-    "Taxes": "25.12%",
+    "Comparison": "51.54%",
+    "Individual": "51.54%",
+    "Friend/Rival": "48.74%",
+    "Taxes": "25.30%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -10133,7 +10133,7 @@
     "Limit": "Federation of the Winds",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "8"
+      "Trade 1 Value": "9"
     },
     "Trade 2": {
       "Value": "Skullantium",
@@ -10239,7 +10239,7 @@
     },
     "Trade 2": {
       "Value": "Ilikiu'Foriris",
-      "Trade 2 Value": "4,055.00"
+      "Trade 2 Value": "4,900.00"
     },
     "Trade 3": {
       "Value": "Skullantium",
@@ -10299,7 +10299,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "34,897.75"
+    "Trades": "35,742.75"
   },
   "Imperial City of Soria": {
     "Nations": "Imperial City of Soria",
@@ -14487,19 +14487,19 @@
     "Nations": "March of Malaqara",
     "Nation Check": "March of Malaqara",
     "Overlord": "The Khorassids",
-    "Eco Vassals": "1,864,182.98",
+    "Eco Vassals": "1,876,182.98",
     "Eco Over.": "1,376,187.27",
     "Compare": "513,031.00",
-    "MP Vassals": "135.46%",
+    "MP Vassals": "136.33%",
     "MP Over.": "550,880.00",
     "20% Total": "107.38%",
-    "Vassal Type": "48.57%",
+    "Vassal Type": "48.74%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "0.25",
-    "Comparison": "40.70%",
-    "Individual": "40.70%",
-    "Friend/Rival": "48.57%",
+    "Comparison": "40.87%",
+    "Individual": "40.87%",
+    "Friend/Rival": "48.74%",
     "Taxes": "2.13%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -15303,19 +15303,19 @@
     "Nations": "Merkām Erwānaelhi",
     "Nation Check": "Merkām Erwānaelhi",
     "Overlord": "The Khorassids",
-    "Eco Vassals": "1,864,182.98",
+    "Eco Vassals": "1,876,182.98",
     "Eco Over.": "1,376,187.27",
     "Compare": "513,031.00",
-    "MP Vassals": "135.46%",
+    "MP Vassals": "136.33%",
     "MP Over.": "550,880.00",
     "20% Total": "107.38%",
-    "Vassal Type": "48.57%",
+    "Vassal Type": "48.74%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "1.00",
-    "Comparison": "28.85%",
-    "Individual": "28.85%",
-    "Friend/Rival": "48.57%",
+    "Comparison": "29.03%",
+    "Individual": "29.03%",
+    "Friend/Rival": "48.74%",
     "Taxes": "2.79%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -16387,7 +16387,7 @@
     },
     "Trade 9": {
       "Value": "Ilikiu'Foriris",
-      "Trade 9 Value": "4,055.00"
+      "Trade 9 Value": "4,900.00"
     },
     "Trade 10": {
       "Value": "",
@@ -16419,7 +16419,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "245,016.25"
+    "Trades": "245,861.25"
   },
   "Nournourlant": {
     "Nations": "Nournourlant",
@@ -16630,19 +16630,19 @@
     "Nation Check": "Nummum",
     "Overlord": "Ilikiu'Foriris",
     "Eco Vassals": "1,290,868.45",
-    "Eco Over.": "736,809.40",
-    "Compare": "201,806.00",
-    "MP Vassals": "175.20%",
+    "Eco Over.": "825,802.15",
+    "Compare": "254,925.00",
+    "MP Vassals": "156.32%",
     "MP Over.": "88,725.00",
-    "20% Total": "43.97%",
-    "Vassal Type": "43.83%",
+    "20% Total": "34.80%",
+    "Vassal Type": "38.22%",
     "": "0.00%",
     "L. Desire": "Ilikiu'Foriris Nonprovince",
     "Base": "1.00",
-    "Comparison": "71.00%",
-    "Individual": "71.00%",
-    "Friend/Rival": "43.83%",
-    "Taxes": "43.83%",
+    "Comparison": "59.78%",
+    "Individual": "59.78%",
+    "Friend/Rival": "38.22%",
+    "Taxes": "38.22%",
     "Indep War?": "-1.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -18057,19 +18057,19 @@
     "Nations": "Qa'tqarra Datansalūl",
     "Nation Check": "Qa'tqarra Datansalūl",
     "Overlord": "The Khorassids",
-    "Eco Vassals": "1,864,182.98",
+    "Eco Vassals": "1,876,182.98",
     "Eco Over.": "1,376,187.27",
     "Compare": "513,031.00",
-    "MP Vassals": "135.46%",
+    "MP Vassals": "136.33%",
     "MP Over.": "550,880.00",
     "20% Total": "107.38%",
-    "Vassal Type": "48.57%",
+    "Vassal Type": "48.74%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "0.25",
-    "Comparison": "54.06%",
-    "Individual": "54.06%",
-    "Friend/Rival": "48.57%",
+    "Comparison": "54.24%",
+    "Individual": "54.24%",
+    "Friend/Rival": "48.74%",
     "Taxes": "10.49%",
     "Indep War?": "-5.00%",
     "Autonomy": "10.00%",
@@ -18159,19 +18159,19 @@
     "Nations": "Qa'tqarra Lepus",
     "Nation Check": "Qa'tqarra Lepus",
     "Overlord": "The Khorassids",
-    "Eco Vassals": "1,864,182.98",
+    "Eco Vassals": "1,876,182.98",
     "Eco Over.": "1,376,187.27",
     "Compare": "513,031.00",
-    "MP Vassals": "135.46%",
+    "MP Vassals": "136.33%",
     "MP Over.": "550,880.00",
     "20% Total": "107.38%",
-    "Vassal Type": "48.57%",
+    "Vassal Type": "48.74%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "1.00",
-    "Comparison": "18.95%",
-    "Individual": "18.95%",
-    "Friend/Rival": "48.57%",
+    "Comparison": "19.12%",
+    "Individual": "19.12%",
+    "Friend/Rival": "48.74%",
     "Taxes": "5.38%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -20647,7 +20647,7 @@
     },
     "Trade 3": {
       "Value": "Ilikiu'Foriris",
-      "Trade 3 Value": "4,055.00"
+      "Trade 3 Value": "4,900.00"
     },
     "Trade 4": {
       "Value": "Lowy Combine",
@@ -20703,7 +20703,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "241,401.65"
+    "Trades": "242,246.65"
   },
   "Sólstafir": {
     "Nations": "Sólstafir",
@@ -24280,7 +24280,7 @@
     "Nation Check": "Tomen Ignus Lupi",
     "Overlord": "Candentis Jalin",
     "Eco Vassals": "18,000.00",
-    "Eco Over.": "555,015.46",
+    "Eco Over.": "555,902.71",
     "Compare": "228,740.00",
     "MP Vassals": "3.24%",
     "MP Over.": "0.00",
