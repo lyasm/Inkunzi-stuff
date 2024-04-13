@@ -1816,8 +1816,8 @@
     "Mining Guilds": "No",
     "Water Mining": "No"
   },
-  "Blossoming Arcadia": {
-    "Nations": "Blossoming Arcadia",
+  "Blossoming Arcadia [Dead]": {
+    "Nations": "Blossoming Arcadia [Dead]",
     "Nation Check": "Blossoming Arcadia",
     "Tribal Governance": "Yes",
     "Tribal Culture": "Yes",
@@ -2290,8 +2290,8 @@
     "Mining Guilds": "Yes",
     "Water Mining": "No"
   },
-  "Caesnauka Empire": {
-    "Nations": "Caesnauka Empire",
+  "Caesnauka Empire [Dead]": {
+    "Nations": "Caesnauka Empire [Dead]",
     "Nation Check": "Caesnauka Empire",
     "Tribal Governance": "yes",
     "Tribal Culture": "yes",
@@ -4895,7 +4895,7 @@
     "Standardized Coinage": "Yes",
     "Classic Siegecraft": "No",
     "Mining Guilds": "No",
-    "Water Mining": "/"
+    "Water Mining": "no"
   },
   "Eye of Terror": {
     "Nations": "Eye of Terror",
