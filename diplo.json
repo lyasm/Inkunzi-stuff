@@ -513,20 +513,20 @@
     "Nations": "Ahupau'a o Heiau",
     "Nation Check": "Ahupau'a o Heiau",
     "Overlord": "Trade Republic of Ameria",
-    "Eco Vassals": "231,071.64",
-    "Eco Over.": "574,482.53",
+    "Eco Vassals": "242,644.92",
+    "Eco Over.": "586,177.64",
     "Compare": "46,940.00",
-    "MP Vassals": "40.22%",
+    "MP Vassals": "41.39%",
     "MP Over.": "51,543.00",
     "20% Total": "109.81%",
-    "Vassal Type": "30.01%",
+    "Vassal Type": "30.24%",
     "": "0.00%",
     "L. Desire": "Trade Republic of Ameria Nonprovince",
     "Base": "1.00",
-    "Comparison": "62.51%",
-    "Individual": "62.51%",
-    "Friend/Rival": "30.01%",
-    "Taxes": "30.01%",
+    "Comparison": "62.98%",
+    "Individual": "62.98%",
+    "Friend/Rival": "30.24%",
+    "Taxes": "30.24%",
     "Indep War?": "10.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -553,7 +553,7 @@
     },
     "Trade 3": {
       "Value": "Mercati Emporium",
-      "Trade 3 Value": "88,762.32"
+      "Trade 3 Value": "100,944.72"
     },
     "Trade 4": {
       "Value": "Trade Republic of Ameria",
@@ -609,7 +609,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "118,660.67"
+    "Trades": "130,843.07"
   },
   "Aishokae Kiryaxolne": {
     "Nations": "Aishokae Kiryaxolne",
@@ -1738,19 +1738,19 @@
     "Nation Check": "Asahi Dareh",
     "Overlord": "The Khorassids",
     "Eco Vassals": "1,619,776.99",
-    "Eco Over.": "1,074,288.62",
+    "Eco Over.": "1,085,861.90",
     "Compare": "502,098.00",
-    "MP Vassals": "150.78%",
+    "MP Vassals": "149.17%",
     "MP Over.": "528,810.00",
     "20% Total": "105.32%",
-    "Vassal Type": "51.22%",
+    "Vassal Type": "50.90%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "0.25",
-    "Comparison": "38.78%",
-    "Individual": "38.78%",
-    "Friend/Rival": "51.22%",
-    "Taxes": "2.56%",
+    "Comparison": "38.44%",
+    "Individual": "38.44%",
+    "Friend/Rival": "50.90%",
+    "Taxes": "2.55%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -2103,7 +2103,7 @@
     },
     "Trade 8": {
       "Value": "Mercati Emporium",
-      "Trade 8 Value": "88,762.32"
+      "Trade 8 Value": "100,944.72"
     },
     "Trade 9": {
       "Value": "Kennelands",
@@ -2139,7 +2139,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "681,101.10"
+    "Trades": "693,283.50"
   },
   "Azharid Caliphate": {
     "Nations": "Azharid Caliphate",
@@ -5001,20 +5001,20 @@
     "Nations": "Drahacira ",
     "Nation Check": "Drahacira ",
     "Overlord": "Auream Trading Federation",
-    "Eco Vassals": "3,143,091.49",
-    "Eco Over.": "1,959,938.00",
+    "Eco Vassals": "3,193,161.16",
+    "Eco Over.": "1,977,724.30",
     "Compare": "320,904.00",
-    "MP Vassals": "160.37%",
+    "MP Vassals": "161.46%",
     "MP Over.": "165,436.00",
     "20% Total": "51.55%",
-    "Vassal Type": "42.38%",
+    "Vassal Type": "42.60%",
     "": "0.00%",
     "L. Desire": "Auream Trading Federation Nonprovince",
     "Base": "1.00",
-    "Comparison": "61.63%",
-    "Individual": "61.63%",
-    "Friend/Rival": "42.38%",
-    "Taxes": "14.25%",
+    "Comparison": "61.90%",
+    "Individual": "61.90%",
+    "Friend/Rival": "42.60%",
+    "Taxes": "14.30%",
     "Indep War?": "5.00%",
     "Autonomy": "10.00%",
     "Threshold": "No",
@@ -5073,7 +5073,7 @@
     },
     "Trade 11": {
       "Value": "Mercati Emporium",
-      "Trade 11 Value": "88,762.32"
+      "Trade 11 Value": "100,944.72"
     },
     "Trade 12": {
       "Value": "",
@@ -5097,7 +5097,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "699,416.57"
+    "Trades": "711,598.97"
   },
   "Dreikland": {
     "Nations": "Dreikland",
@@ -6371,7 +6371,7 @@
     },
     "Trade 4": {
       "Value": "Mercati Emporium",
-      "Trade 4 Value": "88,762.32"
+      "Trade 4 Value": "100,944.72"
     },
     "Trade 5": {
       "Value": "Here Be Dragons",
@@ -6423,7 +6423,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "767,920.44"
+    "Trades": "780,102.84"
   },
   "Félagi Vargúlfr Dvergr": {
     "Nations": "Félagi Vargúlfr Dvergr",
@@ -6905,7 +6905,7 @@
     },
     "Trade 10": {
       "Value": "Mercati Emporium",
-      "Trade 10 Value": "88,762.32"
+      "Trade 10 Value": "100,944.72"
     },
     "Trade 11": {
       "Value": "Zarkone",
@@ -6933,7 +6933,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "782,689.40"
+    "Trades": "794,871.80"
   },
   "Frijkland": {
     "Nations": "Frijkland",
@@ -9592,19 +9592,19 @@
     "Nation Check": "Hrēgdom of the Erwā",
     "Overlord": "The Khorassids",
     "Eco Vassals": "1,619,776.99",
-    "Eco Over.": "1,074,288.62",
+    "Eco Over.": "1,085,861.90",
     "Compare": "502,098.00",
-    "MP Vassals": "150.78%",
+    "MP Vassals": "149.17%",
     "MP Over.": "528,810.00",
     "20% Total": "105.32%",
-    "Vassal Type": "51.22%",
+    "Vassal Type": "50.90%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "1.00",
-    "Comparison": "54.43%",
-    "Individual": "54.43%",
-    "Friend/Rival": "51.22%",
-    "Taxes": "25.71%",
+    "Comparison": "53.93%",
+    "Individual": "53.93%",
+    "Friend/Rival": "50.90%",
+    "Taxes": "25.54%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -9741,7 +9741,7 @@
     },
     "Trade 5": {
       "Value": "Mercati Emporium",
-      "Trade 5 Value": "88,762.32"
+      "Trade 5 Value": "100,944.72"
     },
     "Trade 6": {
       "Value": "Kennelands",
@@ -9789,7 +9789,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "687,065.75"
+    "Trades": "699,248.15"
   },
   "Iarthar Grove": {
     "Nations": "Iarthar Grove",
@@ -10509,20 +10509,20 @@
     "Nations": "Jään Herruus",
     "Nation Check": "Jään Herruus",
     "Overlord": "Free Incus Trade Republic",
-    "Eco Vassals": "2,621,333.69",
-    "Eco Over.": "2,312,900.02",
+    "Eco Vassals": "2,646,916.73",
+    "Eco Over.": "2,330,686.32",
     "Compare": "493,200.00",
-    "MP Vassals": "113.34%",
+    "MP Vassals": "113.57%",
     "MP Over.": "109,904.00",
     "20% Total": "22.28%",
-    "Vassal Type": "27.12%",
+    "Vassal Type": "27.17%",
     "": "0.00%",
     "L. Desire": "Free Incus Trade Republic Nonprovince",
     "Base": "1.00",
-    "Comparison": "30.53%",
-    "Individual": "30.53%",
-    "Friend/Rival": "27.12%",
-    "Taxes": "7.90%",
+    "Comparison": "30.63%",
+    "Individual": "30.63%",
+    "Friend/Rival": "27.17%",
+    "Taxes": "7.96%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -10557,7 +10557,7 @@
     },
     "Trade 5": {
       "Value": "Mercati Emporium",
-      "Trade 5 Value": "88,762.32"
+      "Trade 5 Value": "100,944.72"
     },
     "Trade 6": {
       "Value": "Lisanos",
@@ -10605,7 +10605,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "664,010.42"
+    "Trades": "676,192.82"
   },
   "Jörðnar": {
     "Nations": "Jörðnar",
@@ -11427,20 +11427,20 @@
     "Nations": "Kennelands",
     "Nation Check": "Kennelands",
     "Overlord": "Hui Kai",
-    "Eco Vassals": "1,128,024.19",
-    "Eco Over.": "1,083,392.46",
+    "Eco Vassals": "1,139,597.47",
+    "Eco Over.": "1,094,965.74",
     "Compare": "132,960.00",
-    "MP Vassals": "104.12%",
+    "MP Vassals": "104.08%",
     "MP Over.": "51,277.00",
     "20% Total": "38.57%",
-    "Vassal Type": "28.54%",
+    "Vassal Type": "28.53%",
     "": "0.00%",
     "L. Desire": "Hui Kai Nonprovince",
     "Base": "1.00",
-    "Comparison": "56.44%",
-    "Individual": "56.44%",
-    "Friend/Rival": "28.54%",
-    "Taxes": "22.90%",
+    "Comparison": "56.25%",
+    "Individual": "56.25%",
+    "Friend/Rival": "28.53%",
+    "Taxes": "22.72%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -11937,20 +11937,20 @@
     "Nations": "Kingdom of Lyroa",
     "Nation Check": "Kingdom of Lyroa",
     "Overlord": "Auream Trading Federation",
-    "Eco Vassals": "3,143,091.49",
-    "Eco Over.": "1,959,938.00",
+    "Eco Vassals": "3,193,161.16",
+    "Eco Over.": "1,977,724.30",
     "Compare": "320,904.00",
-    "MP Vassals": "160.37%",
+    "MP Vassals": "161.46%",
     "MP Over.": "165,436.00",
     "20% Total": "51.55%",
-    "Vassal Type": "42.38%",
+    "Vassal Type": "42.60%",
     "": "0.00%",
     "L. Desire": "Auream Trading Federation Nonprovince",
     "Base": "1.00",
-    "Comparison": "50.21%",
-    "Individual": "50.21%",
-    "Friend/Rival": "42.38%",
-    "Taxes": "10.32%",
+    "Comparison": "50.48%",
+    "Individual": "50.48%",
+    "Friend/Rival": "42.60%",
+    "Taxes": "10.38%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -12009,7 +12009,7 @@
     },
     "Trade 11": {
       "Value": "Mercati Emporium",
-      "Trade 11 Value": "88,762.32"
+      "Trade 11 Value": "100,944.72"
     },
     "Trade 12": {
       "Value": "Ophenadon",
@@ -12033,7 +12033,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "456,363.50"
+    "Trades": "468,545.90"
   },
   "Kingdom of Mimgrond": {
     "Nations": "Kingdom of Mimgrond",
@@ -13727,7 +13727,7 @@
     },
     "Trade 7": {
       "Value": "Mercati Emporium",
-      "Trade 7 Value": "88,762.32"
+      "Trade 7 Value": "100,944.72"
     },
     "Trade 8": {
       "Value": "Auream Trading Federation",
@@ -13767,7 +13767,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "421,540.97"
+    "Trades": "433,723.37"
   },
   "Lundrium": {
     "Nations": "Lundrium",
@@ -14037,7 +14037,7 @@
     },
     "Trade 8": {
       "Value": "Mercati Emporium",
-      "Trade 8 Value": "88,762.32"
+      "Trade 8 Value": "100,944.72"
     },
     "Trade 9": {
       "Value": "Ophenadon",
@@ -14073,7 +14073,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "260,456.62"
+    "Trades": "272,639.02"
   },
   "Maa": {
     "Nations": "Maa",
@@ -14437,7 +14437,7 @@
     },
     "Trade 6": {
       "Value": "Mercati Emporium",
-      "Trade 6 Value": "88,762.32"
+      "Trade 6 Value": "100,944.72"
     },
     "Trade 7": {
       "Value": "Nuanta",
@@ -14481,26 +14481,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "311,854.67"
+    "Trades": "324,037.07"
   },
   "March of Malaqara": {
     "Nations": "March of Malaqara",
     "Nation Check": "March of Malaqara",
     "Overlord": "The Khorassids",
     "Eco Vassals": "1,619,776.99",
-    "Eco Over.": "1,074,288.62",
+    "Eco Over.": "1,085,861.90",
     "Compare": "502,098.00",
-    "MP Vassals": "150.78%",
+    "MP Vassals": "149.17%",
     "MP Over.": "528,810.00",
     "20% Total": "105.32%",
-    "Vassal Type": "51.22%",
+    "Vassal Type": "50.90%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "0.25",
-    "Comparison": "43.35%",
-    "Individual": "43.35%",
-    "Friend/Rival": "51.22%",
-    "Taxes": "2.13%",
+    "Comparison": "43.02%",
+    "Individual": "43.02%",
+    "Friend/Rival": "50.90%",
+    "Taxes": "2.12%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -15099,20 +15099,20 @@
     "Nations": "Mercati Emporium",
     "Nation Check": "Mercati Emporium",
     "Overlord": "Free Incus Trade Republic",
-    "Eco Vassals": "2,621,333.69",
-    "Eco Over.": "2,312,900.02",
+    "Eco Vassals": "2,646,916.73",
+    "Eco Over.": "2,330,686.32",
     "Compare": "493,200.00",
-    "MP Vassals": "113.34%",
+    "MP Vassals": "113.57%",
     "MP Over.": "109,904.00",
     "20% Total": "22.28%",
-    "Vassal Type": "27.12%",
+    "Vassal Type": "27.17%",
     "": "0.00%",
     "L. Desire": "Free Incus Trade Republic Nonprovince",
     "Base": "1.00",
-    "Comparison": "31.32%",
-    "Individual": "31.32%",
-    "Friend/Rival": "27.12%",
-    "Taxes": "9.20%",
+    "Comparison": "31.31%",
+    "Individual": "31.31%",
+    "Friend/Rival": "27.17%",
+    "Taxes": "9.14%",
     "Indep War?": "10.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -15304,19 +15304,19 @@
     "Nation Check": "Merkām Erwānaelhi",
     "Overlord": "The Khorassids",
     "Eco Vassals": "1,619,776.99",
-    "Eco Over.": "1,074,288.62",
+    "Eco Over.": "1,085,861.90",
     "Compare": "502,098.00",
-    "MP Vassals": "150.78%",
+    "MP Vassals": "149.17%",
     "MP Over.": "528,810.00",
     "20% Total": "105.32%",
-    "Vassal Type": "51.22%",
+    "Vassal Type": "50.90%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "1.00",
-    "Comparison": "32.47%",
-    "Individual": "32.47%",
-    "Friend/Rival": "51.22%",
-    "Taxes": "3.75%",
+    "Comparison": "32.12%",
+    "Individual": "32.12%",
+    "Friend/Rival": "50.90%",
+    "Taxes": "3.72%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -16629,20 +16629,20 @@
     "Nations": "Nummum",
     "Nation Check": "Nummum",
     "Overlord": "Ilikiu'Foriris",
-    "Eco Vassals": "1,671,756.07",
+    "Eco Vassals": "1,689,542.37",
     "Eco Over.": "927,213.70",
     "Compare": "254,925.00",
-    "MP Vassals": "180.30%",
+    "MP Vassals": "182.22%",
     "MP Over.": "123,267.00",
     "20% Total": "48.35%",
-    "Vassal Type": "45.73%",
+    "Vassal Type": "46.11%",
     "": "0.00%",
     "L. Desire": "Ilikiu'Foriris Nonprovince",
     "Base": "1.00",
-    "Comparison": "74.79%",
-    "Individual": "74.79%",
-    "Friend/Rival": "45.73%",
-    "Taxes": "45.73%",
+    "Comparison": "75.56%",
+    "Individual": "75.56%",
+    "Friend/Rival": "46.11%",
+    "Taxes": "46.11%",
     "Indep War?": "-1.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -16717,7 +16717,7 @@
     },
     "Trade 15": {
       "Value": "Mercati Emporium",
-      "Trade 15 Value": "88,762.32"
+      "Trade 15 Value": "100,944.72"
     },
     "Raw Trade Income": "Unified Republic of Kaiarau",
     "Tariffs": "28,350.00",
@@ -16725,7 +16725,7 @@
     "NAPs": "6,946.00",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "597,606.90"
+    "Trades": "609,789.30"
   },
   "Nuvoria": {
     "Nations": "Nuvoria",
@@ -16935,20 +16935,20 @@
     "Nations": "Ophenadon",
     "Nation Check": "Ophenadon",
     "Overlord": "Auream Trading Federation",
-    "Eco Vassals": "3,143,091.49",
-    "Eco Over.": "1,959,938.00",
+    "Eco Vassals": "3,193,161.16",
+    "Eco Over.": "1,977,724.30",
     "Compare": "320,904.00",
-    "MP Vassals": "160.37%",
+    "MP Vassals": "161.46%",
     "MP Over.": "165,436.00",
     "20% Total": "51.55%",
-    "Vassal Type": "42.38%",
+    "Vassal Type": "42.60%",
     "": "0.00%",
     "L. Desire": "Auream Trading Federation Nonprovince",
     "Base": "1.00",
-    "Comparison": "55.22%",
-    "Individual": "55.22%",
-    "Friend/Rival": "42.38%",
-    "Taxes": "9.83%",
+    "Comparison": "55.48%",
+    "Individual": "55.48%",
+    "Friend/Rival": "42.60%",
+    "Taxes": "9.87%",
     "Indep War?": "15.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -16983,7 +16983,7 @@
     },
     "Trade 5": {
       "Value": "Mercati Emporium",
-      "Trade 5 Value": "88,762.32"
+      "Trade 5 Value": "100,944.72"
     },
     "Trade 6": {
       "Value": "Lisanos",
@@ -17031,7 +17031,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "693,305.42"
+    "Trades": "705,487.82"
   },
   "Opolst Eredas": {
     "Nations": "Opolst Eredas",
@@ -18058,19 +18058,19 @@
     "Nation Check": "Qa'tqarra Datansalūl",
     "Overlord": "The Khorassids",
     "Eco Vassals": "1,619,776.99",
-    "Eco Over.": "1,074,288.62",
+    "Eco Over.": "1,085,861.90",
     "Compare": "502,098.00",
-    "MP Vassals": "150.78%",
+    "MP Vassals": "149.17%",
     "MP Over.": "528,810.00",
     "20% Total": "105.32%",
-    "Vassal Type": "51.22%",
+    "Vassal Type": "50.90%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "0.25",
-    "Comparison": "67.38%",
-    "Individual": "67.38%",
-    "Friend/Rival": "51.22%",
-    "Taxes": "11.16%",
+    "Comparison": "67.01%",
+    "Individual": "67.01%",
+    "Friend/Rival": "50.90%",
+    "Taxes": "11.11%",
     "Indep War?": "-5.00%",
     "Autonomy": "20.00%",
     "Threshold": "",
@@ -18160,19 +18160,19 @@
     "Nation Check": "Qa'tqarra Lepus",
     "Overlord": "The Khorassids",
     "Eco Vassals": "1,619,776.99",
-    "Eco Over.": "1,074,288.62",
+    "Eco Over.": "1,085,861.90",
     "Compare": "502,098.00",
-    "MP Vassals": "150.78%",
+    "MP Vassals": "149.17%",
     "MP Over.": "528,810.00",
     "20% Total": "105.32%",
-    "Vassal Type": "51.22%",
+    "Vassal Type": "50.90%",
     "": "0.00%",
     "L. Desire": "The Khorassids Nonprovince",
     "Base": "1.00",
-    "Comparison": "22.13%",
-    "Individual": "22.13%",
-    "Friend/Rival": "51.22%",
-    "Taxes": "5.91%",
+    "Comparison": "21.76%",
+    "Individual": "21.76%",
+    "Friend/Rival": "50.90%",
+    "Taxes": "5.86%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -18975,20 +18975,20 @@
     "Nations": "Republic of Rostora",
     "Nation Check": "Republic of Rostora",
     "Overlord": "Hui Kai",
-    "Eco Vassals": "1,128,024.19",
-    "Eco Over.": "1,083,392.46",
+    "Eco Vassals": "1,139,597.47",
+    "Eco Over.": "1,094,965.74",
     "Compare": "132,960.00",
-    "MP Vassals": "104.12%",
+    "MP Vassals": "104.08%",
     "MP Over.": "51,277.00",
     "20% Total": "38.57%",
-    "Vassal Type": "28.54%",
+    "Vassal Type": "28.53%",
     "": "0.00%",
     "L. Desire": "Hui Kai Nonprovince",
     "Base": "1.00",
-    "Comparison": "24.18%",
-    "Individual": "24.18%",
-    "Friend/Rival": "28.54%",
-    "Taxes": "5.64%",
+    "Comparison": "24.33%",
+    "Individual": "24.33%",
+    "Friend/Rival": "28.53%",
+    "Taxes": "5.81%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -19019,7 +19019,7 @@
     },
     "Trade 4": {
       "Value": "Mercati Emporium",
-      "Trade 4 Value": "88,762.32"
+      "Trade 4 Value": "100,944.72"
     },
     "Trade 5": {
       "Value": "The Kingdom of Lunar",
@@ -19071,7 +19071,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "196,424.67"
+    "Trades": "208,607.07"
   },
   "Restored Arisii Confederation": {
     "Nations": "Restored Arisii Confederation",
@@ -23217,7 +23217,7 @@
     },
     "Trade 8": {
       "Value": "Mercati Emporium",
-      "Trade 8 Value": "88,762.32"
+      "Trade 8 Value": "100,944.72"
     },
     "Trade 9": {
       "Value": "Federation of the Winds",
@@ -23253,7 +23253,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "265,089.08"
+    "Trades": "277,271.48"
   },
   "The Kingdom of Hemia": {
     "Nations": "The Kingdom of Hemia",
@@ -23361,20 +23361,20 @@
     "Nations": "The Kingdom of Lunar",
     "Nation Check": "The Kingdom of Lunar",
     "Overlord": "M'Qili Confederacy",
-    "Eco Vassals": "202,157.59",
-    "Eco Over.": "376,417.47",
+    "Eco Vassals": "214,949.11",
+    "Eco Over.": "385,554.27",
     "Compare": "112,928.00",
-    "MP Vassals": "53.71%",
+    "MP Vassals": "55.75%",
     "MP Over.": "61,080.00",
     "20% Total": "54.09%",
-    "Vassal Type": "21.56%",
+    "Vassal Type": "21.97%",
     "": "0.00%",
     "L. Desire": "M'Qili Confederacy Nonprovince",
     "Base": "1.00",
-    "Comparison": "23.12%",
-    "Individual": "23.12%",
-    "Friend/Rival": "21.56%",
-    "Taxes": "21.56%",
+    "Comparison": "23.94%",
+    "Individual": "23.94%",
+    "Friend/Rival": "21.97%",
+    "Taxes": "21.97%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -23397,7 +23397,7 @@
     },
     "Trade 2": {
       "Value": "Mercati Emporium",
-      "Trade 2 Value": "88,762.32"
+      "Trade 2 Value": "100,944.72"
     },
     "Trade 3": {
       "Value": "Ophenadon",
@@ -23457,7 +23457,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "97,483.42"
+    "Trades": "109,665.82"
   },
   "The Kingdom of Zahar": {
     "Nations": "The Kingdom of Zahar",
@@ -24543,7 +24543,7 @@
     },
     "Trade 8": {
       "Value": "Mercati Emporium",
-      "Trade 8 Value": "88,762.32"
+      "Trade 8 Value": "100,944.72"
     },
     "Trade 9": {
       "Value": "Kingdom of the Kettlelands",
@@ -24579,7 +24579,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "442,510.97"
+    "Trades": "454,693.37"
   },
   "Ulanasa Republic": {
     "Nations": "Ulanasa Republic",
@@ -24891,20 +24891,20 @@
     "Nations": "Unified Republic of Kaiarau",
     "Nation Check": "Unified Republic of Kaiarau",
     "Overlord": "Free Incus Trade Republic",
-    "Eco Vassals": "2,621,333.69",
-    "Eco Over.": "2,312,900.02",
+    "Eco Vassals": "2,646,916.73",
+    "Eco Over.": "2,330,686.32",
     "Compare": "493,200.00",
-    "MP Vassals": "113.34%",
+    "MP Vassals": "113.57%",
     "MP Over.": "109,904.00",
     "20% Total": "22.28%",
-    "Vassal Type": "27.12%",
+    "Vassal Type": "27.17%",
     "": "0.00%",
     "L. Desire": "Free Incus Trade Republic Nonprovince",
     "Base": "1.00",
-    "Comparison": "42.15%",
-    "Individual": "42.15%",
-    "Friend/Rival": "27.12%",
-    "Taxes": "10.02%",
+    "Comparison": "42.24%",
+    "Individual": "42.24%",
+    "Friend/Rival": "27.17%",
+    "Taxes": "10.07%",
     "Indep War?": "15.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -24955,7 +24955,7 @@
     },
     "Trade 9": {
       "Value": "Mercati Emporium",
-      "Trade 9 Value": "88,762.32"
+      "Trade 9 Value": "100,944.72"
     },
     "Trade 10": {
       "Value": "Nummum",
@@ -24987,7 +24987,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "640,722.92"
+    "Trades": "652,905.32"
   },
   "Unigol": {
     "Nations": "Unigol",
@@ -26115,20 +26115,20 @@
     "Nations": "Zarkone",
     "Nation Check": "Zarkone",
     "Overlord": "Auream Trading Federation",
-    "Eco Vassals": "3,143,091.49",
-    "Eco Over.": "1,959,938.00",
+    "Eco Vassals": "3,193,161.16",
+    "Eco Over.": "1,977,724.30",
     "Compare": "320,904.00",
-    "MP Vassals": "160.37%",
+    "MP Vassals": "161.46%",
     "MP Over.": "165,436.00",
     "20% Total": "51.55%",
-    "Vassal Type": "42.38%",
+    "Vassal Type": "42.60%",
     "": "0.00%",
     "L. Desire": "Auream Trading Federation Nonprovince",
     "Base": "1.00",
-    "Comparison": "50.37%",
-    "Individual": "50.37%",
-    "Friend/Rival": "42.38%",
-    "Taxes": "7.98%",
+    "Comparison": "50.65%",
+    "Individual": "50.65%",
+    "Friend/Rival": "42.60%",
+    "Taxes": "8.05%",
     "Indep War?": "10.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -26175,7 +26175,7 @@
     },
     "Trade 8": {
       "Value": "Mercati Emporium",
-      "Trade 8 Value": "88,762.32"
+      "Trade 8 Value": "100,944.72"
     },
     "Trade 9": {
       "Value": "Free Incus Trade Republic",
@@ -26211,7 +26211,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "423,610.02"
+    "Trades": "435,792.42"
   },
   "Zastita": {
     "Nations": "Zastita",
