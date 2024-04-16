@@ -1636,19 +1636,19 @@
     "Nation Check": "Arethousa",
     "Overlord": "Royaume sous de l'Aurore",
     "Eco Vassals": "1,077,159.15",
-    "Eco Over.": "1,187,036.86",
-    "Compare": "469,581.00",
-    "MP Vassals": "90.74%",
+    "Eco Over.": "1,132,027.17",
+    "Compare": "474,360.00",
+    "MP Vassals": "95.15%",
     "MP Over.": "161,180.00",
-    "20% Total": "34.32%",
-    "Vassal Type": "25.01%",
+    "20% Total": "33.98%",
+    "Vassal Type": "25.83%",
     "": "0.00%",
     "L. Desire": "Royaume sous de l'Aurore Nonprovince",
     "Base": "1.00",
-    "Comparison": "33.49%",
-    "Individual": "33.49%",
-    "Friend/Rival": "25.01%",
-    "Taxes": "5.48%",
+    "Comparison": "34.55%",
+    "Individual": "34.55%",
+    "Friend/Rival": "25.83%",
+    "Taxes": "5.72%",
     "Indep War?": "15.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -2859,19 +2859,19 @@
     "Nations": "Caesnauka Empire [Dead]",
     "Nation Check": "Caesnauka Empire",
     "Overlord": "Meadoia Dynasty",
-    "Eco Vassals": "1,580,576.44",
+    "Eco Vassals": "1,579,577.69",
     "Eco Over.": "1,501,591.10",
     "Compare": "342,431.00",
-    "MP Vassals": "105.26%",
+    "MP Vassals": "105.19%",
     "MP Over.": "202,623.00",
     "20% Total": "59.17%",
-    "Vassal Type": "32.89%",
+    "Vassal Type": "32.87%",
     "": "0.00%",
     "L. Desire": "Meadoia Dynasty Nonprovince",
     "Base": "1.00",
-    "Comparison": "27.02%",
-    "Individual": "27.02%",
-    "Friend/Rival": "32.89%",
+    "Comparison": "27.00%",
+    "Individual": "27.00%",
+    "Friend/Rival": "32.87%",
     "Taxes": "1.63%",
     "Indep War?": "5.00%",
     "Autonomy": "",
@@ -3217,7 +3217,7 @@
     },
     "Trade 6": {
       "Value": "Elyen-Mev",
-      "Trade 6 Value": "5,992.50"
+      "Trade 6 Value": "5,193.50"
     },
     "Trade 7": {
       "Value": "The Tribes of C’tis",
@@ -3261,7 +3261,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "205,148.09"
+    "Trades": "204,349.09"
   },
   "Ceridwyn Confederation": {
     "Nations": "Ceridwyn Confederation",
@@ -3731,7 +3731,7 @@
     },
     "Trade 7": {
       "Value": "Elyen-Mev",
-      "Trade 7 Value": "5,992.50"
+      "Trade 7 Value": "5,193.50"
     },
     "Trade 8": {
       "Value": "Mébian Confederation",
@@ -3771,7 +3771,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "237,553.94"
+    "Trades": "236,754.94"
   },
   "Clankar Cog": {
     "Nations": "Clankar Cog",
@@ -5817,20 +5817,20 @@
     "Nations": "Enushkan Ur Kaash'shum",
     "Nation Check": "Enushkan Ur Kaash'shum",
     "Overlord": "Stratavia",
-    "Eco Vassals": "457,300.75",
+    "Eco Vassals": "444,257.94",
     "Eco Over.": "944,320.79",
     "Compare": "244,969.00",
-    "MP Vassals": "48.43%",
+    "MP Vassals": "47.05%",
     "MP Over.": "168,414.00",
     "20% Total": "68.75%",
-    "Vassal Type": "23.44%",
+    "Vassal Type": "23.16%",
     "": "0.00%",
     "L. Desire": "Stratavia Nonprovince",
     "Base": "1.00",
-    "Comparison": "35.05%",
-    "Individual": "35.05%",
-    "Friend/Rival": "23.44%",
-    "Taxes": "9.11%",
+    "Comparison": "34.68%",
+    "Individual": "34.68%",
+    "Friend/Rival": "23.16%",
+    "Taxes": "9.02%",
     "Indep War?": "12.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -5853,7 +5853,7 @@
     },
     "Trade 2": {
       "Value": "Stratavia",
-      "Trade 2 Value": "13,075.50"
+      "Trade 2 Value": "8,499.08"
     },
     "Trade 3": {
       "Value": "Jubal'on",
@@ -5913,7 +5913,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "54,399.23"
+    "Trades": "49,822.80"
   },
   "Eriyar Pyarr": {
     "Nations": "Eriyar Pyarr",
@@ -6735,20 +6735,20 @@
     "Nations": "Free City of Zephyrabad",
     "Nation Check": "Free City of Zephyrabad",
     "Overlord": "Stratavia",
-    "Eco Vassals": "457,300.75",
+    "Eco Vassals": "444,257.94",
     "Eco Over.": "944,320.79",
     "Compare": "244,969.00",
-    "MP Vassals": "48.43%",
+    "MP Vassals": "47.05%",
     "MP Over.": "168,414.00",
     "20% Total": "68.75%",
-    "Vassal Type": "23.44%",
+    "Vassal Type": "23.16%",
     "": "0.00%",
     "L. Desire": "Stratavia Nonprovince",
     "Base": "1.00",
-    "Comparison": "26.80%",
-    "Individual": "26.80%",
-    "Friend/Rival": "23.44%",
-    "Taxes": "5.37%",
+    "Comparison": "26.44%",
+    "Individual": "26.44%",
+    "Friend/Rival": "23.16%",
+    "Taxes": "5.28%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -6783,7 +6783,7 @@
     },
     "Trade 5": {
       "Value": "Stratavia",
-      "Trade 5 Value": "13,075.50"
+      "Trade 5 Value": "8,499.08"
     },
     "Trade 6": {
       "Value": "",
@@ -6831,7 +6831,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "49,566.25"
+    "Trades": "44,989.83"
   },
   "Free Incus Trade Republic": {
     "Nations": "Free Incus Trade Republic",
@@ -10713,20 +10713,20 @@
     "Nations": "Jubal'on",
     "Nation Check": "Jubal'on",
     "Overlord": "Stratavia",
-    "Eco Vassals": "457,300.75",
+    "Eco Vassals": "444,257.94",
     "Eco Over.": "944,320.79",
     "Compare": "244,969.00",
-    "MP Vassals": "48.43%",
+    "MP Vassals": "47.05%",
     "MP Over.": "168,414.00",
     "20% Total": "68.75%",
-    "Vassal Type": "23.44%",
+    "Vassal Type": "23.16%",
     "": "0.00%",
     "L. Desire": "Stratavia Nonprovince",
     "Base": "1.00",
-    "Comparison": "52.39%",
-    "Individual": "52.39%",
-    "Friend/Rival": "23.44%",
-    "Taxes": "8.95%",
+    "Comparison": "52.02%",
+    "Individual": "52.02%",
+    "Friend/Rival": "23.16%",
+    "Taxes": "8.86%",
     "Indep War?": "20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -10749,7 +10749,7 @@
     },
     "Trade 2": {
       "Value": "Stratavia",
-      "Trade 2 Value": "13,075.50"
+      "Trade 2 Value": "8,499.08"
     },
     "Trade 3": {
       "Value": "Enushkan Ur Kaash'shum",
@@ -10809,7 +10809,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "54,723.48"
+    "Trades": "50,147.05"
   },
   "Kachitillcha": {
     "Nations": "Kachitillcha",
@@ -11569,7 +11569,7 @@
     },
     "Trade 3": {
       "Value": "Elyen-Mev",
-      "Trade 3 Value": "5,992.50"
+      "Trade 3 Value": "5,193.50"
     },
     "Trade 4": {
       "Value": "Zastita",
@@ -11625,7 +11625,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "102,802.48"
+    "Trades": "102,003.48"
   },
   "Kingdom of Ataraxia": {
     "Nations": "Kingdom of Ataraxia",
@@ -11895,7 +11895,7 @@
     },
     "Trade 8": {
       "Value": "Elyen-Mev",
-      "Trade 8 Value": "5,992.50"
+      "Trade 8 Value": "5,193.50"
     },
     "Trade 9": {
       "Value": "Pyhätmetsät",
@@ -11931,7 +11931,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "121,889.18"
+    "Trades": "121,090.18"
   },
   "Kingdom of Lyroa": {
     "Nations": "Kingdom of Lyroa",
@@ -12141,19 +12141,19 @@
     "Nations": "Kingdom of Nymeria ",
     "Nation Check": "Kingdom of Nymeria ",
     "Overlord": "Meadoia Dynasty",
-    "Eco Vassals": "1,580,576.44",
+    "Eco Vassals": "1,579,577.69",
     "Eco Over.": "1,501,591.10",
     "Compare": "342,431.00",
-    "MP Vassals": "105.26%",
+    "MP Vassals": "105.19%",
     "MP Over.": "202,623.00",
     "20% Total": "59.17%",
-    "Vassal Type": "32.89%",
+    "Vassal Type": "32.87%",
     "": "0.00%",
     "L. Desire": "Meadoia Dynasty Nonprovince",
     "Base": "0.25",
-    "Comparison": "49.07%",
-    "Individual": "49.07%",
-    "Friend/Rival": "32.89%",
+    "Comparison": "49.06%",
+    "Individual": "49.06%",
+    "Friend/Rival": "32.87%",
     "Taxes": "9.52%",
     "Indep War?": "21.67%",
     "Autonomy": "",
@@ -13059,20 +13059,20 @@
     "Nations": "Lauzydos",
     "Nation Check": "Lauzydos",
     "Overlord": "Meadoia Dynasty",
-    "Eco Vassals": "1,580,576.44",
+    "Eco Vassals": "1,579,577.69",
     "Eco Over.": "1,501,591.10",
     "Compare": "342,431.00",
-    "MP Vassals": "105.26%",
+    "MP Vassals": "105.19%",
     "MP Over.": "202,623.00",
     "20% Total": "59.17%",
-    "Vassal Type": "32.89%",
+    "Vassal Type": "32.87%",
     "": "0.00%",
     "L. Desire": "Meadoia Dynasty Nonprovince",
     "Base": "1.00",
-    "Comparison": "48.64%",
-    "Individual": "48.64%",
-    "Friend/Rival": "32.89%",
-    "Taxes": "12.42%",
+    "Comparison": "48.61%",
+    "Individual": "48.61%",
+    "Friend/Rival": "32.87%",
+    "Taxes": "12.40%",
     "Indep War?": "3.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -13107,7 +13107,7 @@
     },
     "Trade 5": {
       "Value": "Elyen-Mev",
-      "Trade 5 Value": "5,992.50"
+      "Trade 5 Value": "5,193.50"
     },
     "Trade 6": {
       "Value": "Meadoia Dynasty",
@@ -13155,7 +13155,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "233,930.91"
+    "Trades": "233,131.91"
   },
   "Lepnia": {
     "Nations": "Lepnia",
@@ -14284,19 +14284,19 @@
     "Nation Check": "Maldune",
     "Overlord": "Royaume sous de l'Aurore",
     "Eco Vassals": "1,077,159.15",
-    "Eco Over.": "1,187,036.86",
-    "Compare": "469,581.00",
-    "MP Vassals": "90.74%",
+    "Eco Over.": "1,132,027.17",
+    "Compare": "474,360.00",
+    "MP Vassals": "95.15%",
     "MP Over.": "161,180.00",
-    "20% Total": "34.32%",
-    "Vassal Type": "25.01%",
+    "20% Total": "33.98%",
+    "Vassal Type": "25.83%",
     "": "0.00%",
     "L. Desire": "Royaume sous de l'Aurore Nonprovince",
     "Base": "1.00",
-    "Comparison": "31.96%",
-    "Individual": "31.96%",
-    "Friend/Rival": "25.01%",
-    "Taxes": "6.95%",
+    "Comparison": "33.11%",
+    "Individual": "33.11%",
+    "Friend/Rival": "25.83%",
+    "Taxes": "7.29%",
     "Indep War?": "15.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -14997,19 +14997,19 @@
     "Nations": "Mébian Confederation",
     "Nation Check": "Mébian Confederation",
     "Overlord": "Meadoia Dynasty",
-    "Eco Vassals": "1,580,576.44",
+    "Eco Vassals": "1,579,577.69",
     "Eco Over.": "1,501,591.10",
     "Compare": "342,431.00",
-    "MP Vassals": "105.26%",
+    "MP Vassals": "105.19%",
     "MP Over.": "202,623.00",
     "20% Total": "59.17%",
-    "Vassal Type": "32.89%",
+    "Vassal Type": "32.87%",
     "": "0.00%",
     "L. Desire": "Meadoia Dynasty Nonprovince",
     "Base": "0.25",
-    "Comparison": "22.04%",
-    "Individual": "22.04%",
-    "Friend/Rival": "32.89%",
+    "Comparison": "22.03%",
+    "Individual": "22.03%",
+    "Friend/Rival": "32.87%",
     "Taxes": "4.15%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -15237,7 +15237,7 @@
     },
     "Trade 2": {
       "Value": "Stratavia",
-      "Trade 2 Value": "13,075.50"
+      "Trade 2 Value": "8,499.08"
     },
     "Trade 3": {
       "Value": "Golden Refugee",
@@ -15297,7 +15297,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "23,075.50"
+    "Trades": "18,499.08"
   },
   "Merkām Erwānaelhi": {
     "Nations": "Merkām Erwānaelhi",
@@ -16732,19 +16732,19 @@
     "Nation Check": "Nuvoria",
     "Overlord": "Royaume sous de l'Aurore",
     "Eco Vassals": "1,077,159.15",
-    "Eco Over.": "1,187,036.86",
-    "Compare": "469,581.00",
-    "MP Vassals": "90.74%",
+    "Eco Over.": "1,132,027.17",
+    "Compare": "474,360.00",
+    "MP Vassals": "95.15%",
     "MP Over.": "161,180.00",
-    "20% Total": "34.32%",
-    "Vassal Type": "25.01%",
+    "20% Total": "33.98%",
+    "Vassal Type": "25.83%",
     "": "0.00%",
     "L. Desire": "Royaume sous de l'Aurore Nonprovince",
     "Base": "0.25",
-    "Comparison": "24.99%",
-    "Individual": "24.99%",
-    "Friend/Rival": "25.01%",
-    "Taxes": "9.97%",
+    "Comparison": "25.95%",
+    "Individual": "25.95%",
+    "Friend/Rival": "25.83%",
+    "Taxes": "10.12%",
     "Indep War?": "0.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -17853,19 +17853,19 @@
     "Nations": "Pyhätmetsät",
     "Nation Check": "Pyhätmetsät",
     "Overlord": "ADMIN NATION",
-    "Eco Vassals": "1,265,749.33",
+    "Eco Vassals": "1,261,401.73",
     "Eco Over.": "7,188,780.00",
     "Compare": "4,055,310.00",
-    "MP Vassals": "17.61%",
+    "MP Vassals": "17.55%",
     "MP Over.": "433,995.00",
     "20% Total": "10.70%",
-    "Vassal Type": "5.66%",
+    "Vassal Type": "5.65%",
     "": "0.00%",
     "L. Desire": "ADMIN NATION Nonprovince",
     "Base": "0.25",
-    "Comparison": "0.55%",
-    "Individual": "0.55%",
-    "Friend/Rival": "5.66%",
+    "Comparison": "0.54%",
+    "Individual": "0.54%",
+    "Friend/Rival": "5.65%",
     "Taxes": "1.55%",
     "Indep War?": "8.33%",
     "Autonomy": "",
@@ -19524,16 +19524,16 @@
       "Trade 2 Value": "24,805.00"
     },
     "Trade 3": {
-      "Value": "The Kingdom of Zahar",
-      "Trade 3 Value": "2,944.55"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "Soroner",
       "Trade 4 Value": "7,245.00"
     },
     "Trade 5": {
-      "Value": "Maldune",
-      "Trade 5 Value": "53,170.00"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "Kingdom of Aeornia",
@@ -19581,7 +19581,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "96,880.29"
+    "Trades": "40,765.74"
   },
   "Sach'awasi": {
     "Nations": "Sach'awasi",
@@ -20812,19 +20812,19 @@
     "Nation Check": "Soroner",
     "Overlord": "Royaume sous de l'Aurore",
     "Eco Vassals": "1,077,159.15",
-    "Eco Over.": "1,187,036.86",
-    "Compare": "469,581.00",
-    "MP Vassals": "90.74%",
+    "Eco Over.": "1,132,027.17",
+    "Compare": "474,360.00",
+    "MP Vassals": "95.15%",
     "MP Over.": "161,180.00",
-    "20% Total": "34.32%",
-    "Vassal Type": "25.01%",
+    "20% Total": "33.98%",
+    "Vassal Type": "25.83%",
     "": "0.00%",
     "L. Desire": "Royaume sous de l'Aurore Nonprovince",
     "Base": "0.25",
-    "Comparison": "22.62%",
-    "Individual": "22.62%",
-    "Friend/Rival": "25.01%",
-    "Taxes": "2.61%",
+    "Comparison": "23.52%",
+    "Individual": "23.52%",
+    "Friend/Rival": "25.83%",
+    "Taxes": "2.69%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -22953,20 +22953,20 @@
     "Nations": "The Horn",
     "Nation Check": "The Horn",
     "Overlord": "ADMIN NATION",
-    "Eco Vassals": "1,265,749.33",
+    "Eco Vassals": "1,261,401.73",
     "Eco Over.": "7,188,780.00",
     "Compare": "4,055,310.00",
-    "MP Vassals": "17.61%",
+    "MP Vassals": "17.55%",
     "MP Over.": "433,995.00",
     "20% Total": "10.70%",
-    "Vassal Type": "5.66%",
+    "Vassal Type": "5.65%",
     "": "0.00%",
     "L. Desire": "ADMIN NATION Nonprovince",
     "Base": "0.25",
-    "Comparison": "13.10%",
-    "Individual": "13.10%",
-    "Friend/Rival": "5.66%",
-    "Taxes": "4.11%",
+    "Comparison": "13.08%",
+    "Individual": "13.08%",
+    "Friend/Rival": "5.65%",
+    "Taxes": "4.10%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -23025,7 +23025,7 @@
     },
     "Trade 11": {
       "Value": "Stratavia",
-      "Trade 11 Value": "13,075.50"
+      "Trade 11 Value": "8,499.08"
     },
     "Trade 12": {
       "Value": "",
@@ -23049,7 +23049,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "110,711.40"
+    "Trades": "106,134.98"
   },
   "The House of Jokers": {
     "Nations": "The House of Jokers",
@@ -23667,20 +23667,20 @@
     "Nations": "The Tribes of C’tis",
     "Nation Check": "The Tribes of C’tis",
     "Overlord": "Ceavia",
-    "Eco Vassals": "186,293.11",
-    "Eco Over.": "469,835.12",
+    "Eco Vassals": "185,534.06",
+    "Eco Over.": "468,836.37",
     "Compare": "127,125.00",
-    "MP Vassals": "39.65%",
+    "MP Vassals": "39.57%",
     "MP Over.": "124,219.00",
     "20% Total": "97.71%",
-    "Vassal Type": "27.47%",
+    "Vassal Type": "27.46%",
     "": "0.00%",
     "L. Desire": "Ceavia Nonprovince",
     "Base": "0.25",
-    "Comparison": "47.95%",
-    "Individual": "47.95%",
-    "Friend/Rival": "27.47%",
-    "Taxes": "27.47%",
+    "Comparison": "47.91%",
+    "Individual": "47.91%",
+    "Friend/Rival": "27.46%",
+    "Taxes": "27.46%",
     "Indep War?": "-2.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -23715,7 +23715,7 @@
     },
     "Trade 5": {
       "Value": "Elyen-Mev",
-      "Trade 5 Value": "5,992.50"
+      "Trade 5 Value": "5,193.50"
     },
     "Trade 6": {
       "Value": "Ceavia",
@@ -23763,7 +23763,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "36,458.87"
+    "Trades": "35,659.87"
   },
   "The Wendel Witaner": {
     "Nations": "The Wendel Witaner",
@@ -24993,19 +24993,19 @@
     "Nations": "Unigol",
     "Nation Check": "Unigol",
     "Overlord": "Meadoia Dynasty",
-    "Eco Vassals": "1,580,576.44",
+    "Eco Vassals": "1,579,577.69",
     "Eco Over.": "1,501,591.10",
     "Compare": "342,431.00",
-    "MP Vassals": "105.26%",
+    "MP Vassals": "105.19%",
     "MP Over.": "202,623.00",
     "20% Total": "59.17%",
-    "Vassal Type": "32.89%",
+    "Vassal Type": "32.87%",
     "": "0.00%",
     "L. Desire": "Meadoia Dynasty Nonprovince",
     "Base": "1.00",
-    "Comparison": "38.56%",
-    "Individual": "38.56%",
-    "Friend/Rival": "32.89%",
+    "Comparison": "38.54%",
+    "Individual": "38.54%",
+    "Friend/Rival": "32.87%",
     "Taxes": "5.17%",
     "Indep War?": "5.00%",
     "Autonomy": "",
