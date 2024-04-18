@@ -464,10 +464,10 @@
   "Alonissos Isles": {
     "Nations": "Alonissos Isles",
     "Nation Check": "Alonissos Isles",
-    "Pow_Army": "5,813",
+    "Pow_Army": "6,069",
     "Pow_Navy": "2,580",
-    "Manpower": "488,165",
-    "Manpower Avail.": "20.23%",
+    "Manpower": "552,206",
+    "Manpower Avail.": "17.88%",
     "Upkeep": "10",
     "Upkeep Army": "",
     "Upkeep Navy": "278,100.00",
@@ -3317,12 +3317,12 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Hadastan Commenwealth": {
-    "Nations": "Hadastan Commenwealth",
+  "Hadastan Commenwealth [Dead]": {
+    "Nations": "Hadastan Commenwealth [Dead]",
     "Nation Check": "Hadastan Commenwealth",
-    "Pow_Army": "67",
+    "Pow_Army": "0",
     "Pow_Navy": "0",
-    "Manpower": "16,770",
+    "Manpower": "0",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
