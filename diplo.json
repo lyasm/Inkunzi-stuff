@@ -993,7 +993,7 @@
     },
     "Trade 11": {
       "Value": "Lowy Combine",
-      "Trade 11 Value": "14,890.50"
+      "Trade 11 Value": "19,026.75"
     },
     "Trade 12": {
       "Value": "Auream Trading Federation",
@@ -1017,7 +1017,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "685,007.95"
+    "Trades": "689,144.20"
   },
   "Alramia": {
     "Nations": "Alramia",
@@ -1471,7 +1471,7 @@
     },
     "Trade 3": {
       "Value": "Carya",
-      "Trade 3 Value": "1,579.50"
+      "Trade 3 Value": "1,374.25"
     },
     "Trade 4": {
       "Value": "Theocratia Artania",
@@ -1527,7 +1527,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "27,457.60"
+    "Trades": "27,252.35"
   },
   "Arcadia": {
     "Nations": "Arcadia",
@@ -3009,7 +3009,7 @@
     },
     "Trade 5": {
       "Value": "Lowy Combine",
-      "Trade 5 Value": "14,890.50"
+      "Trade 5 Value": "19,026.75"
     },
     "Trade 6": {
       "Value": "Ilioratica",
@@ -3057,53 +3057,53 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "200,676.25"
+    "Trades": "204,812.50"
   },
   "Carya": {
     "Nations": "Carya",
     "Nation Check": "Carya",
-    "Overlord": "",
-    "Eco Vassals": "",
-    "Eco Over.": "",
-    "Compare": "",
-    "MP Vassals": "",
-    "MP Over.": "",
-    "20% Total": "",
-    "Vassal Type": "",
+    "Overlord": "Lowy Combine",
+    "Eco Vassals": "14,660.00",
+    "Eco Over.": "707,898.25",
+    "Compare": "241,667.00",
+    "MP Vassals": "2.07%",
+    "MP Over.": "7,988.00",
+    "20% Total": "3.31%",
+    "Vassal Type": "1.08%",
     "": "0.00%",
-    "L. Desire": "",
-    "Base": "",
-    "Comparison": "",
-    "Individual": "",
-    "Friend/Rival": "",
-    "Taxes": "",
-    "Indep War?": "",
+    "L. Desire": "Lowy Combine Nonprovince",
+    "Base": "1.00",
+    "Comparison": "0.00%",
+    "Individual": "-0.35%",
+    "Friend/Rival": "1.08%",
+    "Taxes": "1.08%",
+    "Indep War?": "10.00%",
     "Autonomy": "",
     "Threshold": "",
-    "Chaotic?": "",
-    "Deceptive?": "",
-    "Honor?": "",
-    "Indep.?": "",
-    "Unity?": "",
-    "Ov. Culture": "",
-    "Ov. Religion": "",
-    "Non-aggression Pacts": "",
-    "Defensive Pacts": "",
+    "Chaotic?": "Both",
+    "Deceptive?": "100.00%",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "FALSE",
+    "Ov. Culture": "FALSE",
+    "Ov. Religion": "TRUE",
+    "Non-aggression Pacts": "Lowy",
+    "Defensive Pacts": "Furtherance",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "9"
+      "Trade 1 Value": "8"
     },
     "Trade 2": {
-      "Value": "Yuranisuk",
-      "Trade 2 Value": "3,970.00"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
-      "Value": "Free Neighbor",
-      "Trade 3 Value": "5,000.00"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "",
@@ -3159,7 +3159,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "8,970.00"
+    "Trades": "0.00"
   },
   "Ceavia": {
     "Nations": "Ceavia",
@@ -4629,7 +4629,7 @@
     },
     "Trade 2": {
       "Value": "Lowy Combine",
-      "Trade 2 Value": "14,890.50"
+      "Trade 2 Value": "19,026.75"
     },
     "Trade 3": {
       "Value": "Ilikiu'Foriris",
@@ -4689,26 +4689,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "487,375.45"
+    "Trades": "491,511.70"
   },
   "Denirar": {
     "Nations": "Denirar",
     "Nation Check": "Denirar",
     "Overlord": "Alonissos Isles",
     "Eco Vassals": "817,659.56",
-    "Eco Over.": "2,058,758.74",
+    "Eco Over.": "2,063,929.05",
     "Compare": "552,206.00",
-    "MP Vassals": "39.72%",
+    "MP Vassals": "39.62%",
     "MP Over.": "12,300.00",
     "20% Total": "2.23%",
-    "Vassal Type": "8.39%",
+    "Vassal Type": "8.37%",
     "": "0.00%",
     "L. Desire": "Alonissos Isles Nonprovince",
     "Base": "1.00",
-    "Comparison": "8.44%",
-    "Individual": "8.44%",
-    "Friend/Rival": "8.39%",
-    "Taxes": "8.39%",
+    "Comparison": "8.40%",
+    "Individual": "8.40%",
+    "Friend/Rival": "8.37%",
+    "Taxes": "8.37%",
     "Indep War?": "1.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -6681,7 +6681,7 @@
     },
     "Trade 5": {
       "Value": "Lowy Combine",
-      "Trade 5 Value": "14,890.50"
+      "Trade 5 Value": "19,026.75"
     },
     "Trade 6": {
       "Value": "Clan Karatillion",
@@ -6729,7 +6729,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "139,826.60"
+    "Trades": "143,962.85"
   },
   "Free City of Zephyrabad": {
     "Nations": "Free City of Zephyrabad",
@@ -12549,10 +12549,10 @@
     "Nations": "Kivav'v'Syyrhuus",
     "Nation Check": "Kivav'v'Syyrhuus",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "758,165.92",
+    "Eco Vassals": "757,970.93",
     "Eco Over.": "1,858,732.96",
     "Compare": "736,428.00",
-    "MP Vassals": "40.79%",
+    "MP Vassals": "40.78%",
     "MP Over.": "273,758.00",
     "20% Total": "37.17%",
     "Vassal Type": "15.59%",
@@ -12562,7 +12562,7 @@
     "Comparison": "38.51%",
     "Individual": "38.51%",
     "Friend/Rival": "15.59%",
-    "Taxes": "5.42%",
+    "Taxes": "5.41%",
     "Indep War?": "2.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -12593,7 +12593,7 @@
     },
     "Trade 4": {
       "Value": "Carya",
-      "Trade 4 Value": "1,579.50"
+      "Trade 4 Value": "1,374.25"
     },
     "Trade 5": {
       "Value": "",
@@ -12645,7 +12645,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "29,058.00"
+    "Trades": "28,852.75"
   },
   "Ko'haq'r Republic": {
     "Nations": "Ko'haq'r Republic",
@@ -16359,7 +16359,7 @@
     },
     "Trade 2": {
       "Value": "Lowy Combine",
-      "Trade 2 Value": "14,890.50"
+      "Trade 2 Value": "19,026.75"
     },
     "Trade 3": {
       "Value": "",
@@ -16419,7 +16419,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "309,848.20"
+    "Trades": "313,984.45"
   },
   "Nournourlant": {
     "Nations": "Nournourlant",
@@ -17547,10 +17547,10 @@
     "Nations": "Picos Argent",
     "Nation Check": "Picos Argent",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "758,165.92",
+    "Eco Vassals": "757,970.93",
     "Eco Over.": "1,858,732.96",
     "Compare": "736,428.00",
-    "MP Vassals": "40.79%",
+    "MP Vassals": "40.78%",
     "MP Over.": "273,758.00",
     "20% Total": "37.17%",
     "Vassal Type": "15.59%",
@@ -20651,7 +20651,7 @@
     },
     "Trade 4": {
       "Value": "Lowy Combine",
-      "Trade 4 Value": "14,890.50"
+      "Trade 4 Value": "19,026.75"
     },
     "Trade 5": {
       "Value": "Ilioratica",
@@ -20703,7 +20703,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "363,520.45"
+    "Trades": "367,656.70"
   },
   "Sólstafir": {
     "Nations": "Sólstafir",
@@ -22546,19 +22546,19 @@
     "Nation Check": "The Charter Territory of Riveria",
     "Overlord": "Fray Ventos",
     "Eco Vassals": "11,675.00",
-    "Eco Over.": "1,111,207.24",
+    "Eco Over.": "1,116,377.55",
     "Compare": "479,516.00",
     "MP Vassals": "1.05%",
     "MP Over.": "4,695.00",
     "20% Total": "0.98%",
-    "Vassal Type": "0.41%",
+    "Vassal Type": "0.40%",
     "": "0.00%",
     "L. Desire": "Fray Ventos Nonprovince",
     "Base": "1.00",
     "Comparison": "0.00%",
     "Individual": "-14.19%",
-    "Friend/Rival": "0.41%",
-    "Taxes": "0.41%",
+    "Friend/Rival": "0.40%",
+    "Taxes": "0.40%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -23871,18 +23871,18 @@
     "Nations": "Theocratia Artania",
     "Nation Check": "Theocratia Artania",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "758,165.92",
+    "Eco Vassals": "757,970.93",
     "Eco Over.": "1,858,732.96",
     "Compare": "736,428.00",
-    "MP Vassals": "40.79%",
+    "MP Vassals": "40.78%",
     "MP Over.": "273,758.00",
     "20% Total": "37.17%",
     "Vassal Type": "15.59%",
     "": "0.00%",
     "L. Desire": "Kranicvak Nixond Nonprovince",
     "Base": "1.00",
-    "Comparison": "13.97%",
-    "Individual": "13.97%",
+    "Comparison": "13.96%",
+    "Individual": "13.96%",
     "Friend/Rival": "15.59%",
     "Taxes": "5.87%",
     "Indep War?": "-5.00%",
@@ -25951,7 +25951,7 @@
     },
     "Trade 3": {
       "Value": "Carya",
-      "Trade 3 Value": "1,579.50"
+      "Trade 3 Value": "1,374.25"
     },
     "Trade 4": {
       "Value": "",
@@ -26007,7 +26007,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "6,394.50"
+    "Trades": "6,189.25"
   },
   "Zalmoxia": {
     "Nations": "Zalmoxia",
