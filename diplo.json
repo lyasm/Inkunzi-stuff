@@ -717,20 +717,20 @@
     "Nations": "Akaḣpetoƞ",
     "Nation Check": "Akaḣpetoƞ",
     "Overlord": "The House of Jokers",
-    "Eco Vassals": "92,239.79",
+    "Eco Vassals": "86,498.46",
     "Eco Over.": "375,531.69",
     "Compare": "216,552.00",
-    "MP Vassals": "24.56%",
+    "MP Vassals": "23.03%",
     "MP Over.": "78,705.00",
     "20% Total": "36.34%",
-    "Vassal Type": "12.18%",
+    "Vassal Type": "11.88%",
     "": "0.00%",
     "L. Desire": "The House of Jokers Nonprovince",
     "Base": "0.25",
-    "Comparison": "25.70%",
-    "Individual": "25.70%",
-    "Friend/Rival": "12.18%",
-    "Taxes": "12.18%",
+    "Comparison": "25.08%",
+    "Individual": "25.08%",
+    "Friend/Rival": "11.88%",
+    "Taxes": "11.88%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -765,7 +765,7 @@
     },
     "Trade 5": {
       "Value": "The Horn",
-      "Trade 5 Value": "10,206.80"
+      "Trade 5 Value": "2,551.70"
     },
     "Trade 6": {
       "Value": "Clankar Cog",
@@ -813,7 +813,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "49,653.05"
+    "Trades": "41,997.95"
   },
   "Akalikania": {
     "Nations": "Akalikania",
@@ -3813,7 +3813,7 @@
     },
     "Trade 2": {
       "Value": "The Horn",
-      "Trade 2 Value": "10,206.80"
+      "Trade 2 Value": "2,551.70"
     },
     "Trade 3": {
       "Value": "Pyhätmetsät",
@@ -3873,7 +3873,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "45,157.06"
+    "Trades": "37,501.96"
   },
   "Clannu Dubhachi": {
     "Nations": "Clannu Dubhachi",
@@ -5818,19 +5818,19 @@
     "Nation Check": "Enushkan Ur Kaash'shum",
     "Overlord": "Stratavia",
     "Eco Vassals": "441,929.25",
-    "Eco Over.": "900,983.40",
+    "Eco Over.": "893,711.06",
     "Compare": "244,969.00",
-    "MP Vassals": "49.05%",
+    "MP Vassals": "49.45%",
     "MP Over.": "168,414.00",
     "20% Total": "68.75%",
-    "Vassal Type": "23.56%",
+    "Vassal Type": "23.64%",
     "": "0.00%",
     "L. Desire": "Stratavia Nonprovince",
     "Base": "1.00",
-    "Comparison": "35.25%",
-    "Individual": "35.25%",
-    "Friend/Rival": "23.56%",
-    "Taxes": "9.19%",
+    "Comparison": "35.36%",
+    "Individual": "35.36%",
+    "Friend/Rival": "23.64%",
+    "Taxes": "9.22%",
     "Indep War?": "12.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -6736,19 +6736,19 @@
     "Nation Check": "Free City of Zephyrabad",
     "Overlord": "Stratavia",
     "Eco Vassals": "441,929.25",
-    "Eco Over.": "900,983.40",
+    "Eco Over.": "893,711.06",
     "Compare": "244,969.00",
-    "MP Vassals": "49.05%",
+    "MP Vassals": "49.45%",
     "MP Over.": "168,414.00",
     "20% Total": "68.75%",
-    "Vassal Type": "23.56%",
+    "Vassal Type": "23.64%",
     "": "0.00%",
     "L. Desire": "Stratavia Nonprovince",
     "Base": "1.00",
-    "Comparison": "26.90%",
-    "Individual": "26.90%",
-    "Friend/Rival": "23.56%",
-    "Taxes": "5.34%",
+    "Comparison": "27.00%",
+    "Individual": "27.00%",
+    "Friend/Rival": "23.64%",
+    "Taxes": "5.36%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -10714,19 +10714,19 @@
     "Nation Check": "Jubal'on",
     "Overlord": "Stratavia",
     "Eco Vassals": "441,929.25",
-    "Eco Over.": "900,983.40",
+    "Eco Over.": "893,711.06",
     "Compare": "244,969.00",
-    "MP Vassals": "49.05%",
+    "MP Vassals": "49.45%",
     "MP Over.": "168,414.00",
     "20% Total": "68.75%",
-    "Vassal Type": "23.56%",
+    "Vassal Type": "23.64%",
     "": "0.00%",
     "L. Desire": "Stratavia Nonprovince",
     "Base": "1.00",
-    "Comparison": "52.59%",
-    "Individual": "52.59%",
-    "Friend/Rival": "23.56%",
-    "Taxes": "9.03%",
+    "Comparison": "52.69%",
+    "Individual": "52.69%",
+    "Friend/Rival": "23.64%",
+    "Taxes": "9.05%",
     "Indep War?": "20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -17689,7 +17689,7 @@
     },
     "Trade 3": {
       "Value": "The Horn",
-      "Trade 3 Value": "10,206.80"
+      "Trade 3 Value": "2,551.70"
     },
     "Trade 4": {
       "Value": "Golden Refugee",
@@ -17745,7 +17745,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "20,206.80"
+    "Trades": "12,551.70"
   },
   "Psaracija": {
     "Nations": "Psaracija",
@@ -17853,19 +17853,19 @@
     "Nations": "Pyhätmetsät",
     "Nation Check": "Pyhätmetsät",
     "Overlord": "ADMIN NATION",
-    "Eco Vassals": "1,167,800.36",
+    "Eco Vassals": "1,215,680.36",
     "Eco Over.": "7,188,780.00",
     "Compare": "4,055,310.00",
-    "MP Vassals": "16.24%",
-    "MP Over.": "418,875.00",
-    "20% Total": "10.33%",
-    "Vassal Type": "5.31%",
+    "MP Vassals": "16.91%",
+    "MP Over.": "433,995.00",
+    "20% Total": "10.70%",
+    "Vassal Type": "5.52%",
     "": "0.00%",
     "L. Desire": "ADMIN NATION Nonprovince",
     "Base": "0.25",
-    "Comparison": "0.20%",
-    "Individual": "0.20%",
-    "Friend/Rival": "5.31%",
+    "Comparison": "0.41%",
+    "Individual": "0.41%",
+    "Friend/Rival": "5.52%",
     "Taxes": "1.55%",
     "Indep War?": "8.33%",
     "Autonomy": "",
@@ -18399,7 +18399,7 @@
     },
     "Trade 2": {
       "Value": "The Horn",
-      "Trade 2 Value": "10,206.80"
+      "Trade 2 Value": "2,551.70"
     },
     "Trade 3": {
       "Value": "The Awakened",
@@ -18459,7 +18459,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "55,465.65"
+    "Trades": "47,810.55"
   },
   "Querzalco Council": {
     "Nations": "Querzalco Council",
@@ -21075,7 +21075,7 @@
     },
     "Trade 8": {
       "Value": "The Horn",
-      "Trade 8 Value": "10,206.80"
+      "Trade 8 Value": "2,551.70"
     },
     "Trade 9": {
       "Value": "Enushkan Ur Kaash'shum",
@@ -21111,7 +21111,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "299,321.35"
+    "Trades": "291,666.25"
   },
   "Svetograd": {
     "Nations": "Svetograd",
@@ -22953,20 +22953,20 @@
     "Nations": "The Horn",
     "Nation Check": "The Horn",
     "Overlord": "ADMIN NATION",
-    "Eco Vassals": "1,167,800.36",
+    "Eco Vassals": "1,215,680.36",
     "Eco Over.": "7,188,780.00",
     "Compare": "4,055,310.00",
-    "MP Vassals": "16.24%",
-    "MP Over.": "418,875.00",
-    "20% Total": "10.33%",
-    "Vassal Type": "5.31%",
+    "MP Vassals": "16.91%",
+    "MP Over.": "433,995.00",
+    "20% Total": "10.70%",
+    "Vassal Type": "5.52%",
     "": "0.00%",
     "L. Desire": "ADMIN NATION Nonprovince",
     "Base": "0.25",
-    "Comparison": "12.41%",
-    "Individual": "12.41%",
-    "Friend/Rival": "5.31%",
-    "Taxes": "3.76%",
+    "Comparison": "12.82%",
+    "Individual": "12.82%",
+    "Friend/Rival": "5.52%",
+    "Taxes": "3.97%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -26277,7 +26277,7 @@
     },
     "Trade 8": {
       "Value": "The Horn",
-      "Trade 8 Value": "10,206.80"
+      "Trade 8 Value": "2,551.70"
     },
     "Trade 9": {
       "Value": "Velken Bulwark",
@@ -26313,7 +26313,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "47,437.39"
+    "Trades": "39,782.29"
   },
   "Zilvrenskegga": {
     "Nations": "Zilvrenskegga",
