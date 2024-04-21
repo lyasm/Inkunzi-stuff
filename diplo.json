@@ -1470,8 +1470,8 @@
       "Trade 2 Value": "6,676.00"
     },
     "Trade 3": {
-      "Value": "Carya",
-      "Trade 3 Value": "1,449.00"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "Theocratia Artania",
@@ -1527,7 +1527,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "27,327.10"
+    "Trades": "25,878.10"
   },
   "Arcadia": {
     "Nations": "Arcadia",
@@ -3816,8 +3816,8 @@
       "Trade 2 Value": "2,551.70"
     },
     "Trade 3": {
-      "Value": "Pyhätmetsät",
-      "Trade 3 Value": "1,706.03"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "Velken Bulwark",
@@ -3873,7 +3873,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "38,853.96"
+    "Trades": "37,147.94"
   },
   "Clannu Dubhachi": {
     "Nations": "Clannu Dubhachi",
@@ -11898,8 +11898,8 @@
       "Trade 8 Value": "5,193.50"
     },
     "Trade 9": {
-      "Value": "Pyhätmetsät",
-      "Trade 9 Value": "1,706.03"
+      "Value": "",
+      "Trade 9 Value": ""
     },
     "Trade 10": {
       "Value": "Maldune",
@@ -11931,7 +11931,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "66,509.88"
+    "Trades": "64,803.85"
   },
   "Kingdom of Lyroa": {
     "Nations": "Kingdom of Lyroa",
