@@ -132,7 +132,7 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Litovai Imperiu, Kingdom of Geloía, Uqhuma Killa",
-    "Military Alliances": "Galdukatu",
+    "Military Alliances": "Galdu-Rampart Union",
     "Military Alliances 2": "",
     "Limit": "Litovai Imperiu",
     "Trade 1": {
@@ -144,8 +144,8 @@
       "Trade 2 Value": "5,405.63"
     },
     "Trade 3": {
-      "Value": "Galdukatu",
-      "Trade 3 Value": "5,000.00"
+      "Value": "Galdu-Rampart Union",
+      "Trade 3 Value": "12,600.00"
     },
     "Trade 4": {
       "Value": "Magna Occulta",
@@ -201,7 +201,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "20,198.13"
+    "Trades": "27,798.13"
   },
   "Aethyllion Pradesh": {
     "Nations": "Aethyllion Pradesh",
@@ -2698,8 +2698,8 @@
       "Trade 3 Value": "217,474.20"
     },
     "Trade 4": {
-      "Value": "Galdukatu",
-      "Trade 4 Value": "5,000.00"
+      "Value": "Galdu-Rampart Union",
+      "Trade 4 Value": "12,600.00"
     },
     "Trade 5": {
       "Value": "Netsanet Republic",
@@ -2751,7 +2751,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "278,546.93"
+    "Trades": "286,146.93"
   },
   "Cabyar Birodalom": {
     "Nations": "Cabyar Birodalom",
@@ -4389,20 +4389,20 @@
     "Nations": "Cortaria",
     "Nation Check": "Cortaria",
     "Overlord": "Litovai Imperiu",
-    "Eco Vassals": "1,620,617.71",
-    "Eco Over.": "2,243,451.00",
+    "Eco Vassals": "1,627,837.71",
+    "Eco Over.": "2,250,671.00",
     "Compare": "737,124.00",
-    "MP Vassals": "72.24%",
+    "MP Vassals": "72.33%",
     "MP Over.": "492,867.00",
     "20% Total": "66.86%",
-    "Vassal Type": "27.82%",
+    "Vassal Type": "27.84%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Nonprovince",
     "Base": "0.25",
-    "Comparison": "45.15%",
-    "Individual": "45.15%",
-    "Friend/Rival": "27.82%",
-    "Taxes": "4.00%",
+    "Comparison": "45.16%",
+    "Individual": "45.16%",
+    "Friend/Rival": "27.84%",
+    "Taxes": "3.99%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -5308,19 +5308,19 @@
     "Nation Check": "Ducat Flumine",
     "Overlord": "Litovai Imperiu",
     "Eco Vassals": "1,043,591.63",
-    "Eco Over.": "1,070,532.28",
+    "Eco Over.": "1,077,752.28",
     "Compare": "329,648.00",
-    "MP Vassals": "97.48%",
+    "MP Vassals": "96.83%",
     "MP Over.": "407,476.00",
     "20% Total": "123.61%",
-    "Vassal Type": "44.22%",
+    "Vassal Type": "44.09%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Province",
     "Base": "0.00",
     "Comparison": "0.00%",
-    "Individual": "-0.17%",
-    "Friend/Rival": "44.22%",
-    "Taxes": "20.61%",
+    "Individual": "-0.36%",
+    "Friend/Rival": "44.09%",
+    "Taxes": "20.56%",
     "Indep War?": "-20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -5410,19 +5410,19 @@
     "Nation Check": "Ducat Supramarii",
     "Overlord": "Litovai Imperiu",
     "Eco Vassals": "1,043,591.63",
-    "Eco Over.": "1,070,532.28",
+    "Eco Over.": "1,077,752.28",
     "Compare": "329,648.00",
-    "MP Vassals": "97.48%",
+    "MP Vassals": "96.83%",
     "MP Over.": "407,476.00",
     "20% Total": "123.61%",
-    "Vassal Type": "44.22%",
+    "Vassal Type": "44.09%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Province",
     "Base": "0.00",
     "Comparison": "0.00%",
-    "Individual": "-8.44%",
-    "Friend/Rival": "44.22%",
-    "Taxes": "12.34%",
+    "Individual": "-8.61%",
+    "Friend/Rival": "44.09%",
+    "Taxes": "12.30%",
     "Indep War?": "-20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -6256,7 +6256,7 @@
     "Military Alliances 2": "",
     "Limit": "Adamania",
     "Trade 1": {
-      "Value": "Galdukatu",
+      "Value": "Galdu-Rampart Union",
       "Trade 1 Value": "7"
     },
     "Trade 2": {
@@ -6264,8 +6264,8 @@
       "Trade 2 Value": "7,878.00"
     },
     "Trade 3": {
-      "Value": "Galdukatu",
-      "Trade 3 Value": "5,000.00"
+      "Value": "Galdu-Rampart Union",
+      "Trade 3 Value": "12,600.00"
     },
     "Trade 4": {
       "Value": "Gran Prismatia",
@@ -6321,7 +6321,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "29,609.25"
+    "Trades": "37,209.25"
   },
   "Federation of the Winds": {
     "Nations": "Federation of the Winds",
@@ -11784,8 +11784,8 @@
       "Trade 5 Value": "2,365.00"
     },
     "Trade 6": {
-      "Value": "Galdukatu",
-      "Trade 6 Value": "5,000.00"
+      "Value": "Galdu-Rampart Union",
+      "Trade 6 Value": "12,600.00"
     },
     "Trade 7": {
       "Value": "Nummum",
@@ -11829,7 +11829,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "267,140.18"
+    "Trades": "274,740.18"
   },
   "Kingdom of Jasper": {
     "Nations": "Kingdom of Jasper",
@@ -13391,7 +13391,7 @@
     "Ov. Religion": "",
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
-    "Defensive Pacts 2": "Uqhuma Killa, Kingdom of Geloía, Eye of Terror, Galdukatu, Here Be Dragons",
+    "Defensive Pacts 2": "Uqhuma Killa, Kingdom of Geloía, Eye of Terror, Galdu-Rampart Union, Here Be Dragons",
     "Military Alliances": "The Khorassids",
     "Military Alliances 2": "",
     "Limit": "",
@@ -13420,8 +13420,8 @@
       "Trade 6 Value": "24,180.00"
     },
     "Trade 7": {
-      "Value": "Galdukatu",
-      "Trade 7 Value": "5,000.00"
+      "Value": "Galdu-Rampart Union",
+      "Trade 7 Value": "12,600.00"
     },
     "Trade 8": {
       "Value": "Here Be Dragons",
@@ -13461,7 +13461,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "349,108.72"
+    "Trades": "356,708.72"
   },
   "Lohiida Dathinaal": {
     "Nations": "Lohiida Dathinaal",
@@ -18567,20 +18567,20 @@
     "Nations": "Rakaslalradif",
     "Nation Check": "Rakaslalradif",
     "Overlord": "Litovai Imperiu",
-    "Eco Vassals": "1,620,617.71",
-    "Eco Over.": "2,243,451.00",
+    "Eco Vassals": "1,627,837.71",
+    "Eco Over.": "2,250,671.00",
     "Compare": "737,124.00",
-    "MP Vassals": "72.24%",
+    "MP Vassals": "72.33%",
     "MP Over.": "492,867.00",
     "20% Total": "66.86%",
-    "Vassal Type": "27.82%",
+    "Vassal Type": "27.84%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Nonprovince",
     "Base": "0.25",
-    "Comparison": "47.19%",
-    "Individual": "47.19%",
-    "Friend/Rival": "27.82%",
-    "Taxes": "11.04%",
+    "Comparison": "47.26%",
+    "Individual": "47.26%",
+    "Friend/Rival": "27.84%",
+    "Taxes": "11.09%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -18596,14 +18596,14 @@
     "Defensive Pacts 2": "Geloia, Here Be Dragons",
     "Military Alliances": "",
     "Military Alliances 2": "",
-    "Limit": "Galdukatu",
+    "Limit": "Galdu-Rampart Union",
     "Trade 1": {
       "Value": "",
       "Trade 1 Value": "9"
     },
     "Trade 2": {
-      "Value": "Galdukatu",
-      "Trade 2 Value": "5,000.00"
+      "Value": "Galdu-Rampart Union",
+      "Trade 2 Value": "12,600.00"
     },
     "Trade 3": {
       "Value": "Litovai Imperiu",
@@ -18663,7 +18663,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "78,243.05"
+    "Trades": "85,843.05"
   },
   "Remid Republic": {
     "Nations": "Remid Republic",
@@ -19689,20 +19689,20 @@
     "Nations": "Sange Okean",
     "Nation Check": "Sange Okean",
     "Overlord": "Litovai Imperiu",
-    "Eco Vassals": "1,620,617.71",
-    "Eco Over.": "2,243,451.00",
+    "Eco Vassals": "1,627,837.71",
+    "Eco Over.": "2,250,671.00",
     "Compare": "737,124.00",
-    "MP Vassals": "72.24%",
+    "MP Vassals": "72.33%",
     "MP Over.": "492,867.00",
     "20% Total": "66.86%",
-    "Vassal Type": "27.82%",
+    "Vassal Type": "27.84%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Nonprovince",
     "Base": "0.25",
-    "Comparison": "37.12%",
-    "Individual": "37.12%",
-    "Friend/Rival": "27.82%",
-    "Taxes": "5.97%",
+    "Comparison": "37.13%",
+    "Individual": "37.13%",
+    "Friend/Rival": "27.84%",
+    "Taxes": "5.96%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -19791,20 +19791,20 @@
     "Nations": "Sange Teren",
     "Nation Check": "Sange Teren",
     "Overlord": "Litovai Imperiu",
-    "Eco Vassals": "1,620,617.71",
-    "Eco Over.": "2,243,451.00",
+    "Eco Vassals": "1,627,837.71",
+    "Eco Over.": "2,250,671.00",
     "Compare": "737,124.00",
-    "MP Vassals": "72.24%",
+    "MP Vassals": "72.33%",
     "MP Over.": "492,867.00",
     "20% Total": "66.86%",
-    "Vassal Type": "27.82%",
+    "Vassal Type": "27.84%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Nonprovince",
     "Base": "0.25",
-    "Comparison": "42.96%",
-    "Individual": "42.96%",
-    "Friend/Rival": "27.82%",
-    "Taxes": "6.81%",
+    "Comparison": "42.97%",
+    "Individual": "42.97%",
+    "Friend/Rival": "27.84%",
+    "Taxes": "6.80%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -21832,19 +21832,19 @@
     "Nation Check": "Territori Orientale",
     "Overlord": "Litovai Imperiu",
     "Eco Vassals": "1,043,591.63",
-    "Eco Over.": "1,070,532.28",
+    "Eco Over.": "1,077,752.28",
     "Compare": "329,648.00",
-    "MP Vassals": "97.48%",
+    "MP Vassals": "96.83%",
     "MP Over.": "407,476.00",
     "20% Total": "123.61%",
-    "Vassal Type": "44.22%",
+    "Vassal Type": "44.09%",
     "": "0.00%",
     "L. Desire": "Litovai Imperiu Province",
     "Base": "0.00",
     "Comparison": "0.00%",
-    "Individual": "-9.52%",
-    "Friend/Rival": "44.22%",
-    "Taxes": "11.27%",
+    "Individual": "-9.68%",
+    "Friend/Rival": "44.09%",
+    "Taxes": "11.23%",
     "Indep War?": "-20.00%",
     "Autonomy": "",
     "Threshold": "",
