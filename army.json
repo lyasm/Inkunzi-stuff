@@ -4913,13 +4913,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Kingdom of Caerleon": {
-    "Nations": "Kingdom of Caerleon",
-    "Nation Check": "Kingdom of Caerleon",
-    "Pow_Army": "5,758",
+  "Ancylus Empire": {
+    "Nations": "Ancylus Empire",
+    "Nation Check": "Ancylus Empire",
+    "Pow_Army": "5,867",
     "Pow_Navy": "0",
-    "Manpower": "189,443",
-    "Manpower Avail.": "52.79%",
+    "Manpower": "216,743",
+    "Manpower Avail.": "46.14%",
     "Upkeep": "13",
     "Upkeep Army": "",
     "Upkeep Navy": "447,750.00",
@@ -7181,13 +7181,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Order of The Radiance": {
-    "Nations": "Order of The Radiance",
+  "Order of The Radiance (DEAD)": {
+    "Nations": "Order of The Radiance (DEAD)",
     "Nation Check": "Order of The Radiance",
-    "Pow_Army": "1,116",
+    "Pow_Army": "1,025",
     "Pow_Navy": "0",
-    "Manpower": "54,095",
-    "Manpower Avail.": "27.73%",
+    "Manpower": "31,191",
+    "Manpower Avail.": "48.09%",
     "Upkeep": "3",
     "Upkeep Army": "",
     "Upkeep Navy": "60,750.00",
