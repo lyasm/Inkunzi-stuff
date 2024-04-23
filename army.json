@@ -5918,7 +5918,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "1",
-    "Merc 3": "Steel Chapter",
+    "Merc 3": null,
     "Merc 4": null
   },
   "Magna Occulta": {
@@ -6128,7 +6128,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "0",
-    "Merc 3": "Pikpik Peacekeepers ",
+    "Merc 3": null,
     "Merc 4": null
   },
   "Mataram Republic": {
@@ -10502,10 +10502,10 @@
   "Velikiy Alytinskaya": {
     "Nations": "Velikiy Alytinskaya",
     "Nation Check": "Velikiy Alytinskaya",
-    "Pow_Army": "2,758",
+    "Pow_Army": "2,603",
     "Pow_Navy": "0",
-    "Manpower": "141,935",
-    "Manpower Avail.": "31.70%",
+    "Manpower": "103,257",
+    "Manpower Avail.": "43.58%",
     "Upkeep": "7",
     "Upkeep Army": "",
     "Upkeep Navy": "140,400.00",
