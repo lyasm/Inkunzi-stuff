@@ -3068,9 +3068,9 @@
   "Glasrhaidd Republic": {
     "Nations": "Glasrhaidd Republic",
     "Nation Check": "Glasrhaidd Republic",
-    "Pow_Army": "257",
+    "Pow_Army": "255",
     "Pow_Navy": "0",
-    "Manpower": "64,125",
+    "Manpower": "63,844",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -6047,13 +6047,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "March of Malaqara": {
-    "Nations": "March of Malaqara",
-    "Nation Check": "March of Malaqara",
+  "Qat'Qarra Akali": {
+    "Nations": "Qat'Qarra Akali",
+    "Nation Check": "Qat'Qarra Akali",
     "Pow_Army": "1,300",
     "Pow_Navy": "0",
-    "Manpower": "24,919",
-    "Manpower Avail.": "80.26%",
+    "Manpower": "25,031",
+    "Manpower Avail.": "79.90%",
     "Upkeep": "4",
     "Upkeep Army": "",
     "Upkeep Navy": "64,800.00",
@@ -6421,7 +6421,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "0",
+    "Merc 2": "1",
     "Merc 3": null,
     "Merc 4": null
   },
