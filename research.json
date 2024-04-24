@@ -20621,9 +20621,9 @@
   "Karaz Geshud": {
     "Nations": "Karaz Geshud",
     "Nation Check": "Karaz Geshud",
-    "Tribal Governance": null,
-    "Tribal Culture": null,
-    "Tribal Religion": null,
+    "Tribal Governance": "Yes",
+    "Tribal Culture": "Yes",
+    "Tribal Religion": "Yes",
     "Writing": null,
     "Tribal Agriculture": null,
     "Animal Husbandry": null,
