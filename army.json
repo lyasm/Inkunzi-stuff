@@ -10973,7 +10973,7 @@
     "Upkeep Navy": "0.00",
     "Upkeep Mercenary": "0.00",
     "Faction Troops": "0.00",
-    "Mob": "0",
+    "Mob": "#VALUE!",
     "Auxilla Infantry": "",
     "Auxilla Archers": "",
     "Auxilla Cavalry": "",
@@ -10999,7 +10999,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "-1",
+    "Merc 2": "0",
     "Merc 3": null,
     "Merc 4": null
   }
