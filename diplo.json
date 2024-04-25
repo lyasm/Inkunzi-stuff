@@ -12549,20 +12549,20 @@
     "Nations": "Kivav'v'Syyrhuus",
     "Nation Check": "Kivav'v'Syyrhuus",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "757,966.38",
+    "Eco Vassals": "756,390.33",
     "Eco Over.": "1,855,946.67",
     "Compare": "736,428.00",
-    "MP Vassals": "40.84%",
-    "MP Over.": "272,836.00",
-    "20% Total": "37.05%",
-    "Vassal Type": "15.58%",
+    "MP Vassals": "40.75%",
+    "MP Over.": "272,773.00",
+    "20% Total": "37.04%",
+    "Vassal Type": "15.56%",
     "": "0.00%",
     "L. Desire": "Kranicvak Nixond Nonprovince",
     "Base": "1.00",
-    "Comparison": "38.49%",
-    "Individual": "38.49%",
-    "Friend/Rival": "15.58%",
-    "Taxes": "5.42%",
+    "Comparison": "38.46%",
+    "Individual": "38.46%",
+    "Friend/Rival": "15.56%",
+    "Taxes": "5.40%",
     "Indep War?": "2.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -12592,8 +12592,8 @@
       "Trade 3 Value": "6,132.00"
     },
     "Trade 4": {
-      "Value": "Carya",
-      "Trade 4 Value": "1,449.00"
+      "Value": "",
+      "Trade 4 Value": ""
     },
     "Trade 5": {
       "Value": "",
@@ -12645,7 +12645,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "28,537.00"
+    "Trades": "27,088.00"
   },
   "Ko'haq'r Republic": {
     "Nations": "Ko'haq'r Republic",
@@ -17547,19 +17547,19 @@
     "Nations": "Picos Argent",
     "Nation Check": "Picos Argent",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "757,966.38",
+    "Eco Vassals": "756,390.33",
     "Eco Over.": "1,855,946.67",
     "Compare": "736,428.00",
-    "MP Vassals": "40.84%",
-    "MP Over.": "272,836.00",
-    "20% Total": "37.05%",
-    "Vassal Type": "15.58%",
+    "MP Vassals": "40.75%",
+    "MP Over.": "272,773.00",
+    "20% Total": "37.04%",
+    "Vassal Type": "15.56%",
     "": "0.00%",
     "L. Desire": "Kranicvak Nixond Nonprovince",
     "Base": "1.00",
-    "Comparison": "7.39%",
-    "Individual": "7.39%",
-    "Friend/Rival": "15.58%",
+    "Comparison": "7.37%",
+    "Individual": "7.37%",
+    "Friend/Rival": "15.56%",
     "Taxes": "4.31%",
     "Indep War?": "0.00%",
     "Autonomy": "",
@@ -23871,19 +23871,19 @@
     "Nations": "Theocratia Artania",
     "Nation Check": "Theocratia Artania",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "757,966.38",
+    "Eco Vassals": "756,390.33",
     "Eco Over.": "1,855,946.67",
     "Compare": "736,428.00",
-    "MP Vassals": "40.84%",
-    "MP Over.": "272,836.00",
-    "20% Total": "37.05%",
-    "Vassal Type": "15.58%",
+    "MP Vassals": "40.75%",
+    "MP Over.": "272,773.00",
+    "20% Total": "37.04%",
+    "Vassal Type": "15.56%",
     "": "0.00%",
     "L. Desire": "Kranicvak Nixond Nonprovince",
     "Base": "1.00",
-    "Comparison": "13.93%",
-    "Individual": "13.93%",
-    "Friend/Rival": "15.58%",
+    "Comparison": "13.91%",
+    "Individual": "13.91%",
+    "Friend/Rival": "15.56%",
     "Taxes": "5.85%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
@@ -26518,5 +26518,107 @@
     "Def. Pacts": "",
     "Mil. Pacts": "",
     "Trades": "3,005.65"
+  },
+  "Aung Kaveri": {
+    "Nations": "Aung Kaveri",
+    "Nation Check": "Aung Kaveri",
+    "Overlord": "Aethyrrajyam",
+    "Eco Vassals": "1,058,857.44",
+    "Eco Over.": "1,717,450.65",
+    "Compare": "555,552.00",
+    "MP Vassals": "61.65%",
+    "MP Over.": "475,413.00",
+    "20% Total": "85.57%",
+    "Vassal Type": "29.45%",
+    "": "0.00%",
+    "L. Desire": "Aethyrrajyam Province",
+    "Base": "0.00",
+    "Comparison": "0.00%",
+    "Individual": "-48.05%",
+    "Friend/Rival": "29.45%",
+    "Taxes": "0.00%",
+    "Indep War?": "-15.00%",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "Both",
+    "Deceptive?": "125.00%",
+    "Honor?": "FALSE",
+    "Indep.?": "FALSE",
+    "Unity?": "TRUE",
+    "Ov. Culture": "FALSE",
+    "Ov. Religion": "FALSE",
+    "Non-aggression Pacts": "Aethyr",
+    "Defensive Pacts": "Vhurrar",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": "6"
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "",
+    "Tariffs": "",
+    "Trade Income": "",
+    "NAPs": "",
+    "Def. Pacts": "",
+    "Mil. Pacts": "",
+    "Trades": "0.00"
   }
 }
