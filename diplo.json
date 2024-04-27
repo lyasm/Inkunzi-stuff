@@ -1561,8 +1561,8 @@
     "Defensive Pacts": "",
     "Defensive Pacts 2": "Scientarium, Kinh Nam City State, Kingdom of Mimgrond",
     "Military Alliances": "Amethyst Clan",
-    "Military Alliances 2": "",
-    "Limit": "Unigol",
+    "Military Alliances 2": "Kingdom of Mimgrond",
+    "Limit": "",
     "Trade 1": {
       "Value": "",
       "Trade 1 Value": "7"
@@ -3573,20 +3573,20 @@
     "Nations": "Cóchua Kingdom",
     "Nation Check": "Cóchua Kingdom",
     "Overlord": "Thys Alari",
-    "Eco Vassals": "77,450.00",
-    "Eco Over.": "345,633.89",
+    "Eco Vassals": "95,220.13",
+    "Eco Over.": "367,325.02",
     "Compare": "191,823.00",
-    "MP Vassals": "22.41%",
-    "MP Over.": "8,903.00",
-    "20% Total": "4.64%",
-    "Vassal Type": "5.41%",
+    "MP Vassals": "25.92%",
+    "MP Over.": "8,614.00",
+    "20% Total": "4.49%",
+    "Vassal Type": "6.08%",
     "": "0.00%",
     "L. Desire": "Thys Alari Nonprovince",
     "Base": "1.00",
-    "Comparison": "0.82%",
-    "Individual": "0.82%",
-    "Friend/Rival": "5.41%",
-    "Taxes": "5.41%",
+    "Comparison": "2.17%",
+    "Individual": "2.17%",
+    "Friend/Rival": "6.08%",
+    "Taxes": "6.08%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -3616,8 +3616,8 @@
       "Trade 3 Value": "5,000.00"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Thys Alari",
+      "Trade 4 Value": "14,524.10"
     },
     "Trade 5": {
       "Value": "",
@@ -3669,7 +3669,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "10,900.00"
+    "Trades": "25,424.10"
   },
   "Colmea": {
     "Nations": "Colmea",
@@ -22996,8 +22996,8 @@
       "Trade 3 Value": "6,405.75"
     },
     "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
+      "Value": "Cóchua Kingdom",
+      "Trade 4 Value": "1,910.00"
     },
     "Trade 5": {
       "Value": "",
@@ -23049,7 +23049,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "36,542.25"
+    "Trades": "38,452.25"
   },
   "Tort Uli Xaliq": {
     "Nations": "Tort Uli Xaliq",
