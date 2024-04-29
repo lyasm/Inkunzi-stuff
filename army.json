@@ -293,13 +293,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Ahupau'a o Heiau": {
-    "Nations": "Ahupau'a o Heiau",
+  "Ahupau'a o Heiau (Dead)": {
+    "Nations": "Ahupau'a o Heiau (Dead)",
     "Nation Check": "Ahupau'a o Heiau",
-    "Pow_Army": "1,374",
+    "Pow_Army": "1,200",
     "Pow_Navy": "6",
-    "Manpower": "43,412",
-    "Manpower Avail.": "48.95%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "2",
     "Upkeep Army": "",
     "Upkeep Navy": "33,300.00",
@@ -965,13 +965,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Azharid Caliphate": {
-    "Nations": "Azharid Caliphate",
+  "Azharid Caliphate (AI, remove)": {
+    "Nations": "Azharid Caliphate (AI, remove)",
     "Nation Check": "Azharid Caliphate",
-    "Pow_Army": "6,264",
+    "Pow_Army": "5,436",
     "Pow_Navy": "0",
-    "Manpower": "207,027",
-    "Manpower Avail.": "46.37%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "18",
     "Upkeep Army": "",
     "Upkeep Navy": "299,160.00",
@@ -10544,9 +10544,9 @@
   "Aloneria": {
     "Nations": "Aloneria",
     "Nation Check": "Aloneria",
-    "Pow_Army": "831",
+    "Pow_Army": "898",
     "Pow_Navy": "0",
-    "Manpower": "207,752",
+    "Manpower": "224,510",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
