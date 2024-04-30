@@ -2931,7 +2931,7 @@
     },
     "Trade 11": {
       "Value": "Imperial City of Soria",
-      "Trade 11 Value": "10,849.22"
+      "Trade 11 Value": "9,234.62"
     },
     "Trade 12": {
       "Value": "Aishokae Kiryaxolne",
@@ -4429,7 +4429,7 @@
     },
     "Trade 3": {
       "Value": "Imperial City of Soria",
-      "Trade 3 Value": "10,849.22"
+      "Trade 3 Value": "9,234.62"
     },
     "Trade 4": {
       "Value": "Dreikland",
@@ -4485,7 +4485,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "343,105.57"
+    "Trades": "341,490.97"
   },
   "Drahacira ": {
     "Nations": "Drahacira ",
@@ -4637,7 +4637,7 @@
     },
     "Trade 4": {
       "Value": "Imperial City of Soria",
-      "Trade 4 Value": "10,849.22"
+      "Trade 4 Value": "9,234.62"
     },
     "Trade 5": {
       "Value": "Scientarium",
@@ -4689,7 +4689,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "176,569.66"
+    "Trades": "174,955.06"
   },
   "Drionn Galith": {
     "Nations": "Drionn Galith",
@@ -5037,7 +5037,7 @@
     },
     "Trade 2": {
       "Value": "Imperial City of Soria",
-      "Trade 2 Value": "10,849.22"
+      "Trade 2 Value": "9,234.62"
     },
     "Trade 3": {
       "Value": "Kinh Nam Republic",
@@ -5097,7 +5097,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "158,552.45"
+    "Trades": "156,937.85"
   },
   "Emirate of Zira": {
     "Nations": "Emirate of Zira",
@@ -6328,7 +6328,7 @@
     "Nation Check": "Frijkland",
     "Overlord": "Svetograd",
     "Eco Vassals": "0.00",
-    "Eco Over.": "678,695.87",
+    "Eco Over.": "677,484.92",
     "Compare": "283,168.00",
     "MP Vassals": "0.00%",
     "MP Over.": "0.00",
@@ -9536,8 +9536,8 @@
       "Trade 4 Value": "9,993.75"
     },
     "Trade 5": {
-      "Value": "Order of The Mist",
-      "Trade 5 Value": "5,701.67"
+      "Value": "",
+      "Trade 5 Value": ""
     },
     "Trade 6": {
       "Value": "Drionn Galith",
@@ -9585,7 +9585,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "215,697.65"
+    "Trades": "209,995.98"
   },
   "Ishmalkan Confederated Cities": {
     "Nations": "Ishmalkan Confederated Cities",
@@ -11667,7 +11667,7 @@
     },
     "Trade 2": {
       "Value": "Imperial City of Soria",
-      "Trade 2 Value": "10,849.22"
+      "Trade 2 Value": "9,234.62"
     },
     "Trade 3": {
       "Value": "Scientarium",
@@ -11727,7 +11727,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "273,754.07"
+    "Trades": "272,139.47"
   },
   "Kivav'v'Syyrhuus": {
     "Nations": "Kivav'v'Syyrhuus",
@@ -13217,7 +13217,7 @@
     },
     "Trade 7": {
       "Value": "Imperial City of Soria",
-      "Trade 7 Value": "10,849.22"
+      "Trade 7 Value": "9,234.62"
     },
     "Trade 8": {
       "Value": "Diogen",
@@ -13257,7 +13257,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "432,821.57"
+    "Trades": "431,206.97"
   },
   "Magna Occulta": {
     "Nations": "Magna Occulta",
@@ -14692,19 +14692,19 @@
     "Nation Check": "Murenman",
     "Overlord": "Scientarium",
     "Eco Vassals": "208,810.83",
-    "Eco Over.": "767,716.42",
+    "Eco Over.": "766,182.55",
     "Compare": "106,146.00",
-    "MP Vassals": "27.20%",
+    "MP Vassals": "27.25%",
     "MP Over.": "81,995.00",
     "20% Total": "77.25%",
-    "Vassal Type": "20.89%",
+    "Vassal Type": "20.90%",
     "": "0.00%",
     "L. Desire": "Scientarium Nonprovince",
     "Base": "0.25",
-    "Comparison": "33.45%",
-    "Individual": "33.45%",
-    "Friend/Rival": "20.89%",
-    "Taxes": "20.89%",
+    "Comparison": "33.47%",
+    "Individual": "33.47%",
+    "Friend/Rival": "20.90%",
+    "Taxes": "20.90%",
     "Indep War?": "1.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -16017,20 +16017,20 @@
     "Nations": "Order of The Mist",
     "Nation Check": "Order of The Mist",
     "Overlord": "Imperial City of Soria",
-    "Eco Vassals": "231,338.07",
-    "Eco Over.": "498,680.03",
+    "Eco Vassals": "163,491.44",
+    "Eco Over.": "492,693.28",
     "Compare": "112,492.00",
-    "MP Vassals": "46.39%",
-    "MP Over.": "58,469.00",
-    "20% Total": "51.98%",
-    "Vassal Type": "19.67%",
+    "MP Vassals": "33.18%",
+    "MP Over.": "58,416.00",
+    "20% Total": "51.93%",
+    "Vassal Type": "17.02%",
     "": "0.00%",
     "L. Desire": "Imperial City of Soria Nonprovince",
     "Base": "0.25",
-    "Comparison": "37.35%",
-    "Individual": "37.35%",
-    "Friend/Rival": "19.67%",
-    "Taxes": "19.35%",
+    "Comparison": "32.10%",
+    "Individual": "32.10%",
+    "Friend/Rival": "17.02%",
+    "Taxes": "16.74%",
     "Indep War?": "8.33%",
     "Autonomy": "",
     "Threshold": "",
@@ -16057,7 +16057,7 @@
     },
     "Trade 3": {
       "Value": "Imperial City of Soria",
-      "Trade 3 Value": "10,849.22"
+      "Trade 3 Value": "9,234.62"
     },
     "Trade 4": {
       "Value": "Kinh Nam Republic",
@@ -16072,8 +16072,8 @@
       "Trade 6 Value": "9,993.75"
     },
     "Trade 7": {
-      "Value": "Scientarium",
-      "Trade 7 Value": "68,460.48"
+      "Value": "",
+      "Trade 7 Value": ""
     },
     "Trade 8": {
       "Value": "Murenman",
@@ -16113,7 +16113,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "130,674.96"
+    "Trades": "60,599.88"
   },
   "Pavellion": {
     "Nations": "Pavellion",
@@ -19011,7 +19011,7 @@
     },
     "Trade 2": {
       "Value": "Imperial City of Soria",
-      "Trade 2 Value": "10,849.22"
+      "Trade 2 Value": "9,234.62"
     },
     "Trade 3": {
       "Value": "Svetograd",
@@ -19071,7 +19071,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "260,045.89"
+    "Trades": "258,431.29"
   },
   "Second State of Los": {
     "Nations": "Second State of Los",
@@ -19969,7 +19969,7 @@
     },
     "Trade 12": {
       "Value": "Imperial City of Soria",
-      "Trade 12 Value": "10,849.22"
+      "Trade 12 Value": "9,234.62"
     },
     "Trade 13": {
       "Value": "Dreikland",
@@ -19989,7 +19989,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "207,269.50"
+    "Trades": "205,654.90"
   },
   "Tala Htote": {
     "Nations": "Tala Htote",
@@ -21219,20 +21219,20 @@
     "Nations": "The Banana Republic",
     "Nation Check": "The Banana Republic",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "1,952,532.66",
+    "Eco Vassals": "1,950,498.26",
     "Eco Over.": "1,305,149.17",
     "Compare": "359,728.00",
-    "MP Vassals": "149.60%",
+    "MP Vassals": "149.45%",
     "MP Over.": "422,810.00",
     "20% Total": "117.54%",
-    "Vassal Type": "53.43%",
+    "Vassal Type": "53.40%",
     "": "-25.00%",
     "L. Desire": "Kingdom of Mimgrond Nonprovince",
     "Base": "1.00",
-    "Comparison": "34.17%",
-    "Individual": "34.17%",
-    "Friend/Rival": "53.43%",
-    "Taxes": "15.74%",
+    "Comparison": "34.11%",
+    "Individual": "34.11%",
+    "Friend/Rival": "53.40%",
+    "Taxes": "15.71%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -21303,7 +21303,7 @@
     },
     "Trade 14": {
       "Value": "Imperial City of Soria",
-      "Trade 14 Value": "10,849.22"
+      "Trade 14 Value": "9,234.62"
     },
     "Trade 15": {
       "Value": "Scientarium",
@@ -21315,7 +21315,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "443,398.32"
+    "Trades": "441,783.72"
   },
   "The Charter Territory of Riveria": {
     "Nations": "The Charter Territory of Riveria",
@@ -22035,19 +22035,19 @@
     "Nations": "The Kingdom of Hemia",
     "Nation Check": "The Kingdom of Hemia",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "1,952,532.66",
+    "Eco Vassals": "1,950,498.26",
     "Eco Over.": "1,305,149.17",
     "Compare": "359,728.00",
-    "MP Vassals": "149.60%",
+    "MP Vassals": "149.45%",
     "MP Over.": "422,810.00",
     "20% Total": "117.54%",
-    "Vassal Type": "53.43%",
+    "Vassal Type": "53.40%",
     "": "-25.00%",
     "L. Desire": "Kingdom of Mimgrond Nonprovince",
     "Base": "1.00",
-    "Comparison": "51.73%",
-    "Individual": "51.73%",
-    "Friend/Rival": "53.43%",
+    "Comparison": "51.70%",
+    "Individual": "51.70%",
+    "Friend/Rival": "53.40%",
     "Taxes": "14.97%",
     "Indep War?": "8.33%",
     "Autonomy": "",
@@ -23463,20 +23463,20 @@
     "Nations": "Unconquered Sun",
     "Nation Check": "Unconquered Sun",
     "Overlord": "Imperial City of Soria",
-    "Eco Vassals": "231,338.07",
-    "Eco Over.": "498,680.03",
+    "Eco Vassals": "163,491.44",
+    "Eco Over.": "492,693.28",
     "Compare": "112,492.00",
-    "MP Vassals": "46.39%",
-    "MP Over.": "58,469.00",
-    "20% Total": "51.98%",
-    "Vassal Type": "19.67%",
+    "MP Vassals": "33.18%",
+    "MP Over.": "58,416.00",
+    "20% Total": "51.93%",
+    "Vassal Type": "17.02%",
     "": "0.00%",
     "L. Desire": "Imperial City of Soria Nonprovince",
     "Base": "0.25",
-    "Comparison": "20.50%",
-    "Individual": "20.50%",
-    "Friend/Rival": "19.67%",
-    "Taxes": "0.33%",
+    "Comparison": "17.80%",
+    "Individual": "17.80%",
+    "Friend/Rival": "17.02%",
+    "Taxes": "0.28%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -23499,7 +23499,7 @@
     },
     "Trade 2": {
       "Value": "Imperial City of Soria",
-      "Trade 2 Value": "10,849.22"
+      "Trade 2 Value": "9,234.62"
     },
     "Trade 3": {
       "Value": "",
@@ -23559,7 +23559,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "10,849.22"
+    "Trades": "9,234.62"
   },
   "Undermania": {
     "Nations": "Undermania",
@@ -24789,19 +24789,19 @@
     "Nations": "Zalmoxia",
     "Nation Check": "Zalmoxia",
     "Overlord": "Kingdom of Mimgrond",
-    "Eco Vassals": "1,952,532.66",
+    "Eco Vassals": "1,950,498.26",
     "Eco Over.": "1,305,149.17",
     "Compare": "359,728.00",
-    "MP Vassals": "149.60%",
+    "MP Vassals": "149.45%",
     "MP Over.": "422,810.00",
     "20% Total": "117.54%",
-    "Vassal Type": "53.43%",
+    "Vassal Type": "53.40%",
     "": "-25.00%",
     "L. Desire": "Kingdom of Mimgrond Nonprovince",
     "Base": "0.25",
-    "Comparison": "59.48%",
-    "Individual": "59.48%",
-    "Friend/Rival": "53.43%",
+    "Comparison": "59.44%",
+    "Individual": "59.44%",
+    "Friend/Rival": "53.40%",
     "Taxes": "22.71%",
     "Indep War?": "8.33%",
     "Autonomy": "",
