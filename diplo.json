@@ -4730,8 +4730,8 @@
       "Trade 1 Value": "10"
     },
     "Trade 2": {
-      "Value": "Holy Kingdom of Scripts",
-      "Trade 2 Value": "7,446.71"
+      "Value": "Glasrhaidd Republic",
+      "Trade 2 Value": "7,869.00"
     },
     "Trade 3": {
       "Value": "Kranicvak Nixond",
@@ -4750,8 +4750,8 @@
       "Trade 6 Value": "12,088.80"
     },
     "Trade 7": {
-      "Value": "Murenman",
-      "Trade 7 Value": "7,978.80"
+      "Value": "Talask of Aithcra",
+      "Trade 7 Value": "5,315.00"
     },
     "Trade 8": {
       "Value": "Scientarium",
@@ -4766,8 +4766,8 @@
       "Trade 10 Value": "18,750.00"
     },
     "Trade 11": {
-      "Value": "Theocratia Artania",
-      "Trade 11 Value": "6,132.00"
+      "Value": "Talask of Saomair",
+      "Trade 11 Value": "8,850.00"
     },
     "Trade 12": {
       "Value": "",
@@ -4791,7 +4791,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "181,143.04"
+    "Trades": "181,619.53"
   },
   "Ducat Flumine": {
     "Nations": "Ducat Flumine",
@@ -5409,19 +5409,19 @@
     "Nations": "Etolian Dimokratia",
     "Nation Check": "Etolian Dimokratia",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "488,022.62",
-    "Eco Over.": "787,794.16",
+    "Eco Vassals": "498,983.68",
+    "Eco Over.": "788,246.82",
     "Compare": "269,428.00",
-    "MP Vassals": "61.95%",
+    "MP Vassals": "63.30%",
     "MP Over.": "155,009.00",
     "20% Total": "57.53%",
-    "Vassal Type": "23.90%",
+    "Vassal Type": "24.17%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "0.25",
-    "Comparison": "39.48%",
-    "Individual": "39.48%",
-    "Friend/Rival": "23.90%",
+    "Comparison": "39.75%",
+    "Individual": "39.75%",
+    "Friend/Rival": "24.17%",
     "Taxes": "6.41%",
     "Indep War?": "6.67%",
     "Autonomy": "",
@@ -6633,20 +6633,20 @@
     "Nations": "Glasrhaidd Republic",
     "Nation Check": "Glasrhaidd Republic",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "488,022.62",
-    "Eco Over.": "787,794.16",
+    "Eco Vassals": "498,983.68",
+    "Eco Over.": "788,246.82",
     "Compare": "269,428.00",
-    "MP Vassals": "61.95%",
+    "MP Vassals": "63.30%",
     "MP Over.": "155,009.00",
     "20% Total": "57.53%",
-    "Vassal Type": "23.90%",
+    "Vassal Type": "24.17%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "52.08%",
-    "Individual": "52.08%",
-    "Friend/Rival": "23.90%",
-    "Taxes": "10.69%",
+    "Comparison": "52.43%",
+    "Individual": "52.43%",
+    "Friend/Rival": "24.17%",
+    "Taxes": "10.76%",
     "Indep War?": "20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -6672,8 +6672,8 @@
       "Trade 2 Value": "12,688.00"
     },
     "Trade 3": {
-      "Value": "Dinasygan",
-      "Trade 3 Value": "6,540.00"
+      "Value": "Drionn Galith",
+      "Trade 3 Value": "10,676.25"
     },
     "Trade 4": {
       "Value": "Imperial City of Soria",
@@ -6729,7 +6729,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "50,606.42"
+    "Trades": "54,742.67"
   },
   "Goldmongers": {
     "Nations": "Goldmongers",
@@ -20097,20 +20097,20 @@
     "Nations": "Talask of Aithcra",
     "Nation Check": "Talask of Aithcra",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "488,022.62",
-    "Eco Over.": "787,794.16",
+    "Eco Vassals": "498,983.68",
+    "Eco Over.": "788,246.82",
     "Compare": "269,428.00",
-    "MP Vassals": "61.95%",
+    "MP Vassals": "63.30%",
     "MP Over.": "155,009.00",
     "20% Total": "57.53%",
-    "Vassal Type": "23.90%",
+    "Vassal Type": "24.17%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "62.11%",
-    "Individual": "62.11%",
-    "Friend/Rival": "23.90%",
-    "Taxes": "3.21%",
+    "Comparison": "62.47%",
+    "Individual": "62.47%",
+    "Friend/Rival": "24.17%",
+    "Taxes": "3.31%",
     "Indep War?": "20.00%",
     "Autonomy": "10%",
     "Threshold": "",
@@ -20136,8 +20136,8 @@
       "Trade 2 Value": "12,688.00"
     },
     "Trade 3": {
-      "Value": "Dinasygan",
-      "Trade 3 Value": "6,540.00"
+      "Value": "Drionn Galith",
+      "Trade 3 Value": "10,676.25"
     },
     "Trade 4": {
       "Value": "Glasrhaidd Republic",
@@ -20193,26 +20193,26 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "35,947.00"
+    "Trades": "40,083.25"
   },
   "Talask of Saomair": {
     "Nations": "Talask of Saomair",
     "Nation Check": "Talask of Saomair",
     "Overlord": "Drionn Galith",
-    "Eco Vassals": "488,022.62",
-    "Eco Over.": "787,794.16",
+    "Eco Vassals": "498,983.68",
+    "Eco Over.": "788,246.82",
     "Compare": "269,428.00",
-    "MP Vassals": "61.95%",
+    "MP Vassals": "63.30%",
     "MP Over.": "155,009.00",
     "20% Total": "57.53%",
-    "Vassal Type": "23.90%",
+    "Vassal Type": "24.17%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "57.48%",
-    "Individual": "57.48%",
-    "Friend/Rival": "23.90%",
-    "Taxes": "3.58%",
+    "Comparison": "57.85%",
+    "Individual": "57.85%",
+    "Friend/Rival": "24.17%",
+    "Taxes": "3.68%",
     "Indep War?": "20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -20238,8 +20238,8 @@
       "Trade 2 Value": "12,688.00"
     },
     "Trade 3": {
-      "Value": "Dinasygan",
-      "Trade 3 Value": "6,540.00"
+      "Value": "Drionn Galith",
+      "Trade 3 Value": "10,676.25"
     },
     "Trade 4": {
       "Value": "Glasrhaidd Republic",
@@ -20295,7 +20295,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "32,412.00"
+    "Trades": "36,548.25"
   },
   "Tavir": {
     "Nations": "Tavir",
