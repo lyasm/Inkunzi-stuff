@@ -874,7 +874,7 @@
       "Trade 6 Value": "7,936.50"
     },
     "Trade 7": {
-      "Value": "Zilvrenskegga",
+      "Value": "Polyora Élsted",
       "Trade 7 Value": "6,123.75"
     },
     "Trade 8": {
@@ -1894,7 +1894,7 @@
       "Trade 6 Value": "11,532.90"
     },
     "Trade 7": {
-      "Value": "Zilvrenskegga",
+      "Value": "Polyora Élsted",
       "Trade 7 Value": "6,123.75"
     },
     "Trade 8": {
@@ -3514,7 +3514,7 @@
       "Trade 3 Value": "11,949.15"
     },
     "Trade 4": {
-      "Value": "Zilvrenskegga",
+      "Value": "Polyora Élsted",
       "Trade 4 Value": "6,123.75"
     },
     "Trade 5": {
@@ -7182,7 +7182,7 @@
       "Trade 2 Value": "8,268.75"
     },
     "Trade 3": {
-      "Value": "Zilvrenskegga",
+      "Value": "Polyora Élsted",
       "Trade 3 Value": "6,123.75"
     },
     "Trade 4": {
@@ -8512,7 +8512,7 @@
       "Trade 3 Value": "9,603.75"
     },
     "Trade 4": {
-      "Value": "Order of The Mist",
+      "Value": "Holy Order of the Forge",
       "Trade 4 Value": "3,560.57"
     },
     "Trade 5": {
@@ -8830,7 +8830,7 @@
       "Trade 6 Value": "12,431.25"
     },
     "Trade 7": {
-      "Value": "Order of The Mist",
+      "Value": "Holy Order of the Forge",
       "Trade 7 Value": "3,560.57"
     },
     "Trade 8": {
@@ -16013,9 +16013,9 @@
     "Mil. Pacts": "",
     "Trades": "13,330.80"
   },
-  "Order of The Mist": {
-    "Nations": "Order of The Mist",
-    "Nation Check": "Order of The Mist",
+  "Holy Order of the Forge": {
+    "Nations": "Holy Order of the Forge",
+    "Nation Check": "Holy Order of the Forge",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
@@ -17018,7 +17018,7 @@
       "Trade 13 Value": "7,446.71"
     },
     "Trade 14": {
-      "Value": "Order of The Mist",
+      "Value": "Holy Order of the Forge",
       "Trade 14 Value": "3,560.57"
     },
     "Trade 15": {
@@ -18822,7 +18822,7 @@
       "Trade 5 Value": "13,330.80"
     },
     "Trade 6": {
-      "Value": "Zilvrenskegga",
+      "Value": "Polyora Élsted",
       "Trade 6 Value": "6,123.75"
     },
     "Trade 7": {
@@ -22604,7 +22604,7 @@
       "Trade 7 Value": "4,764.50"
     },
     "Trade 8": {
-      "Value": "Zilvrenskegga",
+      "Value": "Polyora Élsted",
       "Trade 8 Value": "6,123.75"
     },
     "Trade 9": {
@@ -25091,9 +25091,9 @@
     "Mil. Pacts": "",
     "Trades": "44,962.28"
   },
-  "Zilvrenskegga": {
-    "Nations": "Zilvrenskegga",
-    "Nation Check": "Zilvrenskegga",
+  "Polyora Élsted": {
+    "Nations": "Polyora Élsted",
+    "Nation Check": "Polyora Élsted",
     "Overlord": "",
     "Eco Vassals": "",
     "Eco Over.": "",
