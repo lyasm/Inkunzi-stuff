@@ -2354,10 +2354,10 @@
   "Ewig Republic": {
     "Nations": "Ewig Republic",
     "Nation Check": "Ewig Republic",
-    "Pow_Army": "1,946",
+    "Pow_Army": "1,740",
     "Pow_Navy": "0",
-    "Manpower": "126,019",
-    "Manpower Avail.": "42.20%",
+    "Manpower": "74,498",
+    "Manpower Avail.": "71.38%",
     "Upkeep": "5",
     "Upkeep Army": "",
     "Upkeep Navy": "231,382.05",
@@ -9655,7 +9655,7 @@
     "Classical Transport": "",
     "Slots": "",
     "Merc 1": "",
-    "Merc 2": "-1",
+    "Merc 2": "0",
     "Merc 3": null,
     "Merc 4": null
   },
