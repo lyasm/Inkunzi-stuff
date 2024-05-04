@@ -5681,7 +5681,7 @@
     "Upkeep Navy": "124,200.00",
     "Upkeep Mercenary": "115,200.00",
     "Faction Troops": "0.00",
-    "Mob": "0",
+    "Mob": "#VALUE!",
     "Auxilla Infantry": "",
     "Auxilla Archers": "",
     "Auxilla Cavalry": "0",
