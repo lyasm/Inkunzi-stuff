@@ -3914,9 +3914,9 @@
     "Manpower Avail.": "9.85%",
     "Upkeep": "0",
     "Upkeep Army": "",
-    "Upkeep Navy": "105,525.00",
+    "Upkeep Navy": "189,900.00",
     "Upkeep Mercenary": "94,500.00",
-    "Faction Troops": "0.00",
+    "Faction Troops": "84,375.00",
     "Mob": "#VALUE!",
     "Auxilla Infantry": "",
     "Auxilla Archers": "0",
@@ -3944,7 +3944,7 @@
     "Slots": "",
     "Merc 1": "",
     "Merc 2": "1",
-    "Merc 3": null,
+    "Merc 3": "Broken Isle Pirates",
     "Merc 4": null
   },
   "Ilioratica": {
