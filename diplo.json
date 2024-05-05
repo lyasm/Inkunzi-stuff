@@ -9822,12 +9822,12 @@
     "Non-aggression Pacts": "",
     "Defensive Pacts": "",
     "Defensive Pacts 2": "",
-    "Military Alliances": "",
+    "Military Alliances": "Schizaria",
     "Military Alliances 2": "",
     "Limit": "Làidirstìr",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "10"
+      "Trade 1 Value": "9"
     },
     "Trade 2": {
       "Value": "Làidirstìr",
@@ -9838,24 +9838,24 @@
       "Trade 3 Value": "8,796.20"
     },
     "Trade 4": {
-      "Value": "Vancassia",
-      "Trade 4 Value": "5,000.00"
+      "Value": "Viontes Reclamation Authority",
+      "Trade 4 Value": "17,327.05"
     },
     "Trade 5": {
       "Value": "Sólstafir",
-      "Trade 5 Value": "5,089.50"
+      "Trade 5 Value": "6,259.50"
     },
     "Trade 6": {
-      "Value": "Lialikidus",
-      "Trade 6 Value": "5,000.00"
+      "Value": "Undermania",
+      "Trade 6 Value": "7,960.00"
     },
     "Trade 7": {
-      "Value": "Viontes Reclamation Authority",
-      "Trade 7 Value": "10,390.25"
+      "Value": "Lundrium",
+      "Trade 7 Value": "7,693.75"
     },
     "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
+      "Value": "Karaz Geshud",
+      "Trade 8 Value": "9,072.00"
     },
     "Trade 9": {
       "Value": "",
@@ -9891,7 +9891,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "54,089.45"
+    "Trades": "76,922.00"
   },
   "Jubal'on": {
     "Nations": "Jubal'on",
@@ -10101,20 +10101,20 @@
     "Nations": "Karaz Geshud",
     "Nation Check": "Karaz Geshud",
     "Overlord": "Làidirstìr",
-    "Eco Vassals": "438,888.24",
-    "Eco Over.": "1,119,446.81",
+    "Eco Vassals": "459,605.24",
+    "Eco Over.": "1,130,199.06",
     "Compare": "505,567.00",
-    "MP Vassals": "39.21%",
+    "MP Vassals": "40.67%",
     "MP Over.": "111,774.00",
     "20% Total": "22.11%",
-    "Vassal Type": "12.26%",
+    "Vassal Type": "12.55%",
     "": "0.00%",
     "L. Desire": "Làidirstìr Nonprovince",
     "Base": "1.00",
-    "Comparison": "13.81%",
-    "Individual": "13.81%",
-    "Friend/Rival": "12.26%",
-    "Taxes": "6.55%",
+    "Comparison": "14.28%",
+    "Individual": "14.28%",
+    "Friend/Rival": "12.55%",
+    "Taxes": "6.72%",
     "Indep War?": "7.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -10141,7 +10141,7 @@
     },
     "Trade 3": {
       "Value": "Jörðnar",
-      "Trade 3 Value": "13,957.50"
+      "Trade 3 Value": "13,822.50"
     },
     "Trade 4": {
       "Value": "Lundrium",
@@ -10153,15 +10153,15 @@
     },
     "Trade 6": {
       "Value": "Undermania",
-      "Trade 6 Value": "6,160.00"
+      "Trade 6 Value": "7,960.00"
     },
     "Trade 7": {
       "Value": "Viontes Reclamation Authority",
-      "Trade 7 Value": "10,390.25"
+      "Trade 7 Value": "17,327.05"
     },
     "Trade 8": {
       "Value": "Sólstafir",
-      "Trade 8 Value": "5,089.50"
+      "Trade 8 Value": "6,259.50"
     },
     "Trade 9": {
       "Value": "Picos Argent",
@@ -10197,7 +10197,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "82,612.95"
+    "Trades": "92,384.75"
   },
   "Kashdara": {
     "Nations": "Kashdara",
@@ -11733,10 +11733,10 @@
     "Nations": "Kivav'v'Syyrhuus",
     "Nation Check": "Kivav'v'Syyrhuus",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "858,099.10",
+    "Eco Vassals": "857,957.35",
     "Eco Over.": "1,811,014.92",
     "Compare": "736,861.00",
-    "MP Vassals": "47.38%",
+    "MP Vassals": "47.37%",
     "MP Over.": "254,135.00",
     "20% Total": "34.49%",
     "Vassal Type": "16.37%",
@@ -12177,7 +12177,7 @@
     },
     "Trade 2": {
       "Value": "Jörðnar",
-      "Trade 2 Value": "13,957.50"
+      "Trade 2 Value": "13,822.50"
     },
     "Trade 3": {
       "Value": "",
@@ -12189,7 +12189,7 @@
     },
     "Trade 5": {
       "Value": "Viontes Reclamation Authority",
-      "Trade 5 Value": "10,390.25"
+      "Trade 5 Value": "17,327.05"
     },
     "Trade 6": {
       "Value": "",
@@ -12205,7 +12205,7 @@
     },
     "Trade 9": {
       "Value": "Undermania",
-      "Trade 9 Value": "6,160.00"
+      "Trade 9 Value": "7,960.00"
     },
     "Trade 10": {
       "Value": "Lundrium",
@@ -12237,7 +12237,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "66,781.95"
+    "Trades": "75,383.75"
   },
   "Lauzydos": {
     "Nations": "Lauzydos",
@@ -12957,20 +12957,20 @@
     "Nations": "Lundrium",
     "Nation Check": "Lundrium",
     "Overlord": "Làidirstìr",
-    "Eco Vassals": "438,888.24",
-    "Eco Over.": "1,119,446.81",
+    "Eco Vassals": "459,605.24",
+    "Eco Over.": "1,130,199.06",
     "Compare": "505,567.00",
-    "MP Vassals": "39.21%",
+    "MP Vassals": "40.67%",
     "MP Over.": "111,774.00",
     "20% Total": "22.11%",
-    "Vassal Type": "12.26%",
+    "Vassal Type": "12.55%",
     "": "0.00%",
     "L. Desire": "Làidirstìr Nonprovince",
     "Base": "1.00",
-    "Comparison": "20.48%",
-    "Individual": "20.48%",
-    "Friend/Rival": "12.26%",
-    "Taxes": "5.72%",
+    "Comparison": "20.89%",
+    "Individual": "20.89%",
+    "Friend/Rival": "12.55%",
+    "Taxes": "5.83%",
     "Indep War?": "7.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -12993,7 +12993,7 @@
     },
     "Trade 2": {
       "Value": "Jörðnar",
-      "Trade 2 Value": "13,957.50"
+      "Trade 2 Value": "13,822.50"
     },
     "Trade 3": {
       "Value": "Schizaria",
@@ -13009,7 +13009,7 @@
     },
     "Trade 6": {
       "Value": "Viontes Reclamation Authority",
-      "Trade 6 Value": "10,390.25"
+      "Trade 6 Value": "17,327.05"
     },
     "Trade 7": {
       "Value": "Picos Argent",
@@ -13053,7 +13053,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "86,464.65"
+    "Trades": "93,266.45"
   },
   "M'Qili Confederacy": {
     "Nations": "M'Qili Confederacy",
@@ -16323,10 +16323,10 @@
     "Nations": "Picos Argent",
     "Nation Check": "Picos Argent",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "858,099.10",
+    "Eco Vassals": "857,957.35",
     "Eco Over.": "1,811,014.92",
     "Compare": "736,861.00",
-    "MP Vassals": "47.38%",
+    "MP Vassals": "47.37%",
     "MP Over.": "254,135.00",
     "20% Total": "34.49%",
     "Vassal Type": "16.37%",
@@ -16336,7 +16336,7 @@
     "Comparison": "7.80%",
     "Individual": "7.80%",
     "Friend/Rival": "16.37%",
-    "Taxes": "3.93%",
+    "Taxes": "3.92%",
     "Indep War?": "0.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -16379,7 +16379,7 @@
     },
     "Trade 7": {
       "Value": "Jörðnar",
-      "Trade 7 Value": "13,957.50"
+      "Trade 7 Value": "13,822.50"
     },
     "Trade 8": {
       "Value": "",
@@ -16419,7 +16419,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "74,307.00"
+    "Trades": "74,172.00"
   },
   "Principality of Skanderborg": {
     "Nations": "Principality of Skanderborg",
@@ -18917,11 +18917,11 @@
     },
     "Trade 4": {
       "Value": "Viontes Reclamation Authority",
-      "Trade 4 Value": "10,390.25"
+      "Trade 4 Value": "17,327.05"
     },
     "Trade 5": {
       "Value": "Jörðnar",
-      "Trade 5 Value": "13,957.50"
+      "Trade 5 Value": "13,822.50"
     },
     "Trade 6": {
       "Value": "",
@@ -18969,7 +18969,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "49,161.25"
+    "Trades": "55,963.05"
   },
   "Scientarium": {
     "Nations": "Scientarium",
@@ -19485,20 +19485,20 @@
     "Nations": "Sólstafir",
     "Nation Check": "Sólstafir",
     "Overlord": "Jörðnar",
-    "Eco Vassals": "165,914.56",
-    "Eco Over.": "890,339.92",
-    "Compare": "393,577.00",
-    "MP Vassals": "18.63%",
-    "MP Over.": "71,617.00",
-    "20% Total": "18.20%",
-    "Vassal Type": "7.37%",
+    "Eco Vassals": "249,341.32",
+    "Eco Over.": "953,748.22",
+    "Compare": "395,680.00",
+    "MP Vassals": "26.14%",
+    "MP Over.": "71,857.00",
+    "20% Total": "18.16%",
+    "Vassal Type": "8.86%",
     "": "0.00%",
     "L. Desire": "Jörðnar Nonprovince",
     "Base": "1.00",
-    "Comparison": "8.38%",
-    "Individual": "8.38%",
-    "Friend/Rival": "7.37%",
-    "Taxes": "3.51%",
+    "Comparison": "10.42%",
+    "Individual": "10.42%",
+    "Friend/Rival": "8.86%",
+    "Taxes": "4.06%",
     "Indep War?": "7.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -19520,20 +19520,20 @@
       "Trade 1 Value": "6"
     },
     "Trade 2": {
-      "Value": "Lialikidus",
-      "Trade 2 Value": "5,000.00"
+      "Value": "Làidirstìr",
+      "Trade 2 Value": "19,813.50"
     },
     "Trade 3": {
       "Value": "Jörðnar",
-      "Trade 3 Value": "13,957.50"
+      "Trade 3 Value": "13,822.50"
     },
     "Trade 4": {
-      "Value": "Vancassia",
-      "Trade 4 Value": "5,000.00"
+      "Value": "Undermania",
+      "Trade 4 Value": "7,960.00"
     },
     "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
+      "Value": "Karaz Geshud",
+      "Trade 5 Value": "9,072.00"
     },
     "Trade 6": {
       "Value": "",
@@ -19581,7 +19581,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "23,957.50"
+    "Trades": "50,668.00"
   },
   "Soroner": {
     "Nations": "Soroner",
@@ -22647,18 +22647,18 @@
     "Nations": "Theocratia Artania",
     "Nation Check": "Theocratia Artania",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "858,099.10",
+    "Eco Vassals": "857,957.35",
     "Eco Over.": "1,811,014.92",
     "Compare": "736,861.00",
-    "MP Vassals": "47.38%",
+    "MP Vassals": "47.37%",
     "MP Over.": "254,135.00",
     "20% Total": "34.49%",
     "Vassal Type": "16.37%",
     "": "0.00%",
     "L. Desire": "Kranicvak Nixond Nonprovince",
     "Base": "1.00",
-    "Comparison": "17.11%",
-    "Individual": "17.11%",
+    "Comparison": "17.10%",
+    "Individual": "17.10%",
     "Friend/Rival": "16.37%",
     "Taxes": "8.23%",
     "Indep War?": "-5.00%",
@@ -23565,20 +23565,20 @@
     "Nations": "Undermania",
     "Nation Check": "Undermania",
     "Overlord": "Jörðnar",
-    "Eco Vassals": "165,914.56",
-    "Eco Over.": "890,339.92",
-    "Compare": "393,577.00",
-    "MP Vassals": "18.63%",
-    "MP Over.": "71,617.00",
-    "20% Total": "18.20%",
-    "Vassal Type": "7.37%",
+    "Eco Vassals": "249,341.32",
+    "Eco Over.": "953,748.22",
+    "Compare": "395,680.00",
+    "MP Vassals": "26.14%",
+    "MP Over.": "71,857.00",
+    "20% Total": "18.16%",
+    "Vassal Type": "8.86%",
     "": "-25.00%",
     "L. Desire": "Jörðnar Nonprovince",
     "Base": "1.00",
     "Comparison": "0.00%",
-    "Individual": "-6.28%",
-    "Friend/Rival": "7.37%",
-    "Taxes": "3.85%",
+    "Individual": "-3.83%",
+    "Friend/Rival": "8.86%",
+    "Taxes": "4.80%",
     "Indep War?": "7.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -23600,12 +23600,12 @@
       "Trade 1 Value": "6"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Jörðnar",
+      "Trade 2 Value": "13,822.50"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Làidirstìr",
+      "Trade 3 Value": "19,813.50"
     },
     "Trade 4": {
       "Value": "Lundrium",
@@ -23616,8 +23616,8 @@
       "Trade 5 Value": "9,072.00"
     },
     "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
+      "Value": "Sólstafir",
+      "Trade 6 Value": "6,259.50"
     },
     "Trade 7": {
       "Value": "",
@@ -23661,7 +23661,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "16,765.75"
+    "Trades": "56,661.25"
   },
   "Unified Republic of Kaiarau": {
     "Nations": "Unified Republic of Kaiarau",
@@ -24177,20 +24177,20 @@
     "Nations": "Viontes Reclamation Authority",
     "Nation Check": "Viontes Reclamation Authority",
     "Overlord": "Schizaria",
-    "Eco Vassals": "233,464.00",
-    "Eco Over.": "170,317.81",
+    "Eco Vassals": "228,055.25",
+    "Eco Over.": "178,820.06",
     "Compare": "80,059.00",
-    "MP Vassals": "137.08%",
+    "MP Vassals": "127.53%",
     "MP Over.": "105,002.00",
     "20% Total": "131.16%",
-    "Vassal Type": "53.65%",
+    "Vassal Type": "51.74%",
     "": "0.00%",
     "L. Desire": "Schizaria Nonprovince",
     "Base": "1.00",
-    "Comparison": "84.79%",
-    "Individual": "84.79%",
-    "Friend/Rival": "53.65%",
-    "Taxes": "53.65%",
+    "Comparison": "80.98%",
+    "Individual": "80.98%",
+    "Friend/Rival": "51.74%",
+    "Taxes": "51.74%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -24221,7 +24221,7 @@
     },
     "Trade 4": {
       "Value": "Jörðnar",
-      "Trade 4 Value": "13,957.50"
+      "Trade 4 Value": "13,822.50"
     },
     "Trade 5": {
       "Value": "",
@@ -24273,7 +24273,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "42,567.20"
+    "Trades": "42,432.20"
   },
   "Walla'Tia": {
     "Nations": "Walla'Tia",
