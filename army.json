@@ -6929,13 +6929,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Psaracija": {
-    "Nations": "Psaracija",
+  "Psaracija (AI, Remove)": {
+    "Nations": "Psaracija (AI, Remove)",
     "Nation Check": "Psaracija",
-    "Pow_Army": "1,383",
+    "Pow_Army": "690",
     "Pow_Navy": "600",
-    "Manpower": "173,349",
-    "Manpower Avail.": "13.70%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "2",
     "Upkeep Army": "",
     "Upkeep Navy": "45,600.00",
