@@ -4832,10 +4832,10 @@
   "Kingdom of the Kettlelands": {
     "Nations": "Kingdom of the Kettlelands",
     "Nation Check": "Kingdom of the Kettlelands",
-    "Pow_Army": "912",
+    "Pow_Army": "900",
     "Pow_Navy": "48",
-    "Manpower": "78,023",
-    "Manpower Avail.": "25.63%",
+    "Manpower": "75,053",
+    "Manpower Avail.": "26.65%",
     "Upkeep": "2",
     "Upkeep Army": "",
     "Upkeep Navy": "77,220.00",
@@ -8525,16 +8525,16 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Te Kohatu Totohu": {
-    "Nations": "Te Kohatu Totohu",
+  "Te Kohatu Totohu (dead)": {
+    "Nations": "Te Kohatu Totohu (dead)",
     "Nation Check": "Te Kohatu Totohu",
-    "Pow_Army": "358",
+    "Pow_Army": "32",
     "Pow_Navy": "30",
-    "Manpower": "89,400",
-    "Manpower Avail.": "1.40%",
+    "Manpower": "8,034",
+    "Manpower Avail.": "15.56%",
     "Upkeep": "0",
     "Upkeep Army": "",
-    "Upkeep Navy": "4,050.00",
+    "Upkeep Navy": "4,500.00",
     "Upkeep Mercenary": "0.00",
     "Faction Troops": "0.00",
     "Mob": "0",
@@ -8903,12 +8903,12 @@
     "Merc 3": "Steel Chapter",
     "Merc 4": "Checkered Guard"
   },
-  "The Charter Territory of Riveria": {
-    "Nations": "The Charter Territory of Riveria",
+  "The Charter Territory of Riveria (dead)": {
+    "Nations": "The Charter Territory of Riveria (dead)",
     "Nation Check": "The Charter Territory of Riveria",
-    "Pow_Army": "14",
+    "Pow_Army": "0",
     "Pow_Navy": "0",
-    "Manpower": "3,391",
+    "Manpower": "0",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
