@@ -2435,12 +2435,12 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Four Leagues of Trinity": {
-    "Nations": "Four Leagues of Trinity",
+  "Four Leagues of Trinity (AI)": {
+    "Nations": "Four Leagues of Trinity (AI)",
     "Nation Check": "Four Leagues of Trinity",
-    "Pow_Army": "126",
+    "Pow_Army": "0",
     "Pow_Navy": "0",
-    "Manpower": "31,381",
+    "Manpower": "0",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
@@ -7727,13 +7727,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Second State of Los": {
-    "Nations": "Second State of Los",
+  "Second State of Los (dead)": {
+    "Nations": "Second State of Los (dead)",
     "Nation Check": "Second State of Los",
-    "Pow_Army": "2,206",
+    "Pow_Army": "1,605",
     "Pow_Navy": "0",
-    "Manpower": "150,186",
-    "Manpower Avail.": "26.63%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "5",
     "Upkeep Army": "",
     "Upkeep Navy": "133,875.00",
@@ -8651,13 +8651,13 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "The Grand City of Smmeíaia": {
-    "Nations": "The Grand City of Smmeíaia",
+  "The Grand City of Smmeíaia (dead)": {
+    "Nations": "The Grand City of Smmeíaia (dead)",
     "Nation Check": "The Grand City of Smmeíaia",
-    "Pow_Army": "1,028",
+    "Pow_Army": "900",
     "Pow_Navy": "330",
-    "Manpower": "32,032",
-    "Manpower Avail.": "62.44%",
+    "Manpower": "0",
+    "Manpower Avail.": "0.00%",
     "Upkeep": "3",
     "Upkeep Army": "",
     "Upkeep Navy": "124,425.00",
@@ -8990,10 +8990,10 @@
   "The Last Bastion": {
     "Nations": "The Last Bastion",
     "Nation Check": "The Last Bastion",
-    "Pow_Army": "23,402",
+    "Pow_Army": "22,685",
     "Pow_Navy": "0",
-    "Manpower": "842,885",
-    "Manpower Avail.": "48.64%",
+    "Manpower": "663,860",
+    "Manpower Avail.": "61.76%",
     "Upkeep": "52",
     "Upkeep Army": "",
     "Upkeep Navy": "1,315,440.00",
