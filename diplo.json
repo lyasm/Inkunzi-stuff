@@ -3369,19 +3369,19 @@
     "Nations": "Cheeiran-Lunarian Sister Republic",
     "Nation Check": "Cheeiran-Lunarian Sister Republic",
     "Overlord": "The Last Bastion",
-    "Eco Vassals": "373,592.45",
-    "Eco Over.": "1,099,484.73",
+    "Eco Vassals": "474,194.13",
+    "Eco Over.": "1,094,734.73",
     "Compare": "922,725.00",
-    "MP Vassals": "33.98%",
-    "MP Over.": "103,527.00",
-    "20% Total": "11.22%",
-    "Vassal Type": "9.04%",
+    "MP Vassals": "43.32%",
+    "MP Over.": "99,388.00",
+    "20% Total": "10.77%",
+    "Vassal Type": "10.82%",
     "": "0.00%",
     "L. Desire": "The Last Bastion Nonprovince",
     "Base": "1.00",
-    "Comparison": "34.82%",
-    "Individual": "34.82%",
-    "Friend/Rival": "9.04%",
+    "Comparison": "36.60%",
+    "Individual": "36.60%",
+    "Friend/Rival": "10.82%",
     "Taxes": "2.45%",
     "Indep War?": "8.33%",
     "Autonomy": "",
@@ -3772,6 +3772,108 @@
     "Def. Pacts": "",
     "Mil. Pacts": "",
     "Trades": "201,798.50"
+  },
+  "Lordship o. Kaug-Pohja": {
+    "Nations": "Lordship o. Kaug-Pohja",
+    "Nation Check": "Lordship o. Kaug-Pohja",
+    "Overlord": "",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
+    "MP Vassals": "",
+    "MP Over.": "",
+    "20% Total": "",
+    "Vassal Type": "",
+    "": "0.00%",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "",
+    "Individual": "",
+    "Friend/Rival": "",
+    "Taxes": "",
+    "Indep War?": "",
+    "Autonomy": "",
+    "Threshold": "",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
+    "Defensive Pacts 2": "",
+    "Military Alliances": "",
+    "Military Alliances 2": "",
+    "Limit": "",
+    "Trade 1": {
+      "Value": "",
+      "Trade 1 Value": "8"
+    },
+    "Trade 2": {
+      "Value": "",
+      "Trade 2 Value": ""
+    },
+    "Trade 3": {
+      "Value": "",
+      "Trade 3 Value": ""
+    },
+    "Trade 4": {
+      "Value": "",
+      "Trade 4 Value": ""
+    },
+    "Trade 5": {
+      "Value": "",
+      "Trade 5 Value": ""
+    },
+    "Trade 6": {
+      "Value": "",
+      "Trade 6 Value": ""
+    },
+    "Trade 7": {
+      "Value": "",
+      "Trade 7 Value": ""
+    },
+    "Trade 8": {
+      "Value": "",
+      "Trade 8 Value": ""
+    },
+    "Trade 9": {
+      "Value": "",
+      "Trade 9 Value": ""
+    },
+    "Trade 10": {
+      "Value": "",
+      "Trade 10 Value": ""
+    },
+    "Trade 11": {
+      "Value": "",
+      "Trade 11 Value": ""
+    },
+    "Trade 12": {
+      "Value": "",
+      "Trade 12 Value": ""
+    },
+    "Trade 13": {
+      "Value": "",
+      "Trade 13 Value": ""
+    },
+    "Trade 14": {
+      "Value": "",
+      "Trade 14 Value": ""
+    },
+    "Trade 15": {
+      "Value": "",
+      "Trade 15 Value": ""
+    },
+    "Raw Trade Income": "",
+    "Tariffs": "",
+    "Trade Income": "",
+    "NAPs": "",
+    "Def. Pacts": "",
+    "Mil. Pacts": "",
+    "Trades": "0.00"
   },
   "Clannu Dubhachi": {
     "Nations": "Clannu Dubhachi",
@@ -4185,20 +4287,20 @@
     "Nations": "Commonwealth of Gonaria",
     "Nation Check": "Commonwealth of Gonaria",
     "Overlord": "The Last Bastion",
-    "Eco Vassals": "373,592.45",
-    "Eco Over.": "1,099,484.73",
+    "Eco Vassals": "474,194.13",
+    "Eco Over.": "1,094,734.73",
     "Compare": "922,725.00",
-    "MP Vassals": "33.98%",
-    "MP Over.": "103,527.00",
-    "20% Total": "11.22%",
-    "Vassal Type": "9.04%",
+    "MP Vassals": "43.32%",
+    "MP Over.": "99,388.00",
+    "20% Total": "10.77%",
+    "Vassal Type": "10.82%",
     "": "0.00%",
     "L. Desire": "The Last Bastion Nonprovince",
     "Base": "1.00",
-    "Comparison": "10.42%",
-    "Individual": "10.42%",
-    "Friend/Rival": "9.04%",
-    "Taxes": "3.88%",
+    "Comparison": "11.90%",
+    "Individual": "11.90%",
+    "Friend/Rival": "10.82%",
+    "Taxes": "3.59%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "No",
@@ -4224,8 +4326,8 @@
       "Trade 2 Value": "3,468.75"
     },
     "Trade 3": {
-      "Value": "Second State of Los",
-      "Trade 3 Value": "5,000.00"
+      "Value": "",
+      "Trade 3 Value": ""
     },
     "Trade 4": {
       "Value": "Sarmatai Confederation",
@@ -4281,7 +4383,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "52,653.05"
+    "Trades": "47,653.05"
   },
   "Cortaria": {
     "Nations": "Cortaria",
@@ -16527,20 +16629,20 @@
     "Nations": "Pavellion",
     "Nation Check": "Pavellion",
     "Overlord": "The Last Bastion",
-    "Eco Vassals": "373,592.45",
-    "Eco Over.": "1,099,484.73",
+    "Eco Vassals": "474,194.13",
+    "Eco Over.": "1,094,734.73",
     "Compare": "922,725.00",
-    "MP Vassals": "33.98%",
-    "MP Over.": "103,527.00",
-    "20% Total": "11.22%",
-    "Vassal Type": "9.04%",
+    "MP Vassals": "43.32%",
+    "MP Over.": "99,388.00",
+    "20% Total": "10.77%",
+    "Vassal Type": "10.82%",
     "": "0.00%",
     "L. Desire": "The Last Bastion Nonprovince",
     "Base": "1.00",
     "Comparison": "0.00%",
-    "Individual": "-5.76%",
-    "Friend/Rival": "9.04%",
-    "Taxes": "2.70%",
+    "Individual": "-3.97%",
+    "Friend/Rival": "10.82%",
+    "Taxes": "2.71%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -18261,20 +18363,20 @@
     "Nations": "Rokmar Camp",
     "Nation Check": "Rokmar Camp",
     "Overlord": "The Last Bastion",
-    "Eco Vassals": "373,592.45",
-    "Eco Over.": "1,099,484.73",
+    "Eco Vassals": "474,194.13",
+    "Eco Over.": "1,094,734.73",
     "Compare": "922,725.00",
-    "MP Vassals": "33.98%",
-    "MP Over.": "103,527.00",
-    "20% Total": "11.22%",
-    "Vassal Type": "9.04%",
+    "MP Vassals": "43.32%",
+    "MP Over.": "99,388.00",
+    "20% Total": "10.77%",
+    "Vassal Type": "10.82%",
     "": "0.00%",
     "L. Desire": "The Last Bastion Nonprovince",
     "Base": "0.25",
-    "Comparison": "54.44%",
-    "Individual": "54.44%",
-    "Friend/Rival": "9.04%",
-    "Taxes": "2.06%",
+    "Comparison": "56.22%",
+    "Individual": "56.22%",
+    "Friend/Rival": "10.82%",
+    "Taxes": "2.07%",
     "Indep War?": "18.33%",
     "Autonomy": "25.00%",
     "Threshold": "",
@@ -19276,108 +19378,6 @@
     "Def. Pacts": "",
     "Mil. Pacts": "",
     "Trades": "230,737.15"
-  },
-  "Second State of Los (dead)": {
-    "Nations": "Second State of Los (dead)",
-    "Nation Check": "Second State of Los",
-    "Overlord": "The Last Bastion",
-    "Eco Vassals": "373,592.45",
-    "Eco Over.": "1,099,484.73",
-    "Compare": "922,725.00",
-    "MP Vassals": "33.98%",
-    "MP Over.": "103,527.00",
-    "20% Total": "11.22%",
-    "Vassal Type": "9.04%",
-    "": "0.00%",
-    "L. Desire": "The Last Bastion Nonprovince",
-    "Base": "0.25",
-    "Comparison": "11.99%",
-    "Individual": "11.99%",
-    "Friend/Rival": "9.04%",
-    "Taxes": "-2.05%",
-    "Indep War?": "5.00%",
-    "Autonomy": "",
-    "Threshold": "No",
-    "Chaotic?": "Both",
-    "Deceptive?": "75.00%",
-    "Honor?": "FALSE",
-    "Indep.?": "TRUE",
-    "Unity?": "TRUE",
-    "Ov. Culture": "FALSE",
-    "Ov. Religion": "FALSE",
-    "Non-aggression Pacts": "Stryaxian",
-    "Defensive Pacts": "Ionism",
-    "Defensive Pacts 2": "",
-    "Military Alliances": "",
-    "Military Alliances 2": "",
-    "Limit": "",
-    "Trade 1": {
-      "Value": "",
-      "Trade 1 Value": "10"
-    },
-    "Trade 2": {
-      "Value": "Commonwealth of Gonaria",
-      "Trade 2 Value": "23,130.18"
-    },
-    "Trade 3": {
-      "Value": "The Last Bastion",
-      "Trade 3 Value": "9,818.25"
-    },
-    "Trade 4": {
-      "Value": "",
-      "Trade 4 Value": ""
-    },
-    "Trade 5": {
-      "Value": "",
-      "Trade 5 Value": ""
-    },
-    "Trade 6": {
-      "Value": "",
-      "Trade 6 Value": ""
-    },
-    "Trade 7": {
-      "Value": "",
-      "Trade 7 Value": ""
-    },
-    "Trade 8": {
-      "Value": "",
-      "Trade 8 Value": ""
-    },
-    "Trade 9": {
-      "Value": "",
-      "Trade 9 Value": ""
-    },
-    "Trade 10": {
-      "Value": "",
-      "Trade 10 Value": ""
-    },
-    "Trade 11": {
-      "Value": "",
-      "Trade 11 Value": ""
-    },
-    "Trade 12": {
-      "Value": "",
-      "Trade 12 Value": ""
-    },
-    "Trade 13": {
-      "Value": "",
-      "Trade 13 Value": ""
-    },
-    "Trade 14": {
-      "Value": "",
-      "Trade 14 Value": ""
-    },
-    "Trade 15": {
-      "Value": "",
-      "Trade 15 Value": ""
-    },
-    "Raw Trade Income": "",
-    "Tariffs": "",
-    "Trade Income": "",
-    "NAPs": "",
-    "Def. Pacts": "",
-    "Mil. Pacts": "",
-    "Trades": "32,948.43"
   },
   "Serene Republic": {
     "Nations": "Serene Republic",
@@ -22376,8 +22376,8 @@
       "Trade 1 Value": "13"
     },
     "Trade 2": {
-      "Value": "Second State of Los",
-      "Trade 2 Value": "5,000.00"
+      "Value": "",
+      "Trade 2 Value": ""
     },
     "Trade 3": {
       "Value": "",
@@ -22437,7 +22437,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "315,222.28"
+    "Trades": "310,222.28"
   },
   "The Tribes of C’tis": {
     "Nations": "The Tribes of C’tis",
