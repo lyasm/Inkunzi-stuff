@@ -3695,9 +3695,9 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Halpa Akuspha": {
-    "Nations": "Halpa Akuspha",
-    "Nation Check": "Halpa Akuspha",
+  "Hallpa Akuspha": {
+    "Nations": "Hallpa Akuspha",
+    "Nation Check": "Hallpa Akuspha",
     "Pow_Army": "1,322",
     "Pow_Navy": "0",
     "Manpower": "80,465",
@@ -3737,9 +3737,9 @@
     "Merc 3": null,
     "Merc 4": null
   },
-  "Halpa Anti": {
-    "Nations": "Halpa Anti",
-    "Nation Check": "Halpa Anti",
+  "Hallpa Anti": {
+    "Nations": "Hallpa Anti",
+    "Nation Check": "Hallpa Anti",
     "Pow_Army": "2,471",
     "Pow_Navy": "0",
     "Manpower": "167,750",
@@ -4076,10 +4076,10 @@
   "Iarthar Grove": {
     "Nations": "Iarthar Grove",
     "Nation Check": "Iarthar Grove",
-    "Pow_Army": "4,873",
+    "Pow_Army": "4,775",
     "Pow_Navy": "0",
-    "Manpower": "300,671",
-    "Manpower Avail.": "28.27%",
+    "Manpower": "276,293",
+    "Manpower Avail.": "30.76%",
     "Upkeep": "10",
     "Upkeep Army": "",
     "Upkeep Navy": "450,450.00",
@@ -10420,7 +10420,7 @@
     "Nation Check": "Borbenska Kraljevina",
     "Pow_Army": "370",
     "Pow_Navy": "0",
-    "Manpower": "92,410",
+    "Manpower": "92,538",
     "Manpower Avail.": "0.00%",
     "Upkeep": "0",
     "Upkeep Army": "",
