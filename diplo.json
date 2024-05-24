@@ -2247,20 +2247,20 @@
     "Nations": "Ny’Karoth",
     "Nation Check": "Ny’Karoth",
     "Overlord": "Queendom of Edarosia",
-    "Eco Vassals": "178,346.56",
+    "Eco Vassals": "171,346.56",
     "Eco Over.": "371,855.71",
     "Compare": "184,262.00",
-    "MP Vassals": "47.96%",
+    "MP Vassals": "46.08%",
     "MP Over.": "130,226.00",
     "20% Total": "70.67%",
-    "Vassal Type": "23.73%",
+    "Vassal Type": "23.35%",
     "": "0.00%",
     "L. Desire": "Queendom of Edarosia Nonprovince",
     "Base": "1.00",
-    "Comparison": "37.45%",
-    "Individual": "37.45%",
-    "Friend/Rival": "23.73%",
-    "Taxes": "23.73%",
+    "Comparison": "36.70%",
+    "Individual": "36.70%",
+    "Friend/Rival": "23.35%",
+    "Taxes": "23.35%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -2796,8 +2796,8 @@
       "Trade 2 Value": "11,138.60"
     },
     "Trade 3": {
-      "Value": "",
-      "Trade 3 Value": ""
+      "Value": "Elestork Confederation",
+      "Trade 3 Value": "3,470.00"
     },
     "Trade 4": {
       "Value": "Here Be Dragons",
@@ -2853,7 +2853,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "156,589.15"
+    "Trades": "160,059.15"
   },
   "Stortingr Republik Af Brändvik": {
     "Nations": "Stortingr Republik Af Brändvik",
@@ -5648,8 +5648,8 @@
       "Trade 1 Value": "7"
     },
     "Trade 2": {
-      "Value": "",
-      "Trade 2 Value": ""
+      "Value": "Cabyar Birodalom",
+      "Trade 2 Value": "8,268.75"
     },
     "Trade 3": {
       "Value": "",
@@ -5709,7 +5709,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "0.00"
+    "Trades": "8,268.75"
   },
   "Emirate of Zira": {
     "Nations": "Emirate of Zira",
@@ -7756,19 +7756,19 @@
     "Nation Check": "Greater Stahlland",
     "Overlord": "Cabyar Birodalom",
     "Eco Vassals": "348,177.50",
-    "Eco Over.": "891,911.77",
+    "Eco Over.": "896,249.27",
     "Compare": "325,789.00",
-    "MP Vassals": "39.04%",
+    "MP Vassals": "38.85%",
     "MP Over.": "209,864.00",
     "20% Total": "64.42%",
-    "Vassal Type": "20.69%",
+    "Vassal Type": "20.65%",
     "": "0.00%",
     "L. Desire": "Cabyar Birodalom Nonprovince",
     "Base": "0.25",
-    "Comparison": "36.38%",
-    "Individual": "36.38%",
-    "Friend/Rival": "20.69%",
-    "Taxes": "20.69%",
+    "Comparison": "36.31%",
+    "Individual": "36.31%",
+    "Friend/Rival": "20.65%",
+    "Taxes": "20.65%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
