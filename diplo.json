@@ -3307,11 +3307,11 @@
     },
     "Trade 3": {
       "Value": "Drionn Galith",
-      "Trade 3 Value": "17,506.13"
+      "Trade 3 Value": "18,208.13"
     },
     "Trade 4": {
       "Value": "Jörðnar",
-      "Trade 4 Value": "18,585.00"
+      "Trade 4 Value": "23,985.00"
     },
     "Trade 5": {
       "Value": "Holy Kingdom of Scripts",
@@ -3331,7 +3331,7 @@
     },
     "Trade 9": {
       "Value": "Jörðnar",
-      "Trade 9 Value": "18,585.00"
+      "Trade 9 Value": "23,985.00"
     },
     "Trade 10": {
       "Value": "Kinh Nam Republic",
@@ -3363,7 +3363,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "222,331.71"
+    "Trades": "233,833.71"
   },
   "Cheeiran-Lunarian Sister Republic": {
     "Nations": "Cheeiran-Lunarian Sister Republic",
@@ -5234,7 +5234,7 @@
     "Defensive Pacts 2": "",
     "Military Alliances": "Kranicvak Nixond",
     "Military Alliances 2": "Imperia Sor",
-    "Limit": "Ceridwyn Confederation",
+    "Limit": "",
     "Trade 1": {
       "Value": "Svetograd",
       "Trade 1 Value": "10"
@@ -5268,8 +5268,8 @@
       "Trade 8 Value": "74,162.88"
     },
     "Trade 9": {
-      "Value": "Elphonsa",
-      "Trade 9 Value": "8,643.75"
+      "Value": "Jörðnar",
+      "Trade 9 Value": "23,985.00"
     },
     "Trade 10": {
       "Value": "Kinh Nam Republic",
@@ -5301,7 +5301,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "194,108.63"
+    "Trades": "209,449.88"
   },
   "Ducat Flumine": {
     "Nations": "Ducat Flumine",
@@ -5571,7 +5571,7 @@
     },
     "Trade 8": {
       "Value": "Drionn Galith",
-      "Trade 8 Value": "17,506.13"
+      "Trade 8 Value": "18,208.13"
     },
     "Trade 9": {
       "Value": "Ceridwyn Confederation",
@@ -5607,7 +5607,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "168,838.55"
+    "Trades": "169,540.55"
   },
   "Elestork Confederation": {
     "Nations": "Elestork Confederation",
@@ -7423,7 +7423,7 @@
     },
     "Trade 12": {
       "Value": "Drionn Galith",
-      "Trade 12 Value": "17,506.13"
+      "Trade 12 Value": "18,208.13"
     },
     "Trade 13": {
       "Value": "",
@@ -7443,7 +7443,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "96,872.87"
+    "Trades": "97,574.87"
   },
   "Grand Principality of Onica": {
     "Nations": "Grand Principality of Onica",
@@ -8011,7 +8011,7 @@
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
-      "Trade 6 Value": "9,201.85"
+      "Trade 6 Value": "7,542.50"
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
@@ -8055,7 +8055,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "76,291.70"
+    "Trades": "74,632.35"
   },
   "Hallpa Harkuq": {
     "Nations": "Hallpa Harkuq",
@@ -8101,7 +8101,7 @@
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
-      "Trade 3 Value": "7,945.35"
+      "Trade 3 Value": "7,024.15"
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
@@ -8157,7 +8157,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "75,035.20"
+    "Trades": "74,114.00"
   },
   "Hallpa Karuaru": {
     "Nations": "Hallpa Karuaru",
@@ -8203,11 +8203,11 @@
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
-      "Trade 3 Value": "7,945.35"
+      "Trade 3 Value": "7,024.15"
     },
     "Trade 4": {
       "Value": "Hallpa Harkuq",
-      "Trade 4 Value": "9,201.85"
+      "Trade 4 Value": "7,542.50"
     },
     "Trade 5": {
       "Value": "Hallpa Kunti",
@@ -8259,7 +8259,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "67,337.70"
+    "Trades": "64,757.15"
   },
   "Hallpa Kunti": {
     "Nations": "Hallpa Kunti",
@@ -8305,7 +8305,7 @@
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
-      "Trade 3 Value": "7,945.35"
+      "Trade 3 Value": "7,024.15"
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
@@ -8317,7 +8317,7 @@
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
-      "Trade 6 Value": "9,201.85"
+      "Trade 6 Value": "7,542.50"
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
@@ -8361,7 +8361,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "71,604.65"
+    "Trades": "69,024.10"
   },
   "Hallpa Masincha": {
     "Nations": "Hallpa Masincha",
@@ -8407,7 +8407,7 @@
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
-      "Trade 3 Value": "7,945.35"
+      "Trade 3 Value": "7,024.15"
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
@@ -8419,7 +8419,7 @@
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
-      "Trade 6 Value": "9,201.85"
+      "Trade 6 Value": "7,542.50"
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
@@ -8463,7 +8463,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "73,337.05"
+    "Trades": "70,756.50"
   },
   "Hallpa Mayumuru": {
     "Nations": "Hallpa Mayumuru",
@@ -8509,7 +8509,7 @@
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
-      "Trade 3 Value": "7,945.35"
+      "Trade 3 Value": "7,024.15"
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
@@ -8521,7 +8521,7 @@
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
-      "Trade 6 Value": "9,201.85"
+      "Trade 6 Value": "7,542.50"
     },
     "Trade 7": {
       "Value": "Hallpa Kunti",
@@ -8565,7 +8565,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "75,697.15"
+    "Trades": "73,116.60"
   },
   "Hallpa P'aqpaku": {
     "Nations": "Hallpa P'aqpaku",
@@ -8611,7 +8611,7 @@
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
-      "Trade 3 Value": "7,945.35"
+      "Trade 3 Value": "7,024.15"
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
@@ -8623,7 +8623,7 @@
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
-      "Trade 6 Value": "9,201.85"
+      "Trade 6 Value": "7,542.50"
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
@@ -8667,7 +8667,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "71,834.05"
+    "Trades": "69,253.50"
   },
   "Slithri Yenudestis": {
     "Nations": "Slithri Yenudestis",
@@ -8815,7 +8815,7 @@
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
-      "Trade 3 Value": "7,945.35"
+      "Trade 3 Value": "7,024.15"
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
@@ -8827,7 +8827,7 @@
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
-      "Trade 6 Value": "9,201.85"
+      "Trade 6 Value": "7,542.50"
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
@@ -8871,7 +8871,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "72,865.85"
+    "Trades": "70,285.30"
   },
   "Hallpa Akuspha": {
     "Nations": "Hallpa Akuspha",
@@ -8917,7 +8917,7 @@
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
-      "Trade 3 Value": "7,945.35"
+      "Trade 3 Value": "7,024.15"
     },
     "Trade 4": {
       "Value": "Hallpa Kunti",
@@ -8929,7 +8929,7 @@
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
-      "Trade 6 Value": "9,201.85"
+      "Trade 6 Value": "7,542.50"
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
@@ -8973,7 +8973,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "75,055.20"
+    "Trades": "72,474.65"
   },
   "Hallpa Anti": {
     "Nations": "Hallpa Anti",
@@ -9019,7 +9019,7 @@
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
-      "Trade 3 Value": "7,945.35"
+      "Trade 3 Value": "7,024.15"
     },
     "Trade 4": {
       "Value": "Hallpa Kunti",
@@ -9031,7 +9031,7 @@
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
-      "Trade 6 Value": "9,201.85"
+      "Trade 6 Value": "7,542.50"
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
@@ -9075,7 +9075,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "78,993.05"
+    "Trades": "76,412.50"
   },
   "Hanza Trade Republic": {
     "Nations": "Hanza Trade Republic",
@@ -9337,7 +9337,7 @@
     },
     "Trade 6": {
       "Value": "Drionn Galith",
-      "Trade 6 Value": "17,506.13"
+      "Trade 6 Value": "18,208.13"
     },
     "Trade 7": {
       "Value": "",
@@ -9381,7 +9381,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "62,558.26"
+    "Trades": "63,260.26"
   },
   "HlérHeim": {
     "Nations": "HlérHeim",
@@ -9541,7 +9541,7 @@
     },
     "Trade 6": {
       "Value": "Drionn Galith",
-      "Trade 6 Value": "17,506.13"
+      "Trade 6 Value": "18,208.13"
     },
     "Trade 7": {
       "Value": "Areinara Ko'xorshe Xonetta",
@@ -9585,7 +9585,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "229,172.50"
+    "Trades": "229,874.50"
   },
   "Hrēgdom of the Erwā": {
     "Nations": "Hrēgdom of the Erwā",
@@ -10357,7 +10357,7 @@
     },
     "Trade 6": {
       "Value": "Drionn Galith",
-      "Trade 6 Value": "17,506.13"
+      "Trade 6 Value": "18,208.13"
     },
     "Trade 7": {
       "Value": "Ceridwyn Confederation",
@@ -10401,7 +10401,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "211,143.96"
+    "Trades": "211,845.96"
   },
   "Ishmalkan Confederated Cities": {
     "Nations": "Ishmalkan Confederated Cities",
@@ -10670,8 +10670,8 @@
       "Trade 7 Value": "7,693.75"
     },
     "Trade 8": {
-      "Value": "Karaz Geshud",
-      "Trade 8 Value": "9,072.00"
+      "Value": "Drionn Galith",
+      "Trade 8 Value": "18,208.13"
     },
     "Trade 9": {
       "Value": "Uqhuma Killa",
@@ -10707,7 +10707,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "139,332.25"
+    "Trades": "148,468.38"
   },
   "Jubal'on": {
     "Nations": "Jubal'on",
@@ -10957,7 +10957,7 @@
     },
     "Trade 3": {
       "Value": "Jörðnar",
-      "Trade 3 Value": "18,585.00"
+      "Trade 3 Value": "23,985.00"
     },
     "Trade 4": {
       "Value": "Lundrium",
@@ -11013,7 +11013,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "102,781.25"
+    "Trades": "108,181.25"
   },
   "Kashdara": {
     "Nations": "Kashdara",
@@ -12499,7 +12499,7 @@
     },
     "Trade 6": {
       "Value": "Drionn Galith",
-      "Trade 6 Value": "17,506.13"
+      "Trade 6 Value": "18,208.13"
     },
     "Trade 7": {
       "Value": "The Holy Realm of Herkunft",
@@ -12543,7 +12543,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "267,421.43"
+    "Trades": "268,123.43"
   },
   "Kivav'v'Syyrhuus": {
     "Nations": "Kivav'v'Syyrhuus",
@@ -12821,7 +12821,7 @@
     },
     "Trade 10": {
       "Value": "Drionn Galith",
-      "Trade 10 Value": "17,506.13"
+      "Trade 10 Value": "18,208.13"
     },
     "Trade 11": {
       "Value": "Scaroasa",
@@ -12849,7 +12849,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "216,892.36"
+    "Trades": "217,594.36"
   },
   "Kycerian Dominion": {
     "Nations": "Kycerian Dominion",
@@ -12993,7 +12993,7 @@
     },
     "Trade 2": {
       "Value": "Jörðnar",
-      "Trade 2 Value": "18,585.00"
+      "Trade 2 Value": "23,985.00"
     },
     "Trade 3": {
       "Value": "Sólstafir",
@@ -13053,7 +13053,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "101,799.75"
+    "Trades": "107,199.75"
   },
   "Lauzydos": {
     "Nations": "Lauzydos",
@@ -13809,7 +13809,7 @@
     },
     "Trade 2": {
       "Value": "Jörðnar",
-      "Trade 2 Value": "18,585.00"
+      "Trade 2 Value": "23,985.00"
     },
     "Trade 3": {
       "Value": "Schizaria",
@@ -13869,7 +13869,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "103,662.95"
+    "Trades": "109,062.95"
   },
   "M'Qili Confederacy": {
     "Nations": "M'Qili Confederacy",
@@ -17195,7 +17195,7 @@
     },
     "Trade 7": {
       "Value": "Jörðnar",
-      "Trade 7 Value": "18,585.00"
+      "Trade 7 Value": "23,985.00"
     },
     "Trade 8": {
       "Value": "Elestork Confederation",
@@ -17235,7 +17235,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "79,865.75"
+    "Trades": "85,265.75"
   },
   "Principality of Skanderborg": {
     "Nations": "Principality of Skanderborg",
@@ -19635,7 +19635,7 @@
     },
     "Trade 5": {
       "Value": "Jörðnar",
-      "Trade 5 Value": "18,585.00"
+      "Trade 5 Value": "23,985.00"
     },
     "Trade 6": {
       "Value": "",
@@ -19683,7 +19683,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "63,015.55"
+    "Trades": "68,415.55"
   },
   "Scientarium": {
     "Nations": "Scientarium",
@@ -19773,7 +19773,7 @@
     },
     "Trade 14": {
       "Value": "Drionn Galith",
-      "Trade 14 Value": "17,506.13"
+      "Trade 14 Value": "18,208.13"
     },
     "Trade 15": {
       "Value": "The Banana Republic",
@@ -19785,7 +19785,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "242,049.04"
+    "Trades": "242,751.04"
   },
   "Serene Republic": {
     "Nations": "Serene Republic",
@@ -20545,7 +20545,7 @@
     },
     "Trade 3": {
       "Value": "Drionn Galith",
-      "Trade 3 Value": "17,506.13"
+      "Trade 3 Value": "18,208.13"
     },
     "Trade 4": {
       "Value": "Goldmongers",
@@ -20601,7 +20601,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "215,996.39"
+    "Trades": "216,698.39"
   },
   "Tala Htote": {
     "Nations": "Tala Htote",
@@ -20749,7 +20749,7 @@
     },
     "Trade 3": {
       "Value": "Drionn Galith",
-      "Trade 3 Value": "17,506.13"
+      "Trade 3 Value": "18,208.13"
     },
     "Trade 4": {
       "Value": "Dreikland",
@@ -20805,7 +20805,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "39,215.13"
+    "Trades": "39,917.13"
   },
   "Talask of Saomair": {
     "Nations": "Talask of Saomair",
@@ -20851,7 +20851,7 @@
     },
     "Trade 3": {
       "Value": "Drionn Galith",
-      "Trade 3 Value": "17,506.13"
+      "Trade 3 Value": "18,208.13"
     },
     "Trade 4": {
       "Value": "Holy Kingdom of Scripts",
@@ -20907,7 +20907,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "63,960.62"
+    "Trades": "64,662.62"
   },
   "Tavir": {
     "Nations": "Tavir",
@@ -23013,7 +23013,7 @@
     },
     "Trade 8": {
       "Value": "Drionn Galith",
-      "Trade 8 Value": "17,506.13"
+      "Trade 8 Value": "18,208.13"
     },
     "Trade 9": {
       "Value": "Picos Argent",
@@ -23049,7 +23049,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "96,336.78"
+    "Trades": "97,038.78"
   },
   "There Be Dwarves": {
     "Nations": "There Be Dwarves",
@@ -24253,7 +24253,7 @@
     },
     "Trade 12": {
       "Value": "Jörðnar",
-      "Trade 12 Value": "18,585.00"
+      "Trade 12 Value": "23,985.00"
     },
     "Trade 13": {
       "Value": "",
@@ -24273,7 +24273,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "222,194.98"
+    "Trades": "227,594.98"
   },
   "Vantiran Dual Monarchy": {
     "Nations": "Vantiran Dual Monarchy",
@@ -24527,7 +24527,7 @@
     },
     "Trade 4": {
       "Value": "Jörðnar",
-      "Trade 4 Value": "18,585.00"
+      "Trade 4 Value": "23,985.00"
     },
     "Trade 5": {
       "Value": "",
@@ -24579,7 +24579,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "54,484.70"
+    "Trades": "59,884.70"
   },
   "Walla'Tia": {
     "Nations": "Walla'Tia",
