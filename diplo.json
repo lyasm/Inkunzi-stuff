@@ -5000,40 +5000,40 @@
   "Drahacira ": {
     "Nations": "Drahacira ",
     "Nation Check": "Drahacira ",
-    "Overlord": "Auream Trading Federation",
-    "Eco Vassals": "Loading...",
-    "Eco Over.": "Loading...",
-    "Compare": "Loading...",
+    "Overlord": "",
+    "Eco Vassals": "",
+    "Eco Over.": "",
+    "Compare": "",
     "MP Vassals": "",
-    "MP Over.": "Loading...",
+    "MP Over.": "",
     "20% Total": "",
-    "Vassal Type": "0.00%",
+    "Vassal Type": "",
     "": "0.00%",
-    "L. Desire": "Auream Trading Federation Nonprovince",
-    "Base": "1.00",
-    "Comparison": "Loading...",
-    "Individual": "Loading...",
-    "Friend/Rival": "0.00%",
-    "Taxes": "Loading...",
-    "Indep War?": "5.00%",
+    "L. Desire": "",
+    "Base": "",
+    "Comparison": "",
+    "Individual": "",
+    "Friend/Rival": "",
+    "Taxes": "",
+    "Indep War?": "",
     "Autonomy": "10.00%",
     "Threshold": "No",
-    "Chaotic?": "Both",
-    "Deceptive?": "100.00%",
-    "Honor?": "FALSE",
-    "Indep.?": "FALSE",
-    "Unity?": "FALSE",
-    "Ov. Culture": "FALSE",
-    "Ov. Religion": "TRUE",
-    "Non-aggression Pacts": "Avaritia",
-    "Defensive Pacts": "The Book of Opes",
+    "Chaotic?": "",
+    "Deceptive?": "",
+    "Honor?": "",
+    "Indep.?": "",
+    "Unity?": "",
+    "Ov. Culture": "",
+    "Ov. Religion": "",
+    "Non-aggression Pacts": "",
+    "Defensive Pacts": "",
     "Defensive Pacts 2": "",
     "Military Alliances": "",
     "Military Alliances 2": "",
     "Limit": "",
     "Trade 1": {
       "Value": "",
-      "Trade 1 Value": "8"
+      "Trade 1 Value": "6"
     },
     "Trade 2": {
       "Value": "Vasinkton Dynasty",
@@ -5097,7 +5097,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "313,109.70"
+    "Trades": "286,644.50"
   },
   "Dreikland": {
     "Nations": "Dreikland",
@@ -7995,19 +7995,19 @@
     },
     "Trade 2": {
       "Value": "Hallpa Anti",
-      "Trade 2 Value": "5,244.00"
+      "Trade 2 Value": "4,636.00"
     },
     "Trade 3": {
       "Value": "Hallpa Akuspha",
-      "Trade 3 Value": "5,999.35"
+      "Trade 3 Value": "4,917.50"
     },
     "Trade 4": {
       "Value": "Hallpa Kunti",
-      "Trade 4 Value": "12,632.40"
+      "Trade 4 Value": "11,484.00"
     },
     "Trade 5": {
       "Value": "Hallpa Urin",
-      "Trade 5 Value": "11,371.20"
+      "Trade 5 Value": "10,052.80"
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
@@ -8015,11 +8015,11 @@
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
-      "Trade 7 Value": "8,539.90"
+      "Trade 7 Value": "7,458.90"
     },
     "Trade 8": {
       "Value": "Hallpa P'aqpaku",
-      "Trade 8 Value": "12,403.00"
+      "Trade 8 Value": "10,833.00"
     },
     "Trade 9": {
       "Value": "Hallpa Karuaru",
@@ -8027,7 +8027,7 @@
     },
     "Trade 10": {
       "Value": "Hallpa Masincha",
-      "Trade 10 Value": "7,717.50"
+      "Trade 10 Value": "5,145.00"
     },
     "Trade 11": {
       "Value": "",
@@ -8055,7 +8055,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "74,632.35"
+    "Trades": "65,252.20"
   },
   "Hallpa Harkuq": {
     "Nations": "Hallpa Harkuq",
@@ -8097,7 +8097,7 @@
     },
     "Trade 2": {
       "Value": "Hallpa Anti",
-      "Trade 2 Value": "5,244.00"
+      "Trade 2 Value": "4,636.00"
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
@@ -8105,23 +8105,23 @@
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
-      "Trade 4 Value": "5,999.35"
+      "Trade 4 Value": "4,917.50"
     },
     "Trade 5": {
       "Value": "Hallpa Kunti",
-      "Trade 5 Value": "12,632.40"
+      "Trade 5 Value": "11,484.00"
     },
     "Trade 6": {
       "Value": "Hallpa Urin",
-      "Trade 6 Value": "11,371.20"
+      "Trade 6 Value": "10,052.80"
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
-      "Trade 7 Value": "8,539.90"
+      "Trade 7 Value": "7,458.90"
     },
     "Trade 8": {
       "Value": "Hallpa P'aqpaku",
-      "Trade 8 Value": "12,403.00"
+      "Trade 8 Value": "10,833.00"
     },
     "Trade 9": {
       "Value": "Hallpa Karuaru",
@@ -8129,7 +8129,7 @@
     },
     "Trade 10": {
       "Value": "Hallpa Masincha",
-      "Trade 10 Value": "7,717.50"
+      "Trade 10 Value": "5,145.00"
     },
     "Trade 11": {
       "Value": "",
@@ -8157,7 +8157,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "74,114.00"
+    "Trades": "64,733.85"
   },
   "Hallpa Karuaru": {
     "Nations": "Hallpa Karuaru",
@@ -8199,7 +8199,7 @@
     },
     "Trade 2": {
       "Value": "Hallpa Anti",
-      "Trade 2 Value": "5,244.00"
+      "Trade 2 Value": "4,636.00"
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
@@ -8211,19 +8211,19 @@
     },
     "Trade 5": {
       "Value": "Hallpa Kunti",
-      "Trade 5 Value": "12,632.40"
+      "Trade 5 Value": "11,484.00"
     },
     "Trade 6": {
       "Value": "Hallpa Urin",
-      "Trade 6 Value": "11,371.20"
+      "Trade 6 Value": "10,052.80"
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
-      "Trade 7 Value": "8,539.90"
+      "Trade 7 Value": "7,458.90"
     },
     "Trade 8": {
       "Value": "Hallpa P'aqpaku",
-      "Trade 8 Value": "12,403.00"
+      "Trade 8 Value": "10,833.00"
     },
     "Trade 9": {
       "Value": "",
@@ -8259,7 +8259,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "64,757.15"
+    "Trades": "59,031.35"
   },
   "Hallpa Kunti": {
     "Nations": "Hallpa Kunti",
@@ -8301,7 +8301,7 @@
     },
     "Trade 2": {
       "Value": "Hallpa Anti",
-      "Trade 2 Value": "5,244.00"
+      "Trade 2 Value": "4,636.00"
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
@@ -8309,11 +8309,11 @@
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
-      "Trade 4 Value": "5,999.35"
+      "Trade 4 Value": "4,917.50"
     },
     "Trade 5": {
       "Value": "Hallpa Urin",
-      "Trade 5 Value": "11,371.20"
+      "Trade 5 Value": "10,052.80"
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
@@ -8321,11 +8321,11 @@
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
-      "Trade 7 Value": "8,539.90"
+      "Trade 7 Value": "7,458.90"
     },
     "Trade 8": {
       "Value": "Hallpa P'aqpaku",
-      "Trade 8 Value": "12,403.00"
+      "Trade 8 Value": "10,833.00"
     },
     "Trade 9": {
       "Value": "Hallpa Karuaru",
@@ -8333,7 +8333,7 @@
     },
     "Trade 10": {
       "Value": "Hallpa Masincha",
-      "Trade 10 Value": "7,717.50"
+      "Trade 10 Value": "5,145.00"
     },
     "Trade 11": {
       "Value": "",
@@ -8361,7 +8361,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "69,024.10"
+    "Trades": "60,792.35"
   },
   "Hallpa Masincha": {
     "Nations": "Hallpa Masincha",
@@ -8403,7 +8403,7 @@
     },
     "Trade 2": {
       "Value": "Hallpa Anti",
-      "Trade 2 Value": "5,244.00"
+      "Trade 2 Value": "4,636.00"
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
@@ -8411,11 +8411,11 @@
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
-      "Trade 4 Value": "5,999.35"
+      "Trade 4 Value": "4,917.50"
     },
     "Trade 5": {
       "Value": "Hallpa Urin",
-      "Trade 5 Value": "11,371.20"
+      "Trade 5 Value": "10,052.80"
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
@@ -8423,15 +8423,15 @@
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
-      "Trade 7 Value": "8,539.90"
+      "Trade 7 Value": "7,458.90"
     },
     "Trade 8": {
       "Value": "Hallpa P'aqpaku",
-      "Trade 8 Value": "12,403.00"
+      "Trade 8 Value": "10,833.00"
     },
     "Trade 9": {
       "Value": "Hallpa Kunti",
-      "Trade 9 Value": "12,632.40"
+      "Trade 9 Value": "11,484.00"
     },
     "Trade 10": {
       "Value": "",
@@ -8463,7 +8463,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "70,756.50"
+    "Trades": "63,948.85"
   },
   "Hallpa Mayumuru": {
     "Nations": "Hallpa Mayumuru",
@@ -8505,7 +8505,7 @@
     },
     "Trade 2": {
       "Value": "Hallpa Anti",
-      "Trade 2 Value": "5,244.00"
+      "Trade 2 Value": "4,636.00"
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
@@ -8513,11 +8513,11 @@
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
-      "Trade 4 Value": "5,999.35"
+      "Trade 4 Value": "4,917.50"
     },
     "Trade 5": {
       "Value": "Hallpa Urin",
-      "Trade 5 Value": "11,371.20"
+      "Trade 5 Value": "10,052.80"
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
@@ -8525,11 +8525,11 @@
     },
     "Trade 7": {
       "Value": "Hallpa Kunti",
-      "Trade 7 Value": "12,632.40"
+      "Trade 7 Value": "11,484.00"
     },
     "Trade 8": {
       "Value": "Hallpa P'aqpaku",
-      "Trade 8 Value": "12,403.00"
+      "Trade 8 Value": "10,833.00"
     },
     "Trade 9": {
       "Value": "Hallpa Karuaru",
@@ -8537,7 +8537,7 @@
     },
     "Trade 10": {
       "Value": "Hallpa Masincha",
-      "Trade 10 Value": "7,717.50"
+      "Trade 10 Value": "5,145.00"
     },
     "Trade 11": {
       "Value": "",
@@ -8565,7 +8565,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "73,116.60"
+    "Trades": "64,817.45"
   },
   "Hallpa P'aqpaku": {
     "Nations": "Hallpa P'aqpaku",
@@ -8607,7 +8607,7 @@
     },
     "Trade 2": {
       "Value": "Hallpa Anti",
-      "Trade 2 Value": "5,244.00"
+      "Trade 2 Value": "4,636.00"
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
@@ -8615,11 +8615,11 @@
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
-      "Trade 4 Value": "5,999.35"
+      "Trade 4 Value": "4,917.50"
     },
     "Trade 5": {
       "Value": "Hallpa Urin",
-      "Trade 5 Value": "11,371.20"
+      "Trade 5 Value": "10,052.80"
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
@@ -8627,11 +8627,11 @@
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
-      "Trade 7 Value": "8,539.90"
+      "Trade 7 Value": "7,458.90"
     },
     "Trade 8": {
       "Value": "Hallpa Kunti",
-      "Trade 8 Value": "12,632.40"
+      "Trade 8 Value": "11,484.00"
     },
     "Trade 9": {
       "Value": "Hallpa Karuaru",
@@ -8639,7 +8639,7 @@
     },
     "Trade 10": {
       "Value": "Hallpa Masincha",
-      "Trade 10 Value": "7,717.50"
+      "Trade 10 Value": "5,145.00"
     },
     "Trade 11": {
       "Value": "",
@@ -8667,7 +8667,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "69,253.50"
+    "Trades": "61,443.35"
   },
   "Slithri Yenudestis": {
     "Nations": "Slithri Yenudestis",
@@ -8811,7 +8811,7 @@
     },
     "Trade 2": {
       "Value": "Hallpa Anti",
-      "Trade 2 Value": "5,244.00"
+      "Trade 2 Value": "4,636.00"
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
@@ -8819,11 +8819,11 @@
     },
     "Trade 4": {
       "Value": "Hallpa Akuspha",
-      "Trade 4 Value": "5,999.35"
+      "Trade 4 Value": "4,917.50"
     },
     "Trade 5": {
       "Value": "Hallpa Kunti",
-      "Trade 5 Value": "12,632.40"
+      "Trade 5 Value": "11,484.00"
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
@@ -8831,11 +8831,11 @@
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
-      "Trade 7 Value": "8,539.90"
+      "Trade 7 Value": "7,458.90"
     },
     "Trade 8": {
       "Value": "Hallpa P'aqpaku",
-      "Trade 8 Value": "12,403.00"
+      "Trade 8 Value": "10,833.00"
     },
     "Trade 9": {
       "Value": "Hallpa Karuaru",
@@ -8843,7 +8843,7 @@
     },
     "Trade 10": {
       "Value": "Hallpa Masincha",
-      "Trade 10 Value": "7,717.50"
+      "Trade 10 Value": "5,145.00"
     },
     "Trade 11": {
       "Value": "",
@@ -8871,7 +8871,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "70,285.30"
+    "Trades": "62,223.55"
   },
   "Hallpa Akuspha": {
     "Nations": "Hallpa Akuspha",
@@ -8913,7 +8913,7 @@
     },
     "Trade 2": {
       "Value": "Hallpa Anti",
-      "Trade 2 Value": "5,244.00"
+      "Trade 2 Value": "4,636.00"
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
@@ -8921,11 +8921,11 @@
     },
     "Trade 4": {
       "Value": "Hallpa Kunti",
-      "Trade 4 Value": "12,632.40"
+      "Trade 4 Value": "11,484.00"
     },
     "Trade 5": {
       "Value": "Hallpa Urin",
-      "Trade 5 Value": "11,371.20"
+      "Trade 5 Value": "10,052.80"
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
@@ -8933,15 +8933,15 @@
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
-      "Trade 7 Value": "8,539.90"
+      "Trade 7 Value": "7,458.90"
     },
     "Trade 8": {
       "Value": "Hallpa P'aqpaku",
-      "Trade 8 Value": "12,403.00"
+      "Trade 8 Value": "10,833.00"
     },
     "Trade 9": {
       "Value": "Hallpa Masincha",
-      "Trade 9 Value": "7,717.50"
+      "Trade 9 Value": "5,145.00"
     },
     "Trade 10": {
       "Value": "",
@@ -8973,7 +8973,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "72,474.65"
+    "Trades": "64,176.35"
   },
   "Hallpa Anti": {
     "Nations": "Hallpa Anti",
@@ -9015,7 +9015,7 @@
     },
     "Trade 2": {
       "Value": "Hallpa Akuspha",
-      "Trade 2 Value": "5,999.35"
+      "Trade 2 Value": "4,917.50"
     },
     "Trade 3": {
       "Value": "Hallpa Chinca",
@@ -9023,11 +9023,11 @@
     },
     "Trade 4": {
       "Value": "Hallpa Kunti",
-      "Trade 4 Value": "12,632.40"
+      "Trade 4 Value": "11,484.00"
     },
     "Trade 5": {
       "Value": "Hallpa Urin",
-      "Trade 5 Value": "11,371.20"
+      "Trade 5 Value": "10,052.80"
     },
     "Trade 6": {
       "Value": "Hallpa Harkuq",
@@ -9035,11 +9035,11 @@
     },
     "Trade 7": {
       "Value": "Hallpa Mayumuru",
-      "Trade 7 Value": "8,539.90"
+      "Trade 7 Value": "7,458.90"
     },
     "Trade 8": {
       "Value": "Hallpa P'aqpaku",
-      "Trade 8 Value": "12,403.00"
+      "Trade 8 Value": "10,833.00"
     },
     "Trade 9": {
       "Value": "Hallpa Karuaru",
@@ -9047,7 +9047,7 @@
     },
     "Trade 10": {
       "Value": "Hallpa Masincha",
-      "Trade 10 Value": "7,717.50"
+      "Trade 10 Value": "5,145.00"
     },
     "Trade 11": {
       "Value": "",
@@ -9075,7 +9075,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "76,412.50"
+    "Trades": "67,640.35"
   },
   "Hanza Trade Republic": {
     "Nations": "Hanza Trade Republic",
