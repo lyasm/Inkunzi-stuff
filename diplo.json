@@ -855,7 +855,7 @@
     },
     "Trade 2": {
       "Value": "Goldmongers",
-      "Trade 2 Value": "11,730.00"
+      "Trade 2 Value": "4,080.00"
     },
     "Trade 3": {
       "Value": "Lohiida Dathinaal",
@@ -915,7 +915,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "94,991.14"
+    "Trades": "87,341.14"
   },
   "Alonissos Isles": {
     "Nations": "Alonissos Isles",
@@ -1875,7 +1875,7 @@
     },
     "Trade 2": {
       "Value": "Goldmongers",
-      "Trade 2 Value": "11,730.00"
+      "Trade 2 Value": "4,080.00"
     },
     "Trade 3": {
       "Value": "Opolst Eredas",
@@ -1935,7 +1935,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "79,652.14"
+    "Trades": "72,002.14"
   },
   "Audgunn": {
     "Nations": "Audgunn",
@@ -4029,7 +4029,7 @@
     },
     "Trade 5": {
       "Value": "Goldmongers",
-      "Trade 5 Value": "11,730.00"
+      "Trade 5 Value": "4,080.00"
     },
     "Trade 6": {
       "Value": "Lohiida Dathinaal",
@@ -4077,7 +4077,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "71,532.69"
+    "Trades": "63,882.69"
   },
   "Cóchua Kingdom": {
     "Nations": "Cóchua Kingdom",
@@ -4186,19 +4186,19 @@
     "Nation Check": "Colmea",
     "Overlord": "Scaroasa",
     "Eco Vassals": "60,266.41",
-    "Eco Over.": "550,240.56",
+    "Eco Over.": "542,973.06",
     "Compare": "219,962.00",
-    "MP Vassals": "10.95%",
+    "MP Vassals": "11.10%",
     "MP Over.": "7,033.00",
     "20% Total": "3.20%",
-    "Vassal Type": "2.83%",
+    "Vassal Type": "2.86%",
     "": "0.00%",
     "L. Desire": "Scaroasa Nonprovince",
     "Base": "1.00",
-    "Comparison": "5.66%",
-    "Individual": "5.66%",
-    "Friend/Rival": "2.83%",
-    "Taxes": "2.83%",
+    "Comparison": "5.72%",
+    "Individual": "5.72%",
+    "Friend/Rival": "2.86%",
+    "Taxes": "2.86%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -5257,7 +5257,7 @@
     },
     "Trade 6": {
       "Value": "Goldmongers",
-      "Trade 6 Value": "11,730.00"
+      "Trade 6 Value": "4,080.00"
     },
     "Trade 7": {
       "Value": "Talask of Aithcra",
@@ -5301,7 +5301,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "209,139.83"
+    "Trades": "201,489.83"
   },
   "Ducat Flumine": {
     "Nations": "Ducat Flumine",
@@ -6022,19 +6022,19 @@
     "Nation Check": "Etolian Dimokratia",
     "Overlord": "Drionn Galith",
     "Eco Vassals": "537,691.83",
-    "Eco Over.": "788,036.53",
+    "Eco Over.": "780,769.03",
     "Compare": "257,535.00",
-    "MP Vassals": "68.23%",
+    "MP Vassals": "68.87%",
     "MP Over.": "279,386.00",
     "20% Total": "108.48%",
-    "Vassal Type": "35.34%",
+    "Vassal Type": "35.47%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "0.25",
-    "Comparison": "49.63%",
-    "Individual": "49.63%",
-    "Friend/Rival": "35.34%",
-    "Taxes": "5.12%",
+    "Comparison": "49.77%",
+    "Individual": "49.77%",
+    "Friend/Rival": "35.47%",
+    "Taxes": "5.14%",
     "Indep War?": "6.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -6940,7 +6940,7 @@
     "Nation Check": "Frijkland",
     "Overlord": "Svetograd",
     "Eco Vassals": "0.00",
-    "Eco Over.": "738,884.49",
+    "Eco Over.": "733,146.99",
     "Compare": "304,322.00",
     "MP Vassals": "0.00%",
     "MP Over.": "0.00",
@@ -7246,19 +7246,19 @@
     "Nation Check": "Glasrhaidd Republic",
     "Overlord": "Drionn Galith",
     "Eco Vassals": "537,691.83",
-    "Eco Over.": "788,036.53",
+    "Eco Over.": "780,769.03",
     "Compare": "257,535.00",
-    "MP Vassals": "68.23%",
+    "MP Vassals": "68.87%",
     "MP Over.": "279,386.00",
     "20% Total": "108.48%",
-    "Vassal Type": "35.34%",
+    "Vassal Type": "35.47%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "63.50%",
-    "Individual": "63.50%",
-    "Friend/Rival": "35.34%",
-    "Taxes": "10.65%",
+    "Comparison": "63.66%",
+    "Individual": "63.66%",
+    "Friend/Rival": "35.47%",
+    "Taxes": "10.69%",
     "Indep War?": "20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -12549,20 +12549,20 @@
     "Nations": "Kivav'v'Syyrhuus",
     "Nation Check": "Kivav'v'Syyrhuus",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "964,070.48",
-    "Eco Over.": "1,653,329.16",
+    "Eco Vassals": "954,507.98",
+    "Eco Over.": "1,646,061.66",
     "Compare": "722,131.00",
-    "MP Vassals": "58.31%",
+    "MP Vassals": "57.99%",
     "MP Over.": "340,508.00",
     "20% Total": "47.15%",
-    "Vassal Type": "21.09%",
+    "Vassal Type": "21.03%",
     "": "0.00%",
     "L. Desire": "Kranicvak Nixond Nonprovince",
     "Base": "1.00",
-    "Comparison": "45.16%",
-    "Individual": "45.16%",
-    "Friend/Rival": "21.09%",
-    "Taxes": "6.57%",
+    "Comparison": "45.11%",
+    "Individual": "45.11%",
+    "Friend/Rival": "21.03%",
+    "Taxes": "6.59%",
     "Indep War?": "2.50%",
     "Autonomy": "",
     "Threshold": "",
@@ -12833,7 +12833,7 @@
     },
     "Trade 13": {
       "Value": "Goldmongers",
-      "Trade 13 Value": "11,730.00"
+      "Trade 13 Value": "4,080.00"
     },
     "Trade 14": {
       "Value": "Ceridwyn Confederation",
@@ -12849,7 +12849,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "230,690.56"
+    "Trades": "223,040.56"
   },
   "Kycerian Dominion": {
     "Nations": "Kycerian Dominion",
@@ -13519,7 +13519,7 @@
     },
     "Trade 6": {
       "Value": "Goldmongers",
-      "Trade 6 Value": "11,730.00"
+      "Trade 6 Value": "4,080.00"
     },
     "Trade 7": {
       "Value": "Scaroasa",
@@ -13563,7 +13563,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "98,306.24"
+    "Trades": "90,656.24"
   },
   "Lowy Combine": {
     "Nations": "Lowy Combine",
@@ -16630,19 +16630,19 @@
     "Nation Check": "Opolst Eredas",
     "Overlord": "Ashdayn",
     "Eco Vassals": "91,486.69",
-    "Eco Over.": "504,242.75",
+    "Eco Over.": "496,210.25",
     "Compare": "228,316.00",
-    "MP Vassals": "18.14%",
+    "MP Vassals": "18.44%",
     "MP Over.": "39,620.00",
     "20% Total": "17.35%",
-    "Vassal Type": "7.10%",
+    "Vassal Type": "7.16%",
     "": "0.00%",
     "L. Desire": "Ashdayn Nonprovince",
     "Base": "1.00",
-    "Comparison": "14.20%",
-    "Individual": "14.20%",
-    "Friend/Rival": "7.10%",
-    "Taxes": "7.10%",
+    "Comparison": "14.32%",
+    "Individual": "14.32%",
+    "Friend/Rival": "7.16%",
+    "Taxes": "7.16%",
     "Indep War?": "5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -16834,19 +16834,19 @@
     "Nation Check": "Third Aeserian State",
     "Overlord": "Drionn Galith",
     "Eco Vassals": "537,691.83",
-    "Eco Over.": "788,036.53",
+    "Eco Over.": "780,769.03",
     "Compare": "257,535.00",
-    "MP Vassals": "68.23%",
+    "MP Vassals": "68.87%",
     "MP Over.": "279,386.00",
     "20% Total": "108.48%",
-    "Vassal Type": "35.34%",
+    "Vassal Type": "35.47%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "0.25",
-    "Comparison": "43.50%",
-    "Individual": "43.50%",
-    "Friend/Rival": "35.34%",
-    "Taxes": "8.99%",
+    "Comparison": "43.65%",
+    "Individual": "43.65%",
+    "Friend/Rival": "35.47%",
+    "Taxes": "9.01%",
     "Indep War?": "1.67%",
     "Autonomy": "",
     "Threshold": "",
@@ -17139,20 +17139,20 @@
     "Nations": "Picos Argent",
     "Nation Check": "Picos Argent",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "964,070.48",
-    "Eco Over.": "1,653,329.16",
+    "Eco Vassals": "954,507.98",
+    "Eco Over.": "1,646,061.66",
     "Compare": "722,131.00",
-    "MP Vassals": "58.31%",
+    "MP Vassals": "57.99%",
     "MP Over.": "340,508.00",
     "20% Total": "47.15%",
-    "Vassal Type": "21.09%",
+    "Vassal Type": "21.03%",
     "": "0.00%",
     "L. Desire": "Kranicvak Nixond Nonprovince",
     "Base": "1.00",
-    "Comparison": "14.63%",
-    "Individual": "14.63%",
-    "Friend/Rival": "21.09%",
-    "Taxes": "6.04%",
+    "Comparison": "14.58%",
+    "Individual": "14.58%",
+    "Friend/Rival": "21.03%",
+    "Taxes": "6.05%",
     "Indep War?": "0.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -19541,7 +19541,7 @@
     },
     "Trade 7": {
       "Value": "Goldmongers",
-      "Trade 7 Value": "11,730.00"
+      "Trade 7 Value": "4,080.00"
     },
     "Trade 8": {
       "Value": "Tetóth Kegeth",
@@ -19581,7 +19581,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "98,569.31"
+    "Trades": "90,919.31"
   },
   "Schizaria": {
     "Nations": "Schizaria",
@@ -20549,7 +20549,7 @@
     },
     "Trade 4": {
       "Value": "Goldmongers",
-      "Trade 4 Value": "11,730.00"
+      "Trade 4 Value": "4,080.00"
     },
     "Trade 5": {
       "Value": "Zalmoxia",
@@ -20601,7 +20601,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "218,358.49"
+    "Trades": "210,708.49"
   },
   "Tala Htote": {
     "Nations": "Tala Htote",
@@ -20710,19 +20710,19 @@
     "Nation Check": "Talask of Aithcra",
     "Overlord": "Drionn Galith",
     "Eco Vassals": "537,691.83",
-    "Eco Over.": "788,036.53",
+    "Eco Over.": "780,769.03",
     "Compare": "257,535.00",
-    "MP Vassals": "68.23%",
+    "MP Vassals": "68.87%",
     "MP Over.": "279,386.00",
     "20% Total": "108.48%",
-    "Vassal Type": "35.34%",
+    "Vassal Type": "35.47%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "70.44%",
-    "Individual": "70.44%",
-    "Friend/Rival": "35.34%",
-    "Taxes": "5.10%",
+    "Comparison": "70.59%",
+    "Individual": "70.59%",
+    "Friend/Rival": "35.47%",
+    "Taxes": "5.12%",
     "Indep War?": "20.00%",
     "Autonomy": "10%",
     "Threshold": "",
@@ -20812,19 +20812,19 @@
     "Nation Check": "Talask of Saomair",
     "Overlord": "Drionn Galith",
     "Eco Vassals": "537,691.83",
-    "Eco Over.": "788,036.53",
+    "Eco Over.": "780,769.03",
     "Compare": "257,535.00",
-    "MP Vassals": "68.23%",
+    "MP Vassals": "68.87%",
     "MP Over.": "279,386.00",
     "20% Total": "108.48%",
-    "Vassal Type": "35.34%",
+    "Vassal Type": "35.47%",
     "": "0.00%",
     "L. Desire": "Drionn Galith Nonprovince",
     "Base": "1.00",
-    "Comparison": "70.82%",
-    "Individual": "70.82%",
-    "Friend/Rival": "35.34%",
-    "Taxes": "5.48%",
+    "Comparison": "70.98%",
+    "Individual": "70.98%",
+    "Friend/Rival": "35.47%",
+    "Taxes": "5.51%",
     "Indep War?": "20.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -21369,7 +21369,7 @@
     },
     "Trade 5": {
       "Value": "Goldmongers",
-      "Trade 5 Value": "11,730.00"
+      "Trade 5 Value": "4,080.00"
     },
     "Trade 6": {
       "Value": "Scaroasa",
@@ -21417,7 +21417,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "121,253.44"
+    "Trades": "113,603.44"
   },
   "The Aislings": {
     "Nations": "The Aislings",
@@ -22953,20 +22953,20 @@
     "Nations": "Theocratia Artania",
     "Nation Check": "Theocratia Artania",
     "Overlord": "Kranicvak Nixond",
-    "Eco Vassals": "964,070.48",
-    "Eco Over.": "1,653,329.16",
+    "Eco Vassals": "954,507.98",
+    "Eco Over.": "1,646,061.66",
     "Compare": "722,131.00",
-    "MP Vassals": "58.31%",
+    "MP Vassals": "57.99%",
     "MP Over.": "340,508.00",
     "20% Total": "47.15%",
-    "Vassal Type": "21.09%",
+    "Vassal Type": "21.03%",
     "": "0.00%",
     "L. Desire": "Kranicvak Nixond Nonprovince",
     "Base": "1.00",
-    "Comparison": "22.08%",
-    "Individual": "22.08%",
-    "Friend/Rival": "21.09%",
-    "Taxes": "8.49%",
+    "Comparison": "21.92%",
+    "Individual": "21.92%",
+    "Friend/Rival": "21.03%",
+    "Taxes": "8.39%",
     "Indep War?": "-5.00%",
     "Autonomy": "",
     "Threshold": "",
@@ -23009,7 +23009,7 @@
     },
     "Trade 7": {
       "Value": "Goldmongers",
-      "Trade 7 Value": "11,730.00"
+      "Trade 7 Value": "4,080.00"
     },
     "Trade 8": {
       "Value": "Drionn Galith",
@@ -23049,7 +23049,7 @@
     "NAPs": "",
     "Def. Pacts": "",
     "Mil. Pacts": "",
-    "Trades": "96,679.98"
+    "Trades": "89,029.98"
   },
   "There Be Dwarves": {
     "Nations": "There Be Dwarves",
